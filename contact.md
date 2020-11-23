@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Contact us
-permalink: /z_contact/
+permalink: /contact/
 ---
 
 **Hello, epigraphy-world!**
 
-You can contact us at <a href = "mailto: abc@example.com">Epigraphy.info email</a>. 
+You can contact us at <a href = "mailto: info@epigraphy.info">Epigraphy.info email</a>. 
 
 ---
 
