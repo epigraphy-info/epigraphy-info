@@ -1,14 +1,23 @@
 ---
 layout: page
 title: Contact us
-permalink: /contact/
+permalink: /z_contact/
 ---
 
 **Hello, epigraphy-world!**
 
 You can contact us at <a href = "mailto: abc@example.com">Epigraphy.info email</a>. 
-You can also follow us at Facebook, Twitter , Instagram.
 
+---
+
+#### Social Media
+
+You can also follow us at [Facebook](https://www.facebook.com/epigraphy.info/), [Twitter](https://twitter.com/epigraphy_info), [Instagram](https://www.instagram.com/epigraphy.info/).
+
+
+<div align="center">
+<a class="twitter-timeline" href="https://twitter.com/epigraphy_info?ref_src=twsrc%5Etfw">Tweets by epigraphy_info</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 ---
 
 <!--Placeholder for community calendar -->
@@ -18,15 +27,6 @@ This is a public Epigraphy.info community calendar where you can find our forthc
 
 <iframe src="provide link" style="border: 0" width="800" height="600" frameborder="0" scrolling="yes"></iframe>
 
----
-
-#### Social Media
-
-You can follow us either on [Twitter](https://twitter.com/epigraphy_info).
-
-<div align="center">
-<a class="twitter-timeline" href="https://twitter.com/epigraphy_info?ref_src=twsrc%5Etfw">Tweets by epigraphy_info</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
 ---
 
 #### The technology behind the scene

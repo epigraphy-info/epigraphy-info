@@ -36,12 +36,13 @@ $red:	#c0392b;				// Pomegranate
 $gray: #7f8c8d;				// Asbestos
 // Even more colors
 $bc-red: #bc0000;
+$epigraphy-green: #009688;
 
 // Font Colors
 $base-background-color: #fff;
 $base-font-color: $dark-gray;
-$action-color: $blue;
-$highlight-color: tint($action-color, 33%);
+$action-color: $epigraphy-green;
+$highlight-color: tint($epigraphy-green, 33%);
 
 // Border
 $base-border-color: $light-gray;
