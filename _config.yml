@@ -11,8 +11,8 @@ exclude:
 # Site settings
 title: "Epigraphy.info"
 subtitle: "A Collaborative Environment for Digital Epigraphy"
-email: petra.hermankova@cas.au.dk (interim)
-name: Petra Hermankova
+email: info@epigraphy.info
+name: Petra Hermankova (creator)
 description: >
   Epigraphy.info is an international open community pursuing a collaborative environment for digital epigraphy, which facilitates scholarly communication and interaction.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "/epigraphy-info" # the subpath of your site, e.g. /blog/
 url: "http://petrifiedvoices.github.io/epigraphy-info" # the base hostname & protocol for your site
-cover: "/assets/logo.jpg" #
+cover: "/assets/Header.psd" #
 logo: "/assets/logo.jpg"
 
 # Build settings
@@ -75,20 +75,20 @@ social:
     username: epigraphy-info
     url: https://github.com/epigraphy-info
     desc: Fork us on GitHub
-    share: false
-
-  - name: epigraphy_info
-    icon: twitter
-    username: 
-    url: 
-    desc: Follow me on Twitter
     share: true
 
-  - name: LinkedIn
-    icon: linkedin
-    username: 
-    url: 
-    desc: Connect with me on LinkedIn
+  - name: Twitter
+    icon: twitter
+    username: epigraphy_info
+    url: https://twitter.com/epigraphy_info
+    desc: Follow us on Twitter
+    share: true
+
+  - name: Facebook
+    icon: facebook
+    username: epigraphy.info
+    url: https://facebook.com/epigraphy.info/
+    desc: Follow us on Facebook
     share: true
 
   - name: Google+
@@ -107,9 +107,9 @@ social:
 
   - name: Instagram
     icon: instagram
-    username:
-    url:
-    desc: Follow me on Instagram
+    username: epigraphy.info
+    url: https://www.instagram.com/epigraphy.info/
+    desc: Follow us on Instagram
     share: false
 
   - name: Pinterest
