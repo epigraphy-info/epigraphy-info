@@ -11,7 +11,7 @@ exclude:
 # Site settings
 title: "Epigraphy.info"
 subtitle: "A Collaborative Environment for Digital Epigraphy"
-email: petra.hermankova@cas.au.dk
+email: petra.hermankova@cas.au.dk (interim)
 name: Petra Hermankova
 description: >
   Epigraphy.info is an international open community pursuing a collaborative environment for digital epigraphy, which facilitates scholarly communication and interaction.
@@ -20,8 +20,8 @@ description: >
 # root of your server.
 baseurl: "/epigraphy-info" # the subpath of your site, e.g. /blog/
 url: "http://petrifiedvoices.github.io/epigraphy-info" # the base hostname & protocol for your site
-cover: "/assets/Epigraphy_info_banner.JPG" #
-logo: "/assets/logo.png"
+cover: "/assets/logo.jpg" #
+logo: "/assets/logo.jpg"
 
 # Build settings
 markdown: kramdown
