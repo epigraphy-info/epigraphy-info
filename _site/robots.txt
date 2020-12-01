@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/petrifiedvoices/sitemap.xml
+Sitemap: http://localhost:4000/epigraphy-info/sitemap.xml
