@@ -10,34 +10,35 @@ published: true
 # Epigraphy.info Workshop II
 
 UPDATE (12/04/2018):
-The second epigraphy.info workshop in Zadar will be taking place from Friday, Friday, December 14th – Sunday, December 16th, immediately after the "Linked Pasts IV" conference in Mainz.
-
-The programme has been published at http://epigraphy.info/program2.html.
-
-[Report of second epigraphy.info workshop](http://doi.org/10.11588/heidok.00026330)
-
-[Google Doc for notes taken during workshop](https://docs.google.com/document/d/1lVrzkASteBc-H1Ocy_cdcEM67FO9RcPM-j25-925yc8/edit)
-
-Venue: Zadar, University of Zadar - Department of History, Ruđera Boškovića 5
-
-The Steering Committee
-(Anamarija Kurilić, Francisca Feraudi-Gruénais, Julia Lougovaya-Ast)
+The second epigraphy.info workshop in Zadar will be taking place from Friday, Friday, December 14th – Sunday, December 16th, immediately after the "Linked Pasts IV" conference in Mainz. Venue: Zadar, University of Zadar - Department of History, Ruđera Boškovića 5
 
 ---
 
-UPDATE (9/6/2018):
+* [Programme of the workshop](../../documents/programme_epigraphy-info-ws_ZD_14-16-12-2018.pdf)
+
+* [Report of second epigraphy.info workshop](http://doi.org/10.11588/heidok.00026330)
+
+* [Collaborative Google Docs ](https://docs.google.com/document/d/1lVrzkASteBc-H1Ocy_cdcEM67FO9RcPM-j25-925yc8/edit)
+
+* [Workshop slides](../../documents/workshop_2_slides)
+
+
+
+---
+
+**UPDATE (9/6/2018)**
 New dates for the epigraphy.info II workshop in Zadar are set to Friday, December 14th – Sunday, December 16th.
 
 We kindly ask you to visit the [Doodle Poll](https://doodle.com/poll/gmmuqbvpsrtwwqgc) and register either your attendance or one of the other two options by September 24th.
 
-Steering Committee
+*Steering Committee*
 
 ---
 
-UPDATE (8/8/2018): POSTPONEMENT of the second epigraphy.info workshop
+** UPDATE (8/8/2018)** POSTPONEMENT of the second epigraphy.info workshop
 Due to unforeseen circumstances, the Second epigraphy.info workshop scheduled for September 19-21 had to be postponed. The new dates will be announced shortly.
 
-Steering Committee
+*Steering Committee*
 
 ---
 
@@ -55,7 +56,8 @@ The Preliminary programme can be found here. Your input is very welcome, so, ple
 
 ### Travel and accommodation
 
-Travel
+**Travel**
+
 The best way to travel to and from Zadar is by plane and/or by bus; unfortunately, there are no trains leading to Zadar, but there are many buses from Zagreb to Zadar, and the drive takes approximately 3 and a half hours.
 There are some direct flights to Zadar either by major airline companies or the low-budget ones; however, most of them usually fly on certain days only (e.g. Mondays and Fridays) so perhaps you won't find them convenient; thus it would perhaps be best to fly to Zagreb (which has more direct lines) and then proceed by bus.
 Bus lines are quite frequent and you can find timetables at
@@ -72,7 +74,7 @@ During the second half of September many hotels and hostels are still booked sol
 
 In addition, we are glad to inform you that the University could provide a subsidized accommodation (120 kn [app. 16 €] per night per person) at the University dormitory (either in the facilities at Ul. Dr. Franje Tuđmana 24 d or at Trg kneza Višeslava 9) for a maximum of four persons (two two-bed apartments) – if they won't mind sharing apartments – so we kindly ask those who might be interested in that option to send an application to the Steering committee members together with a brief explanation of their request. The dead-line for the application is August 6th.
 
-
+---
 
 # Programme
 
@@ -169,17 +171,5 @@ b) Global search (decision about functional requirements)|
 |"what to do next?"|
 
 
-\|Lunch Buffet (provided by the organisers)
+\* Lunch Buffet (provided by the organisers)
 
-
-# Workshop protocols
-
-[Download Programme as PDF](../documents/programme_epigraphy-info-ws_ZD_14-16-12-2018.pdf)
-
-[Report of second epigraphy.info workshop](http://doi.org/10.11588/heidok.00026330)
-
-[Workshop Notes GoogleDoc](https://docs.google.com/document/d/1lVrzkASteBc-H1Ocy_cdcEM67FO9RcPM-j25-925yc8/edit)
-
-[Workshop slides](../documents/workshop_2_slides)
-
-[Slides](../documents/workshop_2_slides)

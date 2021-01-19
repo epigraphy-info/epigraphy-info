@@ -9,17 +9,26 @@ published: true
 
 # Epigraphy.info Workshop III
 
-The third epigraphy.info workshop in Vienna will be taking place from Thursday May, 30th – Saturday June, 1st.
+The third epigraphy.info workshop in Vienna will be taking place from Thursday May, 30th – Saturday June, 1st. 
 
-In order to register for the workshop, we kindly ask you to fill out this [doodle list until 28th February](https://doodle.com/poll/7g8grfbritf7bzwn).
+---
 
 * [Programme of the Workshop](../documents/workshop_3_programme.pdf)
 
-* [Google Doc](https://docs.google.com/document/d/1LwapkTiAyGbMW5U79uQ2dmxDPM3K51eTxDV7qo6BrP8/edit?usp=sharing)
-
 * [Report on the Third Epigraphy.info Workshop Vienna](https://doi.org/10.11588/heidok.00027928)
 
+* [Collaborative Google Docs](https://docs.google.com/document/d/1LwapkTiAyGbMW5U79uQ2dmxDPM3K51eTxDV7qo6BrP8/edit?usp=sharing)
+
+* [Slides from the workshop](../../documents/workshop_3_slides/)
+---
+
+
+## Registration
+
+In order to register for the workshop, we kindly ask you to fill out this doodle list until 28th February [https://doodle.com/poll/7g8grfbritf7bzwn](https://doodle.com/poll/7g8grfbritf7bzwn).
+
 ## EpiDoc & technical training:
+
 The Vienna workshop will be preceded by 3 ½ days of training, which aims at giving an orientation on EpiDoc, XML, DTS etc.
 The training will take place from May, 27th, to the morning of May, 30th 2019. In the afternoon of the same day the epigraphy.info workshop will start.
 Please note that the room provided by the University of Vienna for the training contains max. 24 persons. Therefore, we kindly ask you to register as soon as possible by filling out the doodle list until [28th February](https://doodle.com/poll/7g8grfbritf7bzwn)
@@ -29,6 +38,8 @@ Please note that the room provided by the University of Vienna for the training 
 ## Venue
 
 The technical training and the epigraphy.info workshop will take place in different buildings of the [University of Vienna](https://www.univie.ac.at/fileadmin/user_upload/startseite/Dokumente/Umgebungsplan2014.pdf).
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2880.213820883347!2d16.35785635136637!3d48.21318547912756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07bdebd3d9dd%3A0xd7f665432f73f3c4!2sUniversity%20of%20Vienna!5e1!3m2!1sen!2sdk!4v1611065113180!5m2!1sen!2sdk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 * Technical Training 27th - 29th May
 Erika-Weinzierl-Saal
@@ -81,6 +92,7 @@ Following this [link](https://event.univie.ac.at/kongressservice/hotelreservieru
 Vienna Tourism
 If you are planning to visit Vienna, here you find some useful information for [sightseeing](https://www.wien.info/en) and [city-walks](https://www.city-walks.info/Vienna/Attractions.html).
 
+--- 
 
 # Programme
 
@@ -169,18 +181,4 @@ If you are planning to visit Vienna, here you find some useful information for [
 * What are the next steps that we should take? General discussion.
 * Decision on who will represent epigraphy.info during the [NACGLE 2020](https://www.asgle.org/nacgle-2020-washington-d-c/) and/or whether it will coincide with (one of) the next regular epigraphy.info workshop(s).
 * Decision on where the next epigraphy.info meeting should take place.
-
-
-
-
-
-# Workshop protocols
-
-[Download Programme as PDF](../documents/workshop_3_programme.pdf)
-
-[Report of second epigraphy.info workshop](https://doi.org/10.11588/heidok.00027928)
-
-[Workshop Notes GoogleDoc](https://docs.google.com/document/d/1LwapkTiAyGbMW5U79uQ2dmxDPM3K51eTxDV7qo6BrP8/edit?usp=sharing)
-
-[Workshop slides](../documents/workshop_2_slides)
 

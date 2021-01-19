@@ -18,7 +18,7 @@ description: >
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/epigraphy-info" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://petrifiedvoices.github.io/epigraphy-info" # the base hostname & protocol for your site
 cover: "/assets/Header_Facebook_Code_only.png" #
 logo: "/assets/logo.jpg"
@@ -189,3 +189,29 @@ protocols:
     os_repo: "https://github.com/petrfiedvoices/epigraphy-info/"
     os_rcs_type: "git"
     os_src: "git@github.com:petrifiedvoices/epigraphy-info.git"
+
+
+
+
+navigation:
+- root: Epigraphy.info
+  url: /index.html
+  icon: "/assets/logo.jpg"
+
+- root: Epigraphy.info
+  url: #
+  icon: "/assets/logo.jpg"
+  first-level:
+    - text: Contact
+      url: meetings.md
+      second-level:
+        - text: Workshop 1
+          url: meetings/workshop_1.md
+    - text: Contact
+      url: contact.md
+
+
+
+
+
+

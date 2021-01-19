@@ -1,7 +1,7 @@
 @import url(//fonts.googleapis.com/css?family=Roboto+Slab:400,700,300|Roboto:400,700,300|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300);
-p { padding-right: 50px; padding-left: 50px; }
+p { padding-right: 15px; padding-left: 15px; }
 
-ul { margin: 2em; }
+ul { margin: 0.5em; }
 
 li a, .dropbtn { display: inline-block; color: #009688; text-align: center; padding: 3px 3px; text-decoration: none; }
 
