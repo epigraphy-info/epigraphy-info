@@ -20,6 +20,7 @@ The third epigraphy.info workshop in Vienna will be taking place from Thursday M
 * [Collaborative Google Docs](https://docs.google.com/document/d/1LwapkTiAyGbMW5U79uQ2dmxDPM3K51eTxDV7qo6BrP8/edit?usp=sharing)
 
 * [Slides from the workshop](../../documents/workshop_3_slides/)
+
 ---
 
 

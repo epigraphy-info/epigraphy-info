@@ -10,7 +10,7 @@ published: true
 # Epigraphy.info Workshop II
 
 UPDATE (12/04/2018):
-The second epigraphy.info workshop in Zadar will be taking place from Friday, Friday, December 14th – Sunday, December 16th, immediately after the "Linked Pasts IV" conference in Mainz. Venue: Zadar, University of Zadar - Department of History, Ruđera Boškovića 5
+The second epigraphy.info workshop in Zadar (University of Zadar) will be taking place from Friday, Friday, December 14th – Sunday, December 16th, immediately after the "Linked Pasts IV" conference in Mainz. 
 
 ---
 
@@ -45,6 +45,8 @@ Due to unforeseen circumstances, the Second epigraphy.info workshop scheduled fo
 ## Zadar, 19-21 September 2018
 
 The dates for the Second workshop Epigraphy.info have been fixed for 19-21 September 2018 at the University of Zadar, at the Department of History, at the address Ruđera Boškovića 5. It's placed in the historical Zadar old town, so called Poluotok (Engl. Peninsula).
+
+* Venue:* Zadar, University of Zadar - Department of History, Ruđera Boškovića 5
 
 ### Attendance
 
