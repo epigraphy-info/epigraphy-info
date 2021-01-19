@@ -3,6 +3,64 @@
 ---
 @charset "utf-8";
 
+p {
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+
+ul{
+    margin:2em;
+}
+
+////////////////////////////////// playing around with navigation dropdown design
+
+
+li a, .dropbtn {
+  display: inline-block;
+  color: #009688;
+  text-align: center;
+  padding: 3px 3px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: #009688;
+  color: #ffffff;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////////////////////////////////////////////////
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 // Includes Bourbon, Neat, and Bitters (thanks, thoughtbot!)
 @import

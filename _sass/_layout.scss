@@ -71,6 +71,7 @@ pre code.hljs {
 
 .site-header-container, .post-header-container {
 	width: 100%;
+	
 	text-align: center;
 	&.has-cover {
 		color: $white;
@@ -100,8 +101,8 @@ pre code.hljs {
 *	Header
 */
 .navigation {
-	box-shadow: 0 2px $highlight-color;
-	padding: 0 1em;
+	box-shadow: 0 3px $highlight-color;
+	padding: 0 2em;
 	margin: 0;
 	/*
 	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
@@ -111,7 +112,7 @@ pre code.hljs {
     display: block;
     float: right;
     margin: 0;
-    font-size: 1.5em;
+    font-size: 1.8em;
     padding-top: 0.5em;
     @include media ($tablet) {
       display: none;
@@ -125,25 +126,26 @@ pre code.hljs {
   }
   .logo {
     float: left;
-    height: 4em;
+    height: 0em;
     @include media ($tablet) {
     	padding-left: $em-base;
     }
     img {
       max-height: 2.5em;
-      margin-top: 0.75em;
-      padding-right: 1em;
+      margin-top: 0.8em;
+      padding-right: 0em;
+      
     }
     span {
-    	font-size: 1.25em;
+    	font-size: 1.4em;
     }
   }
   nav {
     float: none;
-    padding: 1.25em 0;
+    padding: 1em 0;
     @include media ($tablet) {
       float: right;
-      line-height: 1.5em;
+      line-height: 1.8em;
     }
   }
   ul.navigation-menu {
@@ -162,12 +164,13 @@ pre code.hljs {
       display: block;
     }
   }
+
   // Nav items
   ul li.nav-link {
     display: block;
-    text-align: right;
+    text-align: center;
     width: 100%;
-    padding: 0.25em 0;
+    padding: 0.3em 0;
     @include media ($tablet) {
       background: transparent;
       display: inline;

@@ -8,7 +8,7 @@ permalink: /contact/
 
 You can reach all members of the Steering Committee at <a href = "mailto: info@epigraphy.info">Epigraphy.info email</a>. 
 
-Epigraphy.info Google Group: [https://groups.google.com/g/epigraphyinfo](https://groups.google.com/g/epigraphyinfo)
+Or you can join Epigraphy.info Google Group: [https://groups.google.com/g/epigraphyinfo](https://groups.google.com/g/epigraphyinfo)
 
 Webmaster: <a href = "mailto: petra.janouchova@gmail.com">Petra Heřmánková</a>.
 
@@ -25,9 +25,9 @@ You can follow us at [Facebook](https://www.facebook.com/epigraphy.info/), [Twit
 <ul>
   <li>Chiara Cenati, University of Vienna (Facebook, Twitter)</li>
   <li>Christina de la Escosura, University of Zaragoza (Twitter)</li>
-  <li>Sergio España-Chamorro, University [TBD] (Instagram)</li>
-  <li>David Espinosa, University [TBD] (Twitter)</li>
-  <li>Kim H. Haegermann, University [TBD] (Facebook)</li>
+  <li>Sergio España-Chamorro, CNRS Bordeaux Montaigne (Instagram)</li>
+  <li>David Espinosa, University of Oviedo (Twitter)</li>
+  <li>Kim H. Haegermann, [TBD] (Facebook)</li>
   <li>Petra Heřmánková, Aarhus University (website, Twitter)</li>
   <li>Tina Hobel, University of Vienna (graphics, Facebook, Twitter)</li>
   <li>Anja Ragolič, Archaeological Institute Ljublana (Facebook)</li>
@@ -35,7 +35,7 @@ You can follow us at [Facebook](https://www.facebook.com/epigraphy.info/), [Twit
   <li>Franziska Weise, Hamburg University (Facebook)</li>
 </ul>
 
-<!--
+<!-- Placeholder for image
  
 ![test image](https://github.com/petrifiedvoices/epigraphy-info/blob/main/assets/logo.jpg "Logo Title Text 1")
 
@@ -73,7 +73,7 @@ This is a public Epigraphy.info community calendar where you can find our forthc
 -->
 
 
-### The technology behind the scene
+#### The technology behind the scene
 
 We are using a custom Jekyll theme - Centrarium, made by [Ben Centra](https://github.com/bencentra). Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium). You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll).
 

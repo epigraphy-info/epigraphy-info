@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Workshop 2</title>
+  <meta name="description" content="Epigraphy.info is an international open community pursuing a collaborative environment for digital epigraphy, which facilitates scholarly communication and interaction.
+">
+  
+  <meta name="author" content="Petra Hermankova (creator)">
+  <meta name="copyright" content="&copy; Petra Hermankova (creator) 2021">
+  
+
+  <!-- External libraries -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/monokai-sublime.min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.0/openseadragon.min.js"></script>
+
+<!-- Remember to include jQuery :) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+
+<!-- jQuery Modal -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+
+  <!-- Favicon and other icons (made with http://www.favicon-generator.org/) -->
+  <link rel="shortcut icon" href="/epigraphy-info/assets/icons/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/epigraphy-info/assets/icons/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" sizes="57x57" href="/epigraphy-info/assets/icons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/epigraphy-info/assets/icons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/epigraphy-info/assets/icons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/epigraphy-info/assets/icons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/epigraphy-info/assets/icons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/epigraphy-info/assets/icons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/epigraphy-info/assets/icons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/epigraphy-info/assets/icons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/epigraphy-info/assets/icons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/epigraphy-info/assets/icons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/epigraphy-info/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/epigraphy-info/assets/icons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/epigraphy-info/assets/icons/favicon-16x16.png">
+  <link rel="manifest" href="/epigraphy-info/assets/icons/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/epigraphy-info/assets/icons/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  
+  <!-- Facebook OGP cards -->
+  <meta property="og:description" content="Epigraphy.info is an international open community pursuing a collaborative environment for digital epigraphy, which facilitates scholarly communication and interaction.
+" />
+  <meta property="og:url" content="http://localhost:4000" />
+  <meta property="og:site_name" content="Epigraphy.info" />
+  <meta property="og:title" content="Workshop 2" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="http://localhost:4000/epigraphy-info/assets/logo.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="612" />
+  <meta property="og:image:height" content="605" />
+  
+
+  
+  <!-- Twitter: card tags -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Workshop 2">
+  <meta name="twitter:description" content="Epigraphy.info is an international open community pursuing a collaborative environment for digital epigraphy, which facilitates scholarly communication and interaction.
+">
+  <meta name="twitter:image" content="http://localhost:4000/epigraphy-info/assets/logo.png">
+  <meta name="twitter:url" content="http://localhost:4000">
+  
+
+  
+
+  <!-- Site styles -->
+  <link rel="stylesheet" href="/epigraphy-info/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/epigraphy-info/meetings/workshop_2/">
+  <link rel="alternate" type="application/rss+xml" title="Epigraphy.info" href="http://localhost:4000/epigraphy-info/feed.xml" />
+</head>
+
+
+  <body>
+
+    <header class="navigation" role="banner">
+  <div class="navigation-wrapper">
+    <a href="/epigraphy-info/" class="logo">
+      
+      <img src="/epigraphy-info/assets/logo.jpg" alt="Epigraphy.info">
+      
+    </a>
+    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
+      <i class="fa fa-bars"></i>
+    </a>
+    <nav role="navigation">
+      <ul id="js-navigation-menu" class="navigation-menu show">
+        
+          
+          <li class="nav-link"><a href="/epigraphy-info/blog/">Blog</a>
+          
+        
+          
+          <li class="nav-link"><a href="/epigraphy-info/committee/">Committee</a>
+          
+        
+          
+          <li class="nav-link"><a href="/epigraphy-info/contact/">Contact</a>
+          
+        
+          
+          <li class="nav-link"><a href="/epigraphy-info/documents/">Documents</a>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+          <li class="nav-link"><a href="/epigraphy-info/meetings/">Meetings & Events</a>
+          
+        
+          
+          <li class="nav-link"><a href="/epigraphy-info/working_groups/">Working Groups</a>
+          
+        
+          
+          <li class="nav-link"><a href="/epigraphy-info/meetings/workshop_1/">Workshop 1</a>
+          
+        
+          
+          <li class="nav-link"><a href="/epigraphy-info/meetings/workshop_2/">Workshop 2</a>
+          
+        
+          
+          <li class="nav-link"><a href="/epigraphy-info/meetings/workshop_3/">Workshop 3</a>
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+    </nav>
+  </div>
+</header>
+
+
+    <div class="page-content">
+        <div class="wrapper">
+<div class="page">
+
+  <header class="post-header">
+    <h1 class="post-title">Workshop 2</h1>
+  </header>
+
+  <span class="page-divider">
+  <span class="one"></span>
+  <span class="two"></span>
+</span>
+
+
+  <article class="post-content">
+    <h1 id="epigraphyinfo-workshop-ii">Epigraphy.info Workshop II</h1>
+
+<p>UPDATE (12/04/2018):
+The second epigraphy.info workshop in Zadar will be taking place from Friday, Friday, December 14th – Sunday, December 16th, immediately after the “Linked Pasts IV” conference in Mainz.</p>
+
+<p>The programme has been published at http://epigraphy.info/program2.html.</p>
+
+<p><a href="http://doi.org/10.11588/heidok.00026330">Report of second epigraphy.info workshop</a></p>
+
+<p><a href="https://docs.google.com/document/d/1lVrzkASteBc-H1Ocy_cdcEM67FO9RcPM-j25-925yc8/edit">Google Doc for notes taken during workshop</a></p>
+
+<p>Venue: Zadar, University of Zadar - Department of History, Ruđera Boškovića 5</p>
+
+<p>The Steering Committee
+(Anamarija Kurilić, Francisca Feraudi-Gruénais, Julia Lougovaya-Ast)</p>
+
+<hr />
+
+<p>UPDATE (9/6/2018):
+New dates for the epigraphy.info II workshop in Zadar are set to Friday, December 14th – Sunday, December 16th.</p>
+
+<p>We kindly ask you to visit the <a href="https://doodle.com/poll/gmmuqbvpsrtwwqgc">Doodle Poll</a> and register either your attendance or one of the other two options by September 24th.</p>
+
+<p>Steering Committee</p>
+
+<hr />
+
+<p>UPDATE (8/8/2018): POSTPONEMENT of the second epigraphy.info workshop
+Due to unforeseen circumstances, the Second epigraphy.info workshop scheduled for September 19-21 had to be postponed. The new dates will be announced shortly.</p>
+
+<p>Steering Committee</p>
+
+<hr />
+
+<h2 id="zadar-19-21-september-2018">Zadar, 19-21 September 2018</h2>
+
+<p>The dates for the Second workshop Epigraphy.info have been fixed for 19-21 September 2018 at the University of Zadar, at the Department of History, at the address Ruđera Boškovića 5. It’s placed in the historical Zadar old town, so called Poluotok (Engl. Peninsula).</p>
+
+<h3 id="attendance">Attendance</h3>
+
+<p>We kindly ask of you – if you haven’t already done it – to visit the <a href="https://doodle.com/poll/6c8t37b5e9dqxea6">Doodle Poll</a> and register either your arrival or one of the other two options. The dead-line has been prolonged till the July 31st.</p>
+
+<h3 id="preliminary-programme">Preliminary programme</h3>
+
+<p>The Preliminary programme can be found here. Your input is very welcome, so, please, feel free to send us your suggestions (the deadline for suggestions is August 6th). As agreed in the first epigraphy.info workshop (see in detail in <a href="http://doi.org/10.11588/heidok.00024397">http://doi.org/10.11588/heidok.00024397</a> the main topic of this one should be the demonstration of a prototype web application of an editor and a search mechanism, but other issues will be addressed as well.</p>
+
+<h3 id="travel-and-accommodation">Travel and accommodation</h3>
+
+<p>Travel
+The best way to travel to and from Zadar is by plane and/or by bus; unfortunately, there are no trains leading to Zadar, but there are many buses from Zagreb to Zadar, and the drive takes approximately 3 and a half hours.
+There are some direct flights to Zadar either by major airline companies or the low-budget ones; however, most of them usually fly on certain days only (e.g. Mondays and Fridays) so perhaps you won’t find them convenient; thus it would perhaps be best to fly to Zagreb (which has more direct lines) and then proceed by bus.
+Bus lines are quite frequent and you can find timetables at</p>
+
+<p><a href="https://voznired.akz.hr/?lang=en">https://voznired.akz.hr/?lang=en</a> (for departures from Zagreb to Zadar)</p>
+
+<p><a href="http://www.liburnija-zadar.hr/linije.php?tip=4&amp;polaziste=01&amp;odrediste=Z+A+G+R+E+B&amp;lang=en">http://www.liburnija-zadar.hr/linije.php?tip=4&amp;polaziste=01&amp;odrediste=Z+A+G+R+E+B&amp;lang=en</a> (for departures from Zadar to Zagreb).</p>
+
+<p>You can also check the following companies: <a href="https://getbybus.com/hr/autobus-zagreb">https://getbybus.com/hr/autobus-zagreb</a> and <a href="https://www.flixbus.com">Flixbus</a>.</p>
+
+<h3 id="accommodation">Accommodation</h3>
+
+<p>During the second half of September many hotels and hostels are still booked solid or have only a few rooms left; however, there are plenty of excellent, good and decent apartments or other types of accommodation near the venue where one could find a place to stay (at a reasonable price) so we are positive that you would find a place of your pleasing; we recommend browsing booking.com (places near the University in the old town centre) and looking for places with at least three stars and with the booking.com rating of at least 7.5 and upwards.</p>
+
+<p>In addition, we are glad to inform you that the University could provide a subsidized accommodation (120 kn [app. 16 €] per night per person) at the University dormitory (either in the facilities at Ul. Dr. Franje Tuđmana 24 d or at Trg kneza Višeslava 9) for a maximum of four persons (two two-bed apartments) – if they won’t mind sharing apartments – so we kindly ask those who might be interested in that option to send an application to the Steering committee members together with a brief explanation of their request. The dead-line for the application is August 6th.</p>
+
+<h1 id="programme">Programme</h1>
+
+<h2 id="friday-14th-december-2018--afternoon-1500---1800">Friday, 14th December 2018 – afternoon 15:00 - 18:00</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Opening Greetings</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="i-demonstration-of-newly-developed-editors-which-could-serve-for-epigraphyinfo-chair-e-mylonas">I. Demonstration of newly developed editors which could serve for epigraphy.info (chair: E. Mylonas):</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Petrae/Patrimonium (V. Razanajao)</td>
+    </tr>
+    <tr>
+      <td>Perseids/Syriaca (video presentation Z. Fletcher) <a href="../documents/workshop_2_slides">Slides</a></td>
+    </tr>
+    <tr>
+      <td>Brill editor (E. Suyver) <a href="../documents/workshop_2_slides">Slides</a></td>
+    </tr>
+    <tr>
+      <td>Networked epigraphic applications (P. Liuzzo)</td>
+    </tr>
+    <tr>
+      <td>Coffee Break: 16:20 - 16:35</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>READ editor (L. Calvelli / S. White ) <a href="../documents/workshop_2_slides">Slides</a></td>
+    </tr>
+    <tr>
+      <td>TEI-Publisher / Ceteicean / CapiTainS (P. Liuzzo) <a href="../documents/workshop_2_slides">Slides</a></td>
+    </tr>
+    <tr>
+      <td>followed by a discussion (both regarding the presented editors/applications and models of exchanges in practice, and decision about functional requirements of an epigraphy.info editor)</td>
+    </tr>
+    <tr>
+      <td>18:00 Dinner Buffet (provided by the organisers)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="saturday-15th-december-2018--morning-0900---1300">Saturday, 15th December 2018 – morning 09:00 - 13:00</h2>
+
+<h3 id="ii-plenary-session-chair-j-cowey">II. Plenary Session (chair: J. Cowey)</h3>
+
+<p>|Allied project reports (10 minutes each)</p>
+<ul>
+  <li>Oxford meeting (T. Elliott) <a href="https://docs.google.com/presentation/d/1-Efg6vWBwcALq64GhWhewKndLV5u9EygTUlxOrEkZcY/edit?usp=sharing">Slides</a></li>
+  <li>GODOT (F. Grieshaber) <a href="../documents/workshop_2_slides">Slides</a></li>
+  <li>Trismegistos corpusdata + New Trismegistos API (T. Gheldof)</li>
+  <li>LatinNow (video presentation S. Vanderbilt) <a href="https://prezi.com/view/eVJ3GyAy9VNsDSHjxOLu/">Slides</a></li>
+  <li>EPNet (J. M. Bermúdez)</li>
+  <li>Comparative Digital Epigraphy and EDAK (P. Liuzzo / F. Weise) <a href="../documents/workshop_2_slides">Slides</a></li>
+  <li>CRMepi CRMtext (video presentation F. Murano / A. Felicetti)</li>
+</ul>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Coffee break - 10:30-10:45</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>“State of data &amp; discipline”: what’s already done and who is doing it? (F. Feraudi-Gruénais) <a href="../documents/workshop_2_slides">Slides</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Decisions about how to formalise</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>
+    <p>what is the mission of the epigraphy.info group?</p>
+  </li>
+  <li>
+    <p>editorial board &amp; workflow of submission and finalization</p>
+  </li>
+  <li>
+    <p>how best to organize the committees memberships, roles and responsibilities</p>
+  </li>
+  <li>
+    <p>the relation of these committees to IDEA and AIEGL</p>
+  </li>
+</ul>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Lunch break - 13:00 - 14:00 (provided by the organisers)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="saturday-15th-december-2018--afternoon-1400---1800">Saturday, 15th December 2018 – afternoon 14:00 - 18:00</h2>
+
+<h3 id="iii-breakout-sessions---block-1-1400---1530">III. Breakout Sessions - block 1 14:00 - 15:30</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Testing of editors that have been presented during the Friday afternoon session and / or setting up of own apps with own texts (N.N.)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Roundtable discussion: new issues, ideas, concerns, and requests for explanation (N.N.)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="iv-breakout-sessions---block-2-1400---1530">IV. Breakout Sessions - block 2 14:00 - 15:30</h4>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Technical solution for bibliographical questions and unique identifier for inscriptions (T. Gheldof)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Common work on the EAGLE Execution Techniques Vocabulary (S. Evangelisti / P. Liuzzo)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Coffee break - 15:30-16:00</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="v-varia---plenary-session-chair-t-elliott-1600---1800">V. Varia - Plenary Session (chair: T. Elliott) 16:00 - 18.00</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Results of the breakout sessions</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Integration of Greek inscriptions (final decision)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>a) Concept &amp; structure of epigraphy.info (final decision)</td>
+    </tr>
+    <tr>
+      <td>b) Global search (decision about functional requirements)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Integration of instrumentum domesticum / portable supports</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Strategic and legal questions in dealing in epigraphy.info with unpublished inscriptions, ensuring that the publication privileges are respected (also including those on the black market and other ethical issues)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Possibilities for financing and institutional anchoring (discussion &amp; deciding on further actions</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="sunday-16th-december-2018--morning-0930---1230">Sunday, 16th December 2018 – morning 09:30 - 12:30|</h2>
+
+<h3 id="vi-results---plenary-session-chair-a-kurilić">VI. Results - Plenary Session (chair: A. Kurilić)</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>general discussion</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>conclusions</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>choosing the venue and specific date of the next workshop; choosing members of new committee</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>“what to do next?”</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>|Lunch Buffet (provided by the organisers)</p>
+
+<h1 id="workshop-protocols">Workshop protocols</h1>
+
+<p><a href="/epigraphy-info/documents/programme_epigraphy-info-ws_ZD_14-16-12-2018.pdf">Download Programme as PDF</a></p>
+
+<p><a href="http://doi.org/10.11588/heidok.00026330">Report of second epigraphy.info workshop</a></p>
+
+<p><a href="https://docs.google.com/document/d/1lVrzkASteBc-H1Ocy_cdcEM67FO9RcPM-j25-925yc8/edit">Workshop Notes GoogleDoc</a></p>
+
+<p><a href="../documents/workshop_2_slides">Workshop slides</a></p>
+
+<p><a href="../documents/workshop_2_slides">Slides</a></p>
+
+  </article>
+
+</div>
+</div>
+
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h3 class="footer-heading">Epigraphy.info</h3>
+
+    <div class="site-navigation">
+
+      <p><strong>Site Map</strong></p>
+      <ul class="pages">
+        
+        
+          <li class="nav-link"><a href="/epigraphy-info/blog/">Blog</a>
+        
+        
+        
+          <li class="nav-link"><a href="/epigraphy-info/committee/">Committee</a>
+        
+        
+        
+          <li class="nav-link"><a href="/epigraphy-info/contact/">Contact</a>
+        
+        
+        
+          <li class="nav-link"><a href="/epigraphy-info/documents/">Documents</a>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+          <li class="nav-link"><a href="/epigraphy-info/meetings/">Meetings & Events</a>
+        
+        
+        
+          <li class="nav-link"><a href="/epigraphy-info/working_groups/">Working Groups</a>
+        
+        
+        
+          <li class="nav-link"><a href="/epigraphy-info/meetings/workshop_1/">Workshop 1</a>
+        
+        
+        
+          <li class="nav-link"><a href="/epigraphy-info/meetings/workshop_2/">Workshop 2</a>
+        
+        
+        
+          <li class="nav-link"><a href="/epigraphy-info/meetings/workshop_3/">Workshop 3</a>
+        
+        
+        
+        
+        
+        
+        
+        
+      </ul>
+    </div>
+
+    <div class="site-contact">
+
+      <p><strong>Contact</strong></p>
+      <ul class="social-media-list">
+        <li>
+          <a href="mailto:info@epigraphy.info">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">info@epigraphy.info</span>
+          </a>
+        </li>
+
+        
+          
+          <li>
+            <a href="https://github.com/epigraphy-info" title="Fork us on GitHub">
+              <i class="fa fa-github"></i>
+              <span class="username">epigraphy-info</span>
+            </a>
+          </li>
+          
+        
+          
+          <li>
+            <a href="https://twitter.com/epigraphy_info" title="Follow us on Twitter">
+              <i class="fa fa-twitter"></i>
+              <span class="username">epigraphy_info</span>
+            </a>
+          </li>
+          
+        
+          
+          <li>
+            <a href="https://facebook.com/epigraphy.info" title="Follow us on Facebook">
+              <i class="fa fa-facebook"></i>
+              <span class="username">epigraphy.info</span>
+            </a>
+          </li>
+          
+        
+          
+        
+          
+        
+          
+          <li>
+            <a href="https://www.instagram.com/epigraphy.info/" title="Follow us on Instagram">
+              <i class="fa fa-instagram"></i>
+              <span class="username">epigraphy.info</span>
+            </a>
+          </li>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+
+      </ul>
+    </div>
+
+    <div class="site-signature">
+      <p class="rss-subscribe text"><strong>Subscribe <a href="/epigraphy-info/feed.xml">via RSS</a></strong></p>
+      <p class="text">Epigraphy.info is an international open community pursuing a collaborative environment for digital epigraphy, which facilitates scholarly communication and interaction.
+</p>
+    </div>
+
+  </div>
+
+</footer>
+
+<!-- Scripts -->
+<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/highlight.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+  // Default syntax highlighting
+  hljs.initHighlightingOnLoad();
+
+  // Header
+  var menuToggle = $('#js-mobile-menu').unbind();
+  $('#js-navigation-menu').removeClass("show");
+  menuToggle.on('click', function(e) {
+    e.preventDefault();
+    $('#js-navigation-menu').slideToggle(function(){
+      if($('#js-navigation-menu').is(':hidden')) {
+        $('#js-navigation-menu').removeAttr('style');
+      }
+    });
+  });
+});
+
+</script>
+
+
+
+
+
+
+  </body>
+
+</html>

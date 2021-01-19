@@ -18,9 +18,9 @@ description: >
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/epigraphy-info/" # the subpath of your site, e.g. /blog/
+baseurl: "/epigraphy-info" # the subpath of your site, e.g. /blog/
 url: "http://petrifiedvoices.github.io/epigraphy-info" # the base hostname & protocol for your site
-cover: "/assets/Header.psd" #
+cover: "/assets/Header_Facebook_Code_only.png" #
 logo: "/assets/logo.jpg"
 
 # Build settings
@@ -87,7 +87,7 @@ social:
   - name: Facebook
     icon: facebook
     username: epigraphy.info
-    url: https://facebook.com/epigraphy.info/
+    url: https://facebook.com/epigraphy.info
     desc: Follow us on Facebook
     share: true
 
