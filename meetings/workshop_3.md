@@ -9,7 +9,7 @@ published: true
 
 # Epigraphy.info Workshop III
 
-The third epigraphy.info workshop in Vienna will be taking place from Thursday May, 30th – Saturday June, 1st. 
+The third epigraphy.info workshop in Vienna will be taking place from Thursday May, 30th – Saturday June, 1st 2019. 
 
 ---
 

@@ -11,7 +11,7 @@ published: true
 
 **UPDATE (12/04/2018):**
 
-The second epigraphy.info workshop in Zadar (University of Zadar) will be taking place from Friday, Friday, December 14th – Sunday, December 16th, immediately after the "Linked Pasts IV" conference in Mainz. 
+The second epigraphy.info workshop in Zadar (University of Zadar) will be taking place from Friday, Friday, December 14th – Sunday, December 16th 2018, immediately after the "Linked Pasts IV" conference in Mainz. 
 
 ---
 
