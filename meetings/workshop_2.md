@@ -9,7 +9,8 @@ published: true
 
 # Epigraphy.info Workshop II
 
-UPDATE (12/04/2018):
+**UPDATE (12/04/2018):**
+
 The second epigraphy.info workshop in Zadar (University of Zadar) will be taking place from Friday, Friday, December 14th – Sunday, December 16th, immediately after the "Linked Pasts IV" conference in Mainz. 
 
 ---
@@ -27,6 +28,7 @@ The second epigraphy.info workshop in Zadar (University of Zadar) will be taking
 ---
 
 **UPDATE (9/6/2018)**
+
 New dates for the epigraphy.info II workshop in Zadar are set to Friday, December 14th – Sunday, December 16th.
 
 We kindly ask you to visit the [Doodle Poll](https://doodle.com/poll/gmmuqbvpsrtwwqgc) and register either your attendance or one of the other two options by September 24th.
@@ -35,7 +37,8 @@ We kindly ask you to visit the [Doodle Poll](https://doodle.com/poll/gmmuqbvpsrt
 
 ---
 
-** UPDATE (8/8/2018)** POSTPONEMENT of the second epigraphy.info workshop
+**UPDATE (8/8/2018) POSTPONEMENT of the second epigraphy.info workshop**
+
 Due to unforeseen circumstances, the Second epigraphy.info workshop scheduled for September 19-21 had to be postponed. The new dates will be announced shortly.
 
 *Steering Committee*
