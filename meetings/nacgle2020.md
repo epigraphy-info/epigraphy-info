@@ -12,8 +12,7 @@ published: true
 
 [Epigraphy.info @ NACGLE](https://www.asgle.org/nacgle-2020-washington-d-c/)
 
-[Link to the poster](../documents/Epigraphy_dot_Info_Poster.pdf)
+[Poster in PDF](../documents/Epigraphy_dot_Info_Poster.pdf)
 
-![NACGLE poster](../documents/Epigraphy_dot_Info_Poster.jpg "Nacgle 2020 poster")
-
+<img src='{{site.baseurl}}/assets/Epigraphy_dot_Info_Poster.jpg' style="width:100%;" alt="Epigraphy.info poster" align="middle">
 
