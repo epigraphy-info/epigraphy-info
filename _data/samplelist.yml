@@ -6,11 +6,11 @@ nav:
     url: ../contact/
     subnav:
       - title: Contact us
-        url: ../contact/
+        url: contact/
       - title: Join us!
         url: ../join_us/
   - title: Documents
-    url: ../documents/
+    url: documents/
     subnav:
       - title: Documents
         url: ../documents/
@@ -18,12 +18,12 @@ nav:
     url: ../news/
     subnav: 
       - title: Latest news
-        url: ../news/
+        url: news/
   - title: Meetings
     url: meetings/
     subnav:
       - title: Meetings Overview
-        url: ../meetings/
+        url: meetings/
       - title: Workshop 1 
         url: ../workshop_1/
       - title: Workshop 2
@@ -40,7 +40,7 @@ nav:
     url: ../people/
     subnav:
       - title: People
-        url: ../people/      
+        url: people/      
       - title: Steering Committee
         url: ../committee/
       - title: Working Groups
