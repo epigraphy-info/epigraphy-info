@@ -61,17 +61,28 @@ $(document).ready(function() {
   hljs.initHighlightingOnLoad();
 
   // Header
-  var menuToggle = $('#js-mobile-menu').unbind();
-  $('#js-navigation-menu').removeClass("show");
-  menuToggle.on('click', function(e) {
-    e.preventDefault();
-    $('#js-navigation-menu').slideToggle(function(){
-      if($('#js-navigation-menu').is(':hidden')) {
-        $('#js-navigation-menu').removeAttr('style');
-      }
-    });
-  });
+  // var menuToggle = $('#js-mobile-menu').unbind();
+  // $('#js-navigation-menu').removeClass("show");
+  // menuToggle.on('click', function(e) {
+  //   e.preventDefault();
+  //   $('#js-navigation-menu').slideToggle(function(){
+  //     if($('#js-navigation-menu').is(':hidden')) {
+  //       $('#js-navigation-menu').removeAttr('style');
+  //     }
+  //   });
+  // });
 });
+
+/* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+function responsiveHeaderFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+
 
 </script>
 

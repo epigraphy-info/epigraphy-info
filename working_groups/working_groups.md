@@ -143,4 +143,4 @@ GitHub: [https://github.com/epigraphy-info](https://github.com/epigraphy-info)
 
 Working group folder on [Epigraphy-info's Google Drive](https://drive.google.com/drive/folders/1ePvQrLgh43mlOqve3wVqlrIPu67JG2PG?usp=sharing)
 
-E-mail contact: [if you would like to join us](mailto:petra.janouchova@gmail.com)
+E-mail contact: [if you would like to join us](mailto:info@epigraphy.info)

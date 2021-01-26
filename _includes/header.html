@@ -7,17 +7,11 @@
       <span>{{ site.title }}</span>
       {% endif %}
     </a>
-    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
+    <!-- <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
       <i class="fa fa-bars"></i>
-    </a>
+    </a> -->
     <nav role="navigation">
-      <ul id="js-navigation-menu" class="navigation-menu show">
-        {% for page in site.pages %}
-          {% if page.title and page.main_nav != false %}
-          <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </ul>
+      {% include nav.html nav=site.data.samplelist.nav %}
     </nav>
   </div>
 </header>

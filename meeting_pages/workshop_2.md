@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Workshop 2
-permalink: meetings/workshop_2/
+permalink: workshop_2/
 published: true
 ---
 
 
 
-# Epigraphy.info Workshop II
+# Epigraphy.info Workshop II Zadar
 
 **UPDATE (12/04/2018):**
 

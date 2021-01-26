@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Workshop 1
-permalink: meetings/workshop_1/
+permalink: workshop_1/
 published: true
 ---
 
 
 
-# Epigraphy.info Workshop I
+# Epigraphy.info Workshop I Heidelberg
 
 This workshop took place at the [Heidelberg Academy of Sciences and Humanities (21st - 23rd March 2018)](https://www.hadw-bw.de/news/events/epigraphyinfo). It brought together leading experts in the field of digital epigraphy to discuss ideas for the creation of an open collaborative platform for Greek and Latin epigraphy.
 

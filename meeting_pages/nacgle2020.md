@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NACGLE 2020
-permalink: meetings/nacgle_2020/
+permalink: nacgle_2020/
 published: true
 ---
 

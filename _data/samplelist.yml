@@ -1,11 +1,53 @@
 docs_list_title: Epigraphy
-docs:
+#docs:
 
-- title: Contact
-  url: contact.md
+nav:
+  - title: Contact
+    url: contact/
+    subnav:
+      - title: Contact us
+        url: contact/
+      - title: Join us!
+        url: join_us/
+  - title: Documents
+    url: documents/
+    subnav:
+      - title: Documents
+        url: documents/
+  - title: News
+    url: news/
+    subnav: 
+      - title: Latest news
+        url: news/
+  - title: Meetings
+    url: meetings/
+    subnav:
+      - title: Meetings Overview
+        url: meetings/
+      - title: Workshop 1 
+        url: meetings/workshop_1/
+      - title: Workshop 2
+        url: meetings/workshop_2/
+      - title: Workshop 3
+        url: meetings/workshop_3/
+      - title: Workshop 4
+        url: meetings/workshop_4/
+      - title: Workshop 5
+        url: meetings/workshop_5/
+      - title: Nacgle 2020
+        url: meetings/nacgle_2020/  
+  - title: People
+    url: people/
+    subnav:
+      - title: People
+        url: people/      
+      - title: Steering Committee
+        url: committee/
+      - title: Working Groups
+        url: working_groups/
+      - title: Partners
+        url: partners/
 
-- title: Meetings & Events
-  url: meetings.md
 
-- title: Steering Committee
-  url: committee.md
+
+
