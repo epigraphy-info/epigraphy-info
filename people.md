@@ -1,10 +1,10 @@
 ---
 layout: page
 title: People
-permalink: /people/
+permalink: people/
 ---
 
-[Steering Committee](comittee/)
+[Steering Committee](../committee/)
 
 [Working Groups](../working_groups/)
 
