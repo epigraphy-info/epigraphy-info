@@ -21,6 +21,9 @@
 <loc>http://localhost:4000/epigraphy-info/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/epigraphy-info/join_us/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/epigraphy-info/meetings/</loc>
 </url>
 <url>
@@ -28,6 +31,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/epigraphy-info/news/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/epigraphy-info/partners/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/epigraphy-info/people/</loc>
