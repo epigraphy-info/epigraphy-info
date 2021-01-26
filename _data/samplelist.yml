@@ -37,7 +37,7 @@ nav:
       - title: Nacgle 2020
         url: ../nacgle_2020/  
   - title: People
-    url: people/
+    url: ../people/
     subnav:
       - title: People
         url: ../people/      
