@@ -30,8 +30,8 @@ ul.default {
 code {
 	background-color: #eee;
 	display: inline-block;
-	border-radius: 0px;
-	padding: 0 3px;
+	border-radius: none;
+	padding: 0 0px;
 }
 
 pre code.hljs {
@@ -41,10 +41,10 @@ pre code.hljs {
 .page-divider {
 	$divider-color: $light-gray;
   display: block;
-  width: 50%;
+  width: 70%;
   margin-left: auto;
   margin-right: auto;
-  border-top: 0px solid $divider-color;
+  border-top: 1px solid $divider-color;
   .one {
     position: relative;
     top: -9px;
