@@ -15,7 +15,7 @@ The 4th epigraphy.info workshop in Hamburg will be taking place from February 19
 ---
 * [Programme of the Workshop]({{ site.baseurl }}{% link documents/Epigraphy.info_IV_Programm.pdf %})
 
-* [Report on the fourth Epigraphy.info Workshop Hamburg, 19th - 21st Feb 2020](https://archiv.ub.uni-heidelberg.de/volltextserver/28950/)
+* [Report on the fourth Workshop in Hamburg, 19th - 21st Feb 2020](https://archiv.ub.uni-heidelberg.de/volltextserver/28950/)
 
 * [Collaborative Google Docs](https://docs.google.com/document/d/1FBA9IOQ57pCtnyV7ybjuc2WhNrA916tBy48reAaTPqM/edit?usp=sharing)
 

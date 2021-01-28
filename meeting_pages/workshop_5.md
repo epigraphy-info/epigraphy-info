@@ -14,7 +14,7 @@ The fifth epigraphy.info workshop in Leuven will be taking place from November 3
 ---
 * [Programme of the Workshop]({{ site.baseurl }}{% link documents/Epigraphy.info_V_Programm.pdf %})
 
-* [Report from the workshop - will be updated]()
+* [Report on the fifth workshop in Leiden - not yet published]()
 
 * [Collaborative Google Docs](https://docs.google.com/document/d/1hCOE6LyDkvVPon-LrhZP-ibvxUBq-jPnaJoLcCfbDCE/edit?usp=sharing)
 

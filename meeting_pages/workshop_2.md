@@ -17,7 +17,7 @@ The second epigraphy.info workshop in Zadar (University of Zadar) will be taking
 
 * [Programme of the workshop]({{ site.baseurl }}{% link documents/programme_epigraphy-info-ws_ZD_14-16-12-2018.pdf %})
 
-* [Report of second epigraphy.info workshop](http://doi.org/10.11588/heidok.00026330)
+* [Report on the second workshop in Zadar](http://doi.org/10.11588/heidok.00026330)
 
 * [Collaborative Google Docs ](https://docs.google.com/document/d/1lVrzkASteBc-H1Ocy_cdcEM67FO9RcPM-j25-925yc8/edit)
 

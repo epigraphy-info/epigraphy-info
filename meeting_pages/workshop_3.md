@@ -15,7 +15,7 @@ The third epigraphy.info workshop in Vienna will be taking place from Thursday M
 
 * [Programme of the Workshop]({{ site.baseurl }}{% link documents/workshop_3_programme.pdf %})
 
-* [Report on the Third Epigraphy.info Workshop Vienna](https://doi.org/10.11588/heidok.00027928)
+* [Report on the third workshop in Vienna](https://doi.org/10.11588/heidok.00027928)
 
 * [Collaborative Google Docs](https://docs.google.com/document/d/1LwapkTiAyGbMW5U79uQ2dmxDPM3K51eTxDV7qo6BrP8/edit?usp=sharing)
 
