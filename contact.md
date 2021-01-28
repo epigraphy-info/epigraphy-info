@@ -10,56 +10,20 @@ You can reach all members of the Steering Committee at <a href = "mailto: info@e
 
 Or you can join Epigraphy.info Google Group: [https://groups.google.com/g/epigraphyinfo](https://groups.google.com/g/epigraphyinfo)
 
-Webmaster: <a href = "mailto: petra.janouchova@gmail.com">Petra Heřmánková</a>.
-
-<!--Placeholder for registration form-->
-
 ---
 
 ## Social Media
 
 You can follow us at [Facebook](https://www.facebook.com/epigraphy.info/), [Twitter](https://twitter.com/epigraphy_info), [Instagram](https://www.instagram.com/epigraphy.info/) or [GitHub](https://github.com/epigraphy-info).
 
-### The Social media team (2020-2021):
-
-<ul>
-  <li>Chiara Cenati, University of Vienna (Facebook, Twitter)</li>
-  <li>Christina de la Escosura, University of Zaragoza (Twitter)</li>
-  <li>Sergio España-Chamorro, CNRS Bordeaux Montaigne (Instagram)</li>
-  <li>David Espinosa, University of Oviedo (Twitter)</li>
-  <li>Kim H. Haegermann, [TBD] (Facebook)</li>
-  <li>Petra Heřmánková, Aarhus University (website, Twitter)</li>
-  <li>Tina Hobel, University of Vienna (graphics, Facebook, Twitter)</li>
-  <li>Anja Ragolič, Archaeological Institute Ljublana (Facebook)</li>
-  <li>Nadine F. Riegler, University of Vienna (Facebook, Twitter)</li>
-  <li>Franziska Weise, Hamburg University (Facebook)</li>
-</ul>
-
-<!-- Placeholder for image
- 
-![test image](https://github.com/petrifiedvoices/epigraphy-info/blob/main/assets/logo.jpg "Logo Title Text 1")
-
-
-<p align="left">
-  <img src="https://github.com/petrifiedvoices/epigraphy-info/blob/main/assets/logo.jpg" width="250"/>
-</p>
-<p align="middle">
-  <img src="path" width="250"/>
-</p>
-<p align="right">
-  <img src="path" width="250"/>
-</p>
--->
+To see who is behing the Epigraphy.info's presence on social media, you can read about us at the Social Media section in the [Working Groups page]({{ "working_groups/" | relative_url }}).
 
 ---
 ### Epigraphy.info's latest activity on Twitter: 
 
 <div align="middle">
-<a class="twitter-timeline" data-width="400" data-height="700" data-theme="light" href="https://twitter.com/epigraphy_info?ref_src=twsrc%5Etfw">Tweets by Epigraphy_info</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="600" data-height="1000" data-theme="light" href="https://twitter.com/epigraphy_info?ref_src=twsrc%5Etfw">Tweets by Epigraphy_info</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-
----
-
 
 ---
 
@@ -72,8 +36,9 @@ This is a public Epigraphy.info community calendar where you can find our forthc
 ---
 -->
 
-
 #### The technology behind the scene
+
+**Webmaster**: <a href = "mailto: petra.janouchova@gmail.com">Petra Heřmánková</a>.
 
 We are using a custom Jekyll theme - Centrarium, made by [Ben Centra](https://github.com/bencentra). Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium). You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll).
 

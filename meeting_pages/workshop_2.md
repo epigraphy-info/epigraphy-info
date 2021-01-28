@@ -15,13 +15,13 @@ The second epigraphy.info workshop in Zadar (University of Zadar) will be taking
 
 ---
 
-* [Programme of the workshop](../../documents/programme_epigraphy-info-ws_ZD_14-16-12-2018.pdf)
+* [Programme of the workshop]({{ site.baseurl }}{% link documents/programme_epigraphy-info-ws_ZD_14-16-12-2018.pdf %})
 
 * [Report of second epigraphy.info workshop](http://doi.org/10.11588/heidok.00026330)
 
 * [Collaborative Google Docs ](https://docs.google.com/document/d/1lVrzkASteBc-H1Ocy_cdcEM67FO9RcPM-j25-925yc8/edit)
 
-* [Workshop slides](../../documents/workshop_2_slides)
+* [Workshop slides]({{ "documents/workshop_2_slides/" | relative_url }})
 
 
 
@@ -91,13 +91,13 @@ In addition, we are glad to inform you that the University could provide a subsi
 ### I. Demonstration of newly developed editors which could serve for epigraphy.info (chair: E. Mylonas):
 
 |Petrae/Patrimonium (V. Razanajao)
-|Perseids/Syriaca (video presentation Z. Fletcher) [Slides](../documents/workshop_2_slides)
-|Brill editor (E. Suyver) [Slides](../documents/workshop_2_slides)
+|Perseids/Syriaca (video presentation Z. Fletcher) [Workshop slides]({{ "documents/workshop_2_slides/" | relative_url }})
+|Brill editor (E. Suyver) [Workshop slides]({{ "documents/workshop_2_slides/" | relative_url }}) |
 |Networked epigraphic applications (P. Liuzzo)
 |Coffee Break: 16:20 - 16:35
 
-|READ editor (L. Calvelli / S. White ) [Slides](../documents/workshop_2_slides)
-|TEI-Publisher / Ceteicean / CapiTainS (P. Liuzzo) [Slides](../documents/workshop_2_slides)
+|READ editor (L. Calvelli / S. White ) [Workshop slides]({{ "documents/workshop_2_slides/" | relative_url }})
+|TEI-Publisher / Ceteicean / CapiTainS (P. Liuzzo ) [Workshop slides]({{ "documents/workshop_2_slides/" | relative_url }}) |
 |followed by a discussion (both regarding the presented editors/applications and models of exchanges in practice, and decision about functional requirements of an epigraphy.info editor)
 |18:00 Dinner Buffet (provided by the organisers)
 
@@ -112,12 +112,12 @@ In addition, we are glad to inform you that the University could provide a subsi
  - Trismegistos corpusdata + New Trismegistos API (T. Gheldof)
  - LatinNow (video presentation S. Vanderbilt) [Slides](https://prezi.com/view/eVJ3GyAy9VNsDSHjxOLu/)
  - EPNet (J. M. Bermúdez)
- - Comparative Digital Epigraphy and EDAK (P. Liuzzo / F. Weise) [Slides](../documents/workshop_2_slides)
+ - Comparative Digital Epigraphy and EDAK (P. Liuzzo / F. Weise) [Workshop slides]({{ "documents/workshop_2_slides/" | relative_url }})
  - CRMepi CRMtext (video presentation F. Murano / A. Felicetti)
 
 |Coffee break - 10:30-10:45|
 
-|"State of data & discipline": what's already done and who is doing it? (F. Feraudi-Gruénais) [Slides](../documents/workshop_2_slides)|
+|"State of data & discipline": what's already done and who is doing it? (F. Feraudi-Gruénais) [Workshop slides]({{ "documents/workshop_2_slides/" | relative_url }})|
 
 |Decisions about how to formalise
 

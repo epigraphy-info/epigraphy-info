@@ -13,7 +13,7 @@ The 4th epigraphy.info workshop in Hamburg will be taking place from February 19
 
 
 ---
-* [Programme of the Workshop](../../documents/Epigraphy.info_IV_Programm.pdf)
+* [Programme of the Workshop]({{ site.baseurl }}{% link documents/Epigraphy.info_IV_Programm.pdf %})
 
 * [Report on the fourth Epigraphy.info Workshop Hamburg, 19th - 21st Feb 2020](https://archiv.ub.uni-heidelberg.de/volltextserver/28950/)
 
@@ -32,7 +32,7 @@ The Hamburg workshop will be preceded by 3 ½ days of training, which aims at gi
 The training will take place from February, 17th, to the morning of February, 19th 2020. In the afternoon of the same day the epigraphy.info workshop will start.
 We kindly ask you to register as soon as possible by filling out the doodle list until 30th September: [https://doodle.com/poll/dy8k5bngr2s5e8fb](https://doodle.com/poll/dy8k5bngr2s5e8fb)
 
-[Programme of the EpiDoc & Technical Training](../../documents/programme_TEI_training2.pdf)
+[Programme of the EpiDoc & Technical Training]({{ site.baseurl }}{% link documents/programme_TEI_training2.pdf %})
 
 ## Venue
 
@@ -51,7 +51,7 @@ Public transport maps (HVV)
 
 *From the airport*
 
-By train: There is one train service available at the airport. The S1 connects the airport among other stops with the Hamburg central station (timetable [PDF](http://epigraphy.info/Haltestellenaushang%20S1%20Aiport-Hbf.pdf)).
+By train: There is one train service available at the airport. The S1 connects the airport among other stops with the Hamburg central station (timetable [PDF]({{ site.baseurl }}{% link documents/Haltestellenaushang_Airport-Hbf.pdf %})).
 
 There are several other transport options depending on your destination, including [taxi and bus](https://www.hamburg-airport.de/de/busse_bahn_und_transfer.php).
 
@@ -63,7 +63,7 @@ If you will be using public transport frequently, we suggest the purchase of a H
 
 ### Accommodation
 
-In the following [PDF](../../documents/hotelliste-hamburg_bearbeitet.pdf) you can find some hotels with special conditions for guests of the Hamburg University. If you want to stay at one of these hotels, please contact us.
+In the following [PDF]({{ site.baseurl }}{% link documents/hotelliste-hamburg_bearbeitet.pdf %}) you can find some hotels with special conditions for guests of the Hamburg University. If you want to stay at one of these hotels, please contact us.
 
 There are also modestly priced hostels not far away from the university:
 

@@ -16,14 +16,16 @@ ul{
 ////////////////////////////////// playing around with navigation dropdown design
 
 
-//li a, .dropbtn {
-//  display: inline-block;
-//// color: #ffffff;
-//  text-align: center;
-////  padding: 3px 7px;
-//  text-decoration: none;
-//  font-size: 17px;
-//}
+li a, .dropbtn {
+  display: inline-block;
+//  color: #ffffff;
+  text-align: center;
+  padding: 11px 15px;
+  text-decoration: none;
+// font-size: 10px;
+//  border: none;
+  border-radius: none;
+}
 
 //li a:hover, .dropdown:hover .dropbtn {
 // background-color: #ffffff;

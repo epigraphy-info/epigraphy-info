@@ -7,14 +7,14 @@ published: true
 
 
 
-# Epigraphy.info Workshop V Leuven
+# Epigraphy.info Workshop V Leuven (online)
 
 The fifth epigraphy.info workshop in Leuven will be taking place from November 3rd-6th, 2020. Due to the the current international measures against the COVID-19 pandemic, the workshop will have a hybrid form. This means that we will offer you the possibility to attend it in person or to join it virtually.
 
 ---
-* [Programme of the Workshop](../../documents/Epigraphy.info_V_Programm.pdf)
+* [Programme of the Workshop]({{ site.baseurl }}{% link documents/Epigraphy.info_V_Programm.pdf %})
 
-* [Report from the workshop TBA]()
+* [Report from the workshop - will be updated]()
 
 * [Collaborative Google Docs](https://docs.google.com/document/d/1hCOE6LyDkvVPon-LrhZP-ibvxUBq-jPnaJoLcCfbDCE/edit?usp=sharing)
 

@@ -13,13 +13,13 @@ The third epigraphy.info workshop in Vienna will be taking place from Thursday M
 
 ---
 
-* [Programme of the Workshop](../documents/workshop_3_programme.pdf)
+* [Programme of the Workshop]({{ site.baseurl }}{% link documents/workshop_3_programme.pdf %})
 
 * [Report on the Third Epigraphy.info Workshop Vienna](https://doi.org/10.11588/heidok.00027928)
 
 * [Collaborative Google Docs](https://docs.google.com/document/d/1LwapkTiAyGbMW5U79uQ2dmxDPM3K51eTxDV7qo6BrP8/edit?usp=sharing)
 
-* [Slides from the workshop](../../documents/workshop_3_slides/)
+* [Workshop slides]({{ "documents/workshop_3_slides/" | relative_url }})
 
 ---
 
@@ -34,7 +34,7 @@ The Vienna workshop will be preceded by 3 ½ days of training, which aims at giv
 The training will take place from May, 27th, to the morning of May, 30th 2019. In the afternoon of the same day the epigraphy.info workshop will start.
 Please note that the room provided by the University of Vienna for the training contains max. 24 persons. Therefore, we kindly ask you to register as soon as possible by filling out the doodle list until [28th February](https://doodle.com/poll/7g8grfbritf7bzwn)
 
-* [Programme of the EpiDoc & Technical Training](../documents/workshop_3_training_programme.pdf)
+* [Programme of the EpiDoc & Technical Training]({{ site.baseurl }}{% link documents/workshop_3_training_programme.pdf %})
 
 ## Venue
 
@@ -161,7 +161,7 @@ If you are planning to visit Vienna, here you find some useful information for [
 |(Themes to be set at the meeting)|
 
 
-|18:30 – 19:30	Evening lecture: [G. Sarullo, The Forum cippus and its copies. The contribution of the casts to its reading](../documents/workshop_3_slides).|
+|18:30 – 19:30	Evening lecture: [G. Sarullo, The Forum cippus and its copies. The contribution of the casts to its reading]({{ "documents/workshop_3_slides/" | relative_url }}).|
 
 |20:00 –	Social Dinner|
 
@@ -171,7 +171,7 @@ If you are planning to visit Vienna, here you find some useful information for [
 
 |09:00 – 09:45|	Impulse: Unpublished texts. Recommendations for the correct handling and best practices (F. Feraudi)|
 
-09:45 – 10:30|	Decision on the proposal for the organisation and selection of the steering committee [submitted by J. Osnabrügge](../documents/JO_proposal_steering_committee_Vienna.pdf)|
+09:45 – 10:30|	Decision on the proposal for the organisation and selection of the steering committee [submitted by J. Osnabrügge]({{ site.baseurl }}{% link documents/JO_proposal_steering_committee_Vienna.pdf %})|
 
 |10:30 – 10:45|	Election of the steering committee|
 

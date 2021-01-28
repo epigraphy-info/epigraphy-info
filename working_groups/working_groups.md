@@ -67,11 +67,18 @@ E-mail contact: email@email.xxx
 
 Provide short description of the working group, its aims.
 
-## Members:
+## Members (2020-2021):
 
-* First Name, Last Name
-* First Name, Last Name
-* First Name, Last Name
+* Chiara Cenati, University of Vienna (Facebook, Twitter) 
+* Christina de la Escosura, University of Zaragoza (Twitter) 
+* Sergio España-Chamorro, CNRS Bordeaux Montaigne (Instagram) 
+* David Espinosa, University of Oviedo (Twitter) 
+* Kim H. Haegermann, TBD (Facebook) 
+* Petra Heřmánková, Aarhus University (website, Twitter) 
+* Tina Hobel, University of Vienna (graphics, Facebook, Twitter) 
+* Anja Ragolič, Archaeological Institute Ljublana (Facebook) 
+* Nadine F. Riegler, University of Vienna (Facebook, Twitter) 
+* Franziska Weise, Hamburg University (Facebook)
 
 
 ## Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
@@ -85,6 +92,8 @@ GitHub: [https://github.com/epigraphy-info](https://github.com/epigraphy-info)
 Working group folder on Google Drive: [Link TBA](https://www.providesomelinkhere.org/")
 
 E-mail contact: email@email.xxx
+
+You can follow us at [Facebook](https://www.facebook.com/epigraphy.info/), [Twitter](https://twitter.com/epigraphy_info), [Instagram](https://www.instagram.com/epigraphy.info/) or [GitHub](https://github.com/epigraphy-info).
 
 ---
 
