@@ -2,27 +2,37 @@ docs_list_title: Epigraphy
 #docs:
 
 nav:
-  - title: Contact
-    url: contact/
-    subnav:
-      - title: Contact us
-        url: contact/
-      - title: Join us!
-        url: join_us/
-  - title: Documents
-    url: documents/
-    subnav:
-      - title: Documents
-        url: documents/
   - title: News
     url: news/
     subnav: 
       - title: Latest news
         url: news/
+  - title: People
+    url: people/
+    subnav:
+      - title: People
+        url: people/      
+      - title: Steering Committee
+        url: committee/
+      - title: Partners
+        url: partners/
+  - title: Working Groups
+    url: working_groups/
+    subnav:
+      - title: Working groups
+        url: working_groups/      
+      - title: Social Media
+        url: social_media_wg/
+      - title: Funding & Membership
+        url: funding_wg/
+      - title: Ontologies
+        url: ontologies_wg/
+      - title: Vocabularies
+        url: vocabularies_wg/            
   - title: Meetings
     url: meetings/
     subnav:
-      - title: Meetings Overview
+      - title: Meetings
         url: meetings/
       - title: Workshop 1 
         url: workshop_1/
@@ -35,18 +45,23 @@ nav:
       - title: Workshop 5
         url: workshop_5/
       - title: Nacgle 2020
-        url: nacgle_2020/  
-  - title: People
-    url: people/
+        url: nacgle_2020/ 
+  - title: Documents
+    url: documents/
     subnav:
-      - title: People
-        url: people/      
-      - title: Steering Committee
-        url: committee/
-      - title: Working Groups
-        url: working_groups/
-      - title: Partners
-        url: partners/
+      - title: Documents
+        url: documents/    
+  - title: Contact
+    url: contact/
+    subnav:
+      - title: Contact us
+        url: contact/
+      - title: Join us!
+        url: join_us/
+  
+
+ 
+  
 
 
 

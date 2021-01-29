@@ -86,7 +86,7 @@ pre code.hljs {
 		}
 	}
 	.scrim {
-		padding: 3em 1em;
+		padding: 1em 1em;
 		&.has-cover {
 			background-color: rgba(0,0,0,0.2);
 			padding: 6em 1em !important;
@@ -132,8 +132,8 @@ pre code.hljs {
     }
     img {
       max-height: 2.5em;
-      margin-top: 0.8em;
-      padding-right: 0em;
+      margin-top: 1em;
+      padding-right: 0.1em;
       
     }
     span {
@@ -170,7 +170,7 @@ pre code.hljs {
     display: block;
     text-align: center;
     width: 100%;
-    padding: 0.1em 0;
+    padding: 0em 0;
     @include media ($tablet) {
       background: transparent;
       display: inline;
@@ -182,7 +182,7 @@ pre code.hljs {
   	a {
 	    display: inline-block;
 	    @include media ($tablet) {
-	      padding-right: 0.5em;
+	      padding-right: 0.3em;
 	    }
 	  }
 	  &:last-child a {
@@ -199,7 +199,7 @@ pre code.hljs {
 .page-content {
 	.wrapper {
 		@include outer-container;
-		padding: 1em;
+		padding: 0.1em;
 	}
 	/*
 	*	index.html
@@ -362,7 +362,7 @@ pre code.hljs {
 	  &:active,
 	  &:focus,
 	  &:hover {
-	    color: darken($link-color, 70%);
+	    color: darken($link-color, 80%);
 	  }
 	  &:active,
 	  &:focus {

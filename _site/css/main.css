@@ -99,7 +99,7 @@ pre code.hljs { font-size: 0.8333333333em; }
 .site-header-container.has-cover, .post-header-container.has-cover { color: #fff; text-shadow: 0 2px 1px rgba(0, 0, 0, 0.67) !important; background-position: 50% 50%; background-size: cover; }
 .site-header-container.has-cover .title, .post-header-container.has-cover .title { font-size: 2.985984em; }
 .site-header-container.has-cover .subtitle, .site-header-container.has-cover .info, .post-header-container.has-cover .subtitle, .post-header-container.has-cover .info { font-size: 1.2em; }
-.site-header-container .scrim, .post-header-container .scrim { padding: 3em 1em; }
+.site-header-container .scrim, .post-header-container .scrim { padding: 1em 1em; }
 .site-header-container .scrim.has-cover, .post-header-container .scrim.has-cover { background-color: rgba(0, 0, 0, 0.2); padding: 6em 1em !important; }
 @media screen and (min-width: 768px) { .site-header-container .scrim.has-cover, .post-header-container .scrim.has-cover { padding: 9em 1em !important; } }
 
@@ -116,17 +116,17 @@ pre code.hljs { font-size: 0.8333333333em; }
 .navigation .navigation-wrapper::after { clear: both; content: ""; display: table; }
 .navigation .logo { float: left; height: 0em; }
 @media screen and (min-width: 768px) { .navigation .logo { padding-left: 16px; } }
-.navigation .logo img { max-height: 2.5em; margin-top: 0.8em; padding-right: 0em; }
+.navigation .logo img { max-height: 2.5em; margin-top: 1em; padding-right: 0.1em; }
 .navigation .logo span { font-size: 1.4em; }
 .navigation nav { float: none; padding: 1em 0; }
 @media screen and (min-width: 768px) { .navigation nav { float: right; line-height: 1.8em; } }
 .navigation ul.navigation-menu { clear: both; display: none; margin: 0 auto; overflow: visible; padding: 0; width: 100%; }
 @media screen and (min-width: 768px) { .navigation ul.navigation-menu { display: block; margin: 0; padding: 0; } }
 .navigation ul.navigation-menu.show { display: block; }
-.navigation ul li.nav-link { display: block; text-align: center; width: 100%; padding: 0.1em 0; }
+.navigation ul li.nav-link { display: block; text-align: center; width: 100%; padding: 0em 0; }
 @media screen and (min-width: 768px) { .navigation ul li.nav-link { background: transparent; display: inline; text-decoration: none; width: auto; } }
 .navigation li.nav-link a { display: inline-block; }
-@media screen and (min-width: 768px) { .navigation li.nav-link a { padding-right: 0.5em; } }
+@media screen and (min-width: 768px) { .navigation li.nav-link a { padding-right: 0.3em; } }
 @media screen and (min-width: 768px) { .navigation li.nav-link:last-child a { padding-right: 1em; } }
 
 /*
@@ -139,7 +139,7 @@ pre code.hljs { font-size: 0.8333333333em; }
 */ /*
 *	Pages
 */ }
-.page-content .wrapper { max-width: 48em; margin-left: auto; margin-right: auto; padding: 1em; }
+.page-content .wrapper { max-width: 48em; margin-left: auto; margin-right: auto; padding: 0.1em; }
 .page-content .wrapper::after { clear: both; content: ""; display: table; }
 .page-content .post-list { padding-top: 1em !important; }
 .page-content .post-meta { max-width: 48em; margin-left: auto; margin-right: auto; color: #999; }
@@ -191,7 +191,7 @@ pre code.hljs { font-size: 0.8333333333em; }
 *	Site Description/Signature (right)
 */ }
 .site-footer a { color: #fff; }
-.site-footer a:active, .site-footer a:focus, .site-footer a:hover { color: #4d4d4d; }
+.site-footer a:active, .site-footer a:focus, .site-footer a:hover { color: #333333; }
 .site-footer a:active, .site-footer a:focus { outline: none; }
 .site-footer .wrapper { max-width: 48em; margin-left: auto; margin-right: auto; }
 .site-footer .wrapper::after { clear: both; content: ""; display: table; }
@@ -228,7 +228,7 @@ pre code.hljs { font-size: 0.8333333333em; }
 .dropdown { float: left; overflow: hidden; border-radius: none; }
 
 /* Style the dropdown button to fit inside the topnav */
-.dropdown .dropbtn { border-radius: 0px; }
+.dropdown .dropbtn { padding: 12px 10px; border-radius: 0px; }
 
 /* Style the dropdown content (hidden by default) */
 .dropdown-content { display: none; position: absolute; background-color: #f9f9f9; min-width: 160px; box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); z-index: 1; }
