@@ -8,7 +8,9 @@ permalink: /contact/
 
 You can reach all members of the Steering Committee at <a href = "mailto: info@epigraphy.info">Epigraphy.info email</a>. 
 
-Or you can join Epigraphy.info Google Group: [https://groups.google.com/g/epigraphyinfo](https://groups.google.com/g/epigraphyinfo)
+Or you can join Epigraphy.info Google Group by sending an email to [epigraphyinfo@googlegroups.com](mailto:epigraphyinfo@googlegroups.com)
+
+<!-- link does not work [https://groups.google.com/g/epigraphyinfo](https://groups.google.com/g/epigraphyinfo) -->
 
 ---
 
@@ -16,7 +18,7 @@ Or you can join Epigraphy.info Google Group: [https://groups.google.com/g/epigra
 
 You can follow us at [Facebook](https://www.facebook.com/epigraphy.info/), [Twitter](https://twitter.com/epigraphy_info), [Instagram](https://www.instagram.com/epigraphy.info/) or [GitHub](https://github.com/epigraphy-info).
 
-To see who is behing the Epigraphy.info's presence on social media, you can read about us at the Social Media section in the [Working Groups page]({{ "working_groups/" | relative_url }}).
+To see who is behind the Epigraphy.info's presence on social media, you can read about us at the Social Media section in the [Working Groups page]({{ "working_groups/" | relative_url }}).
 
 ---
 ### Epigraphy.info's latest activity on Twitter: 

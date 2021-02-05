@@ -27,9 +27,6 @@
 <loc>http://localhost:4000/epigraphy-info/join_us/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/epigraphy-info/meetings/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/epigraphy-info/nacgle_2020/</loc>
 </url>
 <url>
@@ -40,9 +37,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/epigraphy-info/partners/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/epigraphy-info/people/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/epigraphy-info/social_media_wg/</loc>

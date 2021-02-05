@@ -2,6 +2,7 @@
 layout: page
 title: People
 permalink: people/
+published: false
 ---
 
 [Steering Committee]({{ "committee/" | relative_url }})

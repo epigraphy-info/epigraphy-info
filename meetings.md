@@ -2,7 +2,7 @@
 layout: page
 title: Meetings & Events
 permalink: /meetings/
-published: true
+published: false
 ---
 
 

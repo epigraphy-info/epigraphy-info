@@ -19,7 +19,6 @@ published: true
 
 ### Members of the Steering Committe of Epigraphy.info since 2018:
 
-* Andrea Mannocci, CNR Pisa / Eagle Project / 2019-2020
 * Cenati, Chiara / University of Vienna / 2019-2020
 * de la Escosura, M. Cristina, University of Zaragoza / 2019-2020
 * Elliott, Tom / New York University / 2018 (tech.comm.). 2019-2020
@@ -33,5 +32,9 @@ published: true
 * Razanajao, Vincent / Bordeaux Montaigne, Patrimonium / 2019-2020
 * Weise, Franziska / Hamburg University / 2019-2020
 
+
+---
+
+**See the election process for The Steering committee [(in PDF)]({{ site.baseurl }}{% link documents/steeringcommittee.pdf %}).**
 
 

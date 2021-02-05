@@ -10,8 +10,6 @@ nav:
   - title: People
     url: people/
     subnav:
-      - title: People
-        url: people/      
       - title: Steering Committee
         url: committee/
       - title: Partners
@@ -32,20 +30,18 @@ nav:
   - title: Meetings
     url: meetings/
     subnav:
-      - title: Meetings
-        url: meetings/
-      - title: Workshop 1 
+      - title: Workshop 1 (Heidelberg)
         url: workshop_1/
-      - title: Workshop 2
+      - title: Workshop 2 (Zadar)
         url: workshop_2/
-      - title: Workshop 3
+      - title: Workshop 3 (Vienna)
         url: workshop_3/
-      - title: Workshop 4
-        url: workshop_4/
-      - title: Workshop 5
-        url: workshop_5/
       - title: Nacgle 2020
-        url: nacgle_2020/ 
+        url: nacgle_2020/
+      - title: Workshop 4 (Hamburg)
+        url: workshop_4/
+      - title: Workshop 5 (Leiden)
+        url: workshop_5/ 
   - title: Documents
     url: documents/
     subnav:

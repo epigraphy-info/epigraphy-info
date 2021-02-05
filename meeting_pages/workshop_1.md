@@ -12,11 +12,11 @@ published: true
 This workshop took place at the [Heidelberg Academy of Sciences and Humanities (21st - 23rd March 2018)](https://www.hadw-bw.de/news/events/epigraphyinfo). It brought together leading experts in the field of digital epigraphy to discuss ideas for the creation of an open collaborative platform for Greek and Latin epigraphy.
 
 ---
-* Programme of the workshop - see below
+* Programme of the workshop [see below](#programme)
 
 * [Report on the first epigraphy.info workshop in Heidelberg, March 21st - 23rd, 2018](http://archiv.ub.uni-heidelberg.de/volltextserver/24397/)
 
-* [Workshop protocols permalink](http://archiv.ub.uni-heidelberg.de/volltextserver/24397/)
+* [Workshop protocols permalink](http://doi.org/10.11588/heidok.00024397)
 
 * [Workshop Collaborative Google Docs](https://docs.google.com/document/d/1mS3Rb2N2zDjeSnfBIc3rvfl5P4W-hPjHimURMY399XQ/edit?usp=sharing)
 
@@ -27,21 +27,21 @@ This workshop took place at the [Heidelberg Academy of Sciences and Humanities (
 # Working Groups
 
 
-|wg 1 [Google Doc](https://docs.google.com/document/d/1I5MnOOMT--AjEae2R-j6445gyYwdurTMOUzw7k_TCSk/edit?usp=sharing)|	USER STORIES: “what we want” (we should distinguish 1. What we want NOW - for instance, the long term preservation of the existing data - from 2. What we want for the future - for instance, new editions responding to common standards) + Organization - relation portal <—> databases Deferred: Back end/architecture; data formats Front end/interface|
+|wg 1 [Google Doc](https://docs.google.com/document/d/1I5MnOOMT--AjEae2R-j6445gyYwdurTMOUzw7k_TCSk/edit?usp=sharing)|	User stories |
 
-|wg 2 [Google Doc](https://docs.google.com/document/d/1KepOoRq9froZcSAZUeynOP_jjG520oiv0OJHorbm--w/edit?usp=sharing)|	Versioning und mini publications|
+|wg 2 [Google Doc](https://docs.google.com/document/d/1KepOoRq9froZcSAZUeynOP_jjG520oiv0OJHorbm--w/edit?usp=sharing)|	Versioning and mini publications|
 
-|wg 3 [Google Doc](https://docs.google.com/document/d/1ENBJb9Lxa3ybLL4CxImANCvwObQkedBzKmQ0mcZ_mOs/edit?usp=sharing)|	From existing databases to epigraphy.info crosswalks and interfaces (book → epigraphy.info / online editions; database → epigraphy.info + epigraphy.info as tool for editions and databases|
+|wg 3 [Google Doc](https://docs.google.com/document/d/1ENBJb9Lxa3ybLL4CxImANCvwObQkedBzKmQ0mcZ_mOs/edit?usp=sharing)|	From existing databases to epigraphy.info|
 
-|wg 4 [Google Doc](https://docs.google.com/document/d/10gf4dVn9jpT6vgW9Vl-h2Syku2AXrLcIP9EilDrTnlk/edit?usp=sharing)|	Pathway to get the data: individual content provider – how can users and various different groups contribute to epigraphy.info?|
+|wg 4 [Google Doc](https://docs.google.com/document/d/10gf4dVn9jpT6vgW9Vl-h2Syku2AXrLcIP9EilDrTnlk/edit?usp=sharing)|	Pathway to get the data|
 
-|wg 5 [Google Doc](https://docs.google.com/document/d/1q90328SEaW-7fPHaxmrrbgjbFdsOj1tZRuURap052hw/edit?usp=sharing)|	Community building, motivation for the editorial board, integration in teaching; What an editorial board would look like/do?|
+|wg 5 [Google Doc](https://docs.google.com/document/d/1q90328SEaW-7fPHaxmrrbgjbFdsOj1tZRuURap052hw/edit?usp=sharing)|	Community building & teaching|
 
-|wg 6 [Google Doc](https://docs.google.com/document/d/1-zmw-KUNMpz8ndYM-41PrRqQfnbbzaqAukAGbbZjr8E/edit?usp=sharing)|	Funding sources and strategies + technical and institutional requirements for sustainability|
+|wg 6 [Google Doc](https://docs.google.com/document/d/1-zmw-KUNMpz8ndYM-41PrRqQfnbbzaqAukAGbbZjr8E/edit?usp=sharing)|	Funding sources & strategies|
 
 <br>
 
-# Programme
+# Programme 
 
 ## Wednesday 21st March 2018
 
@@ -145,7 +145,7 @@ This workshop took place at the [Heidelberg Academy of Sciences and Humanities (
 * C. Lasagni (IT, University of Turin)
 * F. Murano (IT, University of Florence)
 * M. Elbers (NL, SEG/Brill)
-* E. Suyver (NL, SEG-Brill)
+* E. Suyver (NL, SEG/Brill)
 * A. Ragolić (SLO, University of Ljubljana)
 * O. Pelcer Vujacic (SRB, University of Belgrade)
 * T. Elliott (USA, New York University)
