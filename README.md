@@ -11,8 +11,9 @@ If you are planning to do a major change (adding new pages, instead of editing t
 
 You can easily change the contents of the existing pages, add photos, documents etc.
 
+---
 
-## Tutorials:
+## Tutorials
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on Github - examples of how Markdown works
 
 [Markdown interactive tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), to test your knowledge and to practice
@@ -21,58 +22,63 @@ GitHub and version control: [https://guides.github.com/](https://guides.github.c
 
 Best to start with [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 
+## Get started
 
 **In order to edit the website, you will need to:**
-create a GitHub Account
-be added to the epigraphy-info Github organization (in order to work independently)
-or you can commit your changes and someone from within the organisation has to approve your changes
+1. create a GitHub Account
+1. be added to the epigraphy-info Github organization (in order to work independently)
+1. or you can commit your changes and someone from within the organisation has to approve your changes
 
 
 There are two modes of editing the website:
 
 ### ONLINE 
-only when editing one document and changing small things such as typos or hyperlinks
-potentially unsafe, should be used only for small edits within one file; not for large development
 
-Go to the website repo.
-Find your document.
-Make edits.
-Commit changes.
-Go to the GithubPages and wait for the server to process the change.
+- only when editing one document and changing small things such as typos or hyperlinks
+- potentially unsafe, should be used only for small edits within one file; not for large development
+
+1. Go to the website repo.
+1. Find your document.
+1. Make edits.
+1. Commit changes.
+1. Go to the GithubPages and wait for the server to process the change.
 
 ### LOCALLY on your computer
-safer option; steep learning curve but great for tracking changes anc collaboration between multiple people
-preferred mode!
-the easiest way is to use command line (Terminal) on your computer, but if you prefer there are several GUI Clients/softwares that you can use on Windows and Macs such as [GitHub Desktop](https://desktop.github.com/)
-	
-#### First time working with repo:
-Clone the repo to your local computer. `git clone “address of your repo” `
-Make edits to all your files.
-Add changes. `git add “file” `
-Commit changes. `git commit -m “my commit message” `
-Push changes to Github. `git push origin “name of branch” `
-Go to the GithubPages and wait for the server to process the change.
 
-#### Second time working with repo:
-Go to the folder containing website docs on your computer.
-Pull all new changes from Github to your local computer. `git pull ` 
-Make edits to all your files.
-Add changes. `git add “file” `
-Commit changes. `git commit -m “my commit message” `
-Push changes to Github. `git push origin “name of branch” `
-Go to the GithubPages and wait for the server to process the change.
+- safer option; steep learning curve but great for tracking changes anc collaboration between multiple people
+- preferred mode!
+- the easiest way is to use command line (Terminal) on your computer, but if you prefer there are several GUI Clients/softwares that you can use on Windows and Macs such as [GitHub Desktop](https://desktop.github.com/)
+	
+#### First time working with repo
+
+1. Clone the repo to your local computer. `git clone “address of your repo” `
+1. Make edits to all your files.
+1. Add changes. `git add “file” `
+1. Commit changes. `git commit -m “my commit message” `
+1. Push changes to Github. `git push origin “name of branch” `
+1. Go to the GithubPages and wait for the server to process the change.
+
+#### Second time working with repo
+
+1. Go to the folder containing website docs on your computer.
+1. Pull all new changes from Github to your local computer. `git pull ` 
+1. Make edits to all your files.
+1. Add changes. `git add “file” `
+1. Commit changes. `git commit -m “my commit message” `
+1. Push changes to Github. `git push origin “name of branch” `
+1. Go to the GithubPages and wait for the server to process the change.
 
 #### Major changes
 
 If you are planning major changes, or want to see how they look on the website before committing them to GitHub, you can run Jekyll server locally on your computer and test locally.
 
-Go to the folder containing website docs on your computer.
-Pull all new changes from Github to your local computer.
-Using the command line, start the Jekyll server `bundle exec jekyll serve`. You may need to install [Jekyll prerequisites](https://jekyllrb.com/docs/) to your computer first.
-Make edits to all your files.
-Type ‘http://localhost:4000’ in your browser and check the changes you have made on the website. 
-Once you are happy with your changes, add them, commit and push them to Github.
-Go to the online GithubPages and wait for the server to process the change.
+1. Go to the folder containing website docs on your computer.
+1. Pull all new changes from Github to your local computer.
+1. Using the command line, start the Jekyll server `bundle exec jekyll serve`. You may need to install [Jekyll prerequisites](https://jekyllrb.com/docs/) to your 1. computer first.
+1. Make edits to all your files.
+1. Type ‘http://localhost:4000’ in your browser and check the changes you have made on the website. 
+1. Once you are happy with your changes, add them, commit and push them to Github.
+1. Go to the online GithubPages and wait for the server to process the change.
 
 #### Alternative branches and pull requests
 
