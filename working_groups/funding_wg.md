@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Funding & Membership WG
+title: Funding WG
 permalink: /funding_wg/
 ---
 
 
-# Funding & Community Membership WG
+# Funding WG
 
 Provide short description of the working group, its aims.
 
@@ -24,7 +24,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 GitHub: [https://github.com/epigraphy-info](https://github.com/epigraphy-info)
 
-Working group folder on Google Drive: [Link TBA](https://www.providesomelinkhere.org/")
+Working group folder on Google Drive: [Google Drive Folder](https://drive.google.com/drive/folders/1ZgiUkQWzJ-MKT-dNkXGJNanl0moA2uz9)
 
 E-mail contact: email@email.xxx
 
