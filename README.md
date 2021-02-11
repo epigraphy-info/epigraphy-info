@@ -1,7 +1,7 @@
 # How to edit Epigraphy.info website
 **Petra Hermankova**
 
-**Contact:** [petra.janouchova@gmai.com](mailto:petra.janouchova@gmail.com) / [petra.hermankova@cas.au.dk](mailto:petra.janouchova@gmail.com) 
+**Contact email** [petra.janouchova@gmai.com](mailto:petra.janouchova@gmail.com) / [petra.hermankova@cas.au.dk](mailto:petra.janouchova@gmail.com) 
 
 [@petrifiedvoices](https://github.com/petrifiedvoices) on GitHub
 
