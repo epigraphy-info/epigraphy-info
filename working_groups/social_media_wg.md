@@ -15,7 +15,7 @@ Provide short description of the working group, its aims.
 ## Members (2020-2021):
 
 * Chiara Cenati, University of Vienna (Facebook, Twitter) 
-* Christina de la Escosura, University of Zaragoza (Twitter) 
+* Cristina de la Escosura, University of Zaragoza (Twitter) 
 * Sergio España-Chamorro, CNRS Bordeaux Montaigne (Instagram) 
 * Petra Heřmánková, Aarhus University (website, Twitter) 
 * Tina Hobel, University of Vienna (graphics, Facebook, Twitter) 
