@@ -3,11 +3,11 @@ layout: post
 title:  "Testing whether the blog section works"
 date:   2020-11-23 12:00:00
 author: Petra Hermankova
-categories: News
+categories: Test
 ---
 
 Hello, dear reader!
 
-This is a test post.
+This is a test post. I am testing categories.
 
 
