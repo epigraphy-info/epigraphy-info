@@ -13,11 +13,11 @@ The 4th epigraphy.info workshop in Hamburg will be taking place from February 19
 
 
 ---
-* [Programme of the Workshop]({{ site.baseurl }}{% link documents/Epigraphy.info_IV_Programm.pdf %})
+* [Programme of the Workshop]({{ site.baseurl }}{% link documents/Epigraphy.info_IV_Programm.pdf %}){:target="_blank" rel="noopener"}
 
-* [Report on the fourth Workshop in Hamburg, 19th - 21st Feb 2020](https://archiv.ub.uni-heidelberg.de/volltextserver/28950/)
+* [Report on the fourth Workshop in Hamburg, 19th - 21st Feb 2020](https://archiv.ub.uni-heidelberg.de/volltextserver/28950/){:target="_blank" rel="noopener"}
 
-* [Collaborative Google Docs](https://docs.google.com/document/d/1FBA9IOQ57pCtnyV7ybjuc2WhNrA916tBy48reAaTPqM/edit?usp=sharing)
+* [Collaborative Google Docs](https://docs.google.com/document/d/1FBA9IOQ57pCtnyV7ybjuc2WhNrA916tBy48reAaTPqM/edit?usp=sharing){:target="_blank" rel="noopener"}
 
 ---
 
@@ -32,20 +32,17 @@ The Hamburg workshop will be preceded by 3 ½ days of training, which aims at gi
 The training will take place from February, 17th, to the morning of February, 19th 2020. In the afternoon of the same day the epigraphy.info workshop will start.
 We kindly ask you to register as soon as possible by filling out the doodle list until 30th September: [https://doodle.com/poll/dy8k5bngr2s5e8fb](https://doodle.com/poll/dy8k5bngr2s5e8fb)
 
-[Programme of the EpiDoc & Technical Training]({{ site.baseurl }}{% link documents/programme_TEI_training2.pdf %})
+**[Programme of the EpiDoc & Technical Training in PDF]({{ site.baseurl }}{% link documents/programme_TEI_training2.pdf %}){:target="_blank" rel="noopener"}**
 
 ## Venue
 
 The technical training and the epigraphy.info workshop will take place at the [University of Hamburg](https://www.uni-hamburg.de/en/): Edmund-Siemers-Allee 1, ESA West, D-20146 Hamburg.
 
-
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2567.088842443947!2d9.984432751546963!3d53.56454222992736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b18f3cc081add1%3A0xf69e59b531672643!2sEdmund-Siemers-Allee%201%2C%2020146%20Hamburg%2C%20Germany!5e1!3m2!1sen!2sdk!4v1611063880027!5m2!1sen!2sdk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-Timetables for public transport: [https://geofox.hvv.de/jsf/home.seam?clear=true&language=en](https://geofox.hvv.de/jsf/home.seam?clear=true&language=en)
+[Timetables for public transport](https://geofox.hvv.de/jsf/home.seam?clear=true&language=en)
 
-Public transport maps (HVV)
-
-[U/S/A/R network](https://www.hvv.de/resource/blob/2446/18ba0c9adf2ccca10aec9eff89b30b01/mfa-einstiegshilfen-hvv-data.pdf), [Bus lines](https://www.hvv.de/resource/blob/2620/1b1cfe947ec01339f965c717e533341c/hvv-linienplan-metrobus-alle-schem-data.pdf), [Harbour ferries](https://www.hvv.de/resource/blob/2448/257aaff517ba3e7dd04f54178dc4744b/hvv-linienplan-hafenfaehren-data.pdf)
+Public transport maps [U/S/A/R network](https://www.hvv.de/resource/blob/2446/18ba0c9adf2ccca10aec9eff89b30b01/mfa-einstiegshilfen-hvv-data.pdf), [Bus lines](https://www.hvv.de/resource/blob/2620/1b1cfe947ec01339f965c717e533341c/hvv-linienplan-metrobus-alle-schem-data.pdf), [Harbour ferries](https://www.hvv.de/resource/blob/2448/257aaff517ba3e7dd04f54178dc4744b/hvv-linienplan-hafenfaehren-data.pdf)
 
 ### How to get into the city centre
 
@@ -57,7 +54,7 @@ There are several other transport options depending on your destination, includi
 
 *From the central station or bus station:*
 
-Metro lines and busses of the HVV will take you any place in the city [https://geofox.hvv.de/jsf/home.seam?clear=true&language=en](https://geofox.hvv.de/jsf/home.seam?clear=true&language=en).
+Metro lines and busses of the HVV will take you any place in the city, see [HVV](https://geofox.hvv.de/jsf/home.seam?clear=true&language=en).
 
 If you will be using public transport frequently, we suggest the purchase of a Hamburg Card. It can be booked for 1 to 5 days (10,50-42,50 € for Single tickets) and offers you special discounts for museums, restaurants, coffeeshops and much more.
 
@@ -68,11 +65,8 @@ In the following [PDF]({{ site.baseurl }}{% link documents/hotelliste-hamburg_be
 There are also modestly priced hostels not far away from the university:
 
 * [instant Sleep Backpacker Hostel](https://instantsleep.com/), Max-Brauer-Allee 277, Altona-Nord, 22769 Hamburg
-
 * [Jugendherberge Hamburg Auf dem Stintfang](https://www.jugendherberge.de/jugendherbergen/hamburg-stintfang-523/portraet/), Alfred-Wegener-Weg 5, St.Pauli, 20459 Hamburg
-
 * [Backpackers St. Pauli](https://www.backpackers-stpauli.de/), Bernstorffstraße 98, Altona-Altstadt, 22767 Hamburg
-
 * [A&O Hostels](https://www.aohostels.com/de/jugendherberge/jugendherberge-hamburg/?gclid=EAIaIQobChMIoI6toKa55AIVieh3Ch1Mdwl0EAAYAiAAEgLIGvD_BwE), different locations throughout the city 
 
 

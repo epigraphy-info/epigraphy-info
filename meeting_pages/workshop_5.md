@@ -9,14 +9,14 @@ published: true
 
 # Epigraphy.info Workshop V Leuven (online)
 
-The fifth epigraphy.info workshop in Leuven will be taking place from November 3rd-6th, 2020. Due to the the current international measures against the COVID-19 pandemic, the workshop will have a hybrid form. This means that we will offer you the possibility to attend it in person or to join it virtually.
+The fifth epigraphy.info workshop in Leuven will be taking place from November 3rd-6th, 2020. Due to the the current international measures against the COVID-19 pandemic, the workshop will be fully online (Zoom platform). 
 
 ---
-* [Programme of the Workshop]({{ site.baseurl }}{% link documents/Epigraphy.info_V_Programm.pdf %})
+* [Programme of the Workshop]({{ site.baseurl }}{% link documents/Epigraphy.info_V_Programm.pdf %}){:target="_blank" rel="noopener"}
 
 * [Report on the fifth workshop in Leiden - not yet published]()
 
-* [Collaborative Google Docs](https://docs.google.com/document/d/1hCOE6LyDkvVPon-LrhZP-ibvxUBq-jPnaJoLcCfbDCE/edit?usp=sharing)
+* [Collaborative Google Docs](https://docs.google.com/document/d/1hCOE6LyDkvVPon-LrhZP-ibvxUBq-jPnaJoLcCfbDCE/edit?usp=sharing){:target="_blank" rel="noopener"}
 
 ---
 
@@ -30,6 +30,8 @@ In order to register for the workshop:
 2. Send the registration confirmation to info@epigraphy.info and specify in the email whether you are planning to attend the workshop in person (if the international measures will allow it) or if you prefer to participate via video conference.
 
 As the international situation is changing very quickly, we will regularly keep you up to date, and we will contact you again before the workshop for a last confirmation.
+
+---
 
 ### Poster Session (Deadline extended)
 
@@ -53,6 +55,8 @@ We want to make our poster session as effective and inclusive as possible: if yo
 
 In order to present a poster, please send a title and a short abstract to our committee by September 25th, 2020 (info@epigraphy.info). By September 30th, 2020 you will receive a notification from the steering committee whether your E-Poster has been accepted. E-Posters should be submitted by October 28th, 2020.
 
+---
+
 ## Technical Training
 
 As in Vienna and in Hamburg the Leuven workshop will be preceded by a technical training, which will be structured in three sessions. This will take place from November 3rd to 4th, 2020 and will have, as the main workshop, a hybrid form.
@@ -69,6 +73,8 @@ Please follow this link for further information about this session and to regist
 [https://epinfovworkshoptm.eventbrite.nl](https://epinfovworkshoptm.eventbrite.nl)
 To complete your registration send us (info@epigraphy.info) the registration confirmation and specify in the email if you are going to attend the session in person or virtually.
 
+---
+
 ### Session 2 (Tuesday November 3rd)
 
 **Tom Elliott, N.N., “Geography in Digital Epigraphy”**
@@ -78,6 +84,8 @@ To complete your registration send us (info@epigraphy.info) the registration con
 Please follow this link for further information about this session and to register:
 [https://epinfovworkshoptm.eventbrite.nl](https://epinfovworkshoptm.eventbrite.nl)
 To complete your registration send us (info@epigraphy.info) the registration confirmation and specify in the email if you are going to attend the session in person or virtually.
+
+---
 
 ### Session 3 (Wednesday November 4th)
 

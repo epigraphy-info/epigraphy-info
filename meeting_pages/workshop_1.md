@@ -9,35 +9,35 @@ published: true
 
 # Epigraphy.info Workshop I Heidelberg
 
-This workshop took place at the [Heidelberg Academy of Sciences and Humanities (21st - 23rd March 2018)](https://www.hadw-bw.de/news/events/epigraphyinfo). It brought together leading experts in the field of digital epigraphy to discuss ideas for the creation of an open collaborative platform for Greek and Latin epigraphy.
+This workshop took place at the [Heidelberg Academy of Sciences and Humanities (21st - 23rd March 2018)](https://www.hadw-bw.de/news/events/epigraphyinfo){:target="_blank" rel="noopener"}. It brought together leading experts in the field of digital epigraphy to discuss ideas for the creation of an open collaborative platform for Greek and Latin epigraphy.
 
 ---
-* Programme of the workshop [see below](#programme)
+* [Programme of the workshop](#programme){:target="_blank" rel="noopener"}
 
-* [Report on the first epigraphy.info workshop in Heidelberg, March 21st - 23rd, 2018](http://archiv.ub.uni-heidelberg.de/volltextserver/24397/)
+* [Report on the first epigraphy.info workshop in Heidelberg, March 21st - 23rd, 2018](http://archiv.ub.uni-heidelberg.de/volltextserver/24397/){:target="_blank" rel="noopener"}
 
-* [Workshop protocols permalink](http://doi.org/10.11588/heidok.00024397)
+* [Workshop protocols permalink](http://doi.org/10.11588/heidok.00024397){:target="_blank" rel="noopener"}
 
-* [Workshop Collaborative Google Docs](https://docs.google.com/document/d/1mS3Rb2N2zDjeSnfBIc3rvfl5P4W-hPjHimURMY399XQ/edit?usp=sharing)
+* [Workshop Collaborative Google Docs](https://docs.google.com/document/d/1mS3Rb2N2zDjeSnfBIc3rvfl5P4W-hPjHimURMY399XQ/edit?usp=sharing){:target="_blank" rel="noopener"}
 
-* [Tech meeting Collaborative Google Docs](https://docs.google.com/document/d/1OddesgjZEVcDEQj3fDPcVXGxWUMprbMQ6W6TwdpTkkw/edit?usp=sharing)
+* [Tech meeting Collaborative Google Docs](https://docs.google.com/document/d/1OddesgjZEVcDEQj3fDPcVXGxWUMprbMQ6W6TwdpTkkw/edit?usp=sharing){:target="_blank" rel="noopener"}
 
 ---
 
 # Working Groups
 
 
-|wg 1 [Google Doc](https://docs.google.com/document/d/1I5MnOOMT--AjEae2R-j6445gyYwdurTMOUzw7k_TCSk/edit?usp=sharing)|	User stories |
+|wg 1 [Google Doc](https://docs.google.com/document/d/1I5MnOOMT--AjEae2R-j6445gyYwdurTMOUzw7k_TCSk/edit?usp=sharing){:target="_blank" rel="noopener"}|	User stories |
 
-|wg 2 [Google Doc](https://docs.google.com/document/d/1KepOoRq9froZcSAZUeynOP_jjG520oiv0OJHorbm--w/edit?usp=sharing)|	Versioning and mini publications|
+|wg 2 [Google Doc](https://docs.google.com/document/d/1KepOoRq9froZcSAZUeynOP_jjG520oiv0OJHorbm--w/edit?usp=sharing){:target="_blank" rel="noopener"}|	Versioning and mini publications|
 
-|wg 3 [Google Doc](https://docs.google.com/document/d/1ENBJb9Lxa3ybLL4CxImANCvwObQkedBzKmQ0mcZ_mOs/edit?usp=sharing)|	From existing databases to epigraphy.info|
+|wg 3 [Google Doc](https://docs.google.com/document/d/1ENBJb9Lxa3ybLL4CxImANCvwObQkedBzKmQ0mcZ_mOs/edit?usp=sharing){:target="_blank" rel="noopener"}|	From existing databases to epigraphy.info|
 
-|wg 4 [Google Doc](https://docs.google.com/document/d/10gf4dVn9jpT6vgW9Vl-h2Syku2AXrLcIP9EilDrTnlk/edit?usp=sharing)|	Pathway to get the data|
+|wg 4 [Google Doc](https://docs.google.com/document/d/10gf4dVn9jpT6vgW9Vl-h2Syku2AXrLcIP9EilDrTnlk/edit?usp=sharing){:target="_blank" rel="noopener"}|	Pathway to get the data|
 
-|wg 5 [Google Doc](https://docs.google.com/document/d/1q90328SEaW-7fPHaxmrrbgjbFdsOj1tZRuURap052hw/edit?usp=sharing)|	Community building & teaching|
+|wg 5 [Google Doc](https://docs.google.com/document/d/1q90328SEaW-7fPHaxmrrbgjbFdsOj1tZRuURap052hw/edit?usp=sharing){:target="_blank" rel="noopener"}|	Community building & teaching|
 
-|wg 6 [Google Doc](https://docs.google.com/document/d/1-zmw-KUNMpz8ndYM-41PrRqQfnbbzaqAukAGbbZjr8E/edit?usp=sharing)|	Funding sources & strategies|
+|wg 6 [Google Doc](https://docs.google.com/document/d/1-zmw-KUNMpz8ndYM-41PrRqQfnbbzaqAukAGbbZjr8E/edit?usp=sharing){:target="_blank" rel="noopener"}|	Funding sources & strategies|
 
 <br>
 
@@ -71,27 +71,34 @@ This workshop took place at the [Heidelberg Academy of Sciences and Humanities (
 
 |19.30 - |	social dinner|
 
+<br>
+
 
 ## Thursday 22nd March 2018
 
-|09.30 – 11.00|	wg 1 (User stories) / wg 2 (Versioning/mini pubs)|
+|09.30 – 11.00|	wg 1 (User stories) |
+||wg 2 (Versioning/mini publications)|
 
 |11.00 – 11.30|	coffee break*|
 
-|11.30 – 13.00|	wg 3 (Existing Databases) / wg 4 (Pathways to get the data)|
+|11.30 – 13.00|	wg 3 (Existing Databases)|
+||wg 4 (Pathways to get the data)|
 
 |13.00 – 14.00|	lunch break*|
 
-|14.00 – 15.30|	wg 5 (Community building) / wg 6 (Funding)|
+|14.00 – 15.30|	wg 5 (Community building)|
+|| wg 6 (Funding)|
 
 |15.30 – 16.00|	coffee break*|
 
 |16.00 – 18.00|	Reports from the working groups and discussion|
 
+<br>
 
 ## Friday 23rd March 2018
 
-|09.30 – 11.00|	wg 6 (a concept for epigraphy.info) // wg 7 (themes, tasks and venue for the next epigraphy.info workshop)|
+|09.30 – 11.00|	wg 6 (a concept for epigraphy.info)|
+| | wg 7 (themes, tasks and venue for the next epigraphy.info workshop)|
 
 |11.00 – 11.30|	coffee break*|
 
@@ -136,8 +143,8 @@ This workshop took place at the [Heidelberg Academy of Sciences and Humanities (
 * A.D. Alcorac (FR, HiSoMA Research Center Lyon, e-SEC)
 * A. Campos (FR, ANHIMA Paris)
 * N. Tran (FR, University of Poitiers)
-* G. Bodard (GB, University of London)
-* S. Vanderbilt (GB, University of Nottingham)
+* G. Bodard (UK, University of London)
+* S. Vanderbilt (UK, University of Nottingham)
 * D. Demicheli (HR, University of Zagreb)
 * A. Kurilić (HR, University of Zadar)
 * L. Calvelli (IT, University Ca' Foscari of Venice)
@@ -157,8 +164,8 @@ This workshop took place at the [Heidelberg Academy of Sciences and Humanities (
 * G. Staab (DE, University of Cologne)
 * J. Gomez Pantoja (ES, University of Alcalá de Henares, HEpOnl)
 * E. Santin (FR, HiSoMA Research Center Lyon)
-* S. Lambert (GB, Cardiff University)
-* A. Mullen (GB, University of Nottingham)
+* S. Lambert (UK, Cardiff University)
+* A. Mullen (UK, University of Nottingham)
 * C. Kokkinia (GR, National Hellenic Research Foundation, KERA)
 * A. Makres (GR, Greek Epigraphic Society, HERC)
 * A. Bencivenni (IT, University of Bologna)

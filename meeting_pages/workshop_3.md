@@ -13,13 +13,13 @@ The third epigraphy.info workshop in Vienna will be taking place from Thursday M
 
 ---
 
-* [Programme of the Workshop]({{ site.baseurl }}{% link documents/workshop_3_programme.pdf %})
+* [Programme of the Workshop]({{ site.baseurl }}{% link documents/workshop_3_programme.pdf %}){:target="_blank" rel="noopener"}
 
-* [Report on the third workshop in Vienna](https://doi.org/10.11588/heidok.00027928)
+* [Report on the third workshop in Vienna](https://doi.org/10.11588/heidok.00027928){:target="_blank" rel="noopener"}
 
-* [Collaborative Google Docs](https://docs.google.com/document/d/1LwapkTiAyGbMW5U79uQ2dmxDPM3K51eTxDV7qo6BrP8/edit?usp=sharing)
+* [Collaborative Google Docs](https://docs.google.com/document/d/1LwapkTiAyGbMW5U79uQ2dmxDPM3K51eTxDV7qo6BrP8/edit?usp=sharing){:target="_blank" rel="noopener"}
 
-* [Workshop slides]({{ "documents/workshop_3_slides/" | relative_url }})
+* [Workshop slides]({{ "documents/workshop_3_slides/" | relative_url }}){:target="_blank" rel="noopener"}
 
 ---
 
@@ -34,7 +34,7 @@ The Vienna workshop will be preceded by 3 ½ days of training, which aims at giv
 The training will take place from May, 27th, to the morning of May, 30th 2019. In the afternoon of the same day the epigraphy.info workshop will start.
 Please note that the room provided by the University of Vienna for the training contains max. 24 persons. Therefore, we kindly ask you to register as soon as possible by filling out the doodle list until [28th February](https://doodle.com/poll/7g8grfbritf7bzwn)
 
-* [Programme of the EpiDoc & Technical Training]({{ site.baseurl }}{% link documents/workshop_3_training_programme.pdf %})
+* **[Programme of the EpiDoc & Technical Training]({{ site.baseurl }}{% link documents/workshop_3_training_programme.pdf %}){:target="_blank" rel="noopener"}**
 
 ## Venue
 
@@ -48,13 +48,11 @@ University of Vienna – Main Building, Universitätsring 1
    Getting there by public transport:
    Schottentor (Universität)
    Metro: U2; Tram: 1, 37, 38, 40, 41, 42, 43, 44, 71, D; Bus: 1A, 40A
-
 * Technical Training 30th May & Epigraphy.info Workshop
 Alte Kapelle am Campus, University Campus, Spitalgasse 2, 1090 Wien
    Getting there by public transport:
    Lange Gasse
    Tram: 5, 33, 43, 44
-
 * Epigraphy.info workshop: Alte Kapelle am Campus, University Campus, Spitalgasse 2, 1090 Wien
    Getting there by public transport:
    Lange Gasse
@@ -62,15 +60,15 @@ Alte Kapelle am Campus, University Campus, Spitalgasse 2, 1090 Wien
 
 [Timetables for public transport](https://www.wienerlinien.at/eportal3/ep/channelView.do/pageTypeId/66533/channelId/-2000641)
 
-Public transport maps [German](https://www.wienerlinien.at/eportal3/ep/channelView.do/pageTypeId/66526/channelId/-47187)
+Public transport maps in [German](https://www.wienerlinien.at/eportal3/ep/channelView.do/pageTypeId/66526/channelId/-47187)
 
 Citybike:
 You can also get around the city easily by hiring a Citybike. And it’s free! For more information, please visit: [https://www.citybikewien.at/en/](https://www.citybikewien.at/en/).
 
-## How to get into the city centre
+### How to get into the city centre
 At the airport [http://www.viennaairport.com/en/passengers/arriving_passenger](http://www.viennaairport.com/en/passengers/arriving_passenger)
 
-### From the airport
+#### From the airport
 * By train: there are two train services available. The CAT (one way €11; return €19) and the considerably cheaper suburban railway line S7 (timetable as pdf). As the airport is outside the Vienna city limits, you will need two tickets: one for the zone up to the Vienna city limits for €1.80 and a ticket for the Vienna city zone for €2.40 available at the vending machines at the station. Vienna-Card or holders of multi-day tickets (Wiener Linien) need ONLY one single ticket for the Vienna outer zone (€1.80). Please validate the ticket before starting your journey.
 
 * By bus
@@ -87,7 +85,7 @@ If you will be using public transport frequently, we suggest the purchase of a w
 * By car
 As tolls are compulsory on all motorways and expressways in Austria, you will need a vignette to use Vienna's city motorways. You can find detailed information on the toll charges here. Some of Vienna's districts are entirely short-stay parking zones. In districts 1 to 9 and 20, you will need to purchase a parking ticket from Monday to Friday (except on public holidays) between 9.00 am and 10.00 pm. In districts 10 to 12 and 14 to 18, short-stay parking zones apply from Monday to Friday (excluding public holidays) from 9.00 am to 7.00 pm. [more details]. We strongly recommend the option of Park & Ride.
 
-## Accommodation
+### Accommodation
 Following this [link](https://event.univie.ac.at/kongressservice/hotelreservierung/hotel-firmenvereinbarungen/hotels-in-wien/?fbclid=IwAR0xKo4gd4VpIAd1bl4LifrOUN4zE8xArsxlUrCxhn35UmRwGT6AbbW7QE8) you can find some hotels recommended by the University of Vienna. The 1st and 9th districts are the closest to the workshop’s venue.
 
 Vienna Tourism
@@ -142,9 +140,10 @@ If you are planning to visit Vienna, here you find some useful information for [
 
 |11:15 – 13:00|	2nd morning session (breakout)|
 
-|* User stories and next steps (to be arranged at the meeting)|
+* User stories and next steps (to be arranged at the meeting)
+* RDF specifications and next steps (to be arranged at the meeting)
 
-|* RDF specifications and next steps (to be arranged at the meeting)|
+<br>
 
 |13:00 – 14:00|	Lunch break|
 
@@ -156,14 +155,13 @@ If you are planning to visit Vienna, here you find some useful information for [
 
 |16:00 – 16:30|	Coffee break|
 
-|16:30 – 18:00|	2nd afternoon session (breakout)|
+|16:30 – 18:00|	2nd afternoon session (breakout,themes to be set at the meeting)|
 
-|(Themes to be set at the meeting)|
-
-
-|18:30 – 19:30	Evening lecture: [G. Sarullo, The Forum cippus and its copies. The contribution of the casts to its reading]({{ "documents/workshop_3_slides/" | relative_url }}).|
+|18:30 – 19:30	Evening lecture: [G. Sarullo, The Forum cippus and its copies. The contribution of the casts to its reading]({{ "documents/workshop_3_slides/" | relative_url }}){:target="_blank" rel="noopener"}.|
 
 |20:00 –	Social Dinner|
+
+<br>
 
 ## Saturday, 1st June 2019
 
@@ -171,7 +169,7 @@ If you are planning to visit Vienna, here you find some useful information for [
 
 |09:00 – 09:45|	Impulse: Unpublished texts. Recommendations for the correct handling and best practices (F. Feraudi)|
 
-09:45 – 10:30|	Decision on the proposal for the organisation and selection of the steering committee [submitted by J. Osnabrügge]({{ site.baseurl }}{% link documents/JO_proposal_steering_committee_Vienna.pdf %})|
+09:45 – 10:30|	Decision on the proposal for the organisation and selection of the steering committee [submitted by J. Osnabrügge]({{ site.baseurl }}{% link documents/JO_proposal_steering_committee_Vienna.pdf %}){:target="_blank" rel="noopener"}|
 
 |10:30 – 10:45|	Election of the steering committee|
 
