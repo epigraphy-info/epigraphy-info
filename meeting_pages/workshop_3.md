@@ -19,13 +19,8 @@ The third Epigraphy.info workshop in Vienna will be taking place from Thursday M
 
 * [Collaborative Google Docs](https://docs.google.com/document/d/1LwapkTiAyGbMW5U79uQ2dmxDPM3K51eTxDV7qo6BrP8/edit?usp=sharing){:target="_blank" rel="noopener"}
 
-* [Workshop slides]({{ "documents/workshop_3_slides/" | relative_url }}){:target="_blank" rel="noopener"}
+* [Workshop slides on Github](https://github.com/petrifiedvoices/epigraphy-info/tree/main/documents/workshop_3_slides){:target="_blank" rel="noopener"}
 
-
-* [Workshop slides]({{ site.baseurl }}{{ "documents/workshop_3_slides" | relative_url }}){:target="_blank" rel="noopener"}
-
-
-* [Workshop slides hardcoded](https://github.com/petrifiedvoices/epigraphy-info/tree/main/documents/workshop_2_slides){:target="_blank" rel="noopener"}
 ---
 
 
@@ -162,7 +157,7 @@ If you are planning to visit Vienna, here you find some useful information for [
 
 |16:30 – 18:00|	2nd afternoon session (breakout,themes to be set at the meeting)|
 
-|18:30 – 19:30	Evening lecture: [G. Sarullo, The Forum cippus and its copies. The contribution of the casts to its reading]({{ "documents/workshop_3_slides/" | relative_url }}){:target="_blank" rel="noopener"}.|
+|18:30 – 19:30	Evening lecture: [G. Sarullo, The Forum cippus and its copies. The contribution of the casts to its reading]({{ "documents/workshop_3_slides/Lecture_Sarullo.pdf" | relative_url }}){:target="_blank" rel="noopener"}.|
 
 |20:00 –	Social Dinner|
 

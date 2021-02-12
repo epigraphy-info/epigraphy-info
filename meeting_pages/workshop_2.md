@@ -20,7 +20,7 @@ The second epigraphy.info workshop in Zadar (University of Zadar) took place fro
 
 * [Collaborative Google Docs ](https://docs.google.com/document/d/1lVrzkASteBc-H1Ocy_cdcEM67FO9RcPM-j25-925yc8/edit){:target="_blank" rel="noopener"}
 
-* [Workshop slides]({{ "documents/workshop_2_slides/" | relative_url }}){:target="_blank" rel="noopener"}
+* [Workshop slides on Github](https://github.com/petrifiedvoices/epigraphy-info/tree/main/documents/workshop_2_slides){:target="_blank" rel="noopener"}
 
 
 
@@ -69,14 +69,14 @@ In addition, we are glad to inform you that the University could provide a subsi
 ### I. Demonstration of newly developed editors which could serve for epigraphy.info (chair: E. Mylonas):
 
 - Petrae/Patrimonium (V. Razanajao)
-- Perseids/Syriaca (video presentation Z. Fletcher) [Workshop slides]({{ "documents/workshop_2_slides/" | relative_url }}){:target="_blank" rel="noopener"}
-- Brill editor (E. Suyver) [Workshop slides]({{ "documents/workshop_2_slides/" | relative_url }}){:target="_blank" rel="noopener"} 
+- Perseids/Syriaca (video presentation Z. Fletcher) [Workshop slides]({{ "documents/workshop_2_slides/Perseids-Syriaca by Z. Fletcher.pdf" | relative_url }}){:target="_blank" rel="noopener"}
+- Brill editor (E. Suyver) [Workshop slides]({{ "documents/workshop_2_slides/SEG@Brill.pptx" | relative_url }}){:target="_blank" rel="noopener"} 
 - Networked epigraphic applications (P. Liuzzo)
 
 |Coffee Break: 16:20 - 16:35
 
-- READ editor (L. Calvelli / S. White ) [Workshop slides]({{ "documents/workshop_2_slides/" | relative_url }}){:target="_blank" rel="noopener"}
-- TEI-Publisher / Ceteicean / CapiTainS (P. Liuzzo ) [Workshop slides]({{ "documents/workshop_2_slides/" | relative_url }}){:target="_blank" rel="noopener"} 
+- READ editor (L. Calvelli / S. White ) [Workshop slides]({{ "documents/workshop_2_slides/Calvelli-White presentazione READ Platform Zara.pdf" | relative_url }}){:target="_blank" rel="noopener"}
+- TEI-Publisher / Ceteicean / CapiTainS (P. Liuzzo ) [Workshop slides]({{ "documents/workshop_2_slides/Liuzzo and Weise CDE and EDAK.pptx" | relative_url }}){:target="_blank" rel="noopener"} 
 
 |followed by a discussion (both regarding the presented editors/applications and models of exchanges in practice, and decision about functional requirements of an epigraphy.info editor)
 
@@ -89,16 +89,16 @@ In addition, we are glad to inform you that the University could provide a subsi
 
 Allied project reports (10 minutes each)
  - Oxford meeting (T. Elliott) [Workshop Slides](https://docs.google.com/presentation/d/1-Efg6vWBwcALq64GhWhewKndLV5u9EygTUlxOrEkZcY/edit?usp=sharing){:target="_blank" rel="noopener"}
- - GODOT (F. Grieshaber) [Workshop slides]({{ "documents/workshop_2_slides/" | relative_url }})
+ - GODOT (F. Grieshaber) [Workshop slides]({{ "documents/workshop_2_slides/godot.pdf" | relative_url }})
  - Trismegistos corpusdata + New Trismegistos API (T. Gheldof)
  - LatinNow (video presentation S. Vanderbilt) [Workshop Slides](https://prezi.com/view/eVJ3GyAy9VNsDSHjxOLu/){:target="_blank" rel="noopener"}
  - EPNet (J. M. Bermúdez)
- - Comparative Digital Epigraphy and EDAK (P. Liuzzo / F. Weise) [Workshop slides]({{ "documents/workshop_2_slides/" | relative_url }}){:target="_blank" rel="noopener"}
+ - Comparative Digital Epigraphy and EDAK (P. Liuzzo / F. Weise) [Workshop slides]({{ "documents/workshop_2_slides/Liuzzo and Weise CDE and EDAK.pptx" | relative_url }}){:target="_blank" rel="noopener"}
  - CRMepi CRMtext (video presentation F. Murano / A. Felicetti)
 
 |Coffee break - 10:30-10:45|
 
-|"State of data & discipline": what's already done and who is doing it? (F. Feraudi-Gruénais) [Workshop slides]({{ "documents/workshop_2_slides/" | relative_url }}){:target="_blank" rel="noopener"}|
+|"State of data & discipline": what's already done and who is doing it? (F. Feraudi-Gruénais) [Workshop slides]({{ "documents/workshop_2_slides/ZD-WS_Feraudi_II2-state-of-data_Def.pdf" | relative_url }}){:target="_blank" rel="noopener"}|
 
 Decisions about how to formalise
  - what is the mission of the epigraphy.info group?
