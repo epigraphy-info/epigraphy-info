@@ -23,28 +23,7 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 
 Interested in checking the activities of our community? Follow us on Twitter, Instagram, and Facebook!
 
-<script src="https://apis.google.com/js/platform.js"></script>
-
-<div class="g-ytsubscribe" data-channel="GoogleDevelopers" data-layout="default" data-count="default"></div>
-
-<script>window.twttr = (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0],
-    t = window.twttr || {};
-  if (d.getElementById(id)) return t;
-  js = d.createElement(s);
-  js.id = id;
-  js.src = "https://platform.twitter.com/widgets.js";
-  fjs.parentNode.insertBefore(js, fjs);
-
-  t._e = [];
-  t.ready = function(f) {
-    t._e.push(f);
-  };
-
-  return t;
-}(document, "script", "twitter-wjs"));</script>
-
-<a class="twitter-follow-button"   href="https://twitter.com/epigraphy_info" data-show-screen-name="false" data-lang="ar"> Follow @epigraphy_info</a>
+<a href="https://twitter.com/epigraphy_info?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @epigraphy_info</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## MEMBERS
 
