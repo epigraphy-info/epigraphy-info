@@ -11,9 +11,13 @@ Provide short description of the working group, its aims.
 
 ## Members:
 
-* First Name, Last Name
-* First Name, Last Name
-* First Name, Last Name
+* Lorenzo Calvelli
+* Chiara Cenati
+* Alberto Dalla Rosa
+* M. Cristina de la Escosura Balbas
+* Francisca Feraudi-Gruénais
+* Tom Gheldof
+* Marietta Horster
 
 
 ## Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
