@@ -7,33 +7,43 @@ permalink: /social_media_wg/
 
 # Social Media WG
 
-You can follow us at [Facebook](https://www.facebook.com/epigraphy.info/), [Twitter](https://twitter.com/epigraphy_info), [Instagram](https://www.instagram.com/epigraphy.info/) or [GitHub](https://github.com/epigraphy-info).
+## WHO WE ARE AND WHAT WE DO
 
+The **Social Media working group** was established at the [3rd Epigraphy.info workshop]({{ "meeting_pages/workshop_3" | relative_url }})
+ in Vienna with the goal of presenting the work of the Epigraphy.info community, facilitating communication between Epigraphy.info partners and the public, and attracting new researchers, students and enthusiasts for our community.
+The working group disseminates events, news, and information pertinent to the Epigraphy.info community and its partners via the Epigraphy.info website and three widely-used social media channels: [Twitter](https://twitter.com/epigraphy_info), [Instagram](https://www.instagram.com/epigraphy.info/), and [Facebook](https://www.facebook.com/epigraphy.info/). The working group team members create and share contents with an ever-growing community, giving visibility to the activity of Epigraphy.info and of its partners.
 
-Provide short description of the working group, its aims.
+Read our Statement [here] (https://docs.google.com/document/d/1KKpK_mSPYoBqlkYwb-tp60J-Tfqri5mBDu9w3_0abS0/edit).
 
-## Members (2020-2021):
+## DO YOU WANT TO SHARE YOUR CONTENT WITH OUR HELP?
 
-* Chiara Cenati, University of Vienna (Facebook, Twitter) 
-* Cristina de la Escosura, University of Zaragoza (Twitter) 
-* Sergio España-Chamorro, CNRS Bordeaux Montaigne (Instagram) 
-* Petra Heřmánková, Aarhus University (website, Twitter) 
-* Tina Hobel, University of Vienna (graphics, Facebook, Twitter) 
-* Anja Ragolič, Archaeological Institute Ljublana (Facebook) 
-* Nadine F. Riegler, University of Vienna (Facebook, Twitter) 
-* Franziska Weise, Hamburg University (Facebook)
+If you are a partner of the Epigraphy.info community, we will help you to share your content! Don’t hesitate to contact us via <a href = "mailto: socialmedia@epigraphy.info">socialmedia@epigraphy.info</a>.
 
+## OUR SOCIAL MEDIA CHANNELS
 
-## Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+Interested in checking the activities of our community? Follow us on Twitter, Instagram, and Facebook!
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=602685fc1e16b800121b0188&product=inline-follow-buttons" async="async"></script>
 
-## Important links
+## MEMBERS
+
+* Chiara Cenati (since 2019)
+* M. Cristina de la Escosura Balbas (since 2020)
+* Sergio España-Chamorro (since 2020)
+* Petra Heřmánková (since 2020)
+* Tina Hobel (since 2019)
+* Anja Ragolič (since 2020)
+* Nadine F. Riegler (since 2020)
+* Franziska Weise (since 2019)
+
+### *Previous Members*
+
+* David Espinosa Espinosa (2019-2020)
+
+## IMPORTANT LINKS
 
 GitHub: [https://github.com/epigraphy-info](https://github.com/epigraphy-info)
 
 Working group folder on Google Drive: [Link TBA](https://www.providesomelinkhere.org/")
 
-E-mail contact: email@email.xxx
-
-
+E-mail contact: <a href = "mailto: socialmedia@epigraphy.info">socialmedia@epigraphy.info</a>
