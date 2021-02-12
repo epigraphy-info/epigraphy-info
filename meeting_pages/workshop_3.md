@@ -22,7 +22,8 @@ The third Epigraphy.info workshop in Vienna will be taking place from Thursday M
 * [Workshop slides]({{ "documents/workshop_3_slides/" | relative_url }}){:target="_blank" rel="noopener"}
 
 
-* [Workshop slides](../documents/workshop_3_slides/){:target="_blank" rel="noopener"}
+* [Workshop slides]({{ site.baseurl }}{{ "documents/workshop_3_slides/" | relative_url }}){:target="_blank" rel="noopener"}
+
 ---
 
 
