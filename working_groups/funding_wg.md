@@ -28,7 +28,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 GitHub: [https://github.com/epigraphy-info](https://github.com/epigraphy-info)
 
-Working group folder on Google Drive: [Google Drive Folder](https://drive.google.com/drive/folders/1ZgiUkQWzJ-MKT-dNkXGJNanl0moA2uz9)
+Working group folder on Google Drive: [Google Drive Folder](https://drive.google.com/drive/folders/1ZgiUkQWzJ-MKT-dNkXGJNanl0moA2uz9){target="blank"}
 
 E-mail contact: email@email.xxx
 
