@@ -20,7 +20,7 @@ published: true
 ### Members of the Steering Committe of Epigraphy.info since 2018:
 
 * Cenati, Chiara / University of Vienna / 2019-2020
-* de la Escosura, M. Cristina / University of Zaragoza / 2019-2020
+* de la Escosura Balbas, M. Cristina / University of Zaragoza / 2019-2020
 * Elliott, Tom / New York University / 2018 (tech.comm.). 2019-2020
 * Feraudi-Gruénais, Francisca / Heidelberg Academy of Sciences and Humanities, EDH / 2018-2019
 * Gheldof, Tom / Trismegistos / 2019-2020
