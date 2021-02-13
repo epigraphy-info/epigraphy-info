@@ -9,7 +9,7 @@ published: true
 
 # Epigraphy.info Workshop III Vienna
 
-The third Epigraphy.info workshop in Vienna will be taking place from Thursday May, 30th – Saturday June, 1st 2019. 
+The third Epigraphy.info workshop in Vienna will be taking place from Thursday May, 30th – Saturday June, 1st 2019.
 
 ---
 
@@ -28,7 +28,7 @@ The third Epigraphy.info workshop in Vienna will be taking place from Thursday M
 
 In order to register for the workshop, we kindly ask you to fill out this doodle list until 28th February [https://doodle.com/poll/7g8grfbritf7bzwn](https://doodle.com/poll/7g8grfbritf7bzwn).
 
-## EpiDoc & technical training:
+## EpiDoc & technical training
 
 The Vienna workshop will be preceded by 3 ½ days of training, which aims at giving an orientation on EpiDoc, XML, DTS etc.
 The training will take place from May, 27th, to the morning of May, 30th 2019. In the afternoon of the same day the epigraphy.info workshop will start.
@@ -78,9 +78,9 @@ There are also regional buses connecting the airport with the city centre (one w
 There are different taxi/limousine services that can be booked online and bring you directly to your destination. Approx. price: 30-45€.
 
 * From the railway or bus station
-Metro lines, trams and buses of the Wiener Linien take you from any train or bus station to any other place in the city. 
- 
-If you will be using public transport frequently, we suggest the purchase of a weekly pass (€17.10, valid from Monday to the following Monday 9am), but 24-,48- and 72-hour tickets are also available. The fare for a single trip is €2.40. Tickets are valid on all public transport lines within Vienna's Zone 100. 
+Metro lines, trams and buses of the Wiener Linien take you from any train or bus station to any other place in the city.
+
+If you will be using public transport frequently, we suggest the purchase of a weekly pass (€17.10, valid from Monday to the following Monday 9am), but 24-,48- and 72-hour tickets are also available. The fare for a single trip is €2.40. Tickets are valid on all public transport lines within Vienna's Zone 100.
 
 * By car
 As tolls are compulsory on all motorways and expressways in Austria, you will need a vignette to use Vienna's city motorways. You can find detailed information on the toll charges here. Some of Vienna's districts are entirely short-stay parking zones. In districts 1 to 9 and 20, you will need to purchase a parking ticket from Monday to Friday (except on public holidays) between 9.00 am and 10.00 pm. In districts 10 to 12 and 14 to 18, short-stay parking zones apply from Monday to Friday (excluding public holidays) from 9.00 am to 7.00 pm. [more details]. We strongly recommend the option of Park & Ride.
@@ -91,7 +91,7 @@ Following this [link](https://event.univie.ac.at/kongressservice/hotelreservieru
 Vienna Tourism
 If you are planning to visit Vienna, here you find some useful information for [sightseeing](https://www.wien.info/en) and [city-walks](https://www.city-walks.info/Vienna/Attractions.html).
 
---- 
+---
 
 # Programme
 
@@ -180,4 +180,3 @@ If you are planning to visit Vienna, here you find some useful information for [
 * What are the next steps that we should take? General discussion.
 * Decision on who will represent epigraphy.info during the [NACGLE 2020](https://www.asgle.org/nacgle-2020-washington-d-c/) and/or whether it will coincide with (one of) the next regular epigraphy.info workshop(s).
 * Decision on where the next epigraphy.info meeting should take place.
-

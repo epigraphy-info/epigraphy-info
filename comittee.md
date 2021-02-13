@@ -7,11 +7,11 @@ published: true
 
 ## The [Steering committee]({{ site.baseurl }}{% link documents/steeringcommittee.pdf %}) in 2020/2021:
 
-* Javier Andreu Pintado, University of Navarra, Spain
-* Tom Gheldof, Trismegistos / KU Leuven, Belgium
+* Javier Andreu Pintado, University of Navarra, ES
+* Tom Gheldof, Trismegistos / KU Leuven, BE
 * Aaron Hershkowitz, Princeton University, USA
 * Jonathan Prag, Oxford University, UK
-* Anja Ragolic, Archaeological Institute Ljublana, Slovenia
+* Anja Ragolic, Archaeological Institute Ljubljana, SLO
 * Thea Sommerschield, Oxford University, UK
 
 
@@ -35,6 +35,4 @@ published: true
 
 ---
 
-**See the election process for The Steering committee [(in PDF)]({{ site.baseurl }}{% link documents/steeringcommittee.pdf %}).**
-
-
+**See the election process for the Steering committee [(in PDF)]({{ site.baseurl }}{% link documents/steeringcommittee.pdf %}).**
