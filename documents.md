@@ -16,7 +16,7 @@ permalink: /documents/
 
 [Report on the second Epigraphy.info Workshop Zadar, December 14th - 16th 2018](http://archiv.ub.uni-heidelberg.de/volltextserver/26330/)
 
-[Report on the first epigraphy.info workshop in Heidelberg, March 21st - 23rd, 2018](http://archiv.ub.uni-heidelberg.de/volltextserver/24397/)
+[Report on the first Epigraphy.info workshop in Heidelberg, March 21st - 23rd, 2018](http://archiv.ub.uni-heidelberg.de/volltextserver/24397/)
 
 
 ---
