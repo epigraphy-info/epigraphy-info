@@ -7,9 +7,25 @@ permalink: /funding_wg/
 
 # Funding WG
 
-Provide short description of the working group, its aims.
+## WHO WE ARE AND WHAT WE DO:
 
-## Members:
+The Funding Working Group consists of a team of 7 Epigraphy.info members affiliated to different institutions in different countries. 
+The group has an intermediary role between the community and the Steering Committee, which will have to approve the decisions.
+
+The tasks of the group are:
+
+* figure out and manage possibilities for funding in order to cover the needs of the Epigraphy.info community and of its partners
+* help you find the best solution for your digital epigraphy project and find technical support
+* provide advice by writing proposals, which are in line with the Epigraphy.info guidelines and best practices
+
+## YOU CAN ADDRESS OUR TEAM IF:
+* you are already part of the Epigraphy.info community and you are exploring a way to fund your digital epigraphy initiatives 
+* you are starting a digital epigraphy project and you need advice on how to coordinate your work with the Epigraphy.info community 
+* you need a letter of intent for your application
+
+We will do our best to help you!
+
+## MEMBERS:
 
 * Lorenzo Calvelli
 * Chiara Cenati
@@ -19,17 +35,12 @@ Provide short description of the working group, its aims.
 * Tom Gheldof
 * Marietta Horster
 
-
-## Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-
 ## Important links
 
 GitHub: [https://github.com/epigraphy-info](https://github.com/epigraphy-info)
 
-Working group folder on Google Drive: [Google Drive Folder](https://drive.google.com/drive/folders/1ZgiUkQWzJ-MKT-dNkXGJNanl0moA2uz9)
+Working group folder on Google Drive: [Google Drive Folder]([link](url){:target="_blank"}https://drive.google.com/drive/folders/1ZgiUkQWzJ-MKT-dNkXGJNanl0moA2uz9)
 
-E-mail contact: email@email.xxx
+E-mail contact: funding@epigraphy.info
 
 ---
