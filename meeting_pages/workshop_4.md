@@ -9,7 +9,7 @@ published: true
 
 # Epigraphy.info Workshop IV Hamburg
 
-The 4th epigraphy.info workshop in Hamburg will be taking place from February 19th-21st, 2020. 
+The 4th epigraphy.info workshop in Hamburg will be taking place from February 19th-21st, 2020.
 
 
 ---
@@ -26,13 +26,13 @@ The 4th epigraphy.info workshop in Hamburg will be taking place from February 19
 In order to register for the workshop, we kindly ask you to fill out this doodle list until 30th September 2019: [https://doodle.com/poll/dy8k5bngr2s5e8fb](https://doodle.com/poll/dy8k5bngr2s5e8fb).
 
 
-## EpiDoc & technical training:
+## EpiDoc & technical training
 
 The Hamburg workshop will be preceded by 3 ½ days of training, which aims at giving an orientation on EpiDoc, XML, DTS etc.
 The training will take place from February, 17th, to the morning of February, 19th 2020. In the afternoon of the same day the epigraphy.info workshop will start.
 We kindly ask you to register as soon as possible by filling out the doodle list until 30th September: [https://doodle.com/poll/dy8k5bngr2s5e8fb](https://doodle.com/poll/dy8k5bngr2s5e8fb)
 
-**[Programme of the EpiDoc & Technical Training in PDF]({{ site.baseurl }}{% link documents/programme_TEI_training2.pdf %}){:target="_blank" rel="noopener"}**
+* **[Programme of the EpiDoc & Technical Training in PDF]({{ site.baseurl }}{% link documents/programme_TEI_training2.pdf %}){:target="_blank" rel="noopener"}**
 
 ## Venue
 
@@ -67,13 +67,9 @@ There are also modestly priced hostels not far away from the university:
 * [instant Sleep Backpacker Hostel](https://instantsleep.com/), Max-Brauer-Allee 277, Altona-Nord, 22769 Hamburg
 * [Jugendherberge Hamburg Auf dem Stintfang](https://www.jugendherberge.de/jugendherbergen/hamburg-stintfang-523/portraet/), Alfred-Wegener-Weg 5, St.Pauli, 20459 Hamburg
 * [Backpackers St. Pauli](https://www.backpackers-stpauli.de/), Bernstorffstraße 98, Altona-Altstadt, 22767 Hamburg
-* [A&O Hostels](https://www.aohostels.com/de/jugendherberge/jugendherberge-hamburg/?gclid=EAIaIQobChMIoI6toKa55AIVieh3Ch1Mdwl0EAAYAiAAEgLIGvD_BwE), different locations throughout the city 
+* [A&O Hostels](https://www.aohostels.com/de/jugendherberge/jugendherberge-hamburg/?gclid=EAIaIQobChMIoI6toKa55AIVieh3Ch1Mdwl0EAAYAiAAEgLIGvD_BwE), different locations throughout the city
 
 
 ### Hamburg Tourism
 
 If you are planning to visit Hamburg, [here](https://www.hamburg-travel.com/?_ga=2.89534107.1622328704.1567513620-860014801.1567513620&trcontrol=0) you find some useful information for sightseeing and tours.
-
-
-
-

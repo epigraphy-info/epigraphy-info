@@ -15,7 +15,7 @@ The Working Group is tasked to 'clean-up' vocabularies created by the [Eagle Eur
 * Stefania De Vido
 * Silvia Evangelisti
 * Petra Hermankova
-* Aaron Herskowitz
+* Aaron Hershkowitz
 * Marietta Horster
 * Valentina Mignosa
 * Jonathan Prag
