@@ -4,7 +4,6 @@ title: Social Media WG
 permalink: /social_media_wg/
 ---
 
-
 ## WHO WE ARE AND WHAT WE DO
 
 The **Social Media working group** was established at the [3rd Epigraphy.info workshop]({{ "workshop_3/" | relative_url }})
@@ -28,6 +27,11 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 * Nadine F. Riegler (since 2020)
 * Franziska Weise (since 2019)
 
+
+<!-- if you want to insert any image, photo
+<img src='{{site.baseurl}}/assets/XXX.jpg' style="width:100%;" alt="Image description" align="middle">
+-->
+
 ### *Previous Members*
 
 * David Espinosa Espinosa (2019-2020)
@@ -38,4 +42,4 @@ GitHub: [https://github.com/epigraphy-info](https://github.com/epigraphy-info)
 
 Working group folder on Google Drive: [Link TBA](https://www.providesomelinkhere.org/")
 
-E-mail contact: <a href = "mailto: socialmedia@epigraphy.info">socialmedia@epigraphy.info</a>
+E-mail contact: [socialmedia@epigraphy.info](mailto:socialmedia@epigraphy.info)

@@ -1,13 +1,11 @@
 # How to edit Epigraphy.info website
-**Petra Hermankova**
-
-**Contact email** [petra.janouchova@gmai.com](mailto:petra.janouchova@gmail.com) / [petra.hermankova@cas.au.dk](mailto:petra.janouchova@gmail.com) 
+**Petra Hermankova**, Contact email: [petra.janouchova@gmai.com](mailto:petra.janouchova@gmail.com) / alternatively [petra.hermankova@cas.au.dk](mailto:petra.janouchova@gmail.com) 
 
 [@petrifiedvoices](https://github.com/petrifiedvoices) on GitHub
 
 **Website:** static website using [GitHub pages infrastructure](https://guides.github.com/features/pages/) (Jekyll), pages written in markdown and then automatically transformed to html
 
-If you are planning to do a major change (adding new pages, instead of editing the existing ones, changing layout and the design etc.), please contact Petra.
+If you are planning to do a major change (adding new pages, instead of editing the existing ones, changing layout templates and the design etc.) and need help, please contact Petra.
 
 You can easily change the contents of the existing pages, add photos, documents etc.
 
@@ -26,7 +24,7 @@ Best to start with [https://guides.github.com/activities/hello-world/](https://g
 
 **In order to edit the website, you will need to:**
 1. create a GitHub Account
-1. be added to the epigraphy-info Github organization (in order to work independently)
+1. ask to be added to the epigraphy-info Github organization (in order to work independently)
 1. or you can commit your changes and someone from within the organisation has to approve your changes
 
 
@@ -43,38 +41,37 @@ There are two modes of editing the website:
 1. Commit changes.
 1. Go to the GithubPages and wait for the server to process the change.
 
-### LOCALLY on your computer
+### LOCALLY on your computer (preferred mode)
 
 - safer option; steep learning curve but great for tracking changes anc collaboration between multiple people
-- preferred mode!
 - the easiest way is to use command line (Terminal) on your computer, but if you prefer there are several GUI Clients/softwares that you can use on Windows and Macs such as [GitHub Desktop](https://desktop.github.com/)
 	
 #### First time working with repo
 
-1. Clone the repo to your local computer. `git clone “address of your repo” `
-1. Make edits to all your files.
-1. Add changes. `git add “file” `
-1. Commit changes. `git commit -m “my commit message” `
-1. Push changes to Github. `git push origin “name of branch” `
+1. Clone the repo to your local computer. In terminal: `git clone “address of your repo” `
+1. Make edits to your files and save them.
+1. Add changes. Terminal: `git add “file” `
+1. Commit changes. Terminal: `git commit -m “my commit message” `
+1. Push changes to Github. Terminal: `git push origin “name of branch” `
 1. Go to the GithubPages and wait for the server to process the change.
 
 #### Second time working with repo
 
 1. Go to the folder containing website docs on your computer.
-1. Pull all new changes from Github to your local computer. `git pull ` 
-1. Make edits to all your files.
-1. Add changes. `git add “file” `
-1. Commit changes. `git commit -m “my commit message” `
-1. Push changes to Github. `git push origin “name of branch” `
+1. Pull all new changes from Github to your local computer. Terminal: `git pull ` 
+1. Make edits to your files and save them.
+1. Add changes. Terminal: `git add “file” `
+1. Commit changes. Terminal: `git commit -m “my commit message” `
+1. Push changes to Github. Terminal: `git push origin “name of branch” `
 1. Go to the GithubPages and wait for the server to process the change.
 
 #### Major changes
 
-If you are planning major changes, or want to see how they look on the website before committing them to GitHub, you can run Jekyll server locally on your computer and test locally.
+If you are planning major changes, or want to see how they look on the website before committing them to GitHub, you can run Jekyll server locally on your computer and test locally. You have to have installed Jekyll and all dependencies on your local computer.
 
 1. Go to the folder containing website docs on your computer.
 1. Pull all new changes from Github to your local computer.
-1. Using the command line, start the Jekyll server `bundle exec jekyll serve`. You may need to install [Jekyll prerequisites](https://jekyllrb.com/docs/) to your 1. computer first.
+1. Using the command line, start the Jekyll server by typing into the Terminal `bundle exec jekyll serve`. You may need to install [Jekyll prerequisites](https://jekyllrb.com/docs/) to your 1. computer first.
 1. Make edits to all your files.
 1. Type ‘http://localhost:4000’ in your browser and check the changes you have made on the website. 
 1. Once you are happy with your changes, add them, commit and push them to Github.
@@ -83,3 +80,43 @@ If you are planning major changes, or want to see how they look on the website b
 #### Alternative branches and pull requests
 
 If you are making a lot of changes at the same time, you may consider creating a new branch instead of making the changes directly to the main branch where the website is stored. Once you are happy with your changes, you can merge the branch with the main by pull request. How to create a pull request is best summarized on this link [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world).
+
+
+### Structure of the pages
+
+* Main page lives in `index.html` document
+* Other pages live in markdown files with the file extension .md
+* Configuration files live in YAML files with the file extension .yml, or in folders `_data`, `_includes`, `_layouts`, `_sass`, `css`, `js`
+* The static website lives in the folder `_site` - do not change anything here manually
+* Photos live in the folder `assets`
+* Posts in the News section live in the folder `_posts` - please use the provided template post
+* PDFs, presentations and other documents live in the folder `documents`
+* For better organisation and navigation between files, some of the pages live in separate folders, such as `meeting_pages` or `working_groups`
+
+### Templates
+
+**News**
+
+The template post/news lives in the folder `_posts` >>> [Template post](../_posts/2021-01-01-Template_post.markdown)
+
+**Photos**
+
+The image has to exist locally / on GitHub in the folder `assets`
+
+```photos
+<img src='{{site.baseurl}}/assets/XXX.jpg' style="width:100%;" alt="Provide a description of your XXX image" align="middle">
+```
+
+**Hyperlink**
+```
+[This is my public name for the link](https://en.wikipedia.org/wiki/Epigraphy)
+```
+
+**Hyperlink to document on this page**
+
+The documents has to exist locally / on GitHub in the folder `documents`
+
+```
+[This is my public name for the document, e.g. the 5th Epigraphy info programme]({{ site.baseurl }}{% link documents/Epigraphy.info_V_Programm.pdf %})
+```
+

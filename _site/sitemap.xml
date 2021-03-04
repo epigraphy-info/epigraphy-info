@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/epigraphy-info/test/2020/11/23/Test_post_1.html</loc>
-<lastmod>2020-11-23T13:00:00+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/epigraphy-info/news/2020/11/23/Test_post_2.html</loc>
+<loc>http://localhost:4000/epigraphy-info/news/2020/11/23/Template_post.html</loc>
 <lastmod>2020-11-23T15:00:00+01:00</lastmod>
 </url>
 <url>

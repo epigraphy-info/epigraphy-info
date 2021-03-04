@@ -41,6 +41,7 @@ Provide short description of the working group, its aims.
 * First Name, Last Name
 * First Name, Last Name
 
+<img src='{{site.baseurl}}/assets/XXX.jpg' style="width:100%;" alt="Image description" align="middle">
 
 ## Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
 
