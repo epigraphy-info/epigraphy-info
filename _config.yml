@@ -12,14 +12,14 @@ exclude:
 title: "Epigraphy.info"
 subtitle: "A Collaborative Environment for Digital Epigraphy"
 email: info@epigraphy.info
-name: Petra Hermankova (creator)
+name: Petra Hermankova (webmaster)
 description: >
   Epigraphy.info is an international open community pursuing a collaborative environment for digital epigraphy, which facilitates scholarly communication and interaction.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "/epigraphy-info" # the subpath of your site, e.g. /blog/
-url: "http://petrifiedvoices.github.io/" # the base hostname & protocol for your site
+url: "http://epigraphy-info.github.io/" # the base hostname & protocol for your site
 cover: "/assets/Header_Facebook_Code_only.png" #
 logo: "/assets/logo.jpg"
 
@@ -48,11 +48,11 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: News
+    desc: "latest news in the Epigraphy.info community"
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: Meetings
+    desc: "Meetings and Events in the Epigraphy.info community"
 
 # Social icons and sharing options
 #
@@ -186,9 +186,9 @@ protocols:
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/petrfiedvoices/epigraphy-info/"
+    os_repo: "https://github.com/epigraphy-info/epigraphy-info/"
     os_rcs_type: "git"
-    os_src: "git@github.com:petrifiedvoices/epigraphy-info.git"
+    os_src: "git@github.com:epigraphy-info/epigraphy-info.git"
 
 
 
@@ -209,6 +209,7 @@ navigation:
           url: meetings/workshop_1.md
     - text: Contact
       url: contact.md
+
 
 
 
