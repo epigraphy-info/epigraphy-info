@@ -4,113 +4,113 @@ title: Partners
 permalink: /partners/
 ---
 
+### [Attic Inscriptions Online](https://www.atticinscriptions.com/)
+Inscriptions of ancient Athens and Attica in English translation
+
+### [CLE Hispaniae](http://cle.us.es/clehispaniae/index.jsf) 
+Carmina Latina Epigraphica Hispaniae
+
 ### [Epigraphic Database Bari](https://www.edb.uniba.it/)
 Epigraphic documents of Christian patronage 
 
-### Epigraphic Database Heidelberg 
-Link: [Latin inscriptions of the Roman Empire](http://edh-www.adw.uni-heidelberg.de) 
+### [Epigraphic Database Clauss Slaby](http://db.edcs.eu/epigr/epi.php?s_sprache=en) 
+Database of Latin inscriptions
 
-### Epigraphic Database Rome 
-Link: [Epigraphic documents from Italic Regions](http://www.edr-edr.it/) 
+### [EDF](http://edf.unive.it/) 
+Epigraphic Database Falsae
 
-### Hispania Epigraphica Online 
-Link: [Epigraphic patrimony of Portugal and Spain](http://eda-bea.es/) 
+### [Epigraphic Database Heidelberg](http://edh-www.adw.uni-heidelberg.de) 
+Latin inscriptions of the Roman Empire
 
-### PETRAE 
-Link: [Latin and Greek inscriptions (Institut Ausonius)](http://petrae.huma-num.fr/fr/) 
+### [Epigraphische Datenbank zum antiken Kleinasien](https://www.epigraphik.uni-hamburg.de) 
+Greek & Latin inscriptions from Turkey
 
-### Last Statues of Antiquity 
-Link: [Database for Late Antiquity Statues](http://laststatues.classics.ox.ac.uk/) 
+### [Epigraphic Database Rome](http://www.edr-edr.it/)
+Epigraphic documents from Italic Regions
 
-### Roman Inscriptions of Britain 
-Link: [Epigraphic patrimony of Britain](https://romaninscriptionsofbritain.org/) 
+### [EDV](http://edvcorpus.com/wp) 
+Epigraphic Database Vernacular
 
-### Ubi Erat Lupa 
-Link: [Images of stone monuments](http://lupa.at/) 
+### [Epigraphica 3.0](http://www.epigraphica30.com/) 
+Digital corpus of Roman inscriptions from Ourense province
 
-### Epigraphic Database Clauss Slaby 
-Link: [Database of Latin inscriptions](http://db.edcs.eu/epigr/epi.php?s_sprache=en) 
+### [Epigraphica Romana](http://www.epigraphica-romana.fr/) 
+Recent Epigraphic Editions
 
-### Europeana EAGLE 
-Link: [Europeana network of Ancient Greek and Latin Epigraphy](https://www.eagle-network.eu) 
+### [Europeana EAGLE](https://www.eagle-network.eu) 
+Europeana network of Ancient Greek and Latin Epigraphy
 
-### IDEA 
-Link: [International Digital Epigraphy Association](https://www.eagle-network.eu/about/who-we-are/) 
+### [FERCAN](http://gams.uni-graz.at/context:fercan) 
+Keltische Götternamen in den Inschriften der römischen Provinz Germania Inferior
 
-### Trismegistos 
-Link: [Portal of papyrological and epigraphical resources](https://www.trismegistos.org/) 
+### [Greek Inscriptions Online](http://www.greekinscriptions.com/) 
+Translations of Ancient Greek inscriptions into Modern Greek
 
-### Epigraphische Datenbank zum antiken Kleinasien 
-Link: [Greek & Latin inscriptions from Turkey](https://www.epigraphik.uni-hamburg.de) 
+### [Hispania Epigraphica Online](http://eda-bea.es/) 
+Epigraphic patrimony of Portugal and Spain
 
-### Supplementum Epigraphicum Graecum (SEG) 
-Link: [Greek inscriptions with critical apparatus](http://referenceworks.brillonline.com/browse/supplementum-epigraphicum-graecum) 
+### [IDEA](https://www.eagle-network.eu/about/who-we-are/) 
+International Digital Epigraphy Association]
 
-### USEP 
-Link: [U.S. Epigraphy Project](http://usepigraphy.brown.edu/) 
+### [IGLS](https://igls.mom.fr/)
+Inscriptions grecques et latines de la Syrie] 
 
-### Inscriptions of Greek Cyrenaica 
-Link: [Online Edition of Greek inscriptions from Libya](https://igcyr.unibo.it/) 
+### [Inscriptions of Greek Cyrenaica](https://igcyr.unibo.it/)
+Online Edition of Greek inscriptions from Libya
 
-### The Ancient Graffiti Project 
-Link: [Digital resource of graffiti of Herculaneum and Pompeii](http://ancientgraffiti.org/Graffiti/) 
+### [Inscriptions of Israel / Palestine](http://cds.library.brown.edu/projects/Inscriptions/index.shtml)
+Inscriptions of Israel/Palestine from the Persian period through the Islamic conquest 
 
-### Attic Inscriptions Online 
-Link: [Inscriptions of ancient Athens and Attica in English translation](https://www.atticinscriptions.com/) 
+### [I.Sicily](http://sicily.classics.ox.ac.uk/) 
+Inscriptions of Sicily
 
-### Greek Inscriptions Online 
-Link: [Translations of Ancient Greek inscriptions into Modern Greek](http://www.greekinscriptions.com/) 
+### [Krateros](https://www.ias.edu/krateros) 
+Digital repository for the collections of epigraphic squeezes
 
-### PATRIMONIVM 
-Link: [Geography and Economy of the Imperial Properties in the Roman World](http://patrimonium.huma-num.fr/) 
+### [Last Statues of Antiquity](http://laststatues.classics.ox.ac.uk/) 
+Database for Late Antiquity Statues
 
-### Epigraphica Romana 
-Link: [Recent Epigraphic Editions](http://www.epigraphica-romana.fr/) 
+### [LLDB](http://lldb.elte.hu/) 
+Computerized Historical Linguistic Database of the Latin Inscriptions of the Imperial
 
-### Inscriptions of Israel / Palestine 
-Link: [Inscriptions of Israel/Palestine from the Persian period through the Islamic conquest](http://cds.library.brown.edu/projects/Inscriptions/index.shtml) 
+### [MAPPOLA](https://mappola.eu/)
+Mapping out the poetic landscape(s) of the Roman empire 
 
-### Krateros 
-Link: [Digital repository for the collections of epigraphic squeezes](https://www.ias.edu/krateros) 
+### [PATRIMONIVM](http://patrimonium.huma-num.fr/) 
+Geography and Economy of the Imperial Properties in the Roman World
 
-### Epigraphica 3.0 
-Link: [Digital corpus of Roman inscriptions from Ourense province](http://www.epigraphica30.com/) 
+### [PETRAE](http://petrae.huma-num.fr/fr/) 
+Latin and Greek inscriptions (Institut Ausonius)
 
-### FERCAN 
-Link: [Keltische Götternamen in den Inschriften der römischen Provinz Germania Inferior](http://gams.uni-graz.at/context:fercan) 
+### [PYTHIA](https://github.com/sommerschield/ancient-text-restoration) 
+A deep learning model for the automatic restoration of Greek inscriptions
 
-### TITULUS 
-Link: [TEI/EpiDoc platform of medieval epigraphic material from France](http://titulus.huma-num.fr/) 
+### [Roman Inscriptions of Britain](https://romaninscriptionsofbritain.org/)
+Epigraphic patrimony of Britain
 
-### EDV 
-Link: [Epigraphic Database Vernacular](http://edvcorpus.com/wp) 
+### [Supplementum Epigraphicum Graecum (SEG)](http://referenceworks.brillonline.com/browse/supplementum-epigraphicum-graecum)
+Greek inscriptions with critical apparatus
 
-### IGLS 
-Link: [Inscriptions grecques et latines de la Syrie](https://igls.mom.fr/) 
+### [The Ancient Graffiti Project](http://ancientgraffiti.org/Graffiti/) 
+Digital resource of graffiti of Herculaneum and Pompeii
 
-### VM Los Bañales 
-Link: [Museo Virtual – Los Bañales](https://sketchfab.com/banalesmuseovirtual) 
+### [TITULUS](http://titulus.huma-num.fr/) 
+TEI/EpiDoc platform of medieval epigraphic material from France
 
-### VM Santa Criz 
-Link: [Museo Virtual – Santa Criz](https://sketchfab.com/santacrizmv) 
+### [Trismegistos](https://www.trismegistos.org/) 
+Portal of papyrological and epigraphical resources
 
-### I.Sicily 
-Link: [Inscriptions of Sicily](http://sicily.classics.ox.ac.uk/) 
+### [Ubi Erat Lupa](http://lupa.at/) 
+Images of stone monuments
 
-### MAPPOLA 
-Link: [Mapping out the poetic landscape(s) of the Roman empire](https://mappola.eu/) 
+### [USEP](http://usepigraphy.brown.edu/) 
+U.S. Epigraphy Project
 
-### PYTHIA 
-Link: [A deep learning model for the automatic restoration of Greek inscriptions](https://github.com/sommerschield/ancient-text-restoration) 
+### [VM Los Bañales](https://sketchfab.com/banalesmuseovirtual) 
+Museo Virtual – Los Bañales
 
-### CLE Hispaniae 
-Link: [Carmina Latina Epigraphica Hispaniae](http://cle.us.es/clehispaniae/index.jsf) 
-
-### EDF 
-Link: [Epigraphic Database Falsae](http://edf.unive.it/) 
-
-### LLDB 
-Link: [Computerized Historical Linguistic Database of the Latin Inscriptions of the Imperial](http://lldb.elte.hu/) 
+### [VM Santa Criz](https://sketchfab.com/santacrizmv)
+Museo Virtual – Santa Criz
 
 ### Your Project ... 
 Link: [Join Epigraphy.info](mailto:info@epigraphy.info)
