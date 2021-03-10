@@ -50,10 +50,10 @@ Translations of Ancient Greek inscriptions into Modern Greek
 Epigraphic patrimony of Portugal and Spain
 
 ### [IDEA](https://www.eagle-network.eu/about/who-we-are/) 
-International Digital Epigraphy Association]
+International Digital Epigraphy Association
 
 ### [IGLS](https://igls.mom.fr/)
-Inscriptions grecques et latines de la Syrie] 
+Inscriptions grecques et latines de la Syrie
 
 ### [Inscriptions of Greek Cyrenaica](https://igcyr.unibo.it/)
 Online Edition of Greek inscriptions from Libya
@@ -113,4 +113,4 @@ Museo Virtual – Los Bañales
 Museo Virtual – Santa Criz
 
 ### Your Project ... 
-Link: [Join Epigraphy.info](mailto:info@epigraphy.info)
+Become our partner! [Join Epigraphy.info](mailto:info@epigraphy.info)
