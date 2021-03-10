@@ -4,8 +4,8 @@ title: Partners
 permalink: /partners/
 ---
 
-### Epigraphic Database Bari 
-Link: [Epigraphic documents of Christian patronage](https://www.edb.uniba.it/) 
+### [Epigraphic Database Bari](https://www.edb.uniba.it/)
+Epigraphic documents of Christian patronage 
 
 ### Epigraphic Database Heidelberg 
 Link: [Latin inscriptions of the Roman Empire](http://edh-www.adw.uni-heidelberg.de) 
