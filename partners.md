@@ -82,35 +82,35 @@ Geography and Economy of the Imperial Properties in the Roman World
 ### <a href="http://petrae.huma-num.fr/fr/" target="blank">PETRAE
 Latin and Greek inscriptions (Institut Ausonius)
 
-### <a href"https://github.com/sommerschield/ancient-text-restoration" target="blank">PYTHIA
+### <a href="https://github.com/sommerschield/ancient-text-restoration" target="blank">PYTHIA
 A deep learning model for the automatic restoration of Greek inscriptions
 
-### <a href"https://romaninscriptionsofbritain.org/" target="blank">Roman Inscriptions of Britain 
+### <a href="https://romaninscriptionsofbritain.org/" target="blank">Roman Inscriptions of Britain 
 Epigraphic patrimony of Britain
 
-### <a href"http://referenceworks.brillonline.com/browse/supplementum-epigraphicum-graecum)" target="blank">Supplementum Epigraphicum Graecum (SEG)
+### <a href="http://referenceworks.brillonline.com/browse/supplementum-epigraphicum-graecum)" target="blank">Supplementum Epigraphicum Graecum (SEG)
 Greek inscriptions with critical apparatus
 
-### <a href"http://ancientgraffiti.org/Graffiti/" target="blank">The Ancient Graffiti Project
+### <a href="http://ancientgraffiti.org/Graffiti/" target="blank">The Ancient Graffiti Project
 Digital resource of graffiti of Herculaneum and Pompeii
 
-### <a href"http://titulus.huma-num.fr/" target="blank">TITULUS
+### <a href="http://titulus.huma-num.fr/" target="blank">TITULUS
 TEI/EpiDoc platform of medieval epigraphic material from France
 
-### <a href"https://www.trismegistos.org/" target="blank">Trismegistos
+### <a href="https://www.trismegistos.org/" target="blank">Trismegistos
 Portal of papyrological and epigraphical resources
 
-### <a href"http://lupa.at/" target="blank">Ubi Erat Lupa 
+### <a href="http://lupa.at/" target="blank">Ubi Erat Lupa 
 Images of stone monuments
 
-### <a href"http://usepigraphy.brown.edu/" target="blank">USEP
+### <a href="http://usepigraphy.brown.edu/" target="blank">USEP
 U.S. Epigraphy Project
 
-### <a href"https://sketchfab.com/banalesmuseovirtual" target="blank">VM Los Bañales
+### <a href="https://sketchfab.com/banalesmuseovirtual" target="blank">VM Los Bañales
 Museo Virtual – Los Bañales
 
-### <a href"https://sketchfab.com/santacrizmv" target="blank">VM Santa Criz 
+### <a href="https://sketchfab.com/santacrizmv" target="blank">VM Santa Criz 
 Museo Virtual – Santa Criz
 
 ### Your Project ... 
- <a href"mailto:info@epigraphy.info" target="blank">Join Epigraphy.info and become our partner!
+ <a href="mailto:info@epigraphy.info" target="blank">Join Epigraphy.info and become our partner!
