@@ -40,77 +40,77 @@ Recent Epigraphic Editions
 ### <a href="https://www.eagle-network.eu" target="blank">Europeana EAGLE 
 Europeana network of Ancient Greek and Latin Epigraphy
 
-### [FERCAN](http://gams.uni-graz.at/context:fercan) 
+### <a href="http://gams.uni-graz.at/context:fercan" target="blank">FERCAN
 Keltische Götternamen in den Inschriften der römischen Provinz Germania Inferior
 
-### [Greek Inscriptions Online](http://www.greekinscriptions.com/) 
+### <a href="http://www.greekinscriptions.com/" target="blank">Greek Inscriptions Online 
 Translations of Ancient Greek inscriptions into Modern Greek
 
-### [Hispania Epigraphica Online](http://eda-bea.es/) 
+### <a href="http://eda-bea.es/" target="blank">Hispania Epigraphica Online
 Epigraphic patrimony of Portugal and Spain
 
-### [IDEA](https://www.eagle-network.eu/about/who-we-are/) 
+### <a href="https://www.eagle-network.eu/about/who-we-are/" target="blank">IDEA
 International Digital Epigraphy Association
 
-### [IGLS](https://igls.mom.fr/)
+### <a href="https://igls.mom.fr/" target="blank">IGLS
 Inscriptions grecques et latines de la Syrie
 
-### [Inscriptions of Greek Cyrenaica](https://igcyr.unibo.it/)
+### <a href="https://igcyr.unibo.it/" target="blank">Inscriptions of Greek Cyrenaica
 Online Edition of Greek inscriptions from Libya
 
-### [Inscriptions of Israel / Palestine](http://cds.library.brown.edu/projects/Inscriptions/index.shtml)
+### <a href="http://cds.library.brown.edu/projects/Inscriptions/index.shtml" target="blank">Inscriptions of Israel / Palestine
 Inscriptions of Israel/Palestine from the Persian period through the Islamic conquest 
 
-### [I.Sicily](http://sicily.classics.ox.ac.uk/) 
+### <a href="http://sicily.classics.ox.ac.uk/" target="blank">I.Sicily
 Inscriptions of Sicily
 
-### [Krateros](https://www.ias.edu/krateros) 
+### <a href="https://www.ias.edu/krateros" target="blank">Krateros
 Digital repository for the collections of epigraphic squeezes
 
-### [Last Statues of Antiquity](http://laststatues.classics.ox.ac.uk/) 
+### <a href="http://laststatues.classics.ox.ac.uk/" target="blank">Last Statues of Antiquity
 Database for Late Antiquity Statues
 
-### [LLDB](http://lldb.elte.hu/) 
+### <a href="http://lldb.elte.hu/" target="blank">LLDB
 Computerized Historical Linguistic Database of the Latin Inscriptions of the Imperial
 
-### [MAPPOLA](https://mappola.eu/)
+### <a href="https://mappola.eu/" target="blank">MAPPOLA
 Mapping out the poetic landscape(s) of the Roman empire 
 
-### [PATRIMONIVM](http://patrimonium.huma-num.fr/) 
+### <a href="http://patrimonium.huma-num.fr/" target="blank">PATRIMONIVM
 Geography and Economy of the Imperial Properties in the Roman World
 
-### [PETRAE](http://petrae.huma-num.fr/fr/) 
+### <a href="http://petrae.huma-num.fr/fr/" target="blank">PETRAE
 Latin and Greek inscriptions (Institut Ausonius)
 
-### [PYTHIA](https://github.com/sommerschield/ancient-text-restoration) 
+### <a href"https://github.com/sommerschield/ancient-text-restoration" target="blank">PYTHIA
 A deep learning model for the automatic restoration of Greek inscriptions
 
-### [Roman Inscriptions of Britain](https://romaninscriptionsofbritain.org/)
+### <a href"https://romaninscriptionsofbritain.org/" target="blank">Roman Inscriptions of Britain 
 Epigraphic patrimony of Britain
 
-### [Supplementum Epigraphicum Graecum (SEG)](http://referenceworks.brillonline.com/browse/supplementum-epigraphicum-graecum)
+### <a href"http://referenceworks.brillonline.com/browse/supplementum-epigraphicum-graecum)" target="blank">Supplementum Epigraphicum Graecum (SEG)
 Greek inscriptions with critical apparatus
 
-### [The Ancient Graffiti Project](http://ancientgraffiti.org/Graffiti/) 
+### <a href"http://ancientgraffiti.org/Graffiti/" target="blank">The Ancient Graffiti Project
 Digital resource of graffiti of Herculaneum and Pompeii
 
-### [TITULUS](http://titulus.huma-num.fr/) 
+### <a href"http://titulus.huma-num.fr/" target="blank">TITULUS
 TEI/EpiDoc platform of medieval epigraphic material from France
 
-### [Trismegistos](https://www.trismegistos.org/) 
+### <a href"https://www.trismegistos.org/" target="blank">Trismegistos
 Portal of papyrological and epigraphical resources
 
-### [Ubi Erat Lupa](http://lupa.at/) 
+### <a href"http://lupa.at/" target="blank">Ubi Erat Lupa 
 Images of stone monuments
 
-### [USEP](http://usepigraphy.brown.edu/) 
+### <a href"http://usepigraphy.brown.edu/" target="blank">USEP
 U.S. Epigraphy Project
 
-### [VM Los Bañales](https://sketchfab.com/banalesmuseovirtual) 
+### <a href"https://sketchfab.com/banalesmuseovirtual" target="blank">VM Los Bañales
 Museo Virtual – Los Bañales
 
-### [VM Santa Criz](https://sketchfab.com/santacrizmv)
+### <a href"https://sketchfab.com/santacrizmv" target="blank">VM Santa Criz 
 Museo Virtual – Santa Criz
 
 ### Your Project ... 
-Become our partner! [Join Epigraphy.info](mailto:info@epigraphy.info)
+ <a href"mailto:info@epigraphy.info" target="blank">Join Epigraphy.info and become our partner!
