@@ -4,7 +4,7 @@ title: Partners
 permalink: /partners/
 ---
 
-### [Attic Inscriptions Online]<a href="https://www.atticinscriptions.com/" target="_blank">Attic Inscriptions Online/a>
+### <a href="https://www.atticinscriptions.com/" target="_blank">Attic Inscriptions Online
 Inscriptions of ancient Athens and Attica in English translation
 
 ### [CLE Hispaniae](http://cle.us.es/clehispaniae/index.jsf) 
