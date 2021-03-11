@@ -4,40 +4,40 @@ title: Partners
 permalink: /partners/
 ---
 
-### <a href="https://www.atticinscriptions.com/" target="_blank">Attic Inscriptions Online
+### <a href="https://www.atticinscriptions.com/" target="blank">Attic Inscriptions Online
 Inscriptions of ancient Athens and Attica in English translation
 
-### [CLE Hispaniae](http://cle.us.es/clehispaniae/index.jsf) 
+### <a href="http://cle.us.es/clehispaniae/index.jsf" target="blank">CLE Hispaniae
 Carmina Latina Epigraphica Hispaniae
 
-### [Epigraphische Datenbank zum antiken Kleinasien](https://www.epigraphik.uni-hamburg.de) 
+### <a href="https://www.epigraphik.uni-hamburg.de" target="blank"> Epigraphische Datenbank zum antiken Kleinasien
 Greek & Latin inscriptions from Turkey
 
-### [Epigraphic Database Bari](https://www.edb.uniba.it/)
+### <a href="https://www.edb.uniba.it/" target="blank"> Epigraphic Database Bari
 Epigraphic documents of Christian patronage 
 
-### [Epigraphic Database Clauss Slaby](http://db.edcs.eu/epigr/epi.php?s_sprache=en) 
+### <a href="http://db.edcs.eu/epigr/epi.php?s_sprache=en" target="blank"> Epigraphic Database Clauss Slaby
 Database of Latin inscriptions
 
-### [Epigraphic Database Falsae](http://edf.unive.it/) 
+### <a href="http://edf.unive.it/" target="blank">Epigraphic Database Falsae
 Electronic archive of forged ancient inscriptions
 
-### [Epigraphic Database Heidelberg](http://edh-www.adw.uni-heidelberg.de) 
+### <a href="http://edh-www.adw.uni-heidelberg.de" target="blank">Epigraphic Database Heidelberg 
 Latin inscriptions of the Roman Empire
 
-### [Epigraphic Database Roma](http://www.edr-edr.it/)
+### <a href="http://www.edr-edr.it/" target="blank">Epigraphic Database Roma
 Epigraphic documents from Italic Regions
 
-### [Epigraphic Database Vernacular](http://edvcorpus.com/wp) 
+### <a href="http://edvcorpus.com/wp" target="blank"> Epigraphic Database Vernacular 
 Epigraphic Database Vernacular
 
-### [Epigraphica 3.0](http://www.epigraphica30.com/) 
+### <a href="http://www.epigraphica30.com/" target="blank">Epigraphica 3.0 
 Digital corpus of Roman inscriptions from Ourense province
 
-### [Epigraphica Romana](http://www.epigraphica-romana.fr/) 
+### <a href="http://www.epigraphica-romana.fr/" target="blank">Epigraphica Romana 
 Recent Epigraphic Editions
 
-### [Europeana EAGLE](https://www.eagle-network.eu) 
+### <a href="https://www.eagle-network.eu" target="blank">Europeana EAGLE 
 Europeana network of Ancient Greek and Latin Epigraphy
 
 ### [FERCAN](http://gams.uni-graz.at/context:fercan) 
