@@ -88,7 +88,7 @@ A deep learning model for the automatic restoration of Greek inscriptions
 ### <a href="https://romaninscriptionsofbritain.org/" target="blank">Roman Inscriptions of Britain 
 Epigraphic patrimony of Britain
 
-### <a href="http://referenceworks.brillonline.com/browse/supplementum-epigraphicum-graecum)" target="blank">Supplementum Epigraphicum Graecum (SEG)
+### <a href="http://referenceworks.brillonline.com/browse/supplementum-epigraphicum-graecum" target="blank">Supplementum Epigraphicum Graecum (SEG)
 Greek inscriptions with critical apparatus
 
 ### <a href="http://ancientgraffiti.org/Graffiti/" target="blank">The Ancient Graffiti Project
