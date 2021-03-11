@@ -112,5 +112,5 @@ Museo Virtual – Los Bañales
 ### <a href="https://sketchfab.com/santacrizmv" target="blank">VM Santa Criz 
 Museo Virtual – Santa Criz
 
-### Your Project ... 
- <a href="mailto:info@epigraphy.info" target="blank">Join Epigraphy.info and become our partner!
+### <a href="mailto:info@epigraphy.info" target="blank">Your Project ... 
+ Join Epigraphy.info and become our partner!
