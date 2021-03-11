@@ -10,25 +10,25 @@ Inscriptions of ancient Athens and Attica in English translation
 ### [CLE Hispaniae](http://cle.us.es/clehispaniae/index.jsf) 
 Carmina Latina Epigraphica Hispaniae
 
+### [Epigraphische Datenbank zum antiken Kleinasien](https://www.epigraphik.uni-hamburg.de) 
+Greek & Latin inscriptions from Turkey
+
 ### [Epigraphic Database Bari](https://www.edb.uniba.it/)
 Epigraphic documents of Christian patronage 
 
 ### [Epigraphic Database Clauss Slaby](http://db.edcs.eu/epigr/epi.php?s_sprache=en) 
 Database of Latin inscriptions
 
-### [EDF](http://edf.unive.it/) 
-Epigraphic Database Falsae
+### [Epigraphic Database Falsae](http://edf.unive.it/) 
+Electronic archive of forged ancient inscriptions
 
 ### [Epigraphic Database Heidelberg](http://edh-www.adw.uni-heidelberg.de) 
 Latin inscriptions of the Roman Empire
 
-### [Epigraphische Datenbank zum antiken Kleinasien](https://www.epigraphik.uni-hamburg.de) 
-Greek & Latin inscriptions from Turkey
-
-### [Epigraphic Database Rome](http://www.edr-edr.it/)
+### [Epigraphic Database Roma](http://www.edr-edr.it/)
 Epigraphic documents from Italic Regions
 
-### [EDV](http://edvcorpus.com/wp) 
+### [Epigraphic Database Vernacular](http://edvcorpus.com/wp) 
 Epigraphic Database Vernacular
 
 ### [Epigraphica 3.0](http://www.epigraphica30.com/) 
