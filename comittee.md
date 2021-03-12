@@ -9,7 +9,7 @@ published: true
 
 * Javier Andreu Pintado, University of Navarra, ES
 * Tom Gheldof, Trismegistos / KU Leuven, BE
-* Aaron Hershkowitz, Princeton University, USA
+* Aaron Hershkowitz, Institute for Advanced Study, USA
 * Jonathan Prag, Oxford University, UK
 * Anja Ragolic, Archaeological Institute Ljubljana, SLO
 * Thea Sommerschield, Oxford University, UK
