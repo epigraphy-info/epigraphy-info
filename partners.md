@@ -6,6 +6,9 @@ permalink: /partners/
 
 ### <a href="https://www.atticinscriptions.com/" target="blank">Attic Inscriptions Online
 Inscriptions of ancient Athens and Attica in English translation
+ 
+### <a href="https://mizar.unive.it/axon/public/index/index" target="blank">AXON 
+Greek Historical Inscriptions
 
 ### <a href="http://cle.us.es/clehispaniae/index.jsf" target="blank">CLE Hispaniae
 Carmina Latina Epigraphica Hispaniae
