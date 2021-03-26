@@ -4,52 +4,11 @@ title: Technical WG - Ontologies
 permalink: /ontologies_wg/
 ---
 
-# WG 1 - Ontologies
+# Technical WG 1 - Ontologies
 
-The Working Group aims at keeping track of existing resources for the modeling of epigraphic information as Linked Open Data, including the devolpment of a model for RDF data and vocabularies.
+Provide short description of the working group, its aims.
 
-## Members
-This alphabetic list comprises participants to epigraphy.info meetings, and other workshops and activities which contributed to the aim of the group.
-
-* Gabriel Bodard
-* Hugh Cayless 
-* Chiara Cenati
-* Alison Cooley 
-* Tom Elliott 
-* Silvia Evangelisti 
-* Achille Felicetti 
-* Paula Granados 
-* Frank Grieshaber 
-* Ethan Gruber 
-* Aaron Hershkowitz 
-* Tim Hill 
-* Harri Kiiskinen 
-* Thomas Kollatz 
-* Adeline Levivier 
-* Pietro Liuzzo 
-* Franco Luciani 
-* Andrea Mannocci 
-* Emilia Mataix 
-* Francesca Murano 
-* Orla Murphy 
-* Elli Mylonas 
-* Jonathan Prag 
-* Vincent Razanajao 
-* Simona Stoyanova 
-* Georgios Tsolakis 
-* Charlotte Tupman 
-* Irene Vagionakis 
-* Valeria Vitale 
-* Franziska Weise
-
-Any request about the resources listed here or contribution should be made via the **Epigraphic Ontology Mailing List of the Epigraphic Ontology WG** <epont@googlegroups.com>
-
-
-
-<!-- if you want to insert any image, photo
-<img src='{{site.baseurl}}/assets/XXX.jpg' style="width:100%;" alt="Image description" align="middle">
--->
-
+=======
 This document official draft is stored in Zenodo at <span>doi:</span><span class="c61">[10.5281/zenodo.4639507](https://www.google.com/url?q=https://doi.org/10.5281/zenodo.4639507&sa=D&source=editors&ust=1616770309979000&usg=AOvVaw2qjGzKUyMmqXPbE1Q3yOFo)</span>
 
 
@@ -222,7 +181,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 620.5px; height: 180.94px;">![Text
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 620.5px; height: 180.94px;"><img src='{{site.baseurl}}/assets/image4.png' style="width:100%;" alt="Text
  Images
  Execution
  Writing
@@ -238,27 +197,27 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
  Transcription
  Places
  Field
-](ModelingEpigraphywithanepigraphicontologyv.1_files/image4.png "Overview of the ontology")</span>
+" title="Overview of the ontology" align="middle"/></span>
 
 <span class="c0"></span>
 
 <span class="c0"></span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 146.28px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image18.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 146.28px;"><img src='{{site.baseurl}}/assets/image18.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span class="c0"></span>
 
 <span>On finding a new inscription, its existence could be defined by the simple three instances and two relations seen above. However, because we are pretty sure it was written, the minimal set should actually have one more property and one more entity.</span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 537.05px; height: 261.64px;">![Writing
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 537.05px; height: 261.64px;"><img src='{{site.baseurl}}/assets/image5.png' style="width:100%;" alt="Writing
  Object
  Written Text
  Reading
-](ModelingEpigraphywithanepigraphicontologyv.1_files/image5.png "Main concepts")</span>
+" title="Main concepts" align="middle"/></span>
 
 <span class="c0"></span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 233.31px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image28.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 233.31px;"><img src='{{site.baseurl}}/assets/image28.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span class="c0"></span>
 
@@ -266,18 +225,18 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 ### <span class="c25">The Monument / Object</span>
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 503.22px; height: 258.5px;">![Images
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 503.22px; height: 258.5px;"><img src='{{site.baseurl}}/assets/image6.png' style="width:100%;" alt="Images
  Period
  Object Type
  Object
  Written Text
  Material
  Places
-](ModelingEpigraphywithanepigraphicontologyv.1_files/image6.png "monument overview")</span>
+" title="monument overview" align="middle"/></span>
 
 <span class="c0"></span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 623px; height: 235.6px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image27.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 623px; height: 235.6px;"><img src='{{site.baseurl}}/assets/image27.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span class="c0"></span>
 
@@ -313,21 +272,21 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span>Let us trace such an example now. Below we have two theorized fragments, se</span><span>parately described, transcribed and published</span><span class="c0">&nbsp;in different places . Each is modelled independently. </span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 623px; height: 243.48px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image30.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 623px; height: 243.48px;"><img src='{{site.baseurl}}/assets/image30.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
-<span>Upon discovery that the two or more fragments belong to the same inscription, they could be joined by simply adding this statement to a further object entity (denoting the united object) or to one of the two. </span><span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 623px; height: 47.32px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image16.png "")</span>
+<span>Upon discovery that the two or more fragments belong to the same inscription, they could be joined by simply adding this statement to a further object entity (denoting the united object) or to one of the two. </span><span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 623px; height: 47.32px;"><img src='{{site.baseurl}}/assets/image16.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span class="c0"></span>
 
 <span>The Object is the only entity which can be possibly represented by an image or drawing (an abstraction of a text cannot be), and remains true also for objects which are drawings and sketches from field notes, for example. The images are linked with a standard CRM property and defined as in the following section (</span><span class="c12">[Images](#h.1mkfhqbc4ss6)</span><span>).</span>
 ### <span>Facsimiles</span><span>/Surrogates</span>
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 503.22px; height: 229.07px;">![Object 
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 503.22px; height: 229.07px;"><img src='{{site.baseurl}}/assets/image13.png' style="width:100%;" alt="Object 
  Object 
  Reproduction
  Type
  Object
  Written Text
-](ModelingEpigraphywithanepigraphicontologyv.1_files/image13.png "reproductions")</span>
+" title="reproductions" align="middle"/></span>
 
 <span class="c0">Squeezes, Casts, 3D replicas and other types of reproductions are Objects as much as the original object or Text of which they are a copy.. It is sometimes the case that the only extant witness of a text is such a copy. A printed or digital image, if it is the only witness to an Object, is as such also an Object, and can be related to the abstract entity identifying the lost original. It is thus possible to clearly model whether a reading is based on the original object or on a copy. It is also possible to document the existence of such reproductions independently of whether they have been used for transcription or editing.</span>
 
@@ -335,13 +294,13 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span>At the same time, there must be a model for the relationships between the Objects. CIDOC </span><span class="c8">E-55_type</span><span class="c0">&nbsp;can be used to provide a list of types for this purpose.</span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 623px; height: 389.38px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image1.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 623px; height: 389.38px;"><img src='{{site.baseurl}}/assets/image1.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span class="c16">In the above example two Reproduction activities of the creation of a Squeeze and a Cast are defined and linked to an Object via </span><span class="c16 c8">P12 occurred in the presence of</span><span class="c16">.</span><sup class="c16">[[10]](#ftnt10)</sup><span class="c16">&nbsp;The creation of a reproduction is a Production (</span><span class="c16 c8">E12 Production</span><span class="c16">) which can be dated and can have an Actor, like any other activity, while the Object it produces is an Object like any other and can have the same properties as the Object on which it is based. Many of the properties listed under </span><span class="c16 c8">E12 Production</span><span class="c16 c29">&nbsp;in the CIDOC CRM documentation could also be used here, to document the facsimile production. The Cast and Squeeze defined in the example above are also objects which carry a written text. In the case of a lost inscription, for which only a Squeeze survives we could have the following modeling, although nothing would prevent the epOnt:carriesText property from remaining attached to the 'original' object. A squeeze or photo of a plaster cast is also definable this way, and each object can have its own properties regarding material, dating, etc. The special status of the object used for reproductions is thus not defining.</span>
 
 <span class="c16 c29"></span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 623px; height: 386.42px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image15.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 623px; height: 386.42px;"><img src='{{site.baseurl}}/assets/image15.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span>Additionally, as for images, </span><span class="c8">P138 represents (has representation)</span><span>&nbsp;can be used to link digital representations of any of these </span><span class="c8">E22_Human-Made_Object</span><span class="c0">, so that one can have, for example, a 3D model of a squeeze as well as a 3D model of the object on which that squeeze was made. </span>
 
@@ -349,7 +308,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span>Similarly, </span><span class="c8">E55 type</span><span class="c0">&nbsp;can be used to mark the best among many available objects related in this way. This allows us to precisely say if, for example, a reading has been made on a source which is not the best available. (Note that this kind of classification will necessarily be subjective.)</span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 623px; height: 179.41px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image26.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 623px; height: 179.41px;"><img src='{{site.baseurl}}/assets/image26.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span class="c0">These types are not defined in this ontology and depend on Vocabularies locally defined by data providers; they are important here only for their relation to one another.</span>
 ### <span class="c25">Images</span>
@@ -359,25 +318,25 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 205.33px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image11.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 205.33px;"><img src='{{site.baseurl}}/assets/image11.png' style="width:100%;" alt="" title="" align="middle"/></span>
 ### <span class="c25">Places</span>
 <span>The modeling of the place concepts associated with an object or that appear in attestations is not within the scope of an epigraphic ontology. The example below is a light modification of the current model used by EDH, where the most important things are the class </span><span class="c8">lawd:Place</span><span>&nbsp;(equivalent to </span><span class="c8">E27_Site</span><span>) and the </span><span class="c8">owl:</span><span class="c8">sameAs</span><span class="c0">. As in Pelagios, SKOS properties can be used for matching and hierarchy.</span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 208.95px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image25.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 208.95px;"><img src='{{site.baseurl}}/assets/image25.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span>The property </span><span class="c8">dcterms:isPartOf</span><span>&nbsp;is used instead of </span><span class="c8">skos:broader</span><span>&nbsp;as in the EDH </span><span>data</span><span class="c0">. The same place model can be used to model any place concept used in the information exposed.</span>
 
 <span>A much richer description in RDF can be seen for example from Pleiades, e.g. </span><span class="c12">[https://pleiades.stoa.org/places/39271/turtle](https://www.google.com/url?q=https://pleiades.stoa.org/places/39271/turtle&sa=D&source=editors&ust=1616770310038000&usg=AOvVaw0mNFkNDT7PgR85t9GM1uOh)</span><span>.</span><sup>[[12]](#ftnt12)</sup>
 ### <span class="c25">The Inscription Text</span>
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 537.05px; height: 265.5px;">![Execution
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 537.05px; height: 265.5px;"><img src='{{site.baseurl}}/assets/image8.png' style="width:100%;" alt="Execution
  Writing
  Object
  Written Text
  Reading
  Field
-](ModelingEpigraphywithanepigraphicontologyv.1_files/image8.png "text of the inscription")</span>
+" title="text of the inscription" align="middle"/></span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 191px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image9.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 191px;"><img src='{{site.baseurl}}/assets/image9.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span>In CRMtex, the class </span><span class="c8">TX1 Written Text</span><span>&nbsp;is the central point of definition of the inscription and is here equivalent to a </span><span class="c8">lawd:ConceptualWork</span><span>&nbsp;because it shares the same logic of detachment of the conceptual level from the text as reading, transcription or edition. The class </span><span class="c8">epnet:Inscription</span><span>&nbsp;is also aligned to this concept. Note that the </span><span class="c8">edh:Inscription</span><span>&nbsp;class is aligned to </span><span class="c8">TX6 Transcription</span><span class="c0">&nbsp;instead.</span>
 
@@ -397,7 +356,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span>To the </span><span class="c8">TX4 Writing </span><span>events in this example a series of other Events are </span><span>also </span><span>linked using the </span><span class="c8">extech:hasExecutionPhase</span><span>&nbsp;property, equivalent to </span><span class="c8">P31 has modified</span><span>.</span><span class="c8">&nbsp;</span><span>This allows the use of an event-based description structure for any </span><span class="c8">TX1 Written Text</span><span>.</span>
 #### <span class="c6">The writing field</span>
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 628px; height: 30.5px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image17.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 628px; height: 30.5px;"><img src='{{site.baseurl}}/assets/image17.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span>The CRMtex class </span><span class="c8">TX4 Writing field</span><span>&nbsp;has already been discussed, &nbsp;and this model inherits that description as is. Like </span><span class="c8">TX1 Written Text</span><span>&nbsp;this is always a subclass of </span><span class="c8">E25 Man-made Feature</span><span>&nbsp;and shares all its features. An updated example based on the Arc of Constantine is in Felicetti and Murano 2020.</span><sup>[[13]](#ftnt13)</sup><span class="c0">&nbsp;</span>
 
@@ -407,13 +366,13 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 58.62px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image19.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 58.62px;"><img src='{{site.baseurl}}/assets/image19.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span class="c0"></span>
 
 <span>The property </span><span class="c8">TXP4 composes</span><span>&nbsp;provides the ability to have a separate model for each independent fragment and easily join the history of observation and publication of multiple fragments into one. Being able to identify a part of text would enable (for example) associating it with other parts of the same written text and easily modeling inscriptions in multiple languages or in multiple scripts (or both) by having a conceptualization for each part. Each Written Text or Written Text Fragment will have a &nbsp; </span><span class="c8">crm:P108_has_produced_(was_produced_by)</span><span>&nbsp;linked to a </span><span class="c8">TX2 Writing</span><span class="c0">&nbsp;event.</span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 620.5px; height: 177.88px;">![Object
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 620.5px; height: 177.88px;"><img src='{{site.baseurl}}/assets/image10.png' style="width:100%;" alt="Object
  Object
  Written Text Fragment
  Execution
@@ -425,9 +384,9 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
  Reading
  Reading
  Field
-](ModelingEpigraphywithanepigraphicontologyv.1_files/image10.png "writing")</span>
+" title="writing" align="middle"/></span>
 ### <span class="c25">Writing</span>
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 151.99px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image23.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 151.99px;"><img src='{{site.baseurl}}/assets/image23.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span class="c0"></span>
 
@@ -447,11 +406,11 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 #### <span class="c6">Phases of Execution</span>
 <span>While writing is a specific sort of Production activity for a Written Text, many execution phases may be additionally involved, which are here classified using a draft ontology proposal for execution technique, which defines a </span><span class="c8">extech:Phase</span><span>&nbsp;as equivalent to a </span><span class="c8">E11 Modification</span><span>&nbsp;(so that </span><span class="c8">TX2 Writing</span><span>&nbsp;is also an </span><span class="c8">extech:Phase</span><span class="c0">&nbsp;in the ontology)</span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 78.67px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image20.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 78.67px;"><img src='{{site.baseurl}}/assets/image20.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span>This relies on several specific types of execution techniques and tools used to accomplish them which have been defined and organized in the Eagle Vocabulary for execution technique (see </span><span class="c12">[Concepts in the EAGLE Vocabularies](#h.iuqqs353pspn)</span><span class="c0">) of inscriptions, in order to be able to specify better and avoid confusions between tool and technique or result and tool, for example.</span>
 ### <span class="c25">Reading</span>
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 620.5px; height: 224.1px;">![Text
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 620.5px; height: 224.1px;"><img src='{{site.baseurl}}/assets/image3.png' style="width:100%;" alt="Text
  Execution
  Writing
  Translation
@@ -462,9 +421,9 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
  Reading
  Transcription
  Field
-](ModelingEpigraphywithanepigraphicontologyv.1_files/image3.png "reading")</span>
+" title="reading" align="middle"/></span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 92.2px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image31.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 92.2px;"><img src='{{site.baseurl}}/assets/image31.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span>The reading of an inscription is a scientific observation, and is defined in CRMTex as a subclass of</span><span class="c8">&nbsp;S4 Observation</span><span>. It can have all properties of other Temporal Entities. Here only the ones most salient to epigraphic research are used in the example. Note also that the person possibly related to the autopsy by </span><span class="c8">P14 carried out by (performed)</span><span>&nbsp;need not be the actual author of the transcription or of the edition, although this will be often the case. To this event further annotations, for example related to the phenomenology of reading, could also be added.</span><sup>[[15]](#ftnt15)</sup>
 
@@ -474,7 +433,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span>This is a different meaning of "reading" from what is intended as a reading e.g. in the TEI and EpiDoc guidelines for the element &lt;rdg&gt;.</span><sup>[[16]](#ftnt16)</sup><span>&nbsp;The scientific observation which is subclassed in </span><span class="c8">TX5 Reading </span><span>is one action of reading in its entirety,</span><sup>[[17]](#ftnt17)</sup><span class="c0">&nbsp;which may or may not result in a known transcription or an edition, which in turn will contain "readings" of specific pieces of the text.</span>
 #### <span class="c6">Transcription </span>
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 280.94px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image2.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 280.94px;"><img src='{{site.baseurl}}/assets/image2.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span>The </span><span class="c8">TX6 Transcription</span><span>, product of a Reading (here called Autopsy could also in theory be another Activity such as reading an edition). This is the entity which most closely resembles the contents of a record in a digital epigraphy archive when viewed specifically from the landing page of an inscription. In this entity we have a series of standard dc statements including the link to a landing page, an identifier, and temporal properties. This entity is, however, still distinct from the Epigraphic Edition (</span><span class="c12">[edition](#h.srxc1d6gan5k)</span><span>) which it may produce and which is related to it with a special property </span><span class="c8">epOnt:hasEdition</span><span>, defined as a subclass of </span><span class="c8">P94 created</span><span>. This allows for a text transcription to be available even before it is published, and to be easily distinguished from published transcriptions, whatever the format of publication. The transcription can take different forms and the EpNet ontology has defined a range of properties to associate to the results of this activity, including a property to associate an EpiDoc transcription in XML. Only to this transcribed (and thus interpreted) text can a typology for a text (or more) be associated with the </span><span class="c8">edh:representsTypeOfInscription</span><span>,</span><span>&nbsp;one of the concepts defined in the EAGLE Vocabularies (see </span><span class="c12">[The Concepts in the EAGLE Vocabularies](#h.iuqqs353pspn)</span><span class="c0">). </span>
 
@@ -488,19 +447,19 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span>The edition of an inscription is often a part, with a numeric identifier, of a corpus of inscriptions, or is published within a specific article which may or may not solely be devoted to that edition. This is a different concept from that of a critical edition or of an edition of a book and has been specified as a subclass of </span><span class="c8">lawd:Edition</span><span class="c0">.</span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 104.78px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image22.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 104.78px;"><img src='{{site.baseurl}}/assets/image22.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span class="c0">One autopsy and consequent transcription can create several editions, which is an additional added potential of the model. Each Edition can be associated with a translation.</span>
 #### <span class="c6">Translation</span>
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 115.9px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image7.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 115.9px;"><img src='{{site.baseurl}}/assets/image7.png' style="width:100%;" alt="" title="" align="middle"/></span>
 ### <span class="c25">Attestations</span>
 <span class="c0">Any attestation is modelled as required for NE attestations by Pelagios/SNAP/others attestation model in EPNet, etc. and can be referred exactly to an edition, a transcription or a translation.</span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 380.5px; height: 232.78px;">![Translation
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 380.5px; height: 232.78px;"><img src='{{site.baseurl}}/assets/image14.png' style="width:100%;" alt="Translation
  Edition
  Transcription
  Attestation
-](ModelingEpigraphywithanepigraphicontologyv.1_files/image14.png "attestations")</span>
+" title="attestations" align="middle"/></span>
 ### <span>Sameness</span>
 <span class="c0">This section is work in progress, it will be included in future releases. It will include modeling of different kind of sameness (same edition, same inscription, etc.). </span>
 ### <span class="c25">Concepts in the EAGLE Vocabularies</span>
@@ -508,7 +467,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 114.67px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image24.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 114.67px;"><img src='{{site.baseurl}}/assets/image24.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span class="c0"></span>
 
@@ -518,13 +477,13 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0">To complete the above examples, here are some concepts and execution phases using them. </span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 330.67px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image12.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 330.67px;"><img src='{{site.baseurl}}/assets/image12.png' style="width:100%;" alt="" title="" align="middle"/></span>
 ### <span class="c25">Contributors</span>
 <span>Persons involved in any stage and at any defined level can be modelled on the example of what EDH already does, using mainly </span><span class="c8">FOAF </span><span class="c0">properties. The following is a result of a DESCRIBE Query to the SPARQL endpoint, as an example.</span>
 
 <span class="c0"></span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 181.33px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image21.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 181.33px;"><img src='{{site.baseurl}}/assets/image21.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span class="c0"></span>
 ### <span class="c25">Reification (about that triple...)</span>
@@ -532,7 +491,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 
-<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 120.32px;">![](ModelingEpigraphywithanepigraphicontologyv.1_files/image29.png "")</span>
+<span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 120.32px;"><img src='{{site.baseurl}}/assets/image29.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
 <span class="c0"></span>
 ### <span class="c25">The Many Missing Parts</span>
@@ -1229,20 +1188,4 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 [[14]](#ftnt_ref14)<span class="c11">&nbsp;The SAWS ontology </span><span class="c12 c11">[http://www.ancientwisdoms.ac.uk/method/ontology/](https://www.google.com/url?q=http://www.ancientwisdoms.ac.uk/method/ontology/&sa=D&source=editors&ust=1616770310120000&usg=AOvVaw3yR10HKCzzUhjgrCd1rX3H)</span><span class="c11">&nbsp;</span>
 
 </div><div>
-
-[[15]](#ftnt_ref15)<span class="c11">&nbsp;See the </span><span>READ Ontology </span><span class="c12">[https://readit-project.eu/](https://www.google.com/url?q=https://readit-project.eu/&sa=D&source=editors&ust=1616770310121000&usg=AOvVaw1BQTZu0aq6MfswxeQthkyd)</span><span class="c11">&nbsp;.</span>
-
-</div><div>
-
-[[16]](#ftnt_ref16)<span class="c11">&nbsp;</span><span class="c27 c59">&nbsp;single reading within a textual variation </span>
-
-</div><div>
-
-[[17]](#ftnt_ref17)<span class="c11">&nbsp; </span><span>see CRMtex, "r</span><span class="c8">efers to the semiotic procedure of decoding (and therefore understanding) a written text. This procedure can be carried out for scientific purposes, in order to analyse and study the text according to different disciplinary perspectives. The reading activity is thus intended as a specific observation (S4) in which the decoding of the signs is performed, i.e., the linguistic value is recognised and the message is understood.</span><span>"</span>
-
-</div><div>
-
-[[18]](#ftnt_ref18)<span class="c11">&nbsp;</span><span class="c12">[https://numishare.blogspot.com/2020/12/roman-republican-die-project-nomisma.html](https://www.google.com/url?q=https://numishare.blogspot.com/2020/12/roman-republican-die-project-nomisma.html&sa=D&source=editors&ust=1616770310123000&usg=AOvVaw0WYlJsVrnCpqmDXkHs6OQf)</span><span>&nbsp;as pointed out by Ethan Gruber. Another approach is that of KNORA and Gravsearch </span><span class="c26 c56 c58">[http://semantic-web-journal.net/content/gravsearch-transforming-sparql-query-humanities-data-0#](https://www.google.com/url?q=http://semantic-web-journal.net/content/gravsearch-transforming-sparql-query-humanities-data-0%23&sa=D&source=editors&ust=1616770310123000&usg=AOvVaw0a_rTiMl__BuGpLsk3IQSF)</span>
-
-</div>
 
