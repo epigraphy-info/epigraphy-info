@@ -13,9 +13,9 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 
 # <span>Modeling Epigraphy with an Ontology</span>
-<span>Contributors</span><span>&nbsp;(alphabetically ordered by </span><span>surname</span><span>):</span><sup>[[1]](#ftnt1)</sup><span>&nbsp;</span>
+<span>Contributors</span><span>&nbsp;(alphabetically ordered by surname):[^1]
 
-<span class="c12">[Gabriel Bodard](https://www.google.com/url?q=https://wiki.digitalclassicist.org/User:GabrielBodard&sa=D&source=editors&ust=1616770309980000&usg=AOvVaw023e9m-eVjZ9Bn-1QU7Xmj)</span><span>, Hugh Cayless, </span><span class="c12">[Chiara Cenati](https://www.google.com/url?q=https://orcid.org/0000-0003-4962-9611&sa=D&source=editors&ust=1616770309981000&usg=AOvVaw1XQeMtT7ON487gE8Lbze2f)</span><span>,</span><sup>[[2]](#ftnt2)</sup><span>&nbsp;Alison Cooley, Tom Elliott, Silvia Evangelisti, Achille Felicetti, </span><span class="c17 c27">Paula Granados, </span><span>Frank Grieshaber, Ethan Gruber, </span><span class="c12">[Aaron Hershkowitz](https://www.google.com/url?q=https://orcid.org/0000-0002-9456-8574&sa=D&source=editors&ust=1616770309981000&usg=AOvVaw2PYrPNTM0o_uRNFrS4obG2)</span><span>,</span><sup>[[3]](#ftnt3)</sup><span>&nbsp;</span><span class="c17 c27">Tim Hill, </span><span class="c12 c27">[Harri Kiiskinen](https://www.google.com/url?q=https://orcid.org/0000-0003-4187-5551&sa=D&source=editors&ust=1616770309981000&usg=AOvVaw2rZQ9gRqRzWVdwWdfzZ550)</span><sup class="c17 c27">[[4]](#ftnt4)</sup><span class="c17 c27">, </span><span>Thomas Kollatz, Adeline Levivier, </span><span class="c12">[Pietro Liuzzo](https://www.google.com/url?q=https://orcid.org/0000-0001-5714-4011&sa=D&source=editors&ust=1616770309982000&usg=AOvVaw0CjL7W1NPdeIiIlMSac_Z9)</span><span>,</span><sup>[[5]](#ftnt5)</sup><span>&nbsp;</span><span class="c17 c27">Franco Luciani, </span><span>Andrea Mannocci, </span><span class="c17 c27">Emilia Mataix,</span><span>&nbsp;Francesca Murano, </span><span class="c17 c27">Orla Murphy,</span><span>&nbsp;</span><span class="c12">[Elli Mylonas](https://www.google.com/url?q=https://orcid.org/0000-0002-0215-4324&sa=D&source=editors&ust=1616770309983000&usg=AOvVaw2QNHvIEhPvFXz9f9N7GJmx)</span><span>, Jonathan Prag, Vincent Razanajao, Simona Stoyanova, </span><span class="c12">[Georgios Tsolakis](https://www.google.com/url?q=https://orcid.org/0000-0001-9555-4038&sa=D&source=editors&ust=1616770309983000&usg=AOvVaw0lEnUCf99NWpZ5fwrjvpbe)</span><span>,</span><sup>[[6]](#ftnt6)</sup><span>&nbsp;</span><span class="c17 c27">Charlotte Tupman, Irene Vagionakis, </span><span>Valeria Vitale, </span><span class="c17 c27">Franziska Weise.</span>
+<span class="c12">[Gabriel Bodard](https://www.google.com/url?q=https://wiki.digitalclassicist.org/User:GabrielBodard&sa=D&source=editors&ust=1616770309980000&usg=AOvVaw023e9m-eVjZ9Bn-1QU7Xmj)</span><span>, Hugh Cayless, </span><span class="c12">[Chiara Cenati](https://www.google.com/url?q=https://orcid.org/0000-0003-4962-9611&sa=D&source=editors&ust=1616770309981000&usg=AOvVaw1XQeMtT7ON487gE8Lbze2f)</span><span>[^2], Alison Cooley, Tom Elliott, Silvia Evangelisti, Achille Felicetti, </span><span class="c17 c27">Paula Granados, </span><span>Frank Grieshaber, Ethan Gruber, </span><span class="c12">[Aaron Hershkowitz](https://www.google.com/url?q=https://orcid.org/0000-0002-9456-8574&sa=D&source=editors&ust=1616770309981000&usg=AOvVaw2PYrPNTM0o_uRNFrS4obG2)[^3], </span><span>Tim Hill, </span><span class="c12 c27">[Harri Kiiskinen](https://www.google.com/url?q=https://orcid.org/0000-0003-4187-5551&sa=D&source=editors&ust=1616770309981000&usg=AOvVaw2rZQ9gRqRzWVdwWdfzZ550)[^4], </span><span>Thomas Kollatz, Adeline Levivier, </span><span class="c12">[Pietro Liuzzo](https://www.google.com/url?q=https://orcid.org/0000-0001-5714-4011&sa=D&source=editors&ust=1616770309982000&usg=AOvVaw0CjL7W1NPdeIiIlMSac_Z9)</span>[^5]<span class="c17 c27">, Franco Luciani, </span><span>Andrea Mannocci, </span><span class="c17 c27">Emilia Mataix,</span><span>&nbsp;Francesca Murano, </span><span class="c17 c27">Orla Murphy,</span><span>&nbsp;</span><span class="c12">[Elli Mylonas](https://www.google.com/url?q=https://orcid.org/0000-0002-0215-4324&sa=D&source=editors&ust=1616770309983000&usg=AOvVaw2QNHvIEhPvFXz9f9N7GJmx)</span><span>, Jonathan Prag, Vincent Razanajao, Simona Stoyanova, </span><span class="c12">[Georgios Tsolakis](https://www.google.com/url?q=https://orcid.org/0000-0001-9555-4038&sa=D&source=editors&ust=1616770309983000&usg=AOvVaw0lEnUCf99NWpZ5fwrjvpbe)</span><span>[^6],<span class="c17 c27">Charlotte Tupman, Irene Vagionakis, </span><span>Valeria Vitale, </span><span class="c17 c27">Franziska Weise.</span>
 ## <span>Table of C</span><span class="c22 c38">ontents</span>
 <span class="c29 c17 c27 c40"></span>
 
@@ -79,7 +79,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c51 c17 c27 c62"></span>
 - - -
-## <span class="c41">This document describes how to use existing ontologies as well as a few new properties and classes, to model epigraphic objects. Inscriptions that are described using this model can be shared, ingested into an ontological database, and used in graph databases or to share linked open data. Describing an inscription in this way complements existing practices as described by EpiDoc.</span><sup class="c41">[[7]](#ftnt7)</sup>
+## <span class="c41">This document describes how to use existing ontologies as well as a few new properties and classes, to model epigraphic objects. Inscriptions that are described using this model can be shared, ingested into an ontological database, and used in graph databases or to share linked open data. Describing an inscription in this way complements existing practices as described by EpiDoc.</span><sup class="c41">[^7]
 ### <span class="c25">Prefixes</span>
 <span>Prefixes used in the following examples are all listed here for convenience. The empty namespace is the area of definition of local </span><span>entities</span><span class="c0">.</span>
 
@@ -264,7 +264,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 
-<span>The Property proposed by the epnet ontology to relate </span><span>bibliographic information to an entity</span><span>&nbsp;in a generic way (</span><span class="c8">epnet:isDocumentedBy</span><span>) is also used here as an example,</span><sup>[[8]](#ftnt8)</sup><span>&nbsp;to link the graph of this object to any list of identifiable bibliographic resources, distinct from any list of the editions of the text (see below </span><span class="c12">[The Edition](#h.srxc1d6gan5k)</span><span>), although potentially overlapping. The modeling of these bibliographic resources, if not directly pointing to standard RDF representations, should follow the FABIO</span><sup>[[9]](#ftnt9)</sup><span class="c0">&nbsp;or FRBR models. </span>
+<span>The Property proposed by the epnet ontology to relate </span><span>bibliographic information to an entity</span><span>&nbsp;in a generic way (</span><span class="c8">epnet:isDocumentedBy</span><span>) is also used here as an example,[^8] to link the graph of this object to any list of identifiable bibliographic resources, distinct from any list of the editions of the text (see below </span><span class="c12">[The Edition](#h.srxc1d6gan5k)</span><span>), although potentially overlapping. The modeling of these bibliographic resources, if not directly pointing to standard RDF representations, should follow the FABIO[^9] or FRBR models. </span>
 
 <span class="c0"></span>
 
@@ -296,7 +296,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 623px; height: 389.38px;"><img src='{{site.baseurl}}/assets/images/image1.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
-<span class="c16">In the above example two Reproduction activities of the creation of a Squeeze and a Cast are defined and linked to an Object via </span><span class="c16 c8">P12 occurred in the presence of</span><span class="c16">.</span><sup class="c16">[[10]](#ftnt10)</sup><span class="c16">&nbsp;The creation of a reproduction is a Production (</span><span class="c16 c8">E12 Production</span><span class="c16">) which can be dated and can have an Actor, like any other activity, while the Object it produces is an Object like any other and can have the same properties as the Object on which it is based. Many of the properties listed under </span><span class="c16 c8">E12 Production</span><span class="c16 c29">&nbsp;in the CIDOC CRM documentation could also be used here, to document the facsimile production. The Cast and Squeeze defined in the example above are also objects which carry a written text. In the case of a lost inscription, for which only a Squeeze survives we could have the following modeling, although nothing would prevent the epOnt:carriesText Property from remaining attached to the 'original' object. A squeeze or photo of a plaster cast is also definable this way, and each object can have its own properties regarding material, dating, etc. The special status of the object used for reproductions is thus not defining.</span>
+<span class="c16">In the above example two Reproduction activities of the creation of a Squeeze and a Cast are defined and linked to an Object via </span><span class="c16 c8">P12 occurred in the presence of</span><span class="c16">.[^10] The creation of a reproduction is a Production (</span><span class="c16 c8">E12 Production</span><span class="c16">) which can be dated and can have an Actor, like any other activity, while the Object it produces is an Object like any other and can have the same properties as the Object on which it is based. Many of the properties listed under </span><span class="c16 c8">E12 Production</span><span class="c16 c29">&nbsp;in the CIDOC CRM documentation could also be used here, to document the facsimile production. The Cast and Squeeze defined in the example above are also objects which carry a written text. In the case of a lost inscription, for which only a Squeeze survives we could have the following modeling, although nothing would prevent the epOnt:carriesText Property from remaining attached to the 'original' object. A squeeze or photo of a plaster cast is also definable this way, and each object can have its own properties regarding material, dating, etc. The special status of the object used for reproductions is thus not defining.</span>
 
 <span class="c16 c29"></span>
 
@@ -314,7 +314,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 ### <span class="c25">Images</span>
 <span class="c0"></span>
 
-<span>This model is entirely taken from Nomisma documentation, which was also expanded to include the way the EDM</span><sup>[[11]](#ftnt11)</sup><span class="c0">&nbsp;model represents links to IIIF images.</span>
+<span>This model is entirely taken from Nomisma documentation, which was also expanded to include the way the EDM[^11] model represents links to IIIF images.</span>
 
 <span class="c0"></span>
 
@@ -326,7 +326,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span>The Property </span><span class="c8">dcterms:isPartOf</span><span>&nbsp;is used instead of </span><span class="c8">skos:broader</span><span>&nbsp;as in the EDH </span><span>data</span><span class="c0">. The same place model can be used to model any place concept used in the information exposed.</span>
 
-<span>A much richer description in RDF can be seen for example from Pleiades, e.g. </span><span class="c12">[https://pleiades.stoa.org/places/39271/turtle](https://www.google.com/url?q=https://pleiades.stoa.org/places/39271/turtle&sa=D&source=editors&ust=1616770310038000&usg=AOvVaw0mNFkNDT7PgR85t9GM1uOh)</span><span>.</span><sup>[[12]](#ftnt12)</sup>
+<span>A much richer description in RDF can be seen for example from Pleiades, e.g. </span><span class="c12">[https://pleiades.stoa.org/places/39271/turtle](https://www.google.com/url?q=https://pleiades.stoa.org/places/39271/turtle&sa=D&source=editors&ust=1616770310038000&usg=AOvVaw0mNFkNDT7PgR85t9GM1uOh).[^12]
 ### <span class="c25">The Inscription Text</span>
 <span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 537.05px; height: 265.5px;"><img src='{{site.baseurl}}/assets/images/image8.png' style="width:100%;" alt="Execution
  Writing
@@ -358,7 +358,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 #### <span class="c6">The writing field</span>
 <span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 628px; height: 30.5px;"><img src='{{site.baseurl}}/assets/images/image17.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
-<span>The CRMtex class </span><span class="c8">TX4 Writing field</span><span>&nbsp;has already been discussed, &nbsp;and this model inherits that description as is. Like </span><span class="c8">TX1 Written Text</span><span>&nbsp;this is always a subclass of </span><span class="c8">E25 Man-made Feature</span><span>&nbsp;and shares all its features. An updated example based on the Arc of Constantine is in Felicetti and Murano 2020.</span><sup>[[13]](#ftnt13)</sup><span class="c0">&nbsp;</span>
+<span>The CRMtex class </span><span class="c8">TX4 Writing field</span><span>&nbsp;has already been discussed, &nbsp;and this model inherits that description as is. Like </span><span class="c8">TX1 Written Text</span><span>&nbsp;this is always a subclass of </span><span class="c8">E25 Man-made Feature</span><span>&nbsp;and shares all its features. An updated example based on the Arc of Constantine is in Felicetti and Murano 2020.[^13]
 
 <span class="c0"></span>
 #### <span class="c6">Fragments</span>
@@ -402,7 +402,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 
-<span>The </span><span class="c8">E33 Linguistic Object</span><span>&nbsp;can then be used to join different entities such as any E33, using for example properties of the SAWS ontology as in the example.</span><sup>[[14]](#ftnt14)</sup><span class="c0">&nbsp;This linguistic object is also usefully different from any other linguistic object resulting from reading (observation) so that the distinction between the text of the inscription and the transcription of the text of the inscription (diplomatic, editorial, etc.) is guaranteed. This linguistic Object does not have a literal text associated with it in this model, because the only possible literal text is a result of an observation and a transcription, as exemplified in the CRMtex document.</span>
+<span>The </span><span class="c8">E33 Linguistic Object</span><span>&nbsp;can then be used to join different entities such as any E33, using for example properties of the SAWS ontology as in the example.[^14] This linguistic object is also usefully different from any other linguistic object resulting from reading (observation) so that the distinction between the text of the inscription and the transcription of the text of the inscription (diplomatic, editorial, etc.) is guaranteed. This linguistic Object does not have a literal text associated with it in this model, because the only possible literal text is a result of an observation and a transcription, as exemplified in the CRMtex document.</span>
 #### <span class="c6">Phases of Execution</span>
 <span>While writing is a specific sort of Production activity for a Written Text, many execution phases may be additionally involved, which are here classified using a draft ontology proposal for execution technique, which defines a </span><span class="c8">extech:Phase</span><span>&nbsp;as equivalent to a </span><span class="c8">E11 Modification</span><span>&nbsp;(so that </span><span class="c8">TX2 Writing</span><span>&nbsp;is also an </span><span class="c8">extech:Phase</span><span class="c0">&nbsp;in the ontology)</span>
 
@@ -425,13 +425,13 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 92.2px;"><img src='{{site.baseurl}}/assets/images/image31.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
-<span>The reading of an inscription is a scientific observation, and is defined in CRMTex as a subclass of</span><span class="c8">&nbsp;S4 Observation</span><span>. It can have all properties of other Temporal Entities. Here only the ones most salient to epigraphic research are used in the example. Note also that the person possibly related to the autopsy by </span><span class="c8">P14 carried out by (performed)</span><span>&nbsp;need not be the actual author of the transcription or of the edition, although this will be often the case. To this event further annotations, for example related to the phenomenology of reading, could also be added.</span><sup>[[15]](#ftnt15)</sup>
+<span>The reading of an inscription is a scientific observation, and is defined in CRMTex as a subclass of</span><span class="c8">&nbsp;S4 Observation</span><span>. It can have all properties of other Temporal Entities. Here only the ones most salient to epigraphic research are used in the example. Note also that the person possibly related to the autopsy by </span><span class="c8">P14 carried out by (performed)</span><span>&nbsp;need not be the actual author of the transcription or of the edition, although this will be often the case. To this event further annotations, for example related to the phenomenology of reading, could also be added.[^15]
 
 <span class="c0"></span>
 
 <span class="c0">These entities are those which are more likely to be used in a DTS API presentation.</span>
 
-<span>This is a different meaning of "reading" from what is intended as a reading e.g. in the TEI and EpiDoc guidelines for the element &lt;rdg&gt;.</span><sup>[[16]](#ftnt16)</sup><span>&nbsp;The scientific observation which is subclassed in </span><span class="c8">TX5 Reading </span><span>is one action of reading in its entirety,</span><sup>[[17]](#ftnt17)</sup><span class="c0">&nbsp;which may or may not result in a known transcription or an edition, which in turn will contain "readings" of specific pieces of the text.</span>
+<span>This is a different meaning of "reading" from what is intended as a reading e.g. in the TEI and EpiDoc guidelines for the element &lt;rdg&gt;.[^16] The scientific observation which is subclassed in </span><span class="c8">TX5 Reading </span><span>is one action of reading in its entirety,[^17] which may or may not result in a known transcription or an edition, which in turn will contain "readings" of specific pieces of the text.</span>
 #### <span class="c6">Transcription </span>
 <span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 280.94px;"><img src='{{site.baseurl}}/assets/images/image2.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
@@ -487,7 +487,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 ### <span class="c25">Reification (about that triple...)</span>
-<span>The issue of attribution of each RDF statement is solved with a process of adding triples which speak about triples, called reification. However, this risks to be never-ending, as one may start to wish for triples which speak about triples about other triples. Nomisma.org (example below) does not use reification for every single triple, but only where needed, and the same approach is used here with Contributors, Editors, etc.</span><sup>[[18]](#ftnt18)</sup><span>&nbsp;Nothing prevents anyone from implementing this however there is no need for </span><span>prescription </span><span class="c0">in this document.</span>
+<span>The issue of attribution of each RDF statement is solved with a process of adding triples which speak about triples, called reification. However, this risks to be never-ending, as one may start to wish for triples which speak about triples about other triples. Nomisma.org (example below) does not use reification for every single triple, but only where needed, and the same approach is used here with Contributors, Editors, etc.[^18]Nothing prevents anyone from implementing this however there is no need for </span><span>prescription </span><span class="c0">in this document.</span>
 
 <span class="c0"></span>
 
@@ -615,61 +615,34 @@ Property|dct:date  |date|
 
 
 - - -
-<div>
 
-[[1]](#ftnt_ref1)<span class="c11">&nbsp;The list includes participants to seminars and workshops related to this work. Please notify the mailing list Epigraphic Ontology WG &lt;</span><span class="c12 c11">[epont@googlegroups.com](mailto:epont@googlegroups.com)</span><span class="c22 c11">&gt; .</span>
 
-</div><div>
+[^1]: The list includes participants to seminars and workshops related to this work. Please notify the mailing list Epigraphic Ontology WG [epont@googlegroups.com](mailto:mailto:epont@googlegroups.com)
 
-[[2]](#ftnt_ref2)<span class="c11">&nbsp;Universität Wien, </span><span class="c12 c11">[ERC Advanced Grant Project MAPPOLA-Mapping Out the Poetic Landscapes of the Roman Empire](https://www.google.com/url?q=https://mappola.eu/&sa=D&source=editors&ust=1616770310125000&usg=AOvVaw1T7V0obWYArRrlWWcrTD_i)</span><span class="c22 c11">.</span>
+[^2]: Universität Wien, [ERC Advanced Grant Project MAPPOLA-Mapping Out the Poetic Landscapes of the Roman Empire](https://www.google.com/url?q=https://mappola.eu/&sa=D&source=editors&ust=1616770310125000&usg=AOvVaw1T7V0obWYArRrlWWcrTD_i)
 
-</div><div>
+[^3]: The Institute for Advanced Study, [the Krateros Project](https://www.google.com/url?q=https://www.ias.edu/krateros&sa=D&source=editors&ust=1616770310125000&usg=AOvVaw3bsHtYY_Y9erMfgb4Da2MW)
 
-[[3]](#ftnt_ref3)<span class="c11">&nbsp;The Institute for Advanced Study, </span><span class="c12 c11">[the Krateros Project](https://www.google.com/url?q=https://www.ias.edu/krateros&sa=D&source=editors&ust=1616770310125000&usg=AOvVaw3bsHtYY_Y9erMfgb4Da2MW)</span><span class="c11 c22">.</span>
+[^4]: Dept. of Cultural History, University of Turku.
 
-</div><div>
+[^5]: Universität Hamburg, [Beta maṣāḥǝft: Manuscripts of Ethiopia and Eritrea (Schriftkultur des christlichen Äthiopiens und Eritreas: eine multimediale Forschungsumgebung)](https://www.google.com/url?q=https://www.betamasaheft.uni-hamburg.de/&sa=D&source=editors&ust=1616770310123000&usg=AOvVaw3rM2BRiDFDetJaa2aiTRa7). Contributor of the initial complete draft and structure.
 
-[[4]](#ftnt_ref4)<span class="c22 c11">&nbsp;Dept. of Cultural History, University of Turku</span>
+[^6]: Institute for the Study of the Ancient World, New York University.
 
-</div><div>
+[^7]: [https://epidoc.stoa.org/gl/latest/](https://www.google.com/url?q=https://epidoc.stoa.org/gl/latest/&sa=D&source=editors&ust=1616770310126000&usg=AOvVaw0OqqhXDdvSIg15mQefrWZR)
 
-[[5]](#ftnt_ref5)<span class="c11">&nbsp;Universität Hamburg, </span><span class="c11 c27">&nbsp;</span><span class="c12 c11 c27">[Beta maṣāḥǝft: Manuscripts of Ethiopia and Eritrea (Schriftkultur des christlichen Äthiopiens und Eritreas: eine multimediale Forschungsumgebung)](https://www.google.com/url?q=https://www.betamasaheft.uni-hamburg.de/&sa=D&source=editors&ust=1616770310123000&usg=AOvVaw3rM2BRiDFDetJaa2aiTRa7)</span><span class="c11">. Contributor of the initial complete draft and structure.</span>
+[^8]: CITO properties could also be used for this, to differentiate the different sources. This is the praxis for example in the Pleiades dataset.
 
-</div><div>
+[^9]:(Peroni and Shotton 2012)
 
-[[6]](#ftnt_ref6)<span class="c22 c11">&nbsp;Institute for the Study of the Ancient World, New York University</span>
+[^10]: See CIDOC-CRM v.7 page xxix 
 
-</div><div>
+[^11]: [https://pro.europeana.eu/resources/standardization-tools/edm-documentation](https://www.google.com/url?q=https://pro.europeana.eu/resources/standardization-tools/edm-documentation&sa=D&source=editors&ust=1616770310119000&usg=AOvVaw2u7AV5xf18JG7BudzbJPBD)
 
-[[7]](#ftnt_ref7)<span class="c11">&nbsp;</span><span class="c12 c11">[https://epidoc.stoa.org/gl/latest/](https://www.google.com/url?q=https://epidoc.stoa.org/gl/latest/&sa=D&source=editors&ust=1616770310126000&usg=AOvVaw0OqqhXDdvSIg15mQefrWZR)</span><span class="c22 c11">&nbsp;</span>
+[^12]: Although Pleiades does not serve a SPARQL Endpoint, the data is all freely available and can be loaded locally to a triplestore for querying as RDF.
 
-</div><div>
+[^13]: [http://www.semantic-web-journal.net/system/files/swj2509.pdf](https://www.google.com/url?q=http://www.semantic-web-journal.net/system/files/swj2509.pdf&sa=D&source=editors&ust=1616770310121000&usg=AOvVaw1KfaBEM1X_6UfIHPve3Dfl)
 
-[[8]](#ftnt_ref8)<span class="c22 c11">&nbsp;CITO properties could also be used for this, to differentiate the different sources. This is the praxis for example in the Pleiades dataset.</span>
+[^14]: The SAWS ontology [http://www.ancientwisdoms.ac.uk/method/ontology/](https://www.google.com/url?q=http://www.ancientwisdoms.ac.uk/method/ontology/&sa=D&source=editors&ust=1616770310120000&usg=AOvVaw3yR10HKCzzUhjgrCd1rX3H)
 
-</div><div>
-
-[[9]](#ftnt_ref9)<span class="c22 c11">&nbsp;(Peroni and Shotton 2012)</span>
-
-</div><div>
-
-[[10]](#ftnt_ref10)<span class="c22 c11">&nbsp;See CIDOC-CRM v.7 page xxix .</span>
-
-</div><div>
-
-[[11]](#ftnt_ref11)<span class="c11">&nbsp; </span><span class="c12 c11">[https://pro.europeana.eu/resources/standardization-tools/edm-documentation](https://www.google.com/url?q=https://pro.europeana.eu/resources/standardization-tools/edm-documentation&sa=D&source=editors&ust=1616770310119000&usg=AOvVaw2u7AV5xf18JG7BudzbJPBD)</span><span class="c11">&nbsp;</span>
-
-</div><div>
-
-[[12]](#ftnt_ref12)<span class="c11">&nbsp;Although Pleiades does not serve a SPARQL Endpoint, the data is all freely available and can be loaded locally to a triplestore for querying as </span><span class="c11">RDF</span><span class="c22 c11">.</span>
-
-</div><div>
-
-[[13]](#ftnt_ref13)<span class="c11">&nbsp;</span><span class="c12 c11">[http://www.semantic-web-journal.net/system/files/swj2509.pdf](https://www.google.com/url?q=http://www.semantic-web-journal.net/system/files/swj2509.pdf&sa=D&source=editors&ust=1616770310121000&usg=AOvVaw1KfaBEM1X_6UfIHPve3Dfl)</span><span class="c22 c11">&nbsp;</span>
-
-</div><div>
-
-[[14]](#ftnt_ref14)<span class="c11">&nbsp;The SAWS ontology </span><span class="c12 c11">[http://www.ancientwisdoms.ac.uk/method/ontology/](https://www.google.com/url?q=http://www.ancientwisdoms.ac.uk/method/ontology/&sa=D&source=editors&ust=1616770310120000&usg=AOvVaw3yR10HKCzzUhjgrCd1rX3H)</span><span class="c11">&nbsp;</span>
-
-</div><div>
-
+[^15]: [https://numishare.blogspot.com/2020/12/roman-republican-die-project-nomisma.htmlaspointed](https://numishare.blogspot.com/2020/12/roman-republican-die-project-nomisma.htmlaspointed) out by Ethan Gruber. Another approach is that of [KNORA and Gravsearch](http://semantic-web-journal.net/content/gravsearch-transforming-sparql-query-humanities-data-0#)
