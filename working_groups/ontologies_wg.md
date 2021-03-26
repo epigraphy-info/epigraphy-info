@@ -487,7 +487,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 ### <span class="c25">Reification (about that triple...)</span>
-<span>The issue of attribution of each RDF statement is solved with a process of adding triples which speak about triples, called reification. However, this risks to be never-ending, as one may start to wish for triples which speak about triples about other triples. Nomisma.org (example below) does not use reification for every single triple, but only where needed, and the same approach is used here with Contributors, Editors, etc.[^18]Nothing prevents anyone from implementing this however there is no need for </span><span>prescription </span><span class="c0">in this document.</span>
+<span>The issue of attribution of each RDF statement is solved with a process of adding triples which speak about triples, called reification. However, this risks to be never-ending, as one may start to wish for triples which speak about triples about other triples. Nomisma.org (example below) does not use reification for every single triple, but only where needed, and the same approach is used here with Contributors, Editors, etc.[^18] Nothing prevents anyone from implementing this however there is no need for </span><span>prescription </span><span class="c0">in this document.</span>
 
 <span class="c0"></span>
 
@@ -645,4 +645,10 @@ Property|dct:date  |date|
 
 [^14]: The SAWS ontology [http://www.ancientwisdoms.ac.uk/method/ontology/](https://www.google.com/url?q=http://www.ancientwisdoms.ac.uk/method/ontology/&sa=D&source=editors&ust=1616770310120000&usg=AOvVaw3yR10HKCzzUhjgrCd1rX3H)
 
-[^15]: [https://numishare.blogspot.com/2020/12/roman-republican-die-project-nomisma.htmlaspointed](https://numishare.blogspot.com/2020/12/roman-republican-die-project-nomisma.htmlaspointed) out by Ethan Gruber. Another approach is that of [KNORA and Gravsearch](http://semantic-web-journal.net/content/gravsearch-transforming-sparql-query-humanities-data-0#)
+[^15]: See the READ Ontology https://readit-project.eu/.
+
+[^16]: Single reading within a textual variation.
+
+[^17]: See CRMtex, "*refers to the semiotic procedure of decoding (and therefore understanding) a written text. This procedure can be carried out for scientific purposes, in order to analyse and study the text according to different disciplinary perspectives. The reading activity is thus intended as a specific observation (S4) in which the decoding of the signs is performed, i.e., the linguistic value is recognised and the message is understood.*"
+
+[^18]: [https://numishare.blogspot.com/2020/12/roman-republican-die-project-nomisma.htmlaspointed](https://numishare.blogspot.com/2020/12/roman-republican-die-project-nomisma.htmlaspointed) out by Ethan Gruber. Another approach is that of [KNORA and Gravsearch](http://semantic-web-journal.net/content/gravsearch-transforming-sparql-query-humanities-data-0#)
