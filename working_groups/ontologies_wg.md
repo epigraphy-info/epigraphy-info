@@ -73,7 +73,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c4">[The Many Missing Parts](#h.lc05u52onr3p)</span><span class="c4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c4">[21](#h.lc05u52onr3p)</span>
 
-<span class="c4">[Summary of Classes and property](#h.3bw3nnslq6el)</span><span class="c4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c4">[23](#h.3bw3nnslq6el)</span>
+<span class="c4">[Summary of Classes and Property](#h.3bw3nnslq6el)</span><span class="c4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c4">[23](#h.3bw3nnslq6el)</span>
 
 <span class="c51 c62 c17 c27"></span>
 
@@ -165,19 +165,19 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 #### <span class="c6">Properties</span>
 <span class="c19">epont:carriesText</span><span class="c0">&nbsp;</span>
 
-<span>The property </span><span class="c28">epOnt:carriesText</span><span>, is defined as the key property to link objects and written texts, and is a subclass of </span><span class="c28">crm:P56_bears_feature (is found on</span><span>) instead of the </span><span class="c28">crm:P128_carries</span><span class="c0">&nbsp;as proposed in EPNet and EAGLE.</span>
+<span>The Property </span><span class="c28">epOnt:carriesText</span><span>, is defined as the key Property to link objects and written texts, and is a subclass of </span><span class="c28">crm:P56_bears_feature (is found on</span><span>) instead of the </span><span class="c28">crm:P128_carries</span><span class="c0">&nbsp;as proposed in EPNet and EAGLE.</span>
 
 <span class="c0"></span>
 
 <span class="c29 c31 c19 c49">epont:hasEdition</span>
 
-<span>This property is a subclass of </span><span class="c28">crm:P94_has_created</span><span>&nbsp;and is used to connect an Activity of </span><span class="c28">TX6 Transcription</span><span>&nbsp;to the Edition of that transcription published somewhere. </span>
+<span>This Property is a subclass of </span><span class="c28">crm:P94_has_created</span><span>&nbsp;and is used to connect an Activity of </span><span class="c28">TX6 Transcription</span><span>&nbsp;to the Edition of that transcription published somewhere. </span>
 
 <span class="c0"></span>
 - - -
 ## <span class="c22 c38"></span>
 ## <span class="c22 c38">Modeling information</span>
-<span>The following is a summary depiction of the main entities involved in the model using generically understandable terms. In a nutshell, it takes the Inscription as studied by epigraphers as a pair of closely related but distinct entities, an Object and a Written Text. It is neither necessary nor desirable to prioritize either Text or Object, but the two must be distinguished in order to be accurately described. The Written Text and its fragments have been written in a series of execution phases to reproduce a Text. The scholar who observes the written text and the object may produce a transcription which may become part of an Edition and which may then be translated. </span><span>In this visual model no specific, formal, concept name is used; instead simplified labels are used to make the model clearer. The formal class and property names appear in the examples and in the description.</span>
+<span>The following is a summary depiction of the main entities involved in the model using generically understandable terms. In a nutshell, it takes the Inscription as studied by epigraphers as a pair of closely related but distinct entities, an Object and a Written Text. It is neither necessary nor desirable to prioritize either Text or Object, but the two must be distinguished in order to be accurately described. The Written Text and its fragments have been written in a series of execution phases to reproduce a Text. The scholar who observes the written text and the object may produce a transcription which may become part of an Edition and which may then be translated. </span><span>In this visual model no specific, formal, concept name is used; instead simplified labels are used to make the model clearer. The formal class and Property names appear in the examples and in the description.</span>
 
 <span class="c0"></span>
 
@@ -207,7 +207,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 
-<span>On finding a new inscription, its existence could be defined by the simple three instances and two relations seen above. However, because we are pretty sure it was written, the minimal set should actually have one more property and one more entity.</span>
+<span>On finding a new inscription, its existence could be defined by the simple three instances and two relations seen above. However, because we are pretty sure it was written, the minimal set should actually have one more Property and one more entity.</span>
 
 <span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 537.05px; height: 261.64px;"><img src='{{site.baseurl}}/assets/images/image5.png' style="width:100%;" alt="Writing
  Object
@@ -244,15 +244,15 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 
-<span>The Object carries a Written Text (see </span><span class="c12">[The inscription](#h.pd99nf6rxn2h)</span><span>&nbsp;below</span><span>). The property </span><span class="c8">epOnt:carriesText</span><span>&nbsp;is defined as the key property to link objects and written texts, and is a subclass of </span><span class="c8">crm:P56_bears_feature (is found on)</span><span>. It is defined as a subproperty in order to distinguish it from </span><span class="c8">TXP2_is_included_within (included)</span><span>, which is also a subproperty of </span><span class="c8">crm:P56_bears_feature (is found on). </span><span>While </span><span class="c8">epOnt:carriesText</span><span>&nbsp;relates a </span><span class="c16 c8">E22 Human-Made Object</span><span class="c16">&nbsp;to a </span><span class="c16 c8">TX1 Written Text, </span><span class="c8">TXP2_is_included_within (included)</span><span class="c8 c16">&nbsp;</span><span class="c16">relates a </span><span class="c16 c8">TX1 Written Text </span><span class="c16">to a </span><span class="c16 c8">TX4 Writing Field</span><span>.</span>
+<span>The Object carries a Written Text (see </span><span class="c12">[The inscription](#h.pd99nf6rxn2h)</span><span>&nbsp;below</span><span>). The Property </span><span class="c8">epOnt:carriesText</span><span>&nbsp;is defined as the key Property to link objects and written texts, and is a subclass of </span><span class="c8">crm:P56_bears_feature (is found on)</span><span>. It is defined as a subProperty in order to distinguish it from </span><span class="c8">TXP2_is_included_within (included)</span><span>, which is also a subProperty of </span><span class="c8">crm:P56_bears_feature (is found on). </span><span>While </span><span class="c8">epOnt:carriesText</span><span>&nbsp;relates a </span><span class="c16 c8">E22 Human-Made Object</span><span class="c16">&nbsp;to a </span><span class="c16 c8">TX1 Written Text, </span><span class="c8">TXP2_is_included_within (included)</span><span class="c8 c16">&nbsp;</span><span class="c16">relates a </span><span class="c16 c8">TX1 Written Text </span><span class="c16">to a </span><span class="c16 c8">TX4 Writing Field</span><span>.</span>
 
 <span class="c0"></span>
 
-<span>The property for the classification of monument or object type can also be attached to the object, and here the one proposed by EDH is reused and has been further specified as a subtype of </span><span class="c8">nmo:hasObjectType</span><span>. The range of the property is a concept in the EAGLE Vocabulary. See below </span><span class="c12">[The Concepts in the EAGLE Vocabularies](#h.iuqqs353pspn)</span><span class="c0">. </span>
+<span>The Property for the classification of monument or object type can also be attached to the object, and here the one proposed by EDH is reused and has been further specified as a subtype of </span><span class="c8">nmo:hasObjectType</span><span>. The range of the Property is a concept in the EAGLE Vocabulary. See below </span><span class="c12">[The Concepts in the EAGLE Vocabularies](#h.iuqqs353pspn)</span><span class="c0">. </span>
 
 <span class="c0"></span>
 
-<span>nmo:hasMaterial, which is declared in the ontology as a subproperty of </span><span class="c8">P45 consist of</span><span>&nbsp;is used in the same way as </span><span class="c8">edh:representsTypeOfMonument </span><span>to link to a concept defining a material (</span><span class="c8">E57 Material</span><span class="c0">). </span>
+<span>nmo:hasMaterial, which is declared in the ontology as a subProperty of </span><span class="c8">P45 consist of</span><span>&nbsp;is used in the same way as </span><span class="c8">edh:representsTypeOfMonument </span><span>to link to a concept defining a material (</span><span class="c8">E57 Material</span><span class="c0">). </span>
 
 <span class="c0"></span>
 
@@ -260,11 +260,11 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 
-<span>Several places can be specified by using the relevant properties defined by LAWD and linking to place entities defined locally or directly aligned to an available gazetteer, e.g. Pleiades or Trismegistos or any other relevant and open gazetteer (See below </span><span class="c12">[Places](#h.ufmkg27e7yln)</span><span>). While in this model </span><span class="c8">lawd:foundAt</span><span>&nbsp;and </span><span class="c8">lawd:origin</span><span>&nbsp;are used, the super-property </span><span class="c8">lawd:where</span><span>&nbsp;</span><span class="c16">could also be used if neither of the previous two can be specified.</span><span>&nbsp;Only </span><span class="c8">lawd:foundAt </span><span>and not the super-property </span><span class="c8">lawd:where</span><span>&nbsp;is equated to similar properties in other ontologies (</span><span class="c8">nmo:hasFindspot</span><span>&nbsp;and </span><span class="c8">epnet:hasFindingPlace</span><span>). </span><span class="c8">crm:P53 has former or current </span><span class="c8">location </span><span>is</span><span>&nbsp;</span><span>also </span><span>added t</span><span>o the range of subproperties of </span><span class="c8">lawd:where</span><span>, and includes the more specific subproperty used in the model, </span><span class="c8">P55 has current location</span><span class="c0">. </span>
+<span>Several places can be specified by using the relevant properties defined by LAWD and linking to place entities defined locally or directly aligned to an available gazetteer, e.g. Pleiades or Trismegistos or any other relevant and open gazetteer (See below </span><span class="c12">[Places](#h.ufmkg27e7yln)</span><span>). While in this model </span><span class="c8">lawd:foundAt</span><span>&nbsp;and </span><span class="c8">lawd:origin</span><span>&nbsp;are used, the super-Property </span><span class="c8">lawd:where</span><span>&nbsp;</span><span class="c16">could also be used if neither of the previous two can be specified.</span><span>&nbsp;Only </span><span class="c8">lawd:foundAt </span><span>and not the super-Property </span><span class="c8">lawd:where</span><span>&nbsp;is equated to similar properties in other ontologies (</span><span class="c8">nmo:hasFindspot</span><span>&nbsp;and </span><span class="c8">epnet:hasFindingPlace</span><span>). </span><span class="c8">crm:P53 has former or current </span><span class="c8">location </span><span>is</span><span>&nbsp;</span><span>also </span><span>added t</span><span>o the range of subproperties of </span><span class="c8">lawd:where</span><span>, and includes the more specific subProperty used in the model, </span><span class="c8">P55 has current location</span><span class="c0">. </span>
 
 <span class="c0"></span>
 
-<span>The property proposed by the epnet ontology to relate </span><span>bibliographic information to an entity</span><span>&nbsp;in a generic way (</span><span class="c8">epnet:isDocumentedBy</span><span>) is also used here as an example,</span><sup>[[8]](#ftnt8)</sup><span>&nbsp;to link the graph of this object to any list of identifiable bibliographic resources, distinct from any list of the editions of the text (see below </span><span class="c12">[The Edition](#h.srxc1d6gan5k)</span><span>), although potentially overlapping. The modeling of these bibliographic resources, if not directly pointing to standard RDF representations, should follow the FABIO</span><sup>[[9]](#ftnt9)</sup><span class="c0">&nbsp;or FRBR models. </span>
+<span>The Property proposed by the epnet ontology to relate </span><span>bibliographic information to an entity</span><span>&nbsp;in a generic way (</span><span class="c8">epnet:isDocumentedBy</span><span>) is also used here as an example,</span><sup>[[8]](#ftnt8)</sup><span>&nbsp;to link the graph of this object to any list of identifiable bibliographic resources, distinct from any list of the editions of the text (see below </span><span class="c12">[The Edition](#h.srxc1d6gan5k)</span><span>), although potentially overlapping. The modeling of these bibliographic resources, if not directly pointing to standard RDF representations, should follow the FABIO</span><sup>[[9]](#ftnt9)</sup><span class="c0">&nbsp;or FRBR models. </span>
 
 <span class="c0"></span>
 
@@ -278,7 +278,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 
-<span>The Object is the only entity which can be possibly represented by an image or drawing (an abstraction of a text cannot be), and remains true also for objects which are drawings and sketches from field notes, for example. The images are linked with a standard CRM property and defined as in the following section (</span><span class="c12">[Images](#h.1mkfhqbc4ss6)</span><span>).</span>
+<span>The Object is the only entity which can be possibly represented by an image or drawing (an abstraction of a text cannot be), and remains true also for objects which are drawings and sketches from field notes, for example. The images are linked with a standard CRM Property and defined as in the following section (</span><span class="c12">[Images](#h.1mkfhqbc4ss6)</span><span>).</span>
 ### <span>Facsimiles</span><span>/Surrogates</span>
 <span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 503.22px; height: 229.07px;"><img src='{{site.baseurl}}/assets/images/image13.png' style="width:100%;" alt="Object 
  Object 
@@ -296,7 +296,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 623px; height: 389.38px;"><img src='{{site.baseurl}}/assets/images/image1.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
-<span class="c16">In the above example two Reproduction activities of the creation of a Squeeze and a Cast are defined and linked to an Object via </span><span class="c16 c8">P12 occurred in the presence of</span><span class="c16">.</span><sup class="c16">[[10]](#ftnt10)</sup><span class="c16">&nbsp;The creation of a reproduction is a Production (</span><span class="c16 c8">E12 Production</span><span class="c16">) which can be dated and can have an Actor, like any other activity, while the Object it produces is an Object like any other and can have the same properties as the Object on which it is based. Many of the properties listed under </span><span class="c16 c8">E12 Production</span><span class="c16 c29">&nbsp;in the CIDOC CRM documentation could also be used here, to document the facsimile production. The Cast and Squeeze defined in the example above are also objects which carry a written text. In the case of a lost inscription, for which only a Squeeze survives we could have the following modeling, although nothing would prevent the epOnt:carriesText property from remaining attached to the 'original' object. A squeeze or photo of a plaster cast is also definable this way, and each object can have its own properties regarding material, dating, etc. The special status of the object used for reproductions is thus not defining.</span>
+<span class="c16">In the above example two Reproduction activities of the creation of a Squeeze and a Cast are defined and linked to an Object via </span><span class="c16 c8">P12 occurred in the presence of</span><span class="c16">.</span><sup class="c16">[[10]](#ftnt10)</sup><span class="c16">&nbsp;The creation of a reproduction is a Production (</span><span class="c16 c8">E12 Production</span><span class="c16">) which can be dated and can have an Actor, like any other activity, while the Object it produces is an Object like any other and can have the same properties as the Object on which it is based. Many of the properties listed under </span><span class="c16 c8">E12 Production</span><span class="c16 c29">&nbsp;in the CIDOC CRM documentation could also be used here, to document the facsimile production. The Cast and Squeeze defined in the example above are also objects which carry a written text. In the case of a lost inscription, for which only a Squeeze survives we could have the following modeling, although nothing would prevent the epOnt:carriesText Property from remaining attached to the 'original' object. A squeeze or photo of a plaster cast is also definable this way, and each object can have its own properties regarding material, dating, etc. The special status of the object used for reproductions is thus not defining.</span>
 
 <span class="c16 c29"></span>
 
@@ -324,7 +324,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 208.95px;"><img src='{{site.baseurl}}/assets/images/image25.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
-<span>The property </span><span class="c8">dcterms:isPartOf</span><span>&nbsp;is used instead of </span><span class="c8">skos:broader</span><span>&nbsp;as in the EDH </span><span>data</span><span class="c0">. The same place model can be used to model any place concept used in the information exposed.</span>
+<span>The Property </span><span class="c8">dcterms:isPartOf</span><span>&nbsp;is used instead of </span><span class="c8">skos:broader</span><span>&nbsp;as in the EDH </span><span>data</span><span class="c0">. The same place model can be used to model any place concept used in the information exposed.</span>
 
 <span>A much richer description in RDF can be seen for example from Pleiades, e.g. </span><span class="c12">[https://pleiades.stoa.org/places/39271/turtle](https://www.google.com/url?q=https://pleiades.stoa.org/places/39271/turtle&sa=D&source=editors&ust=1616770310038000&usg=AOvVaw0mNFkNDT7PgR85t9GM1uOh)</span><span>.</span><sup>[[12]](#ftnt12)</sup>
 ### <span class="c25">The Inscription Text</span>
@@ -350,11 +350,11 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 
-<span>The </span><span class="c8">TX1 Written Te</span><span class="c8">xt</span><span>&nbsp;is the domain</span><span>&nbsp;of the property </span><span class="c8">crmtex:TXP2 is included within</span><span>, which allows for the separate &nbsp;description of the </span><span class="c8">TX4 Writing Field</span><span>&nbsp;(</span><span class="c12">[The writing field](#h.nvnnmht6tqkm)</span><span>), as in the documentation of CRMtex. </span><span>In CRMtex a </span><span class="c8">TX1 Written Text</span><span>&nbsp;is linked to a class</span><span class="c8">&nbsp;TX2 Writing</span><span>&nbsp;by a </span><span class="c34 c27">specific property </span><span class="c8 c34 c27">TXP5 was written by</span><span class="c34 c27">, subclass of </span><span class="c8 c27 c34">P108 was produced by</span><span class="c34 c27">,</span><span class="c34 c27">&nbsp;introduced to specify the particular relationship between the written text and the event that produced it.</span><span class="c8">TX1 Written Text</span><span>&nbsp;is also linked to</span><span>&nbsp;a </span><span class="c8">TX5 Reading</span><span>&nbsp;with a property </span><span class="c26">introduced to specify the relationship between the written text and its reading: the </span><span class="c8 c26">TXP9 was read by</span><span class="c26">, subclass of</span><span>&nbsp;</span><span class="c8">O6 observed by</span><span>&nbsp;from the CRMsci module</span><span>&nbsp;(see </span><span class="c56">[The Reading](#h.s40p2u7gfuae)</span><span class="c0">). This is crucial to distinguish the text production from the investigation which leads to a transcription. It is necessary to abstract the text separately from its production aspect and transcription aspect to be able to associate the information precisely. This is an extremely important contribution from this model, which inherently allows the association of distinct and identifiable autopsies to a single text. It is thus possible to model the fact that a specific transcription is based on a specific autopsy event or instead is based on a previous edition, or on another Observation event. This is a major improvement possibility for the study of epigraphy, opening the path for attempts to disentangle the genesis of editions and publications.</span>
+<span>The </span><span class="c8">TX1 Written Te</span><span class="c8">xt</span><span>&nbsp;is the domain</span><span>&nbsp;of the Property </span><span class="c8">crmtex:TXP2 is included within</span><span>, which allows for the separate &nbsp;description of the </span><span class="c8">TX4 Writing Field</span><span>&nbsp;(</span><span class="c12">[The writing field](#h.nvnnmht6tqkm)</span><span>), as in the documentation of CRMtex. </span><span>In CRMtex a </span><span class="c8">TX1 Written Text</span><span>&nbsp;is linked to a class</span><span class="c8">&nbsp;TX2 Writing</span><span>&nbsp;by a </span><span class="c34 c27">specific Property </span><span class="c8 c34 c27">TXP5 was written by</span><span class="c34 c27">, subclass of </span><span class="c8 c27 c34">P108 was produced by</span><span class="c34 c27">,</span><span class="c34 c27">&nbsp;introduced to specify the particular relationship between the written text and the event that produced it.</span><span class="c8">TX1 Written Text</span><span>&nbsp;is also linked to</span><span>&nbsp;a </span><span class="c8">TX5 Reading</span><span>&nbsp;with a Property </span><span class="c26">introduced to specify the relationship between the written text and its reading: the </span><span class="c8 c26">TXP9 was read by</span><span class="c26">, subclass of</span><span>&nbsp;</span><span class="c8">O6 observed by</span><span>&nbsp;from the CRMsci module</span><span>&nbsp;(see </span><span class="c56">[The Reading](#h.s40p2u7gfuae)</span><span class="c0">). This is crucial to distinguish the text production from the investigation which leads to a transcription. It is necessary to abstract the text separately from its production aspect and transcription aspect to be able to associate the information precisely. This is an extremely important contribution from this model, which inherently allows the association of distinct and identifiable autopsies to a single text. It is thus possible to model the fact that a specific transcription is based on a specific autopsy event or instead is based on a previous edition, or on another Observation event. This is a major improvement possibility for the study of epigraphy, opening the path for attempts to disentangle the genesis of editions and publications.</span>
 
 <span class="c0"></span>
 
-<span>To the </span><span class="c8">TX4 Writing </span><span>events in this example a series of other Events are </span><span>also </span><span>linked using the </span><span class="c8">extech:hasExecutionPhase</span><span>&nbsp;property, equivalent to </span><span class="c8">P31 has modified</span><span>.</span><span class="c8">&nbsp;</span><span>This allows the use of an event-based description structure for any </span><span class="c8">TX1 Written Text</span><span>.</span>
+<span>To the </span><span class="c8">TX4 Writing </span><span>events in this example a series of other Events are </span><span>also </span><span>linked using the </span><span class="c8">extech:hasExecutionPhase</span><span>&nbsp;Property, equivalent to </span><span class="c8">P31 has modified</span><span>.</span><span class="c8">&nbsp;</span><span>This allows the use of an event-based description structure for any </span><span class="c8">TX1 Written Text</span><span>.</span>
 #### <span class="c6">The writing field</span>
 <span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 628px; height: 30.5px;"><img src='{{site.baseurl}}/assets/images/image17.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
@@ -370,7 +370,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 
-<span>The property </span><span class="c8">TXP4 composes</span><span>&nbsp;provides the ability to have a separate model for each independent fragment and easily join the history of observation and publication of multiple fragments into one. Being able to identify a part of text would enable (for example) associating it with other parts of the same written text and easily modeling inscriptions in multiple languages or in multiple scripts (or both) by having a conceptualization for each part. Each Written Text or Written Text Fragment will have a &nbsp; </span><span class="c8">crm:P108_has_produced_(was_produced_by)</span><span>&nbsp;linked to a </span><span class="c8">TX2 Writing</span><span class="c0">&nbsp;event.</span>
+<span>The Property </span><span class="c8">TXP4 composes</span><span>&nbsp;provides the ability to have a separate model for each independent fragment and easily join the history of observation and publication of multiple fragments into one. Being able to identify a part of text would enable (for example) associating it with other parts of the same written text and easily modeling inscriptions in multiple languages or in multiple scripts (or both) by having a conceptualization for each part. Each Written Text or Written Text Fragment will have a &nbsp; </span><span class="c8">crm:P108_has_produced_(was_produced_by)</span><span>&nbsp;linked to a </span><span class="c8">TX2 Writing</span><span class="c0">&nbsp;event.</span>
 
 <span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 620.5px; height: 177.88px;"><img src='{{site.baseurl}}/assets/images/image10.png' style="width:100%;" alt="Object
  Object
@@ -390,9 +390,9 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 
 <span class="c0"></span>
 
-<span class="c8">TX2 Writing</span><span>&nbsp;is a subclass of </span><span class="c8">E12 Production</span><span>&nbsp;and can have identifiers and time related declarations associated with it. It can also make use of </span><span class="c8">crm:P120_occurs_before </span><span>to link to any other</span><span>&nbsp;</span><span class="c8">E2 Temporal entity</span><span class="c0">. This property scope note says that </span>
+<span class="c8">TX2 Writing</span><span>&nbsp;is a subclass of </span><span class="c8">E12 Production</span><span>&nbsp;and can have identifiers and time related declarations associated with it. It can also make use of </span><span class="c8">crm:P120_occurs_before </span><span>to link to any other</span><span>&nbsp;</span><span class="c8">E2 Temporal entity</span><span class="c0">. This Property scope note says that </span>
 
-<span class="c31 c8 c49 c51">a temporal gap exists between the end of A and the start of B. This property is only necessary if the relevant time spans are unknown (otherwise the relationship can be calculated).</span>
+<span class="c31 c8 c49 c51">a temporal gap exists between the end of A and the start of B. This Property is only necessary if the relevant time spans are unknown (otherwise the relationship can be calculated).</span>
 
 <span>T</span><span class="c0">his is extremely important for chronologically placing one entity relative to another without making vague assertions about time-spans if such are not possible with a decent level of accuracy.</span>
 
@@ -435,7 +435,7 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 #### <span class="c6">Transcription </span>
 <span style="overflow-x: hidden; overflow-y: hidden; display: inline-block; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-top-style: solid; border-top-width: 0px; border-right-color: rgb(0, 0, 0); border-right-style: solid; border-right-width: 0px; border-bottom-color: rgb(0, 0, 0); border-bottom-style: solid; border-bottom-width: 0px; border-left-color: rgb(0, 0, 0); border-left-style: solid; border-left-width: 0px; width: 624px; height: 280.94px;"><img src='{{site.baseurl}}/assets/images/image2.png' style="width:100%;" alt="" title="" align="middle"/></span>
 
-<span>The </span><span class="c8">TX6 Transcription</span><span>, product of a Reading (here called Autopsy could also in theory be another Activity such as reading an edition). This is the entity which most closely resembles the contents of a record in a digital epigraphy archive when viewed specifically from the landing page of an inscription. In this entity we have a series of standard dc statements including the link to a landing page, an identifier, and temporal properties. This entity is, however, still distinct from the Epigraphic Edition (</span><span class="c12">[edition](#h.srxc1d6gan5k)</span><span>) which it may produce and which is related to it with a special property </span><span class="c8">epOnt:hasEdition</span><span>, defined as a subclass of </span><span class="c8">P94 created</span><span>. This allows for a text transcription to be available even before it is published, and to be easily distinguished from published transcriptions, whatever the format of publication. The transcription can take different forms and the EpNet ontology has defined a range of properties to associate to the results of this activity, including a property to associate an EpiDoc transcription in XML. Only to this transcribed (and thus interpreted) text can a typology for a text (or more) be associated with the </span><span class="c8">edh:representsTypeOfInscription</span><span>,</span><span>&nbsp;one of the concepts defined in the EAGLE Vocabularies (see </span><span class="c12">[The Concepts in the EAGLE Vocabularies](#h.iuqqs353pspn)</span><span class="c0">). </span>
+<span>The </span><span class="c8">TX6 Transcription</span><span>, product of a Reading (here called Autopsy could also in theory be another Activity such as reading an edition). This is the entity which most closely resembles the contents of a record in a digital epigraphy archive when viewed specifically from the landing page of an inscription. In this entity we have a series of standard dc statements including the link to a landing page, an identifier, and temporal properties. This entity is, however, still distinct from the Epigraphic Edition (</span><span class="c12">[edition](#h.srxc1d6gan5k)</span><span>) which it may produce and which is related to it with a special Property </span><span class="c8">epOnt:hasEdition</span><span>, defined as a subclass of </span><span class="c8">P94 created</span><span>. This allows for a text transcription to be available even before it is published, and to be easily distinguished from published transcriptions, whatever the format of publication. The transcription can take different forms and the EpNet ontology has defined a range of properties to associate to the results of this activity, including a Property to associate an EpiDoc transcription in XML. Only to this transcribed (and thus interpreted) text can a typology for a text (or more) be associated with the </span><span class="c8">edh:representsTypeOfInscription</span><span>,</span><span>&nbsp;one of the concepts defined in the EAGLE Vocabularies (see </span><span class="c12">[The Concepts in the EAGLE Vocabularies](#h.iuqqs353pspn)</span><span class="c0">). </span>
 
 <span>Other properties such as </span><span class="c8">edh:hasWorkstatus</span><span>&nbsp;could be related to this entity, and in particular attestations (</span><span class="c12">[Attestations](#h.ewkq9lvwbjbg)</span><span class="c0">), which will be related to a specific Transcription or Edition if available. </span>
 
@@ -506,630 +506,114 @@ This document official draft is stored in Zenodo at <span>doi:</span><span class
 <span class="c0"></span>
 - - -
 ### <span class="c25"></span>
-### <span>Summary of Classes and property</span>
-<span>Summary of Classes and property and their “common denomination” which may eventually become a class name mapped to the reference entity. This is only a list of what is contained in this modeling document, the many ways in which this data can be expanded are not listed or </span><span>prescribed</span><span class="c0">, but are listed where known.</span>
+### <span>Summary of Classes and Property</span>
+<span>Summary of Classes and Property and their “common denomination” which may eventually become a class name mapped to the reference entity. This is only a list of what is contained in this modeling document, the many ways in which this data can be expanded are not listed or </span><span>prescribed</span><span class="c0">, but are listed where known.</span>
 
-[]()[]()<table class="c55"><tbody><tr class="c1"><td class="c21" colspan="1" rowspan="1">
 
-<span class="c0">Class or property</span>
+|  **Class or Property**   |  **Current mapped name**   |**Epont proposed name (EN)**|
 
-</td><td class="c23" colspan="1" rowspan="1">
 
-<span class="c0">Current mapped name</span>
+|Class|crm:E22 Human-Made|Object|
 
-</td><td class="c9" colspan="1" rowspan="1">
+|Property|epont:carriesText|Carries text|
 
-<span class="c0">Epont proposed name (EN)</span>
+|Class|crmtex:TX1_Written_text|Written Text|
 
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
+|Property|crmtex:TXP9_was_read_by|Was read by|
 
-<span class="c0">Class</span>
+|Class|crmtex:TX5_Reading|Reading|
 
-</td><td class="c23" colspan="1" rowspan="1">
+|Class|crmtex:TX2_Writing|Writing|
 
-<span>crm:</span><span class="c43">E22 Human-Made </span>
+|Property|crmtex:TXP5_was_written_by|Was written by|
 
-</td><td class="c9" colspan="1" rowspan="1">
+|Property|dcterms:temporal|Time range (period)|
 
-<span class="c0">Object</span>
+|Property|edh:representsTypeOfMonument|Monument Type|
 
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
+|Property|crm:P46_is_composed_of|Is composed of Object|
 
-<span class="c0">property</span>
+|Property|nmo:hasMaterial|Material|
 
-</td><td class="c23" colspan="1" rowspan="1">
+|Property|lawd:foundAt|Findspot|
 
-<span class="c0">epont:carriesText </span>
+|Property|crm:P55_has_current_location|Current location|
 
-</td><td class="c9" colspan="1" rowspan="1">
+|Property |epnet:isDocumentedBy|Bibliography|
 
-<span class="c0">Carries text</span>
+|Property |crm:P138i_has_representation |Images|
 
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
+|Property|crm:P56_is_found_on|Found on|
 
-<span class="c0">Class</span>
+|Property|nmo:hasEndDate|Not after|
 
-</td><td class="c23" colspan="1" rowspan="1">
+|Property|nmo:hasStartDate  |Not before|
 
-<span class="c0">crmtex:TX1_Written_text </span>
+|Property|crmtex:TXP2_is_included_within|Is included within|
 
-</td><td class="c9" colspan="1" rowspan="1">
+|Property|crmtex:TXP5_was_written_by|Was written by|
 
-<span class="c0">Written Text</span>
+|Property|extech:hasExecutionPhase|Has execution phase|
 
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
+|Class|crmtex:TX4_Writing_field|Writing field|
 
-<span class="c0">Property</span>
+|Class|crmtex:TX7_Written_Text_Fragment|Fragment|
 
-</td><td class="c23" colspan="1" rowspan="1">
+|Property|crmtex:TXP4_composes|Composes|
 
-<span class="c0">crmtex:TXP9_was_read_by</span>
+|Class|crmtex:TX2_Writing|Writing|
 
-</td><td class="c9" colspan="1" rowspan="1">
+|Property|crmtex:TXP1_used_writing_system  |Used writing system|
 
-<span class="c0">Was read by</span>
+|Property|crm:P92_brought_into_existence|Brought into existence|
 
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
+|Class|lawd:WrittenWork|Work|
 
-<span class="c0">Class</span>
+|Class|extech:Phase|Phase of execution|
 
-</td><td class="c23" colspan="1" rowspan="1">
+|Property|extech:resultsIn  |Results in|
 
-<span class="c0">crmtex:TX5_Reading</span>
+|Property|extech:uses_technique|Uses technique|
 
-</td><td class="c9" colspan="1" rowspan="1">
+|Property|crm:P20_had_specific_purpose|Had specific purpose|
 
-<span class="c0">Reading</span>
+|Property|crmtex:TXP3_is_rendered_by|Is rendered by|
 
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
+|Property|crm:P14_carried_out_by|Carried out by|
 
-<span class="c0">Class</span>
+|Class|crmtex:TX6_Transcription|Transcription|
 
-</td><td class="c23" colspan="1" rowspan="1">
+|Property|dct:contributor      |Contributor|
 
-<span class="c0">crmtex:TX2_Writing</span>
+Property|dct:date  |date|
 
-</td><td class="c9" colspan="1" rowspan="1">
+|Property|dct:publisher  |publisher|
 
-<span class="c0">Writing</span>
+|Property|dct:isPartOf         |Is part of|
 
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
+|Property|crm:P49_created         |created|
 
-<span class="c0">Property </span>
+|Property|epOnt:hasEdition|Has edition|
 
-</td><td class="c23" colspan="1" rowspan="1">
+|Property|edh:representsTypeOfInscription|Type of inscription|
 
-<span class="c0">crmtex:TXP5_was_written_by </span>
+|Property|lawd:hasAttestation|Has attestation|
 
-</td><td class="c9" colspan="1" rowspan="1">
+|Class|crm:E33_Linguistic_Object|Linguistic object|
 
-<span class="c0">Was written by</span>
+|Property|edh:hasDiplomaticText|Diplomatic edition|
 
-</td></tr><tr class="c36"><td class="c21" colspan="1" rowspan="1">
+|Property|epnet:hasTranscription|transcription|
 
-<span class="c0">property</span>
+|Property|epnet:hasSimplifiedTranscription|Simplified transcription|
 
-</td><td class="c23" colspan="1" rowspan="1">
+|Class|epOnt:Edition|edition|
 
-<span class="c24">dcterms:temporal </span>
+|Property|crm:P73_has_translation|Has translation|
 
-</td><td class="c9" colspan="1" rowspan="1">
+|Property|edh:hasEditionText|Edition text|
 
-<span class="c0">Time range (period)</span>
 
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c24">edh:representsTypeOfMonument</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Monument Type</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c24">crm:P46_is_composed_of</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Is composed of</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c24">nmo:hasMaterial</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Material</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c24">lawd:foundAt</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Findspot</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c24">crm:P55_has_current_location</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Current location</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c24">epnet:isDocumentedBy</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Bibliography</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c24">crm:P138i_has_representation</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Images</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c24">crm:P56_is_found_on </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Found on </span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c24">nmo:hasEndDate </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Not after </span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c24">nmo:hasStartDate &nbsp;</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Not before</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c24">crmtex:TXP2_is_included_within</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Is included within</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c24">crmtex:TXP5_was_written_by</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Was written by</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c24">extech:hasExecutionPhase</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Has execution phase</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">Class</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span>crmtex:</span><span class="c63">TX4_Writing_field</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Writing field</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">Class</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span>crmtex:TX7_Written_Text_Fragment </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Fragment</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span>crmtex:TXP4_composes</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">composes</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">Class</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span>crmtex:TX2_Writing </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Writing</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span>crmtex:TXP1_used_writing_system &nbsp;</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Used writing system</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span>crm:P92_brought_into_existence</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Brought into existence</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">Class</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span>lawd:WrittenWork </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Work</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">Class</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span>extech:Phase </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Phase of execution</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">extech:resultsIn &nbsp;</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Results in</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">extech:uses_technique </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Uses technique</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">crm:P20_had_specific_purpose</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Had specific purpose</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">crmtex:TXP3_is_rendered_by </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Is rendered by</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">crm:P14_carried_out_by</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Carried out by</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">Class</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">crmtex:TX6_Transcription </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Transcription</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">dct:contributor &nbsp; &nbsp; &nbsp; </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">contributor</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">dct:date &nbsp;</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">date</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">dct:publisher &nbsp;</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">publisher</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">dct:isPartOf &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Is part of </span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">crm:P49_created &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">created</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">epOnt:hasEdition </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Has edition</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">edh:representsTypeOfInscription </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Type of inscription</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">lawd:hasAttestation </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Has attestation</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">Class</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">crm:E33_Linguistic_Object</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Linguistic object</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">edh:hasDiplomaticText </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Diplomatic edition</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">epnet:hasTranscription </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">transcription</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">epnet:hasSimplifiedTranscription</span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Simplified transcription</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">Class</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">epOnt:Edition </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">edition</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">crm:P73_has_translation </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Has translation</span>
-
-</td></tr><tr class="c1"><td class="c21" colspan="1" rowspan="1">
-
-<span class="c0">property</span>
-
-</td><td class="c23" colspan="1" rowspan="1">
-
-<span class="c0">edh:hasEditionText </span>
-
-</td><td class="c9" colspan="1" rowspan="1">
-
-<span class="c0">Edition text</span>
-
-</td></tr></tbody></table>
-
-<span class="c0"></span>
-
-<div>
-
-<span class="c0"></span>
-
-</div>
 - - -
 <div>
 
