@@ -108,6 +108,9 @@ Images of stone monuments
 
 ### <a href="http://usepigraphy.brown.edu/" target="blank">USEP
 U.S. Epigraphy Project
+ 
+### <a href="http://mizar.unive.it/venicesqueeze/public/frontend/index" target="blank">Venice Squeeze Project
+Collection of epigraphic squeezes of the Laboratory of Greek Epigraphy of Ca' Foscari University of Venice
 
 ### <a href="https://sketchfab.com/banalesmuseovirtual" target="blank">VM Los Bañales
 Museo Virtual – Los Bañales
