@@ -50,7 +50,7 @@ jekyll-archives:
 descriptions:
   - cat: News
     desc: "Latest news in the Epigraphy.info community"
-  - cat: Templates
+  - cat: Template
     desc: "Template post"
 
   - cat: Meetings
