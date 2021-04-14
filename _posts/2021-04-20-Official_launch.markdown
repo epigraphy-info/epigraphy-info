@@ -7,12 +7,13 @@ categories: News
 tags: announcement website social-media
 ---
 
-# Valete viatores / χαίρετε, παροδῖται!
+# Valete viatores! χαίρετε, παροδῖται!
 
+We are thrilled to announce the launch of the **Epigraphy.info** new website!
 
 <img src='{{site.baseurl}}/assets/Epigraphy_info_website_launch04.png' style="width:100%;" alt="Epigraphy.info launches a new website!" align="middle">
 
-We are thrilled to announce the launch of the **Epigraphy.info** new website!
+
 Here you can read about the Epigraphy.info community, access the information about past and future activities and meetings, get to know individual working groups and their current aims. Most importantly, if you would like to become part of the community, you can [get in touch directly with us]({{ "contact/" | relative_url}}). 
 
 If you would like to find out about the latest developments in Digital Epigraphy, check out our Social Media activity on [Facebook](https://www.facebook.com/epigraphy.info/), [Twitter](https://twitter.com/epigraphy_info), [Instagram](https://www.instagram.com/epigraphy.info/).
