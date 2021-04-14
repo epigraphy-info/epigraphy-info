@@ -6,7 +6,7 @@ author: Petra Hermankova
 categories: News
 ---
 
-#Valete viatores / χαίρετε, παροδῖται!
+# Valete viatores / χαίρετε, παροδῖται!
 
 We are thrilled to announce the launch of the **Epigraphy.info** new website!
 Here you can read about the Epigraphy.info community, access the information about past and future activities and meetings, get to know individual working groups and their current aims. Most importantly, if you would like to become part of the community, you can [get in touch directly with us]({{ "contact/" | relative_url}}). 
