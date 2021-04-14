@@ -4,7 +4,7 @@ title:  "Epigraphy.info has a new website!"
 date:   2021-04-20 00:00:00
 author: Petra Hermankova
 categories: News
-tag: announcement
+tags: announcement website social-media
 ---
 
 # Valete viatores / χαίρετε, παροδῖται!

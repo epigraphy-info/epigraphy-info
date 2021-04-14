@@ -26,3 +26,7 @@ published: true
   {% if forloop.last == false %}<hr>{% endif %}
 {% endfor %}
 <br>
+
+{% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
