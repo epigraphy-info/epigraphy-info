@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conference & Workshop in May Bridging the Gap with Linked Open Data”
+title:  "Conference & Workshop in May Bridging the Gap with Linked Open Data"
 date:   2021-03-11 00:00:00
 author: Chiara Cenati
 categories: News

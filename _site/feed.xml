@@ -6,9 +6,34 @@
 </description>
     <link>http://localhost:4000/epigraphy-info/</link>
     <atom:link href="http://localhost:4000/epigraphy-info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Apr 2021 15:56:22 +0200</pubDate>
-    <lastBuildDate>Wed, 14 Apr 2021 15:56:22 +0200</lastBuildDate>
+    <pubDate>Wed, 14 Apr 2021 16:16:12 +0200</pubDate>
+    <lastBuildDate>Wed, 14 Apr 2021 16:16:12 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Conference &amp; Workshop in May Bridging the Gap with Linked Open Data</title>
+        <description>&lt;p&gt;#Conference &amp;amp; workshop: Bridging the Gap with Linked Open Data (11.03.2021)&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://site.unibo.it/encode/en&quot;&gt;ENCODE project team&lt;/a&gt; would like to invite you to the Project Conference with the title &lt;strong&gt;“Bridging the Gap with Linked Open Data”&lt;/strong&gt;, which will take place on the 25th May 2021, 14.00–18.00 (CET), on Zoom.&lt;/p&gt;
+
+&lt;p&gt;You can find the programme and register at &lt;a href=&quot;https://site.unibo.it/encode/en/agenda/bridging-the-gap-with-linked-open-data-en&quot;&gt;https://site.unibo.it/encode/en/agenda/bridging-the-gap-with-linked-open-data-en&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Participation is open and registrations are accepted &lt;strong&gt;until the 25th May 2021.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A call for applications is also open for the second ENCODE intensive training on Linked Open Data for Written Artefacts, held from 26th to 28th May 2021 via Zoom.&lt;/p&gt;
+
+&lt;p&gt;You can find the programme and the call for applications at &lt;a href=&quot;https://site.unibo.it/encode/en/agenda/lod-may-2021&quot;&gt;https://site.unibo.it/encode/en/agenda/lod-may-2021&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The intensive training is restricted to a maximum of 18 participants and the deadline for applications is 31st March 2021.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Mar 2021 01:00:00 +0100</pubDate>
+        <link>http://localhost:4000/epigraphy-info/news/2021/03/11/ENCODE_conference.html</link>
+        <guid isPermaLink="true">http://localhost:4000/epigraphy-info/news/2021/03/11/ENCODE_conference.html</guid>
+        
+        
+        <category>News</category>
+        
+      </item>
     
       <item>
         <title>Template post for Epigraphy.info News section</title>
