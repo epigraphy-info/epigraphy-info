@@ -10,7 +10,7 @@ The **Social Media working group** was established at the [3rd Epigraphy.info wo
  in Vienna with the goal of presenting the work of the Epigraphy.info community, facilitating communication between Epigraphy.info partners and the public, and attracting new researchers, students and enthusiasts for our community.
 The working group disseminates events, news, and information pertinent to the Epigraphy.info community and its partners via the Epigraphy.info website and three widely-used social media channels: [Twitter](https://twitter.com/epigraphy_info), [Instagram](https://www.instagram.com/epigraphy.info/), and [Facebook](https://www.facebook.com/epigraphy.info/). The working group team members create and share contents with an ever-growing community, giving visibility to the activity of Epigraphy.info and of its partners.
 
-Read our Statement [here]<a href="{{site.baseurl}}/documents/Social_Media_Statement.pdf">Mission statement.</a></p>.
+Read our <a href="{{site.baseurl}}/documents/Social_Media_Statement.pdf">Social Media Statement.</a>.
 
 ## DO YOU WANT TO SHARE YOUR CONTENT WITH OUR HELP?
 
