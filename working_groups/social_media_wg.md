@@ -10,13 +10,13 @@ The **Social Media working group** was established at the [3rd Epigraphy.info wo
  in Vienna with the goal of presenting the work of the Epigraphy.info community, facilitating communication between Epigraphy.info partners and the public, and attracting new researchers, students and enthusiasts for our community.
 The working group disseminates events, news, and information pertinent to the Epigraphy.info community and its partners via the Epigraphy.info website and three widely-used social media channels: [Twitter](https://twitter.com/epigraphy_info), [Instagram](https://www.instagram.com/epigraphy.info/), and [Facebook](https://www.facebook.com/epigraphy.info/). The working group team members create and share contents with an ever-growing community, giving visibility to the activity of Epigraphy.info and of its partners.
 
-Read our <a href="{{site.baseurl}}/documents/Social_Media_Statement.pdf">Social Media Statement.</a>.
+Read our <a href="{{site.baseurl}}/documents/Social_Media_Statement.pdf">Social Media Statement</a>.
 
 ## DO YOU WANT TO SHARE YOUR CONTENT WITH OUR HELP?
 
 If you are a partner of the Epigraphy.info community, we will help you to share your content! Don’t hesitate to contact us via <a href = "mailto: socialmedia@epigraphy.info">socialmedia@epigraphy.info</a>.
 
-## MEMBERS
+## Members
 
 * Chiara Cenati (since 2019)
 * M. Cristina de la Escosura Balbas (since 2020)
@@ -36,10 +36,8 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 
 * David Espinosa Espinosa (2019-2020)
 
-## IMPORTANT LINKS
+## Important links
 
 GitHub: [https://github.com/epigraphy-info](https://github.com/epigraphy-info)
-
-Working group folder on Google Drive: [Link TBA](https://www.providesomelinkhere.org/")
 
 E-mail contact: [socialmedia@epigraphy.info](mailto:socialmedia@epigraphy.info)
