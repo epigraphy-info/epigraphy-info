@@ -16,9 +16,9 @@ We are thrilled to announce the launch of the new **Epigraphy.info**  website!
 
 Here you can read about the Epigraphy.info community, access information about past and future activities and meetings, and get to know individual working groups and their current aims. Most importantly, if you would like to become part of the community, you can [get in touch directly with us]({{ "contact/" | relative_url}}). 
 
-If you would like to to stay abreast of the latest developments in Digital Epigraphy, you can follow us on [Facebook](https://www.facebook.com/epigraphy.info/), [Twitter](https://twitter.com/epigraphy_info), and [Instagram](https://www.instagram.com/epigraphy.info/).
+If you would like to to stay abreast of the latest developments in Digital Epigraphy, you can follow us on <a href="https://www.facebook.com/epigraphy.info/" target="blank">Facebook</a>, <a href="https://twitter.com/epigraphy_info">Twitter</a>, and <a href="https://www.instagram.com/epigraphy.info/">Instagram</a>.
 
-If you are interested in the technology behind the scene, the new website is built on the [GitHub Pages](https://pages.github.com/) infrastructure, stored at [Epigraphy-info GitHub](https://github.com/epigraphy-info), which will make the site more dynamic and collaborative. 
+If you are interested in the technology behind the scene, the new website is built on <a href="https://pages.github.com/" target="blank">GitHub Pages</a> the infrastructure, stored at <a href="https://github.com/epigraphy-info">Epigraphy-info GitHub</a>, which will make the site more dynamic and collaborative. 
 
 
 <!--
