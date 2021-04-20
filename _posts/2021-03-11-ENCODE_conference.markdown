@@ -1,6 +1,10 @@
 ---
 layout: post
+<<<<<<< Updated upstream
 title:  "Conference & W3orkshop "Bridging the Gap with Linked Open Data""
+=======
+title:  "Conference & Workshop Bridging the Gap with Linked Open Data
+>>>>>>> Stashed changes
 date:   2021-03-11 00:00:00
 author: Chiara Cenati
 categories: News
