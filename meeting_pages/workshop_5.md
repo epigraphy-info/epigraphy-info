@@ -27,7 +27,7 @@ In order to register for the workshop:
 
 1. Fill in the [Eventbrite registration form](https://epigraphyinfov.eventbrite.nl){:target="_blank" rel="noopener"} until September 18th, 2020.
 
-2. Send the registration confirmation to info@epigraphy.info and specify in the email whether you are planning to attend the workshop in person (if the international measures will allow it) or if you prefer to participate via video conference.
+2. Send the registration confirmation to [info@epigraphy.info](mailto:info@epigraphy.info) and specify in the email whether you are planning to attend the workshop in person (if the international measures will allow it) or if you prefer to participate via video conference.
 
 As the international situation is changing very quickly, we will regularly keep you up to date, and we will contact you again before the workshop for a last confirmation.
 
