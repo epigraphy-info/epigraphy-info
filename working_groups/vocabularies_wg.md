@@ -30,7 +30,7 @@ The EAGLE vocabularies themselves are unfinished and incomplete (for multiple re
 
 ## Current goals in 2021
 
-The working group is currently working on conceptually defining the 'type of inscription' to be better fit for the digital corpora of the 21st century, while building on the tradition and keeping the best and FAIR practices of the epigraphic discipline and the work done by the Eagle Europeana project. If you would like to contribute to the discussion, we'll be glad if you can join us! We meet at least twice a month on Fridays (16.00 CET) over Zoom.
+The working group is currently working on conceptually defining the 'type of inscription' to be better fit for the digital corpora of the 21st century, while building on the tradition and keeping the best and <a href="https://www.go-fair.org/fair-principles/" target="blank">FAIR practices</a> of the epigraphic discipline and the work done by the [EAGLE Europeana project](https://www.eagle-network.eu/resources/vocabularies/){:target="_blank" rel="noopener"}. If you would like to contribute to the discussion, we'll be glad if you can join us! We meet at least twice a month on Fridays (16.00 CET) over Zoom.
 
 ## Important links
 
