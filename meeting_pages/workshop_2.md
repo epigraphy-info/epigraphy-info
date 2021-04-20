@@ -18,7 +18,7 @@ The second epigraphy.info workshop in Zadar (University of Zadar) took place fro
 
 * [Report on the second workshop in Zadar](http://doi.org/10.11588/heidok.00026330){:target="_blank" rel="noopener"}
 
-* [Collaborative Google Docs ](https://docs.google.com/document/d/1lVrzkASteBc-H1Ocy_cdcEM67FO9RcPM-j25-925yc8/edit){:target="_blank" rel="noopener"}
+* [Collaborative Google Docs](https://docs.google.com/document/d/1lVrzkASteBc-H1Ocy_cdcEM67FO9RcPM-j25-925yc8/edit){:target="_blank" rel="noopener"}
 
 * [Workshop slides on Github](https://github.com/petrifiedvoices/epigraphy-info/tree/main/documents/workshop_2_slides){:target="_blank" rel="noopener"}
 
@@ -37,7 +37,7 @@ Zadar, University of Zadar - Department of History, Ruđera Boškovića 5.It's p
 
 ### Attendance
 
-We kindly ask you to visit the [Doodle Poll](https://doodle.com/poll/gmmuqbvpsrtwwqgc) and register either your attendance or one of the other two options by September 24th.
+We kindly ask you to visit the [Doodle Poll](https://doodle.com/poll/gmmuqbvpsrtwwqgc){:target="_blank" rel="noopener"}  and register either your attendance or one of the other two options by September 24th.
 
 ### Preliminary programme
 
