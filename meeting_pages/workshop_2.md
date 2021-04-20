@@ -49,7 +49,7 @@ The Preliminary programme can be found here. Your input is very welcome, so, ple
 
 The best way to travel to and from Zadar is by plane and/or by bus; unfortunately, there are no trains leading to Zadar, but there are many buses from Zagreb to Zadar, and the drive takes approximately 3 and a half hours.
 There are some direct flights to Zadar either by major airline companies or the low-budget ones; however, most of them usually fly on certain days only (e.g. Mondays and Fridays) so perhaps you won't find them convenient; thus it would perhaps be best to fly to Zagreb (which has more direct lines) and then proceed by bus.
-Bus lines are quite frequent and you can find timetables at [https://voznired.akz.hr/](https://voznired.akz.hr/?lang=en) (for departures from Zagreb to Zadar) or [http://www.liburnija-zadar.hr/](http://www.liburnija-zadar.hr/linije.php?tip=4&polaziste=01&odrediste=Z+A+G+R+E+B&lang=en) (for departures from Zadar to Zagreb). You can also check the following companies: [https://getbybus.com/hr/autobus-zagreb](https://getbybus.com/hr/autobus-zagreb) and [Flixbus](https://www.flixbus.com).
+Bus lines are quite frequent and you can find timetables at [https://voznired.akz.hr/](https://voznired.akz.hr/?lang=en) (for departures from Zagreb to Zadar) or [http://www.liburnija-zadar.hr/](http://www.liburnija-zadar.hr/linije.php?tip=4&polaziste=01&odrediste=Z+A+G+R+E+B&lang=en){:target="_blank" rel="noopener"} (for departures from Zadar to Zagreb). You can also check the following companies: [https://getbybus.com/hr/autobus-zagreb](https://getbybus.com/hr/autobus-zagreb){:target="_blank" rel="noopener"} and [Flixbus](https://www.flixbus.com){:target="_blank" rel="noopener"}.
 
 **Accommodation**
 
@@ -89,7 +89,7 @@ In addition, we are glad to inform you that the University could provide a subsi
 
 Allied project reports (10 minutes each)
  - Oxford meeting (T. Elliott) [Workshop Slides](https://docs.google.com/presentation/d/1-Efg6vWBwcALq64GhWhewKndLV5u9EygTUlxOrEkZcY/edit?usp=sharing){:target="_blank" rel="noopener"}
- - GODOT (F. Grieshaber) [Workshop slides]({{ "documents/workshop_2_slides/godot.pdf" | relative_url }})
+ - GODOT (F. Grieshaber) [Workshop slides]({{ "documents/workshop_2_slides/godot.pdf" | relative_url }}){:target="_blank" rel="noopener"}
  - Trismegistos corpusdata + New Trismegistos API (T. Gheldof)
  - LatinNow (video presentation S. Vanderbilt) [Workshop Slides](https://prezi.com/view/eVJ3GyAy9VNsDSHjxOLu/){:target="_blank" rel="noopener"}
  - EPNet (J. M. Bermúdez)
