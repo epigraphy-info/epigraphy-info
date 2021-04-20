@@ -15,8 +15,8 @@ The Funding Working Group consists of a team of seven Epigraphy.info members aff
 * provide advice by writing proposals, which are in line with the Epigraphy.info guidelines and best practices
 
 ## YOU CAN ADDRESS OUR TEAM IF
-* you are already part of the Epigraphy.info community and you are exploring a way to fund your digital epigraphy initiatives 
-* you are starting a digital epigraphy project and you need advice on how to coordinate your work with the Epigraphy.info community 
+* you are already part of the Epigraphy.info community and you are exploring a way to fund your digital epigraphy initiatives
+* you are starting a digital epigraphy project and you need advice on how to coordinate your work with the Epigraphy.info community
 * you need a letter of intent for your application
 
 **We will do our best to help you!**
@@ -35,7 +35,6 @@ The Funding Working Group consists of a team of seven Epigraphy.info members aff
 
 GitHub: [https://github.com/epigraphy-info](https://github.com/epigraphy-info)
 
-Working group folder on Google Drive: [Google Drive Folder]([link](url){:target="_blank"}https://drive.google.com/drive/folders/1ZgiUkQWzJ-MKT-dNkXGJNanl0moA2uz9)
+Working group folder on Google Drive: <a href="https://drive.google.com/drive/folders/1ZgiUkQWzJ-MKT-dNkXGJNanl0moA2uz9" target="blank">Funding group</a>
 
 E-mail contact: [funding@epigraphy.info](mailto:funding@epigraphy.info)
-
