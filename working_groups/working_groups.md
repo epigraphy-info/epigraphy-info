@@ -14,11 +14,10 @@ Working groups are based on voluntary activity of its members. Some working grou
 
 ## Active working groups:
 
-* [Funding & Membership WG]({{ "funding_wg/"| relative_url }}) 
-* [Social Media WG]({{ "social_media_wg/"| relative_url }}) 
-* [Ontologies WG]({{ "ontologies_wg/"| relative_url }}) 
-* [Vocabularies WG]({{ "vocabularies_wg/"| relative_url }}) 
-
+* [Funding & Membership WG]({{ "funding_wg/"| relative_url }}){:target="_blank" rel="noopener"} 
+* [Social Media WG]({{ "social_media_wg/"| relative_url }}){:target="_blank" rel="noopener"} 
+* [Ontologies WG]({{ "ontologies_wg/"| relative_url }}){:target="_blank" rel="noopener"} 
+* [Vocabularies WG]({{ "vocabularies_wg/"| relative_url }}){:target="_blank" rel="noopener"}
 ---
 
 ## Non-active working groups:
