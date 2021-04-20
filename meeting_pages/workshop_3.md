@@ -29,7 +29,7 @@ In order to register for the workshop, we kindly ask you to fill out this [doodl
 
 The Vienna workshop will be preceded by 3 ½ days of training, which aims at giving an orientation on EpiDoc, XML, DTS etc.
 The training will take place from May, 27th, to the morning of May, 30th 2019. In the afternoon of the same day the epigraphy.info workshop will start.
-Please note that the room provided by the University of Vienna for the training contains max. 24 persons. Therefore, we kindly ask you to register as soon as possible by filling out the doodle list until [28th February](https://doodle.com/poll/7g8grfbritf7bzwn){:target="_blank" rel="noopener"}
+Please note that the room provided by the University of Vienna for the training contains max. 24 persons. Therefore, we kindly ask you to register as soon as possible by filling out the [doodle list](https://doodle.com/poll/7g8grfbritf7bzwn){:target="_blank" rel="noopener"} until 28th February.
 
 * **[Programme of the EpiDoc & Technical Training]({{ site.baseurl }}{% link documents/workshop_3_training_programme.pdf %}){:target="_blank" rel="noopener"}**
 
