@@ -47,7 +47,7 @@ Public transport maps [U/S/A/R network](https://www.hvv.de/resource/blob/2446/18
 
 *From the airport*
 
-By train: There is one train service available at the airport. The S1 connects the airport among other stops with the Hamburg central station (timetable [PDF]({{ site.baseurl }}{% link documents/Haltestellenaushang_Airport-Hbf.pdf %})){:target="_blank" rel="noopener"}.
+By train: There is one train service available at the airport. The S1 connects the airport among other stops with the Hamburg central station (timetable [PDF]({{ site.baseurl }}{% link documents/Haltestellenaushang_Airport-Hbf.pdf %}){:target="_blank" rel="noopener"}).
 
 There are several other transport options depending on your destination, including [taxi and bus](https://www.hamburg-airport.de/de/busse_bahn_und_transfer.php){:target="_blank" rel="noopener"}.
 
