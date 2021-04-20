@@ -5,7 +5,7 @@ permalink: /committee/
 published: true
 ---
 
-## The [Steering committee]({{ site.baseurl }}{% link documents/steeringcommittee.pdf %}) in 2020/2021:
+## The [Steering committee]({{ site.baseurl }}{% link documents/steeringcommittee.pdf %}){:target="_blank" rel="noopener"} in 2020/2021:
 
 * Javier Andreu Pintado, University of Navarra, ES
 * Tom Gheldof, Trismegistos / KU Leuven, BE
@@ -35,4 +35,4 @@ published: true
 
 ---
 
-**See the election process for the Steering committee [(in PDF)]({{ site.baseurl }}{% link documents/steeringcommittee.pdf %}).**
+**See the election process for the Steering committee [(in PDF)]({{ site.baseurl }}{% link documents/steeringcommittee.pdf %}){:target="_blank" rel="noopener"}.**
