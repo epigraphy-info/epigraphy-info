@@ -4,11 +4,11 @@ title: Working Groups
 permalink: /working_groups/
 ---
 
-Working groups were established during the first workshop in **Heidelberg in 2018**. Their goal was to discuss in details important topics fro the Epigraphy.info community, draft documents and suggest policies and collaboratively work on technical challenges of our discipline in between individual workshops. 
+The working groups were established during the first workshop in **Heidelberg in 2018**. Their goal was to discuss in details important topics for the Epigraphy.info community, draft documents, suggest policies, and collaboratively work on technical challenges of our discipline in between individual workshops. 
 
 The total number and purpose of working groups changes in time as they reflect the shifts and recent developments within the community.
 
-Working groups are based on voluntary activity of its members. Some working groups meet more regularly than the others, depending on the availability of its members and the nature of the task on hand. Working groups report on their activities during the workshops where the community usually decides on the next priorities and focus.
+Working groups are based on voluntary activity of their members. Some working groups meet more regularly than others, depending on the availability of their members and the nature of the task on hand. The working groups report on their activities during the workshops where the community usually decides on the next priorities and focus.
 
 ---
 
