@@ -45,7 +45,7 @@ The only rule is: **keep it short!**
 
 For PDF you should limit your documentation to a single page (ideally 1080 x 1536 px), PowerPoint presentation should include no more than 3 slides.
 The maximum duration of a video is 5 minutes.
-Please send us your E-Poster via a file transfer website (like WeTransfer: [https://wetransfer.com/](https://wetransfer.com/){:target="_blank" rel="noopener"} or Smash [https://fromsmash.com/](https://fromsmash.com/){:target="_blank" rel="noopener"}).
+Please send us your E-Poster via a file transfer website (like WeTransfer: [https://wetransfer.com/](https://wetransfer.com/){:target="_blank" rel="noopener"} or Smash: [https://fromsmash.com/](https://fromsmash.com/){:target="_blank" rel="noopener"}).
 
 **Be creative!**
 
@@ -53,7 +53,7 @@ We want to make our poster session as effective and inclusive as possible: if yo
 
 #### Deadline extended
 
-In order to present a poster, please send a title and a short abstract to our committee by September 25th, 2020 (info@epigraphy.info). By September 30th, 2020 you will receive a notification from the steering committee whether your E-Poster has been accepted. E-Posters should be submitted by October 28th, 2020.
+In order to present a poster, please send a title and a short abstract to our committee by September 25th, 2020 ([info@epigraphy.info](mailto:info@epigraphy.info)). By September 30th, 2020 you will receive a notification from the steering committee whether your E-Poster has been accepted. E-Posters should be submitted by October 28th, 2020.
 
 ---
 
@@ -69,8 +69,8 @@ Please note that the number of participants will be limited. Therefore, we kindl
 
 *A hands-on workshop that explores the different Trismegistos portals (TM Places, People, Texts, …) and offers an opportunity to discover its new tools (LOD APIs, SNA tool, …).*
 
-Please follow this link for further information about this session and to register: [https://epinfovworkshoptm.eventbrite.nl](https://epinfovworkshoptm.eventbrite.nl).
-To complete your registration send us (info@epigraphy.info) the registration confirmation and specify in the email if you are going to attend the session in person or virtually.
+Please follow this link for further information about this session and to register: [https://epinfovworkshoptm.eventbrite.nl](https://epinfovworkshoptm.eventbrite.nl){:target="_blank" rel="noopener"}.
+To complete your registration send us ([info@epigraphy.info](mailto:info@epigraphy.info)) the registration confirmation and specify in the email if you are going to attend the session in person or virtually.
 
 ---
 
@@ -80,8 +80,8 @@ To complete your registration send us (info@epigraphy.info) the registration con
 
 *This workshop will address computational practices and resources for dealing with geography in epigraphic projects.*
 
-Please follow this link for further information about this session and to register: [https://epinfovworkshoptm.eventbrite.nl](https://epinfovworkshoptm.eventbrite.nl).
-To complete your registration send us (info@epigraphy.info) the registration confirmation and specify in the email if you are going to attend the session in person or virtually.
+Please follow this link for further information about this session and to register: [https://epinfovworkshoptm.eventbrite.nl](https://epinfovworkshoptm.eventbrite.nl){:target="_blank" rel="noopener"}.
+To complete your registration send us ([info@epigraphy.info](mailto:info@epigraphy.info)) the registration confirmation and specify in the email if you are going to attend the session in person or virtually.
 
 ---
 
@@ -91,9 +91,8 @@ To complete your registration send us (info@epigraphy.info) the registration con
 
 *The aim of this workshop is to move forward on the key question of metadata related to epigraphy by consolidating and using the EAGLE vocabularies.*
 
-Please follow this link for further information about this session and to register: [https://epinfovworkshoptm.eventbrite.nl](https://epinfovworkshoptm.eventbrite.nl).
-To complete your registration send us (info@epigraphy.info) the registration confirmation and specify in the email if you are going to attend the session in person or virtually.
-
+Please follow this link for further information about this session and to register: [https://epinfovworkshoptm.eventbrite.nl](https://epinfovworkshoptm.eventbrite.nl){:target="_blank" rel="noopener"}.
+To complete your registration send us ([info@epigraphy.info](mailto:info@epigraphy.info)) the registration confirmation and specify in the email if you are going to attend the session in person or virtually.
 A second circular with further details and information about the election procedure of the new steering committee will follow in September.
 
-If you have any questions, please do not hesitate to contact the Epigraphy.info committee (info@epigraphy.info).
+If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).
