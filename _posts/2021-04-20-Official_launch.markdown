@@ -14,7 +14,7 @@ We are thrilled to announce the launch of the new **Epigraphy.info**  website!
 <img src='{{site.baseurl}}/assets/Epigraphy_info_website_launch04.png' style="width:100%;" alt="Epigraphy.info launches a new website!" align="middle">
 
 
-Here you can read about the Epigraphy.info community, access information about past and future activities and meetings, and get to know individual working groups and their current aims. Most importantly, if you would like to become part of the community, you can [get in touch directly with us]({{ "contact/" | relative_url}}). 
+Here you can read about the Epigraphy.info community, access information about past and future activities and meetings, and get to know individual working groups and their current aims. Most importantly, if you would like to become part of the community, you can [get in touch directly with us]({{ "contact/" | relative_url}}){:target="_blank" rel="noopener"}. 
 
 If you would like to to stay abreast of the latest developments in Digital Epigraphy, you can follow us on <a href="https://www.facebook.com/epigraphy.info/" target="blank">Facebook</a>, <a href="https://twitter.com/epigraphy_info" target="blank">Twitter</a>, and <a href="https://www.instagram.com/epigraphy.info/" target="blank">Instagram</a>.
 
