@@ -18,6 +18,7 @@ Working groups are based on voluntary activity of their members. Some working gr
 * [Social Media WG]({{ "social_media_wg/"| relative_url }}){:target="_blank" rel="noopener"} 
 * [Ontologies WG]({{ "ontologies_wg/"| relative_url }}){:target="_blank" rel="noopener"} 
 * [Vocabularies WG]({{ "vocabularies_wg/"| relative_url }}){:target="_blank" rel="noopener"}
+
 ---
 
 ## Non-active working groups:
