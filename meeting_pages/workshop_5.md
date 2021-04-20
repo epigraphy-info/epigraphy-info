@@ -25,7 +25,7 @@ The fifth epigraphy.info workshop in Leuven will be taking place from November 3
 
 In order to register for the workshop:
 
-1. Fill in the Eventbrite registration form until September 18th, 2020: [https://epigraphyinfov.eventbrite.nl](https://epigraphyinfov.eventbrite.nl).
+1. Fill in the [Eventbrite registration form](https://epigraphyinfov.eventbrite.nl){:target="_blank" rel="noopener"} until September 18th, 2020.
 
 2. Send the registration confirmation to info@epigraphy.info and specify in the email whether you are planning to attend the workshop in person (if the international measures will allow it) or if you prefer to participate via video conference.
 
@@ -45,11 +45,11 @@ The only rule is: **keep it short!**
 
 For PDF you should limit your documentation to a single page (ideally 1080 x 1536 px), PowerPoint presentation should include no more than 3 slides.
 The maximum duration of a video is 5 minutes.
-Please send us your E-Poster via a file transfer website (like WeTransfer: [https://wetransfer.com/](https://wetransfer.com/) or Smash [https://fromsmash.com/](https://fromsmash.com/)).
+Please send us your E-Poster via a file transfer website (like WeTransfer: [https://wetransfer.com/](https://wetransfer.com/){:target="_blank" rel="noopener"} or Smash [https://fromsmash.com/](https://fromsmash.com/){:target="_blank" rel="noopener"}).
 
 **Be creative!**
 
-We want to make our poster session as effective and inclusive as possible: if you have any creative ideas or suggestions about formats or virtual rooms, please send us an email or write in the Google Groups [https://groups.google.com/g/epigraphyinfo](https://groups.google.com/g/epigraphyinfo) and we will take them into consideration.
+We want to make our poster session as effective and inclusive as possible: if you have any creative ideas or suggestions about formats or virtual rooms, please send us an email or write in the Google Groups [https://groups.google.com/g/epigraphyinfo](https://groups.google.com/g/epigraphyinfo){:target="_blank" rel="noopener"} and we will take them into consideration.
 
 #### Deadline extended
 
