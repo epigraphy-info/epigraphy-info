@@ -37,4 +37,4 @@ GitHub: [https://github.com/epigraphy-info](https://github.com/epigraphy-info)
 
 Working group folder on Google Drive: <a href="https://drive.google.com/drive/folders/1ZgiUkQWzJ-MKT-dNkXGJNanl0moA2uz9" target="blank">Funding group</a>
 
-E-mail contact: [funding@epigraphy.info](mailto:funding@epigraphy.info)
+E-mail contact: [info@epigraphy.info](mailto:info@epigraphy.info)
