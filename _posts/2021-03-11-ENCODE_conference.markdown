@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Conference & Workshop Bridging the Gap with Linked Open Data"
-date:   2020-03-11 00:00:00
+date:   2021-03-11 00:00:00
 author: Chiara Cenati
 categories: News
 ---
 
 # Conference & workshop: Bridging the Gap with Linked Open Data (11.03.2021)
 
-The [ENCODE project team](https://site.unibo.it/encode/en) would like to invite you to the Project Conference with the title **“Bridging the Gap with Linked Open Data”**, which will take place on the 25th May 2021, 14.00–18.00 (CEST), on Zoom.
+The <a href="https://site.unibo.it/encode/en" target="blank">ENCODE project team </a>  would like to invite you to the Project Conference with the title **“Bridging the Gap with Linked Open Data”**, which will take place on the 25th May 2021, 14.00–18.00 (CEST), on Zoom.
 
 You can find the programme and register at [https://site.unibo.it/encode/en/agenda/bridging-the-gap-with-linked-open-data-en](https://site.unibo.it/encode/en/agenda/bridging-the-gap-with-linked-open-data-en).
 
