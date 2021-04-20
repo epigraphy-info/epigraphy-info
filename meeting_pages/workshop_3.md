@@ -23,7 +23,7 @@ The third Epigraphy.info workshop in Vienna will be taking place from Thursday M
 
 ## Registration
 
-In order to register for the workshop, we kindly ask you to fill out this doodle list[https://doodle.com/poll/7g8grfbritf7bzwn](https://doodle.com/poll/7g8grfbritf7bzwn){:target="_blank" rel="noopener"} until 28th February.
+In order to register for the workshop, we kindly ask you to fill out this [doodle list](https://doodle.com/poll/7g8grfbritf7bzwn){:target="_blank" rel="noopener"} until 28th February.
 
 ## EpiDoc & technical training
 
