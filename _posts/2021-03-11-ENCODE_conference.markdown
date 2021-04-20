@@ -12,7 +12,7 @@ The <a href="https://site.unibo.it/encode/en" target="blank">ENCODE project team
 
 You can find the programme and register at <a href="https://site.unibo.it/encode/en/agenda/bridging-the-gap-with-linked-open-data-en" target="blank">https://site.unibo.it/encode/en/agenda/bridging-the-gap-with-linked-open-data-en</a>.
 
-Participation is open and registrations are accepted **until the 25th May 2021.**
+Participation is open and registrations are accepted **until the 25th May 2021**.
 
 A call for applications is also open for the second ENCODE intensive training on Linked Open Data for Written Artefacts, held from 26th to 28th May 2021 via Zoom.
 
