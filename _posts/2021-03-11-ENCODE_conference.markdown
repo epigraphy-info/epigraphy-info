@@ -1,7 +1,7 @@
 ---
 layout: post
 <<<<<<< Updated upstream
-title:  "Conference & W3orkshop "Bridging the Gap with Linked Open Data""
+title:  "Conference & Workshop Bridging the Gap with Linked Open Data
 =======
 title:  "Conference & Workshop Bridging the Gap with Linked Open Data
 >>>>>>> Stashed changes
