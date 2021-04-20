@@ -166,7 +166,7 @@ If you are planning to visit Vienna, here you find some useful information for [
 
 |09:00 – 09:45|	Impulse: Unpublished texts. Recommendations for the correct handling and best practices (F. Feraudi)|
 
-09:45 – 10:30|	Decision on the proposal for the organisation and selection of the steering committee [submitted by J. Osnabrügge]({{ site.baseurl }}{% link documents/JO_proposal_steering_committee_Vienna.pdf %}){:target="_blank" rel="noopener"}|
+09:45 – 10:30|	Decision on the [proposal for the organisation and selection of the steering committee]({{ site.baseurl }}{% link documents/JO_proposal_steering_committee_Vienna.pdf %}){:target="_blank" rel="noopener"} submitted by J. Osnabrügge|
 
 |10:30 – 10:45|	Election of the steering committee|
 
