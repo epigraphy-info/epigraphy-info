@@ -29,7 +29,7 @@ In order to register for the workshop, we kindly ask you to fill out this [doodl
 
 The Hamburg workshop will be preceded by 3 ½ days of training, which aims at giving an orientation on EpiDoc, XML, DTS etc.
 The training will take place from February, 17th, to the morning of February, 19th 2020. In the afternoon of the same day the epigraphy.info workshop will start.
-We kindly ask you to register as soon as possible by filling out the doodle list until 30th September: [https://doodle.com/poll/dy8k5bngr2s5e8fb](https://doodle.com/poll/dy8k5bngr2s5e8fb)
+We kindly ask you to register as soon as possible by filling out the [doodle list](https://doodle.com/poll/dy8k5bngr2s5e8fb){:target="_blank" rel="noopener"} until 30th September.
 
 * **[Programme of the EpiDoc & Technical Training in PDF]({{ site.baseurl }}{% link documents/programme_TEI_training2.pdf %}){:target="_blank" rel="noopener"}**
 
