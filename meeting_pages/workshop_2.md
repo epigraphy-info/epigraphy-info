@@ -142,7 +142,7 @@ Integration of Greek inscriptions (final decision)
 
 <br>
 
-## Sunday, 16th December 2018 – morning 09:30 - 12:30|
+## Sunday, 16th December 2018 – morning 09:30 - 12:30
 
 ### VI. Results - Plenary Session (chair: A. Kurilić)
 
