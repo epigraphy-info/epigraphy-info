@@ -49,7 +49,7 @@ Please send us your E-Poster via a file transfer website (like WeTransfer: [http
 
 **Be creative!**
 
-We want to make our poster session as effective and inclusive as possible: if you have any creative ideas or suggestions about formats or virtual rooms, please send us an email or write in the Google Groups [https://groups.google.com/g/epigraphyinfo](https://groups.google.com/g/epigraphyinfo){:target="_blank" rel="noopener"} and we will take them into consideration.
+We want to make our poster session as effective and inclusive as possible: if you have any creative ideas or suggestions about formats or virtual rooms, please send us an email or write in the [Google Groups](https://groups.google.com/g/epigraphyinfo){:target="_blank" rel="noopener"} and we will take them into consideration.
 
 #### Deadline extended
 
