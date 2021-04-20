@@ -18,7 +18,7 @@ Here you can read about the Epigraphy.info community, access information about p
 
 If you would like to to stay abreast of the latest developments in Digital Epigraphy, you can follow us on <a href="https://www.facebook.com/epigraphy.info/" target="blank">Facebook</a>, <a href="https://twitter.com/epigraphy_info" target="blank">Twitter</a>, and <a href="https://www.instagram.com/epigraphy.info/" target="blank">Instagram</a>.
 
-If you are interested in the technology behind the scene, the new website is built on <a href="https://pages.github.com/" target="blank">GitHub Pages</a> the infrastructure, stored at <a href="https://github.com/epigraphy-info">Epigraphy-info GitHub</a>, which will make the site more dynamic and collaborative. 
+If you are interested in the technology behind the scene, the new website is built on <a href="https://pages.github.com/" target="blank">GitHub Pages</a> the infrastructure, stored at <a href="https://github.com/epigraphy-info" target="blank">Epigraphy-info GitHub</a>, which will make the site more dynamic and collaborative. 
 
 
 <!--
