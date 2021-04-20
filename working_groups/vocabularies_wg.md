@@ -38,4 +38,4 @@ GitHub: [https://github.com/epigraphy-info](https://github.com/epigraphy-info){:
 
 Working group folder on [Epigraphy-info's Google Drive](https://drive.google.com/drive/folders/1ePvQrLgh43mlOqve3wVqlrIPu67JG2PG?usp=sharing){:target="_blank" rel="noopener"} with meeting notes and other relevant documents
 
-E-mail contact: [if you would like to join us](mailto:info@epigraphy.info)
+E-mail contact: [info@epigraphy.info](mailto:info@epigraphy.info)
