@@ -74,7 +74,7 @@ Digital repository for the collections of epigraphic squeezes
 Database for Late Antiquity Statues
 
 ### <a href="http://lldb.elte.hu/" target="blank">LLDB
-Computerized Historical Linguistic Database of the Latin Inscriptions of the Imperial
+Computerized Historical Linguistic Database of the Latin Inscriptions of the Imperial Age
 
 ### <a href="https://mappola.eu/" target="blank">MAPPOLA
 Mapping out the poetic landscape(s) of the Roman empire 
