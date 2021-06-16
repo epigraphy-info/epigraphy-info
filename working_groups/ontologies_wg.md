@@ -7,7 +7,7 @@ permalink: /ontologies_wg/
 # Technical WG - Ontologies
 
 =======
-The official draft is of the 'Modeling Epigraphy with an Ontology' document is stored in Zenodo at <span>doi:</span><span class="c61">[10.5281/zenodo.4639507](https://www.google.com/url?q=https://doi.org/10.5281/zenodo.4639507&sa=D&source=editors&ust=1616770309979000&usg=AOvVaw2qjGzKUyMmqXPbE1Q3yOFo)</span>
+The official draft of the 'Modeling Epigraphy with an Ontology' document is stored in Zenodo at <span>doi:</span><span class="c61">[10.5281/zenodo.4639507](https://www.google.com/url?q=https://doi.org/10.5281/zenodo.4639507&sa=D&source=editors&ust=1616770309979000&usg=AOvVaw2qjGzKUyMmqXPbE1Q3yOFo)</span>
 
 
 # <span>Modeling Epigraphy with an Ontology</span>
