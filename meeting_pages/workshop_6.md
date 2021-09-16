@@ -9,14 +9,15 @@ published: true
 
 # Epigraphy.info Workshop VI (online)
 
-The sixth epigraphy.info workshop will be taking place from October 20th-22nd, 2021. Due to the ongoing COVID-19 pandemic and resulting difficulties with safety and travel, the workshop will be fully online (Zoom platform), hosted by The Institute for Advanced Study.
-The workshop days will run from 11:00 - 14:00 UTC, and will comprise presentations, discussion, a poster session, and a keynote address. A detailed program will be released shortly.
+The sixth Epigraphy.info workshop will be taking place from **October 20th-22nd, 2021**. Due to the ongoing COVID-19 pandemic and resulting difficulties with safety and travel, the workshop will be fully online (Zoom platform), hosted *by The Institute for Advanced Study*: [https://www.ias.edu/hs/ancientstudies](https://www.ias.edu/hs/ancientstudies){:target="_blank" rel="noopener"}.
+
+The workshop days will run from **11:00 - 14:00 UTC**, and will comprise presentations, discussion, a poster session, and a keynote address. A detailed program will be released shortly.
 
 ---
 
 ## Registration
 
-To register for the workshop, simply fill out the registration form! If you have any problems with registration, reach out to the Steering Committee at info@epigraphy.info.
+To register for the workshop, simply fill out the registration form! If you have any problems with registration, reach out to the Steering Committee at ([info@epigraphy.info](mailto:info@epigraphy.info)).
 
 ---
 
