@@ -22,8 +22,7 @@ To register for the workshop, simply fill out the registration form! If you have
 
 ## Poster Session (Deadline extended)
 
-The Leuven workshop will host an E-poster session dedicated to the presentation of new and ongoing projects in the field of Digital Epigraphy.
-The E-posters will be displayed in a virtual environment for the whole duration of the workshop; after that you will have the possibility to have them published on the Epigraphy.info website.
+The sixth workshop will host an E-poster session dedicated to the presentation of new and ongoing projects in the field of Digital Epigraphy. There will be a portion of the workshop dedicated to presentation of the posters and breakout room discussion. The E-posters will be posted on the Epigraphy.info website for the duration of the workshop, and afterward you will have the option to publish them on the Epigraphy.info website.
 
 #### E-Posters Guidelines
 
