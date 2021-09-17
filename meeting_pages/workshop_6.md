@@ -17,7 +17,7 @@ The workshop days will run from **11:00 - 14:00 UTC**, and will comprise present
 
 ## Registration
 
-To register for the workshop, simply fill out this **[registration form]:(https://bit.ly/3nFzHBN){:target="_blank" rel="noopener"}**! If you have any problems with registration, reach out to the Steering Committee at ([info@epigraphy.info](mailto:info@epigraphy.info)).
+To register for the workshop, simply fill out this **([registration form](https://bit.ly/3nFzHBN)){:target="_blank" rel="noopener"}**! If you have any problems with registration, reach out to the Steering Committee at ([info@epigraphy.info](mailto:info@epigraphy.info)).
 
 ---
 
