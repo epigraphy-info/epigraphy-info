@@ -40,7 +40,9 @@ nav:
         url: nacgle_2020/
       - title: Workshop 4 (Hamburg)
         url: workshop_4/
-      - title: Workshop 5 (Leiden)
+      - title: Workshop 5 (Leuven/online)
+        url: workshop_5/ 
+      - title: Workshop 6 (IAS/online)
         url: workshop_5/ 
   - title: Documents
     url: documents/

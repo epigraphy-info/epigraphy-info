@@ -20,3 +20,5 @@ Epigraphy.info workshops foster community building and the development of shared
 * [Workshop IV]({{ "../workshop_4/" }}): Hamburg (19th February - 21st February 2020)
 
 * [Workshop V]({{ "../workshop_5/" }}): Leuven (3rd - 6th November 2020, online)
+
+* [Workshop VI]({{ "../workshop_6/" }}): Online (20 - 22th October 2021, online)
