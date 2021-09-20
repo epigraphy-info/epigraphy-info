@@ -6,7 +6,7 @@ author: Petra Hermankova
 categories: News
 ---
 
-# Register for DTS Hackathon (27 Sep - 10 Oct 2021, online)
+# Register for DTS Hackathon and win a prize
 
 *(posted on behalf of Matteo Romanello and Pietro Liuzzo)*
 
