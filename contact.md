@@ -8,7 +8,7 @@ permalink: /contact/
 
 You can reach all members of the Steering Committee via <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a>.
 
-Or you can join Epigraphy.info in GoogleGroups by sending an email to [epigraphyinfo@googlegroups.com](mailto:epigraphyinfo@googlegroups.com)
+To join us see [here](https://epigraphy.info/join_us/).
 
 <!-- link does not work [https://groups.google.com/g/epigraphyinfo](https://groups.google.com/g/epigraphyinfo) -->
 
