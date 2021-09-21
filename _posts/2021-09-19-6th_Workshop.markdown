@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Announcement of the 6th epigraphy.info workshop"
+title:  "Announcement of the 6th Epigraphy.info workshop"
 date:   2021-09-21 10:00:00
 author: Nadine Riegler
 categories: News
