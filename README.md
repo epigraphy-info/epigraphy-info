@@ -1,7 +1,5 @@
 # How to edit Epigraphy.info website
-**Petra Hermankova**, Contact email: [petra.janouchova@gmail.com](mailto:petra.janouchova@gmail.com) / alternatively [petra.hermankova@cas.au.dk](mailto:petra.janouchova@gmail.com) 
-
-[@petrifiedvoices](https://github.com/petrifiedvoices) on GitHub
+**Petra Hermankova**, Contact email: [petra.janouchova@gmail.com](mailto:petra.janouchova@gmail.com) / alternatively [petra.hermankova@cas.au.dk](mailto:petra.hermankova@cas.au.dk) or via Github [@petrifiedvoices](https://github.com/petrifiedvoices) on GitHub
 
 **Website:** static website using [GitHub pages infrastructure](https://guides.github.com/features/pages/) (Jekyll), pages written in markdown and then automatically transformed to html
 
@@ -120,3 +118,10 @@ The documents has to exist locally / on GitHub in the folder `documents`
 [This is my public name for the document, e.g. the 5th Epigraphy info programme]({{ site.baseurl }}{% link documents/Epigraphy.info_V_Programm.pdf %})
 ```
 
+### Adding new pages
+
+If you add a new page, e.g. a new workshop page, you need to do the following steps:
+1. create a new file with `.md` extension in the `meeting_pages` folder (or in the corresponding folder for working groups, or in the main directory if there is no corresponding folder). You can use existing files with past workshops as a template.
+2. In order to create a record in the navigation dropdown, you need to add the new page in the `_data/` folder in the file `samplelist.yml` following the already existing structure. Mind the indents, as the indentation creates a hierarchy of the dropdown. Make sure you provide a title and correct url, e.g. `title: Workshop 1 (Heidelberg)`, `url: workshop_1/` as provided in the `samplelist.yml` file.
+3. Once you have added the existing website to the `samplelist.yml` file, commit to Github, wait few minutes and your changes should apprear on the website.
+4. If you are unsure on how to do this, or your changes did not get through, feel free to contact Petra, either via email or [GitHub Issues](https://github.com/epigraphy-info/epigraphy-info/issues)
