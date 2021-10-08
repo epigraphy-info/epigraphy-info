@@ -26,7 +26,7 @@ To register for the workshop, simply fill out this **[registration form](https:/
 The workshop days will run from 11:00 - 14:00 UTC, and will comprise presentations, discussion, a poster session, and a keynote address.
 Programme (**All times UTC**)
 
-###Wednesday, October 20
+*Wednesday, October 20*
 * 11:00 - 11:30 Virtual welcome coffee
 * 11:30 - 13:00 Working Group Reports
 * 11:30 - 12:00 Vocabularies Working Group
@@ -36,13 +36,13 @@ Programme (**All times UTC**)
 * 13:00 - 13:30 Break
 * 13:30 - 14:30 Keynote Address: Prof. Polly Low on Attic Inscriptions Online
 
-####Thursday, October 21
+*Thursday, October 21*
 * 11:00 - 11:30 Virtual welcome coffee
 * 11:30 - 13:00 Vincent Razanajao - EpiDoc Editor
 * 13:00 - 13:30 Break
 * 13:30 - 14:30 Poster Session
 
-###Friday, October 22
+*Friday, October 22*
 * 11:00 - 11:30 Virtual welcome coffee
 * 11:30 - 14:00 Regroup Hackathon Discussion, new tasks / working groups / elections
 * 11:30 - 12:30 Full group: discussion of working groups, EpiDoc Editor, provenance in “Unpublished Items” statement, membership statement/procedures; decision about breakout rooms for smaller discussions.
