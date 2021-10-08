@@ -24,7 +24,7 @@ To register for the workshop, simply fill out this **[registration form](https:/
 ## Programme
 
 The workshop days will run from 11:00 - 14:00 UTC, and will comprise presentations, discussion, a poster session, and a keynote address.
-Programme (**All times UTC**)
+ (**All times UTC**)
 
 *Wednesday, October 20*
 * 11:00 - 11:30 Virtual welcome coffee
