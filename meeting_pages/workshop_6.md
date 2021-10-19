@@ -7,9 +7,9 @@ published: true
 
 
 
-# Epigraphy.info Workshop VI (online)
+# Epigraphy.info Workshop VI (IAS/online)
 
-The sixth Epigraphy.info workshop will be taking place from **October 20th-22nd, 2021**. Due to the ongoing COVID-19 pandemic and resulting difficulties with safety and travel, the workshop will be fully online (Zoom platform), hosted by *The Institute for Advanced Study*: [https://www.ias.edu/hs/ancientstudies](https://www.ias.edu/hs/ancientstudies){:target="_blank" rel="noopener"}.
+The sixth Epigraphy.info workshop will be taking place from **October 20th-22nd, 2021**. Due to the ongoing COVID-19 pandemic and resulting difficulties with safety and travel, the workshop will be fully online (Zoom platform), hosted by *[The Institute for Advanced Study](https://www.ias.edu/hs/ancientstudies)*.
 
 
 ---
@@ -32,21 +32,21 @@ The workshop days will run from 11:00 - 14:30 UTC, and will comprise presentatio
 * 12:30 - 12:45 Social Media Working Group
 * 12:45 - 13:00 Funding & Membership Working Group
 * 13:00 - 13:30 Break
-* 13:30 - 14:30 Keynote Address: Prof. Polly Low on Attic Inscriptions Online
+* 13:30 - 14:30 **Keynote Address: Prof. Polly Low on Attic Inscriptions Online**
 
 *Thursday, October 21*
 * 11:00 - 11:30 Virtual welcome coffee
 * 11:30 - 13:00 Vincent Razanajao - EpiDoc Editor
 * 13:00 - 13:30 Break
-* 13:30 - 14:30 E-Poster Session >>> click [here]({{ "../workshop_6_posters/" }})
+* 13:30 - 14:30 **[E-Poster Session]({{ "../workshop_6_posters/"}})**
 
 *Friday, October 22*
 * 11:00 - 11:30 Virtual welcome coffee
 * 11:30 - 14:00 Regroup Hackathon Discussion, new tasks / working groups / elections
-* 11:30 - 12:30 Full group: discussion of working groups, EpiDoc Editor, provenance in “Unpublished Items” statement, membership statement/procedures; decision about breakout rooms for smaller discussions.
+* 11:30 - 12:30 Full group: discussion of working groups, EpiDoc Editor, provenance in *“Unpublished Items”* statement, membership statement/procedures; decision about breakout rooms for smaller discussions.
 * 12:30 - 13:15 Breakout group discussions
 * 13:15 - 13:45 Reconvene in full group to go over thoughts from breakouts
-* 13:45 - 14:00 Last chance to vote for Steering Committee members, final wrap-up
+* 13:45 - 14:00 Last chance to vote for **Steering Committee** members, final wrap-up
 
 ---
 

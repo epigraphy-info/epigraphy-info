@@ -4,31 +4,141 @@
     <title>Epigraphy.info</title>
     <description>Epigraphy.info is an international open community pursuing a collaborative environment for digital epigraphy, which facilitates scholarly communication and interaction.
 </description>
-    <link>http://localhost:4000/epigraphy-info/</link>
-    <atom:link href="http://localhost:4000/epigraphy-info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Apr 2021 16:16:12 +0200</pubDate>
-    <lastBuildDate>Wed, 14 Apr 2021 16:16:12 +0200</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 19 Oct 2021 16:01:18 +0200</pubDate>
+    <lastBuildDate>Tue, 19 Oct 2021 16:01:18 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
-        <title>Conference &amp; Workshop in May Bridging the Gap with Linked Open Data</title>
-        <description>&lt;p&gt;#Conference &amp;amp; workshop: Bridging the Gap with Linked Open Data (11.03.2021)&lt;/p&gt;
+        <title>Upcoming 6th Epigraphy.info workshop</title>
+        <description>&lt;p&gt;Dear digital epigraphists!&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href=&quot;https://site.unibo.it/encode/en&quot;&gt;ENCODE project team&lt;/a&gt; would like to invite you to the Project Conference with the title &lt;strong&gt;“Bridging the Gap with Linked Open Data”&lt;/strong&gt;, which will take place on the 25th May 2021, 14.00–18.00 (CET), on Zoom.&lt;/p&gt;
+&lt;p&gt;We are happy to announce that the &lt;strong&gt;6th Epigraphy.info workshop&lt;/strong&gt; will be organised by The Institute for Advanced Study and will take place from &lt;strong&gt;October 20th-22nd, 2021&lt;/strong&gt;. Due to the ongoing COVID-19 pandemic, the workshop will be held &lt;strong&gt;online&lt;/strong&gt; over Zoom.&lt;/p&gt;
 
-&lt;p&gt;You can find the programme and register at &lt;a href=&quot;https://site.unibo.it/encode/en/agenda/bridging-the-gap-with-linked-open-data-en&quot;&gt;https://site.unibo.it/encode/en/agenda/bridging-the-gap-with-linked-open-data-en&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more information see &lt;a href=&quot;https://epigraphy.info/workshop_6/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Sep 2021 12:00:00 +0200</pubDate>
+        <link>http://localhost:4000/news/2021/09/21/6th_Workshop.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2021/09/21/6th_Workshop.html</guid>
+        
+        
+        <category>News</category>
+        
+      </item>
+    
+      <item>
+        <title>DTS Hackathon's registration is open</title>
+        <description>&lt;h1 id=&quot;register-for-dts-hackathon-and-win-a-prize&quot;&gt;Register for DTS Hackathon and win a prize&lt;/h1&gt;
 
-&lt;p&gt;Participation is open and registrations are accepted &lt;strong&gt;until the 25th May 2021.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(posted on behalf of Matteo Romanello and Pietro Liuzzo)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Dear colleagues,&lt;/p&gt;
+
+&lt;p&gt;we would like to remind you that registrations to the 1st online &lt;a href=&quot;https://distributed-text-services.github.io/workshops/events/2021-hackathon/&quot;&gt;&lt;strong&gt;DTS Hackathon&lt;/strong&gt;&lt;/a&gt; are open until 24.09.2021 (for details, see the &lt;a href=&quot;https://distributed-text-services.github.io/workshops/events/2021-hackathon/#registration&quot;&gt;registration page&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;This hackathon – funded by the &lt;em&gt;dhCenter UNIL-EPFL and the École Nationale des Chartes&lt;/em&gt; – is open to DH researchers, research software developers / engineers, and more generally to anyone involved in writing code and software to publish texts online, in any language and from any period and area.&lt;/p&gt;
+
+&lt;h2 id=&quot;schedule&quot;&gt;Schedule&lt;/h2&gt;
+
+&lt;p&gt;The hackathon will run fully online, and mostly asynchronously, between September 27 and October 10, 2021. A detailed schedule of the event can be found on the &lt;a href=&quot;https://distributed-text-services.github.io/workshops/events/2021-hackathon/#hackathon-schedule&quot;&gt;hackathon’s website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;/h2&gt;
+
+&lt;p&gt;The  contributions developed during the hackathon will be evaluated by an international jury which will award prizes in four
+ categories. Category winners will be awarded a prize of their choice between the two following options:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://remarkable.com/store/remarkable-2&quot;&gt;Remarkable2 e-ink reader&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.galaxus.ch/it/s1/product/sandisk-portable-ssd-2000gb-ssd-esterne-14967106&quot;&gt;Transkribus ScanTent + SanDisk portable SSD drive (1TB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;hack-ideas&quot;&gt;Hack ideas&lt;/h2&gt;
+
+&lt;p&gt;For those who would like to join the hackathon but have not yet identified what to work on, we recommend you to keep an eye on the list of
+&lt;a href=&quot;https://github.com/distributed-text-services/workshops/labels/Hackathon&quot;&gt;hack ideas&lt;/a&gt; that are being put forward. If anything catches your attention you can get in touch with the proponent, start discussing it further and eventually form a team. All collected ideas will be pitched by their proponent(s) on the first day of the hackathon.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 20 Sep 2021 02:00:00 +0200</pubDate>
+        <link>http://localhost:4000/news/2021/09/20/DTS_hackathon.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2021/09/20/DTS_hackathon.html</guid>
+        
+        
+        <category>News</category>
+        
+      </item>
+    
+      <item>
+        <title>Epigraphy.info has a new website!</title>
+        <description>&lt;h1 id=&quot;valete-viatores-χαίρετε-παροδῖται&quot;&gt;Valete viatores! χαίρετε, παροδῖται!&lt;/h1&gt;
+
+&lt;p&gt;We are thrilled to announce the launch of the new &lt;strong&gt;Epigraphy.info&lt;/strong&gt;  website!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Epigraphy_info_website_launch04.png&quot; style=&quot;width:100%;&quot; alt=&quot;Epigraphy.info launches a new website!&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here you can read about the Epigraphy.info community, access information about past and future activities and meetings, and get to know individual working groups and their current aims. Most importantly, if you would like to become part of the community, you can &lt;a href=&quot;/contact/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;get in touch directly with us&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you would like to to stay abreast of the latest developments in Digital Epigraphy, you can follow us on &lt;a href=&quot;https://www.facebook.com/epigraphy.info/&quot; target=&quot;blank&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/epigraphy_info&quot; target=&quot;blank&quot;&gt;Twitter&lt;/a&gt;, and &lt;a href=&quot;https://www.instagram.com/epigraphy.info/&quot; target=&quot;blank&quot;&gt;Instagram&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in the technology behind the scene, the new website is built on &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;blank&quot;&gt;GitHub Pages&lt;/a&gt; the infrastructure, stored at &lt;a href=&quot;https://github.com/epigraphy-info&quot; target=&quot;blank&quot;&gt;Epigraphy-info GitHub&lt;/a&gt;, which will make the site more dynamic and collaborative.&lt;/p&gt;
+
+&lt;!--
+/contact/
+--&gt;
+</description>
+        <pubDate>Tue, 20 Apr 2021 02:00:00 +0200</pubDate>
+        <link>http://localhost:4000/news/2021/04/20/Official_launch.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2021/04/20/Official_launch.html</guid>
+        
+        <category>announcement</category>
+        
+        <category>website</category>
+        
+        <category>social-media</category>
+        
+        
+        <category>News</category>
+        
+      </item>
+    
+      <item>
+        <title>Modeling Epigraphy with an Ontology</title>
+        <description>&lt;h1 id=&quot;modeling-epigraphy-with-an-ontology-document-published&quot;&gt;“Modeling Epigraphy with an Ontology” document published&lt;/h1&gt;
+
+&lt;p&gt;The document &lt;strong&gt;“Modeling Epigraphy with an Ontology”&lt;/strong&gt; has been published on the Epigraphy.info website. The official draft of the ‘Modeling Epigraphy with an Ontology’ document is stored in Zenodo at doi: &lt;a href=&quot;https://zenodo.org/record/4639508/export/xd&quot; target=&quot;blank&quot;&gt;10.5281/zenodo.4639507&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The document describes how to use existing ontologies as well as a few new properties and classes, to model epigraphic objects. Inscriptions that are described using this model can be shared, ingested into an ontological database, and used in graph databases or to share linked open data. Describing an inscription in this way complements existing practices as described by EpiDoc.&lt;/p&gt;
+
+&lt;p&gt;If you would like to know more details or get involved in the Ontology Working Group, you can contact &lt;a href=&quot;mailto:epont@googlegroups.com&quot; target=&quot;blank&quot;&gt;Epigraphic Ontology Mailing List&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Apr 2021 02:00:00 +0200</pubDate>
+        <link>http://localhost:4000/news/2021/04/15/EpOnt_document.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2021/04/15/EpOnt_document.html</guid>
+        
+        
+        <category>News</category>
+        
+      </item>
+    
+      <item>
+        <title>Conference &amp; Workshop Bridging the Gap with Linked Open Data</title>
+        <description>&lt;h1 id=&quot;conference--workshop-bridging-the-gap-with-linked-open-data&quot;&gt;Conference &amp;amp; workshop: Bridging the Gap with Linked Open Data&lt;/h1&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://site.unibo.it/encode/en&quot; target=&quot;blank&quot;&gt;ENCODE project team&lt;/a&gt;  would like to invite you to the Project Conference with the title &lt;strong&gt;“Bridging the Gap with Linked Open Data”&lt;/strong&gt;, which will take place on the 25th May 2021, 14.00–18.00 (CEST), on Zoom.&lt;/p&gt;
+
+&lt;p&gt;You can find the programme and register at &lt;a href=&quot;https://site.unibo.it/encode/en/agenda/bridging-the-gap-with-linked-open-data-en&quot; target=&quot;blank&quot;&gt;https://site.unibo.it/encode/en/agenda/bridging-the-gap-with-linked-open-data-en&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Participation is open and registrations are accepted &lt;strong&gt;until the 25th May 2021&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;A call for applications is also open for the second ENCODE intensive training on Linked Open Data for Written Artefacts, held from 26th to 28th May 2021 via Zoom.&lt;/p&gt;
 
-&lt;p&gt;You can find the programme and the call for applications at &lt;a href=&quot;https://site.unibo.it/encode/en/agenda/lod-may-2021&quot;&gt;https://site.unibo.it/encode/en/agenda/lod-may-2021&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find the programme and the call for applications at &lt;a href=&quot;https://site.unibo.it/encode/en/agenda/lod-may-2021&quot; target=&quot;blank&quot;&gt;https://site.unibo.it/encode/en/agenda/lod-may-2021&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The intensive training is restricted to a maximum of 18 participants and the deadline for applications is 31st March 2021.&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Mar 2021 01:00:00 +0100</pubDate>
-        <link>http://localhost:4000/epigraphy-info/news/2021/03/11/ENCODE_conference.html</link>
-        <guid isPermaLink="true">http://localhost:4000/epigraphy-info/news/2021/03/11/ENCODE_conference.html</guid>
+        <link>http://localhost:4000/news/2021/03/11/ENCODE_conference.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2021/03/11/ENCODE_conference.html</guid>
         
         
         <category>News</category>
@@ -53,7 +163,7 @@
 
 &lt;p&gt;The image has to exist locally / on GitHub in the folder &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/epigraphy-info/assets/XXX.jpg&quot; style=&quot;width:100%;&quot; alt=&quot;Provide a description of your XXX image&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/XXX.jpg&quot; style=&quot;width:100%;&quot; alt=&quot;Provide a description of your XXX image&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;if-you-would-like-to-insert-a-hyperlink&quot;&gt;If you would like to insert a hyperlink:&lt;/h2&gt;
 
@@ -63,14 +173,14 @@
 
 &lt;p&gt;The documents has to exist locally / on GitHub in the folder &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;documents&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/epigraphy-info/documents/Epigraphy.info_V_Programm.pdf&quot;&gt;This is my public name for the document, e.g. the 5th Epigraphy info programme&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/documents/Epigraphy.info_V_Programm.pdf&quot;&gt;This is my public name for the document, e.g. the 5th Epigraphy info programme&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Nov 2020 15:00:00 +0100</pubDate>
-        <link>http://localhost:4000/epigraphy-info/news/2020/11/23/Template_post.html</link>
-        <guid isPermaLink="true">http://localhost:4000/epigraphy-info/news/2020/11/23/Template_post.html</guid>
+        <link>http://localhost:4000/template/2020/11/23/Template_post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/template/2020/11/23/Template_post.html</guid>
         
         
-        <category>News</category>
+        <category>Template</category>
         
       </item>
     
