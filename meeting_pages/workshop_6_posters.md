@@ -12,7 +12,7 @@ The sixth workshop will host an E-poster session dedicated to the presentation o
 
 **Zoom link:** will be circulated via email to registered users
 
-**[All posters on Epigraphy.info GitHub]({{"../documents/workshop_6/"}}){:target="_blank" rel="noopener"}** 
+**[All posters on Epigraphy.info GitHub](https://github.com/epigraphy-info/epigraphy-info/tree/main/documents/workshop_6/){:target="_blank" rel="noopener"}** 
 
 ---
 
