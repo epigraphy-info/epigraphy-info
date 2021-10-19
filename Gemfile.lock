@@ -275,7 +275,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (>=221)
+  github-pages
   jekyll-archives
   jekyll-paginate
   jekyll-sitemap
