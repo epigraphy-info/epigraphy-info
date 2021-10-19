@@ -38,7 +38,7 @@ The workshop days will run from 11:00 - 14:30 UTC, and will comprise presentatio
 * 11:00 - 11:30 Virtual welcome coffee
 * 11:30 - 13:00 Vincent Razanajao - EpiDoc Editor
 * 13:00 - 13:30 Break
-* 13:30 - 14:30 Poster Session
+* 13:30 - 14:30 E-Poster Session >>> click [here]({{ "../workshop_6_posters/" }})
 
 *Friday, October 22*
 * 11:00 - 11:30 Virtual welcome coffee
