@@ -22,7 +22,7 @@ To register for the workshop, simply fill out this **[registration form](https:/
 
 ## Important links
 
-**[Collaborative Doogle Doc](https://docs.google.com/document/d/17a1LhjR7raGtjuYo5GiqQ71M63MoFtSqCekHgw7_mGI/edit?usp=sharing)**
+**[Collaborative Doogle Doc](https://docs.google.com/document/d/17a1LhjR7raGtjuYo5GiqQ71M63MoFtSqCekHgw7_mGI/edit?usp=sharing){:target="_blank" rel="noopener"}**
 
 ---
 
