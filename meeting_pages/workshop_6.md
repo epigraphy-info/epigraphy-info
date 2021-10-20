@@ -20,6 +20,12 @@ To register for the workshop, simply fill out this **[registration form](https:/
 
 ---
 
+## Important links
+
+**[Collaborative Doogle Doc](https://docs.google.com/document/d/17a1LhjR7raGtjuYo5GiqQ71M63MoFtSqCekHgw7_mGI/edit?usp=sharing)**
+
+---
+
 ## Programme
 
 The workshop days will run from 11:00 - 14:30 UTC, and will comprise presentations, discussion, a poster session, and a keynote address.
