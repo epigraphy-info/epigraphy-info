@@ -18,13 +18,11 @@ The sixth workshop will host an E-poster session dedicated to the presentation o
 
 ## Poster 1 - OG(H)AM: Harnessing digital technologies to transform understanding of ogham writing, from the 4th century to the 21st
 
-**Nora White**, Dublin Institute for Advanced Studies
+**Nora White**, Department of Early Irish at Maynooth University
 
 *Abstract:*
 
 Overview of a new collaborative project (2021-24) by scholars from the University of Glasgow, Scotland, and Maynooth University, Ireland, which will harness digital tools from the fields of epigraphy, archaeology and linguistics to transform scholarly and popular understanding of ogham—an ancient script unique to Ireland and Britain. The project will digitise all c.640 examples of ogham, from its appearance in the fourth century CE until its modern revival c.1850. These inscriptions are of significance to historical linguists as the earliest evidence for the Gaelic languages. This project will build on the digital corpus of Irish ogham-inscribed stones begun by the Dublin Institute for Advanced Studies Ogham in 3D project (2012-15), which uses XML and EpiDoc guidelines to encode the inscriptions and provides detailed supporting information, photographs, and 3D models. The new project will upgrade its data and metadata, enhance its searchability and interoperability, and expand its thematic, chronological, and geographical scope by including oghams from the whole island of Ireland (i.e. including Northern Ireland) and from outside Ireland. The latter—from Scotland, Wales, Man, England, and Continental libraries—comprise almost a third of the total. The project will move beyond stone monuments to include portable objects, graffiti, and manuscripts.
-
-*Project link: [https://ogham.celt.dias.ie/menu.php?lang=en](https://ogham.celt.dias.ie/menu.php?lang=en)*
 
 **[Click here to see the full Poster 1 (PDF)]({{ site.baseurl }}{% link documents/workshop_6/P1_White_OGHAM.pdf %}){:target="_blank" rel="noopener"}**
 
