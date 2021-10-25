@@ -1,5 +1,5 @@
 # How to edit Epigraphy.info website
-**Petra Hermankova**, Contact email: [petra.janouchova@gmail.com](mailto:petra.janouchova@gmail.com) / alternatively [petra.hermankova@cas.au.dk](mailto:petra.hermankova@cas.au.dk) or via Github [@petrifiedvoices](https://github.com/petrifiedvoices) on GitHub
+**Petra Hermankova**, [@petrifiedvoices](https://github.com/petrifiedvoices) on GitHub
 
 **Website:** static website using [GitHub pages infrastructure](https://guides.github.com/features/pages/) (Jekyll), pages written in markdown and then automatically transformed to html
 
