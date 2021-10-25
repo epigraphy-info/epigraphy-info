@@ -10,8 +10,8 @@ published: true
 * Javier Andreu Pintado, University of Navarra, ES
 * Tom Gheldof, Trismegistos / KU Leuven, BE
 * Aaron Hershkowitz, Institute for Advanced Study, USA
-* Jonathan Prag, Oxford University, UK
 * Anja Ragolic, Archaeological Institute Ljubljana, SLO
+* Vincent Razanajao, Bordeaux Montaigne, Patrimonium, FR
 * Thea Sommerschield, Oxford University, UK
 
 
@@ -29,6 +29,7 @@ published: true
 * Liuzzo, Pietro / University of Hamburg / 2018 (tech.comm.)-2019
 * Lougovaya-Ast, Julia / Heidelberg University / 2018-2019
 * Mannocci, Andrea / CNR Pisa, Eagle Project / 2019-2020
+* Jonathan Prag, Oxford University, UK / 2020-2021
 * Razanajao, Vincent / Bordeaux Montaigne, Patrimonium / 2019-2020
 * Weise, Franziska / Hamburg University / 2019-2020
 

@@ -18,14 +18,16 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 
 ## Members
 
+* Marina Bastero Acha (since 2021)
 * Chiara Cenati (since 2019)
+* Elena Duce Pastor (since 2021)
 * M. Cristina de la Escosura Balbas (since 2020)
 * Sergio España-Chamorro (since 2020)
 * Petra Heřmánková (since 2020)
 * Tina Hobel (since 2019)
 * Anja Ragolič (since 2020)
 * Nadine F. Riegler (since 2020)
-* Franziska Weise (since 2019)
+
 
 
 <!-- if you want to insert any image, photo
@@ -35,6 +37,7 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 ### *Previous Members*
 
 * David Espinosa Espinosa (2019-2020)
+* Franziska Weise (since 2019)
 
 ## Important links
 
