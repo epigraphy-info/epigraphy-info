@@ -37,7 +37,7 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 ### *Previous Members*
 
 * David Espinosa Espinosa (2019-2020)
-* Franziska Weise (since 2019)
+* Franziska Weise (2019-2020)
 
 ## Important links
 
