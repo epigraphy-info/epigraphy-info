@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Poster session at 6th Epigraphy.info Workshop
+title: Workshop 6 posters
 permalink: workshop_6_posters/
 published: true
 ---

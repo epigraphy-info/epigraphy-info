@@ -7,6 +7,8 @@ nav:
     subnav: 
       - title: Latest news
         url: news/
+      - title: Upcoming events
+        url: events/
   - title: People
     url: people/
     subnav:
