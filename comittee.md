@@ -9,6 +9,7 @@ published: true
 
 * Javier Andreu Pintado, University of Navarra, ES
 * Tom Gheldof, Trismegistos / KU Leuven, BE
+* Petra Hermankova, Aarhus University, DK
 * Aaron Hershkowitz, Institute for Advanced Study, USA
 * Anja Ragolic, Archaeological Institute Ljubljana, SLO
 * Vincent Razanajao, Bordeaux Montaigne, Patrimonium, FR
