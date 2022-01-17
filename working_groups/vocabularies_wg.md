@@ -12,15 +12,15 @@ The EAGLE vocabularies themselves are unfinished and incomplete (for multiple re
 
 ## Active members
 
-* Chiara Cenati
+* Chiara Cenati (<a href="https://orcid.org/0000-0003-4962-9611" target="blank">ORCID ID: 0000-0003-4962-9611</a>)
 * Mark Depauw
 * Stefania De Vido
-* Silvia Evangelisti
-* Petra Hermankova
+* Silvia Evangelisti (<a href="https://orcid.org/0000-0002-7186-9518" target="blank">ORCID ID: 0000-0002-7186-9518</a>)
+* Petra Hermankova (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID: 0000-0002-6349-0540</a>)
 * Aaron Hershkowitz
-* Marietta Horster
+* Marietta Horster (<a href="https://orcid.org/0000-0003-1434-224X" target="blank">ORCID ID: 0000-0003-1434-224X</a>)
 * Valentina Mignosa
-* Jonathan Prag
+* Jonathan Prag (<a href="https://orcid.org/0000-0003-3819-8537" target="blank">ORCID ID: 0000-0003-3819-8537</a>)
 * Vincent Razanajao
 * Simona Stoyanova
 
