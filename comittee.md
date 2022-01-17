@@ -5,11 +5,10 @@ permalink: /committee/
 published: true
 ---
 
-## The [Steering committee]({{ site.baseurl }}{% link documents/steeringcommittee.pdf %}){:target="_blank" rel="noopener"} in 2020/2021:
+## The current [Steering committee]({{ site.baseurl }}{% link documents/steeringcommittee.pdf %}){:target="_blank" rel="noopener"}:
 
 * Javier Andreu Pintado, University of Navarra, ES
-* Tom Gheldof, Trismegistos / KU Leuven, BE
-* Petra Hermankova, Aarhus University, DK (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID: 0000-0002-6349-0540</a>)
+* Petra Hermankova (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID: 0000-0002-6349-0540</a>), Aarhus University, DK 
 * Aaron Hershkowitz, Institute for Advanced Study, USA
 * Anja Ragolic, Archaeological Institute Ljubljana, SLO
 * Vincent Razanajao, Bordeaux Montaigne, Patrimonium, FR
