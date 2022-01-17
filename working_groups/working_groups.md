@@ -4,7 +4,7 @@ title: Working Groups
 permalink: /working_groups/
 ---
 
-The working groups were established during the first workshop in **Heidelberg in 2018**. Their goal was to discuss in details important topics for the Epigraphy.info community, draft documents, suggest policies, and collaboratively work on technical challenges of our discipline in between individual workshops. 
+The working groups were established during the first workshop in **Heidelberg in 2018**. Their goal was to discuss in details important topics for the Epigraphy.info community, draft documents, suggest policies, and collaboratively work on technical challenges of our discipline in between individual workshops.
 
 The total number and purpose of working groups changes in time as they reflect the shifts and recent developments within the community.
 
@@ -14,9 +14,9 @@ Working groups are based on voluntary activity of their members. Some working gr
 
 ## Active working groups:
 
-* [Funding & Membership WG]({{ "funding_wg/"| relative_url }}){:target="_blank" rel="noopener"} 
-* [Social Media WG]({{ "social_media_wg/"| relative_url }}){:target="_blank" rel="noopener"} 
-* [Ontologies WG]({{ "ontologies_wg/"| relative_url }}){:target="_blank" rel="noopener"} 
+* [Funding & Membership WG]({{ "funding_wg/"| relative_url }}){:target="_blank" rel="noopener"}
+* [Social Media WG]({{ "social_media_wg/"| relative_url }}){:target="_blank" rel="noopener"}
+* [Ontologies WG]({{ "ontologies_wg/"| relative_url }}){:target="_blank" rel="noopener"}
 * [Vocabularies WG]({{ "vocabularies_wg/"| relative_url }}){:target="_blank" rel="noopener"}
 
 ---
@@ -54,13 +54,3 @@ GitHub: [https://github.com/epigraphy-info](https://github.com/epigraphy-info)
 Working group folder on Google Drive: [Link TBA](https://www.providesomelinkhere.org/")
 
 E-mail contact: email@email.xxx -->
-
-
-
-
-
-
-
-
-
-
