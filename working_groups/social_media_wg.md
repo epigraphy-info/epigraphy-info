@@ -22,7 +22,7 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 * Chiara Cenati (<a href="https://orcid.org/0000-0003-4962-9611" target="blank">ORCID ID: 0000-0003-4962-9611</a>) (since 2019)
 * Elena Duce Pastor (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ID: 0000-0003-0604-2300</a>) (since 2021)
 * M. Cristina de la Escosura Balbas (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID: 0000-0003-1769-657X</a>) (since 2020)
-* Sergio España-Chamorro (since 2020)
+* Sergio España-Chamorro (<a href="https://orcid.org/0000-0001-6962-5859" target="blank">ORCID ID: 0000-0001-6962-5859</a>) (since 2020)
 * Petra Heřmánková (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID: 0000-0002-6349-0540</a>) (since 2020)
 * Tina Hobel (since 2019)
 * Anja Ragolič (since 2020)
