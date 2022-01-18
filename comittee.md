@@ -9,7 +9,7 @@ published: true
 
 * Javier Andreu Pintado, University of Navarra, ES
 * Petra Hermankova (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID: 0000-0002-6349-0540</a>), Aarhus University, DK 
-* Aaron Hershkowitz, Institute for Advanced Study, USA
+* Aaron Hershkowitz (<a href="https://orcid.org/0000-0002-9456-8574" target="blank">ORCID ID: 0000-0002-9456-8574</a>), Institute for Advanced Study, USA
 * Anja Ragolic, Archaeological Institute Ljubljana, SLO
 * Vincent Razanajao, Bordeaux Montaigne, Patrimonium, FR
 * Thea Sommerschield, Oxford University, UK
@@ -26,7 +26,7 @@ published: true
 * Gheldof, Tom / Trismegistos / 2019-2020
 * Grieshaber, Frank / Heidelberg Academy of Sciences and Humanities, EDH / 2018 (tech.comm.)
 * Kurilić, Anamarija / University of Zadar / 2018-2019
-* Liuzzo, Pietro / University of Hamburg / 2018 (tech.comm.)-2019
+* Liuzzo, Pietro (<a href="https://orcid.org/0000-0001-5714-4011" target="blank">ORCID ID: 0000-0001-5714-4011</a>) / University of Hamburg / 2018 (tech.comm.)-2019
 * Lougovaya-Ast, Julia / Heidelberg University / 2018-2019
 * Mannocci, Andrea / CNR Pisa, Eagle Project / 2019-2020
 * Jonathan Prag (<a href="https://orcid.org/0000-0003-3819-8537" target="blank">ORCID ID: 0000-0003-3819-8537</a>) / Oxford University, UK / 2020-2021
