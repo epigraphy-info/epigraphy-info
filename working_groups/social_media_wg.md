@@ -30,6 +30,17 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 
 
 
+
+<!-- if you want to insert orcid id with link and icon, use this template
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+0000-0001-2345-6789
+</a>
+-->
+
+<!-- 
+(<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID: 0000-0002-6349-0540</a>)
+-->
+
 <!-- if you want to insert any image, photo
 <img src='{{site.baseurl}}/assets/XXX.jpg' style="width:100%;" alt="Image description" align="middle">
 -->

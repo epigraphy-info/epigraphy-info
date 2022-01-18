@@ -5,17 +5,11 @@ layout: default
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
     <header class="site-header">
-      <h1 class="title">{{ site.title }}</h1>
+      <h1 class="title"><img src='{{site.baseurl}}/assets/2000x1144_white_dropshadow.png' style="width:400px;" alt="Epigraphy.info logo" align="middle"></h1>
       {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
     </header>
   </div>
 </div>
-
-
-
-<br>
-
-<img src='{{site.baseurl}}/assets/epigraphy-info1.jpg' style="width:400px;" alt="Epigraphy.info logo" align="middle">
 
 <br>
 <div class="wrapper">
@@ -44,10 +38,14 @@ layout: default
 </div>
 
 <br>
+
 <br>
 
 {% include page_divider.html %}
 
+<img src='{{site.baseurl}}/assets/2000x1144.png' style="width:300px;" alt="Epigraphy.info logo" align="middle">
+
+<br>
 <h3 style="text-align:center;">Latest news</h3>
 
 <div class="wrapper">

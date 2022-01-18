@@ -21,7 +21,7 @@ description: >
 # baseurl: "/epigraphy-info" # the subpath of your site, e.g. /blog/
 url: "http://epigraphy-info.github.io/" # the base hostname & protocol for your site
 cover: "/assets/Header_Facebook_Code_only.png" #
-logo: "/assets/logo.jpg"
+logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
@@ -181,12 +181,12 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/logo.png"
+    fb_image: "/assets/logo.jpg"
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+    twitter_image: "/assets/logo.jpg"
 
     os_repo: "https://github.com/epigraphy-info/epigraphy-info/"
     os_rcs_type: "git"
@@ -200,17 +200,17 @@ navigation:
   url: /index.html
   icon: "/assets/logo.jpg"
 
-- root: Epigraphy.info
-  url: #
-  icon: "/assets/logo.jpg"
-  first-level:
-    - text: Contact
-      url: meetings.md
-      second-level:
-        - text: Workshop 1
-          url: meetings/workshop_1.md
-    - text: Contact
-      url: contact.md
+#- root: Epigraphy.info
+#  url: #
+#  icon: "/assets/logo.jpg"
+#  first-level:
+#    - text: Contact
+#      url: meetings.md
+#      second-level:
+#        - text: Workshop 1
+#          url: meetings/workshop_1.md
+#    - text: Contact
+#      url: contact.md
 
 
 
