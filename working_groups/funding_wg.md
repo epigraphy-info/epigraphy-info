@@ -27,7 +27,7 @@ The Funding Working Group consists of a team of seven Epigraphy.info members aff
 * Chiara Cenati (<a href="https://orcid.org/0000-0003-4962-9611" target="blank">ORCID ID: 0000-0003-4962-9611</a>)
 * Alberto Dalla Rosa
 * M. Cristina de la Escosura Balbas (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID: 0000-0003-1769-657X</a>)
-* Francisca Feraudi-Gruénais
+* Francisca Feraudi-Gruénais (<a href="https://orcid.org/0000-0002-6230-4750" target="blank">ORCID ID: 0000-0002-6230-4750</a>)
 * Tom Gheldof
 * Marietta Horster (<a href="https://orcid.org/0000-0003-1434-224X" target="blank">ORCID ID: 0000-0003-1434-224X</a>)
 
