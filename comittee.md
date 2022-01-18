@@ -22,7 +22,7 @@ published: true
 * Cenati, Chiara (<a href="https://orcid.org/0000-0003-4962-9611" target="blank">ORCID ID: 0000-0003-4962-9611</a>) / University of Vienna / 2019-2020
 * de la Escosura Balbas, M. Cristina (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID: 0000-0003-1769-657X</a>) / University of Zaragoza / 2019-2020
 * Elliott, Tom / New York University / 2018 (tech.comm.) / 2019-2020
-* Feraudi-Gruénais, Francisca / Heidelberg Academy of Sciences and Humanities, EDH / 2018-2019
+* Feraudi-Gruénais, Francisca (<a href="https://orcid.org/0000-0002-6230-4750" target="blank">ORCID ID: 0000-0002-6230-4750</a>) / Heidelberg Academy of Sciences and Humanities, EDH / 2018-2019
 * Gheldof, Tom / Trismegistos / 2019-2020
 * Grieshaber, Frank / Heidelberg Academy of Sciences and Humanities, EDH / 2018 (tech.comm.)
 * Kurilić, Anamarija / University of Zadar / 2018-2019
