@@ -19,7 +19,7 @@ The EAGLE vocabularies themselves are unfinished and incomplete (for multiple re
 * Petra Hermankova (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID: 0000-0002-6349-0540</a>)
 * Aaron Hershkowitz
 * Marietta Horster (<a href="https://orcid.org/0000-0003-1434-224X" target="blank">ORCID ID: 0000-0003-1434-224X</a>)
-* Valentina Mignosa
+* Valentina Mignosa (<a href="https://orcid.org/0000-0002-7122-2511" target="blank">ORCID ID: 0000-0002-7122-2511</a>)
 * Jonathan Prag (<a href="https://orcid.org/0000-0003-3819-8537" target="blank">ORCID ID: 0000-0003-3819-8537</a>)
 * Vincent Razanajao
 * Simona Stoyanova
