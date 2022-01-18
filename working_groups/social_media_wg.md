@@ -24,7 +24,7 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 * M. Cristina de la Escosura Balbas (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID: 0000-0003-1769-657X</a>) (since 2020)
 * Sergio España-Chamorro (<a href="https://orcid.org/0000-0001-6962-5859" target="blank">ORCID ID: 0000-0001-6962-5859</a>) (since 2020)
 * Petra Heřmánková (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID: 0000-0002-6349-0540</a>) (since 2020)
-* Tina Hobel (since 2019)
+* Tina Hobel (<a href="https://orcid.org/0000-0003-2489-1656" target="blank">ORCID ID: 0000-0003-2489-1656</a>) (since 2019)
 * Anja Ragolič (since 2020)
 * Nadine Riegler (<a href="https://orcid.org/0000-0002-9380-8388" target="blank">ORCID ID: 0000-0002-9380-8388</a>) (since 2020)
 
