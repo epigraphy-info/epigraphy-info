@@ -102,10 +102,10 @@ social:
 
   - name: YouTube
     icon: youtube
-    username:
-    url:
+    username: epigraphy-info
+    url: https://www.youtube.com/c/epigraphy-info
     desc: Subscribe on YouTube
-    share: false
+    share: true
 
   - name: Instagram
     icon: instagram
