@@ -16,7 +16,7 @@ To join us see [here](https://epigraphy.info/join_us/).
 
 ## Social Media
 
-You can follow us at [Facebook](https://www.facebook.com/epigraphy.info/){:target="_blank" rel="noopener"}, [Twitter](https://twitter.com/epigraphy_info){:target="_blank" rel="noopener"}, [Instagram](https://www.instagram.com/epigraphy.info/){:target="_blank" rel="noopener"} or [GitHub](https://github.com/epigraphy-info){:target="_blank" rel="noopener"}.
+You can follow us at [Facebook](https://www.facebook.com/epigraphy.info/){:target="_blank" rel="noopener"}, [Twitter](https://twitter.com/epigraphy_info){:target="_blank" rel="noopener"}, [Instagram](https://www.instagram.com/epigraphy.info/){:target="_blank" rel="noopener"}, [YouTube](https://www.youtube.com/c/EpigraphyInfo){:target="_blank" rel="noopener"} or [GitHub](https://github.com/epigraphy-info){:target="_blank" rel="noopener"}.
 
 To see who is behind the Epigraphy.info's presence on social media, you can read about us at the Social Media section in the [Working Groups page]({{ "working_groups/" | relative_url }}){:target="_blank" rel="noopener"}.
 
