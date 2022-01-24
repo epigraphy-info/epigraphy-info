@@ -6,12 +6,9 @@ author: Nadine Riegler
 categories: News
 ---
 
-# Epigraphy.info has its own YouTube Channel
 
-After the 6th Epigraphy.info workshop hosted by the IAS the Social Media group created an account on YouTube. There you'll find clips about epigraphy, about databases and interviews with epigraphists.
+After the **6th Epigraphy.info workshop** the Social Media group created an account on **YouTube**. We are planning to share clips about epigraphy, databases and interviews with digital epigraphists.
 
-Our very first video is showing the brilliant key lecture note given by Polly Low during the workshop.
+Our very first video is showing the brilliant *key lecture note given by Polly Low* during the workshop hosted by the IAS.
 
-Follow us for more input via [YouTube] (https://www.youtube.com/c/EpigraphyInfo).
-
-<img src='{{site.baseurl}}/assets/epigraphy.infoYouTube.jpg' style="width:100%;" alt="Heaad of our YouTube Channel" align="middle">
+For more: Stay tuned and subscribe on [YouTube](https://www.youtube.com/c/EpigraphyInfo).
