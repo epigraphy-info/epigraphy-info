@@ -46,6 +46,8 @@ nav:
         url: workshop_5/ 
       - title: Workshop 6 (IAS/online)
         url: workshop_6/ 
+      - title: Workshop 7 (Leuven)
+        url: workshop_7/ 
   - title: Documents
     url: documents/
     subnav:

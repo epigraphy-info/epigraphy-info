@@ -6,9 +6,32 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Jan 2022 17:48:02 +0100</pubDate>
-    <lastBuildDate>Thu, 20 Jan 2022 17:48:02 +0100</lastBuildDate>
+    <pubDate>Wed, 18 May 2022 18:10:59 +0200</pubDate>
+    <lastBuildDate>Wed, 18 May 2022 18:10:59 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Epigrapy.info has its own YouTube Channel</title>
+        <description>&lt;p&gt;After the &lt;strong&gt;6th Epigraphy.info workshop&lt;/strong&gt; the Social Media group created an account on &lt;a href=&quot;https://www.youtube.com/c/EpigraphyInfo&quot;&gt;&lt;strong&gt;YouTube&lt;/strong&gt;&lt;/a&gt;. We are planning to share clips about epigraphy, databases and interviews with digital epigraphists.&lt;/p&gt;
+
+&lt;p&gt;Our very first video is showing the brilliant &lt;strong&gt;key lecture note given by Polly Low&lt;/strong&gt; during the workshop hosted by the IAS.&lt;/p&gt;
+
+&lt;p&gt;For more: Stay tuned and subscribe on &lt;a href=&quot;https://www.youtube.com/c/EpigraphyInfo&quot;&gt;&lt;strong&gt;YouTube&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Epigraphy.info_YouTube_Header.png&quot; style=&quot;width:100%;&quot; alt=&quot;Header of our YouTube channel&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Jan 2022 15:00:00 +0100</pubDate>
+        <link>http://localhost:4000/news/2022/01/24/YouTube_Channel.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2022/01/24/YouTube_Channel.html</guid>
+        
+        <category>announcement</category>
+        
+        <category>social-media</category>
+        
+        
+        <category>News</category>
+        
+      </item>
     
       <item>
         <title>Upcoming 6th Epigraphy.info workshop</title>
