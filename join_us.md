@@ -8,6 +8,8 @@ If you would like to be involved in the Epigraphy.info community, please fill in
 
 If you have any questions to the members of the Steering Committee, you can reach them via <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a>. 
 
+If you wish to unsubscribe from all communications of the Epigraphy.info community and revoke your membership, you can do so by contacting <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a> at any time.
+
 
  <!--  link does not work [https://groups.google.com/g/epigraphyinfo](https://groups.google.com/g/epigraphyinfo)-->
 
