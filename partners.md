@@ -10,6 +10,9 @@ Inscriptions of ancient Athens and Attica in English translation
 ### <a href="https://mizar.unive.it/axon/public/index/index" target="blank">AXON
 Greek Historical Inscriptions
 
+### <a href="https://epigraphy.osu.edu/" target="blank">Center for Paleographical and Epigraphical Studies at The Ohio State University
+Collection of squeezes, photographs and books
+
 ### <a href="https://institucional.us.es/cleo/?lang=en" target="blank">CLEO
 Carmina Latina Epigraphica Online
 
