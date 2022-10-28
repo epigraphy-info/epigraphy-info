@@ -6,9 +6,35 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 May 2022 18:10:59 +0200</pubDate>
-    <lastBuildDate>Wed, 18 May 2022 18:10:59 +0200</lastBuildDate>
-    <generator>Jekyll v3.9.0</generator>
+    <pubDate>Fri, 28 Oct 2022 15:10:11 +0200</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2022 15:10:11 +0200</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Save the date for the seventh Epigraphy.info workshop in April 2023</title>
+        <description>&lt;p&gt;&lt;strong&gt;Dear friends of Epigraphy.info&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;We are delighted to announce that the &lt;strong&gt;seventh Epigraphy.info workshop&lt;/strong&gt; will be taking place between &lt;em&gt;Monday April 24 and Wednesday April 26 2023 in Leuven&lt;/em&gt;. Please, &lt;strong&gt;save the date!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The event will be held primarily as in-person meeting but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending.
+More information about the venue, the registration and the programme will be available at Epigraphy.info website in late January 2023.&lt;/p&gt;
+
+&lt;p&gt;If you have an interesting project you would like to present at the conference, please contact the &lt;em&gt;Steering committee&lt;/em&gt; (&lt;a href=&quot;mailto:info@epigraphy.info&quot;&gt;info@epigraphy.info&lt;/a&gt;) who is in charge of putting together a program of the meeting.&lt;/p&gt;
+
+&lt;p&gt;The Steering Committee&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Oct 2022 22:00:00 +0200</pubDate>
+        <link>http://localhost:4000/news/2022/10/27/Workshop_VII_Leuven_Save_the_date.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2022/10/27/Workshop_VII_Leuven_Save_the_date.html</guid>
+        
+        <category>announcement</category>
+        
+        <category>social-media</category>
+        
+        
+        <category>News</category>
+        
+      </item>
     
       <item>
         <title>Epigrapy.info has its own YouTube Channel</title>
@@ -51,7 +77,7 @@
       </item>
     
       <item>
-        <title>DTS Hackathon's registration is open</title>
+        <title>DTS Hackathon&apos;s registration is open</title>
         <description>&lt;h1 id=&quot;register-for-dts-hackathon-and-win-a-prize&quot;&gt;Register for DTS Hackathon and win a prize&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;(posted on behalf of Matteo Romanello and Pietro Liuzzo)&lt;/em&gt;&lt;/p&gt;
