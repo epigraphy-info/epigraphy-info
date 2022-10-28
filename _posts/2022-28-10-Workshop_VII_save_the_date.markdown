@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Save the date for the seventh Epigraphy.info workshop in April 2023"
-date:   2020-11-23 14:00:00
+date:   2022-10-28 14:00:00
 author: Petra Hermankova
 categories: News
 ---
