@@ -9,9 +9,13 @@ published: true
 
 # Epigraphy.info Workshop VII Leuven (in person)
 
-The seventh Epigraphy.info workshop will be taking place between Monday April 24 and Wednesday April 26 2023 in Leuven.
+The *seventh Epigraphy.info workshop* will be taking place between **Monday April 24 and Wednesday April 26 2023 in Leuven**.
+
 The event will be held primarily as in-person meeting but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending.
+
 More information about the venue, the registration and the programme will be available here in late January 2023.
+
+*If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
 
 ---
 <!--- 
@@ -24,7 +28,6 @@ More information about the venue, the registration and the programme will be ava
 
 -->
 
-If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).
 
 ---
 
