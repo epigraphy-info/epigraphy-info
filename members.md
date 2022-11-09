@@ -11,7 +11,7 @@ The following list is based on the voluntary submission in the [Membership form]
 *Latest update: 2022-11-09*
 
 * Canan ARIKAN, University of Vienna
-* Alice Bencivenni, Alma Mater Studiorum Università di Bologna, (<a href="(<a href="https://orcid.org/0000-0001-5778-8677" target="blank">ORCID ID</a>)
+* Alice Bencivenni, Alma Mater Studiorum Università di Bologna, (<a href="https://orcid.org/0000-0001-5778-8677" target="blank">ORCID ID</a>)
 * Juan Manuel Bermúdez Lorenzo, Universidad Rey Juan Carlos, (<a href="https://orcid.org/0000-0002-7291-1079" target="blank">ORCID ID</a>)
 * John Bodel, Brown University, (<a href="https://orcid.org/0000000318206368" target="blank">ORCID ID</a>)
 * Alberto Cafaro, Università di Pisa, (<a href="https://orcid.org/0000-0003-2517-3146" target="blank">ORCID ID</a>)
