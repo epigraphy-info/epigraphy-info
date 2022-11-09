@@ -11,17 +11,17 @@ The following list is based on the voluntary submission in the [Membership form]
 *Latest update: 2022-11-09*
 
 * Canan ARIKAN, University of Vienna
-* Alice Bencivenni, Alma Mater Studiorum Università di Bologna, (<a href="(<a href="https://orcid.org/0000-0001-5778-8677" target="blank">ORCID ID</a>)ORCID ID</a>)
+* Alice Bencivenni, Alma Mater Studiorum Università di Bologna, (<a href="(<a href="https://orcid.org/0000-0001-5778-8677" target="blank">ORCID ID</a>)
 * Juan Manuel Bermúdez Lorenzo, Universidad Rey Juan Carlos, (<a href="https://orcid.org/0000-0002-7291-1079" target="blank">ORCID ID</a>)
 * John Bodel, Brown University, (<a href="https://orcid.org/0000000318206368" target="blank">ORCID ID</a>)
 * Alberto Cafaro, Università di Pisa, (<a href="https://orcid.org/0000-0003-2517-3146" target="blank">ORCID ID</a>)
 * Macarena Calderón Sánchez, Universidad Complutense de Madrid, (<a href="https://orcid.org/0000-0003-0764-3378" target="blank">ORCID ID</a>)
 * Lorenzo Calvelli, Ca' Foscari University of Venice, (<a href="https://orcid.org/0000-0002-0920-9156" target="blank">ORCID ID</a>)
 * Giorgia Capra, University of Oxford, (<a href="https://orcid.org/0000-0003-1030-5679" target="blank">ORCID ID</a>)
-* Chiara Cenati, University of Vienna,(<a href="https://orcid.org/0000-0003-4962-9611" target="blank">ORCID ID</a>)
+* Chiara Cenati, University of Vienna, (<a href="https://orcid.org/0000-0003-4962-9611" target="blank">ORCID ID</a>)
 * Ewan Coopey, Macquarie University, (<a href="https://orcid.org/0000-0001-8633-6418" target="blank">ORCID ID</a>)
 * Cristina de la Escosura Balbas, U. Complutense of Madrid, (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID</a>)
-* Elena Duce Pastor, Postdoctoral researcher Margarita Salas, Autonoma University of Madrid / Universidad de Zaragoza , (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID</a>)
+* Elena Duce Pastor, Postdoctoral researcher Margarita Salas, Autonoma University of Madrid / Universidad de Zaragoza, (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID</a>)
 * David Eibeck, Universität Stuttgart / Johannes-Gutenberg-Universität Mainz
 * Almoatzbellah Elshahawi, Ministry of Tourism and Antiquities
 * Sergio España Chamorro, Sapienza Università di Roma
@@ -29,13 +29,13 @@ The following list is based on the voluntary submission in the [Membership form]
 * Achille Felicetti, PIN, University of Florence, Prato, Italy, (<a href="https://orcid.org/0000-0003-4733-3171" target="blank">ORCID ID</a>)
 * Francisca Feraudi-Gruénais, Heidelberg Academy of Sciences and Humanities, (<a href="https://orcid.org/0000-0002-6230-4750" target="blank">ORCID ID</a>)
 * Olivier Gengler, Heidelberger Akademie der Wissenschaften, (<a href="https://orcid.org/0000-0003-4118-0901" target="blank">ORCID ID</a>)
-* Ilenia Gradante, University of Oxford, UK,(<a href="https://orcid.org/0000-0002-7176-2833" target="blank">ORCID ID</a>)
-* Andreas Hartmann, Universität Augsburg,(<a href="https://orcid.org/0000-0001-5465-5553" target="blank">ORCID ID</a>)
-* Petra Heřmánková, Aarhus University,(<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID</a>)
+* Ilenia Gradante, University of Oxford, UK, (<a href="https://orcid.org/0000-0002-7176-2833" target="blank">ORCID ID</a>)
+* Andreas Hartmann, Universität Augsburg, (<a href="https://orcid.org/0000-0001-5465-5553" target="blank">ORCID ID</a>)
+* Petra Heřmánková, Aarhus University, (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID</a>)
 * Aaron Hershkowitz, The Institute for Advanced Study, (<a href="https://orcid.org/0000-0002-9456-8574" target="blank">ORCID ID</a>)
 * Pieter Houten, Universität Hamburg, (<a href="https://orcid.org/0000-0002-7872-782X" target="blank">ORCID ID</a>)
 * Dimitar Iliev, St. Kliment Ohridski University of Sofia, (<a href="https://orcid.org/0000-0002-5231-818X" target="blank">ORCID ID</a>)
-* Ivana Kosanović, Institute of Archaeology Belgrade , (<a href="https://orcid.org/0000-0002-5983-9922" target="blank">ORCID ID</a>)
+* Ivana Kosanović, Institute of Archaeology Belgrade, (<a href="https://orcid.org/0000-0002-5983-9922" target="blank">ORCID ID</a>)
 * Peter Kruschwitz, Universität Wien, (<a href="https://orcid.org/0000-0002-8427-1056" target="blank">ORCID ID</a>)
 * Anamarija Kurilić, University of Zadar, (<a href="https://orcid.org/0000-0001-7178-4584" target="blank">ORCID ID</a>)
 * Chiara Lasagni, Dipartimento di Studi Storici - Università di Torino, (<a href="https://orcid.org/0000-0003-3569-2417" target="blank">ORCID ID</a>)
@@ -48,7 +48,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Francesca Murano, Università degli Studi di Firenze, (<a href="https://orcid.org/0000-0001-6490-3266" target="blank">ORCID ID</a>)
 * Tina Obershaw, Piac, Digital  
 * Silvia Orlandi, Sapienza Università di Roma, (<a href="https://orcid.org/0000-0003-1469-0666" target="blank">ORCID ID</a>)
-* Pablo Ozcáriz Gil, Universidad Rey Juan Carlos,(<a href="https://orcid.org/0000-0002-3390-4386" target="blank">ORCID ID</a>)
+* Pablo Ozcáriz Gil, Universidad Rey Juan Carlos, (<a href="https://orcid.org/0000-0002-3390-4386" target="blank">ORCID ID</a>)
 * María Luisa Pérez Gutiérrez
 * Fiona Phillips, University of Oxford
 * Gregor Pobežin, ZRC SAZU, Institute of Cultural History, (<a href="https://orcid.org/0000-0002-3418-9767" target="blank">ORCID ID</a>)
