@@ -13,7 +13,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Canan ARIKAN, University of Vienna
 * Alice Bencivenni, Alma Mater Studiorum Università di Bologna, (<a href="(<a href="https://orcid.org/0000-0001-5778-8677" target="blank">ORCID ID</a>)ORCID ID</a>)
 * Juan Manuel Bermúdez Lorenzo, Universidad Rey Juan Carlos, (<a href="https://orcid.org/0000-0002-7291-1079" target="blank">ORCID ID</a>)
-* John,Bodel, Brown University, (<a href="https://orcid.org/0000000318206368" target="blank">ORCID ID</a>)
+* John Bodel, Brown University, (<a href="https://orcid.org/0000000318206368" target="blank">ORCID ID</a>)
 * Alberto Cafaro, Università di Pisa, (<a href="https://orcid.org/0000-0003-2517-3146" target="blank">ORCID ID</a>)
 * Macarena Calderón Sánchez, Universidad Complutense de Madrid, (<a href="https://orcid.org/0000-0003-0764-3378" target="blank">ORCID ID</a>)
 * Lorenzo Calvelli, Ca' Foscari University of Venice, (<a href="https://orcid.org/0000-0002-0920-9156" target="blank">ORCID ID</a>)
@@ -46,7 +46,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Guénette Maxime, Université de Montréal
 * Emmanuelle Morlock, CNRS, (<a href="https://orcid.org/0000-0002-1617-8554" target="blank">ORCID ID</a>)
 * Francesca Murano, Università degli Studi di Firenze, (<a href="https://orcid.org/0000-0001-6490-3266" target="blank">ORCID ID</a>)
-* Tina, Obershaw, Piac, Digital  
+* Tina Obershaw, Piac, Digital  
 * Silvia Orlandi, Sapienza Università di Roma, (<a href="https://orcid.org/0000-0003-1469-0666" target="blank">ORCID ID</a>)
 * Pablo Ozcáriz Gil, Universidad Rey Juan Carlos,(<a href="https://orcid.org/0000-0002-3390-4386" target="blank">ORCID ID</a>)
 * María Luisa Pérez Gutiérrez
