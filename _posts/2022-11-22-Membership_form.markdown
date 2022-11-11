@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Membership form published"
-date:   2022-11-22 00:00:00
+date:   2022-11-22 05:00:00
 author: Petra Hermankova
 categories: News
 tags: announcement social-media

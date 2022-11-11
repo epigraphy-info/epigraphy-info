@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  "Valete Viatores project publication as Open Access"
-date:   2022-11-10 00:00:00
+date:   2022-11-10 05:00:00
 author: Petra Hermankova
 categories: News
-tags: announcement social-media
+tags: announcement social-media partner-project
 
 ---
 
 # Valete Viatores project published a new Open Access book
 
 
-The **Valete Viatores project** published on the 7 October 2022 a book *Valete Vos Viatores: Travelling through Latin inscriptions across the Roman Empire* as Open Access and available to download: http://monographs.uc.pt/iuc/catalog/book/295 
+The **Valete Viatores project** published on 7 October 2022 a book *Valete Vos Viatores: Travelling through Latin inscriptions across the Roman Empire* as Open Access and available to download: http://monographs.uc.pt/iuc/catalog/book/295 
 
 **DOI:** https://doi.org/10.14195/978-989-26-2336-8
 
