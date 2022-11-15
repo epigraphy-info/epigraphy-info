@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Roman Inscriptions of Britain in Schools project launched"
-date:   2022-11-14 08:00:00
+date:   2022-11-15 08:00:00
 author: Petra Hermankova
 categories: News
 tags: announcement social-media
