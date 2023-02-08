@@ -7,13 +7,13 @@ published: true
 
 
 
-# Epigraphy.info VII Workshop in Leuven
+# ENCODE/Epigraphy.info VII Workshop in Leuven
 
-The *seventh Epigraphy.info workshop* will be taking place between **Monday April 24 and Wednesday April 26 2023 in Leuven**.
+The *seventh ENCODE/Epigraphy.info workshop* will be taking place between **Monday April 24 and Wednesday April 26 2023 in Leuven**.
 
 The event will be held primarily as in-person meeting but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending.
 
-More information about the venue, the registration and the programme will be available here in late January 2023.
+More information about the venue, the registration and the programme will be available here in early February 2023.
 
 *If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
 
@@ -39,22 +39,22 @@ More information about the venue, the registration and the programme will be ava
 
 In order to register for the workshop:
 
-1. Fill in the [Eventbrite registration form](https://epigraphyinfov.eventbrite.nl){:target="_blank" rel="noopener"} until September 18th, 2020.
+Please, fill in the [Google registration form](https://forms.gle/tddAuTbn2nwzks6y6){:target="_blank" rel="noopener"} until 24th March, 2023.
 
-2. Send the registration confirmation to [info@epigraphy.info](mailto:info@epigraphy.info) and specify in the email whether you are planning to attend the workshop in person (if the international measures will allow it) or if you prefer to participate via video conference.
+As the international situation may still change very quickly, we will regularly keep you up to date, and we will contact you again before the workshop for a last confirmation.
 
-As the international situation is changing very quickly, we will regularly keep you up to date, and we will contact you again before the workshop for a last confirmation.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc29XvbNyUImaDM-7hLyi3aONioIHYKOdBRga7s6V9Cs3nOjQ/viewform?embedded=true" width="640" height="1860" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 
 ---
 
-## Poster Session (Deadline extended)
+## Poster Session (in-person)
 
-The Leuven workshop will host an E-poster session dedicated to the presentation of new and ongoing projects in the field of Digital Epigraphy.
-The E-posters will be displayed in a virtual environment for the whole duration of the workshop; after that you will have the possibility to have them published on the Epigraphy.info website.
+The Leuven workshop will host an physical in-person session dedicated to the presentation of new and ongoing projects in the field of Digital Epigraphy. The posters will be also displayed on the Epigraphy.info website during the workshop and after. Should you wish to record a 5-minute video about your project, we will host them on the Epigraphy.info Youtube channel.
 
-#### E-Posters Guidelines
+#### Posters Guidelines
 
-E-Posters may include text, images, graphs as well as videos and audio. You can prepare your poster in the format that you find more suitable (PDF, PowerPoint, .mp4, .mpg, avi.).
+Posters may include text, images, graphs as well as videos and audio. You can prepare your poster in the format that you find more suitable (PDF, PowerPoint, .mp4, .mpg, avi.).
 The only rule is: **keep it short!**
 
 For PDF you should limit your documentation to a single page (ideally 1080 x 1536 px), PowerPoint presentation should include no more than 3 slides.
@@ -65,17 +65,29 @@ Please send us your E-Poster via a file transfer website (like WeTransfer: [http
 
 We want to make our poster session as effective and inclusive as possible: if you have any creative ideas or suggestions about formats or virtual rooms, please send us an email or write in the [Google Groups](https://groups.google.com/g/epigraphyinfo){:target="_blank" rel="noopener"} and we will take them into consideration.
 
-#### Deadline extended
+#### Deadline
 
-In order to present a poster, please send a title and a short abstract to our committee by September 25th, 2020 ([info@epigraphy.info](mailto:info@epigraphy.info)). By September 30th, 2020 you will receive a notification from the steering committee whether your E-Poster has been accepted. E-Posters should be submitted by October 28th, 2020.
+In order to present a poster, please send a title and a short abstract to our committee by March 24th, 2023 ([info@epigraphy.info](mailto:info@epigraphy.info)). By March 31th, 2023 you will receive a notification from the steering committee whether your poster has been accepted. Posters should be submitted by April 18th, 2023.
 
 ---
 
-## Technical Training
+## ENCODE Workshop / training
 
-As in Vienna and in Hamburg the Leuven workshop will be preceded by a technical training, which will be structured in three sessions. This will take place from November 3rd to 4th, 2020 and will have, as the main workshop, a hybrid form.
+As in Vienna and in Hamburg the Leuven workshop will be preceded by a technical training, which will be structured in three sessions. This will take place from April 24rd 2023 and will have, as the main workshop in-person form only.
 
-Please note that the number of participants will be limited. Therefore, we kindly ask you to register for the sessions you would like to attend as soon as possible by filling in the respective Eventbrite form until September 18th, 2020.
+Please note that the number of participants will be limited. Therefore, we kindly ask you to register for the sessions you would like to attend as soon as possible by filling in the respective Google form until 24th March, 2023.
+
+
+
+
+THIS NEEDS TO BE ADJJUSTED>>>>
+
+
+
+
+
+
+
 
 ### Session 1 (Tuesday November 3rd)
 
