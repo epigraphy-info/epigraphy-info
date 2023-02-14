@@ -14,7 +14,9 @@ The *seventh ENCODE/Epigraphy.info workshop* will be taking place between **Mond
 The event will be held primarily as in-person meeting, at the campus of KU Leuven’s Faculty of Arts, but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending.
 
 Monday April 24th: ENCODE training sessions on EpiDoc (focus on Mycenean inscriptions) and the READ (Research Environment for Ancient Documents) platform + Epigraphy.info poster session (followed by a reception at 16:30 CET)
+
 Tuesday April 25th: Epigraphy.info workshop + (optional) social dinner (19:00 CET)
+
 Wednesday April 26th: Epigraphy.info workshop + (optional) social event (visit to a museum, 13:30-17:00 CET)
 
 *If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
