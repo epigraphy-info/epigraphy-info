@@ -11,9 +11,11 @@ published: true
 
 The *seventh ENCODE/Epigraphy.info workshop* will be taking place between **Monday April 24 and Wednesday April 26 2023 in Leuven**.
 
-The event will be held primarily as in-person meeting but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending.
+The event will be held primarily as in-person meeting, at the campus of KU Leuven’s Faculty of Arts, but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending.
 
-More information about the venue, the registration and the programme will be available here in early February 2023.
+Monday April 24th: ENCODE training sessions on EpiDoc (focus on Mycenean inscriptions) and the READ (Research Environment for Ancient Documents) platform + Epigraphy.info poster session (followed by a reception at 16:30 CET)
+Tuesday April 25th: Epigraphy.info workshop + (optional) social dinner (19:00 CET)
+Wednesday April 26th: Epigraphy.info workshop + (optional) social event (visit to a museum, 13:30-17:00 CET)
 
 *If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
 
@@ -39,7 +41,7 @@ More information about the venue, the registration and the programme will be ava
 
 In order to register for the workshop:
 
-Please, fill in the [Google registration form](https://forms.gle/tddAuTbn2nwzks6y6){:target="_blank" rel="noopener"} until 24th March, 2023.
+Please, fill in the [Google registration form](https://forms.gle/tddAuTbn2nwzks6y6){:target="_blank" rel="noopener"} until March 31st, 2023.
 
 As the international situation may still change very quickly, we will regularly keep you up to date, and we will contact you again before the workshop for a last confirmation.
 
