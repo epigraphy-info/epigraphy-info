@@ -13,13 +13,23 @@ The *seventh ENCODE/Epigraphy.info workshop* will be taking place between **Mond
 
 The event will be held primarily as in-person meeting, at the campus of KU Leuven’s Faculty of Arts, but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending.
 
-Monday April 24th: ENCODE training sessions on EpiDoc (focus on Mycenean inscriptions) and the READ (Research Environment for Ancient Documents) platform + Epigraphy.info poster session (followed by a reception at 16:30 CET)
+* Monday *April 24th*: **ENCODE** training sessions on EpiDoc (focus on Mycenean inscriptions) and the READ (Research Environment for Ancient Documents) platform + Epigraphy.info poster session (followed by a reception at 16:30 CET)
 
-Tuesday April 25th: Epigraphy.info workshop + (optional) social dinner (19:00 CET)
+* Tuesday *April 25th*: **Epigraphy.info** workshop + (optional) social dinner (19:00 CET)
 
-Wednesday April 26th: Epigraphy.info workshop + (optional) social event (visit to a museum, 13:30-17:00 CET)
+* Wednesday *April 26th*: **Epigraphy.info** workshop + (optional) social event (visit to a museum, 13:30-17:00 CET)
 
 *If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
+
+---
+
+
+## Registration
+
+
+In order to register for the workshop, please, fill in the [Google registration form](https://forms.gle/tddAuTbn2nwzks6y6){:target="_blank" rel="noopener"} (see below) until March 31st, 2023.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc29XvbNyUImaDM-7hLyi3aONioIHYKOdBRga7s6V9Cs3nOjQ/viewform?embedded=true" width="640" height="1860" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ---
 <!--- 
@@ -37,17 +47,6 @@ Wednesday April 26th: Epigraphy.info workshop + (optional) social event (visit t
 
 <!--- commented out, copied from workshop 5, needs to be updated
 
-## Registration
-
- 
-
-In order to register for the workshop:
-
-Please, fill in the [Google registration form](https://forms.gle/tddAuTbn2nwzks6y6){:target="_blank" rel="noopener"} until March 31st, 2023.
-
-As the international situation may still change very quickly, we will regularly keep you up to date, and we will contact you again before the workshop for a last confirmation.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc29XvbNyUImaDM-7hLyi3aONioIHYKOdBRga7s6V9Cs3nOjQ/viewform?embedded=true" width="640" height="1860" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 ---
