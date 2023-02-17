@@ -19,11 +19,11 @@ We would like to encourage both experienced and early career scholars to activel
 
 ## Registration (deadline: March 31st)
 
-https://forms.gle/kvWaJKFWsBjqh3A47
+[https://forms.gle/kvWaJKFWsBjqh3A47](https://forms.gle/kvWaJKFWsBjqh3A47)
 
 ## Preliminary program (check for updates)
 
-https://epigraphy.info/workshop_7/
+[https://epigraphy.info/workshop_7/](https://epigraphy.info/workshop_7/)
 
 
 Best wishes, 
