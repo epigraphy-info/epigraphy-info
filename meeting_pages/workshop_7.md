@@ -21,7 +21,7 @@ The workshop will be a hands-on, collaborative, group work on completing the ali
 
 Participants are required to get acquainted with the basics of EpiDoc and of Myceanean transcription beforehand (material will be provided to successful applicants).
 
- ### Afternoon session: working with inscriptions in the READ environment (trainer: Stephen White)
+### Afternoon session: working with inscriptions in the READ environment (trainer: Stephen White)
 READ (Research Environment for Ancient Documents) is an open source software system supporting the scholarly study of ancient texts on their physical carriers. It provides editing facilities for philology and at its basic level allows the researcher to link images of a scribed object with a transcription of the text represented. It is capable of handling multiple transcriptions of the same object in parallel. This workshop will introduce the researcher to the basic workflows in READ for linking original-language texts to transcriptions with the specific goal of demonstrating READ's paleographic features.
 
 Attending this workshop should give the participants:
