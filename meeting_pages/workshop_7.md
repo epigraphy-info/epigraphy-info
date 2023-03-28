@@ -41,6 +41,8 @@ This workshop will be accessing READ through participants personal computer thro
 
 *If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
 
+We are happy to inform you that IDEA (the International Digital Epigraphy Association) decided to sponsor early career scholars who are going to participate in the next Epigraphy.info event. More details can be found on [the EAGLE website](https://www.eagle-network.eu/financial-support-for-participation-to-epigraphy-info-event/){:target="_blank" rel="noopener"}
+
 ---
 
 ## Registration training sessions
