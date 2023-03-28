@@ -3,6 +3,8 @@ layout: post
 title:  "NACGLE IV 2024 - call for papers"
 date:   2023-03-07 09:00:00
 author: Petra Hermankova
+categories: News
+tags: announcement
 published: true
 ---
 
