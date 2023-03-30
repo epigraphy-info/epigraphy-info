@@ -8,7 +8,7 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a> at any time.
 
-*Latest update: 2023-02-17*
+*Latest update: 2023-03-30*
 
 * Canan ARIKAN, University of Vienna
 * Alice Bencivenni, Alma Mater Studiorum Università di Bologna, (<a href="https://orcid.org/0000-0001-5778-8677" target="blank">ORCID ID</a>)
@@ -23,7 +23,9 @@ The following list is based on the voluntary submission in the [Membership form]
 * Chiara Cenati, University of Vienna, (<a href="https://orcid.org/0000-0003-4962-9611" target="blank">ORCID ID</a>)
 * Ewan Coopey, Macquarie University, (<a href="https://orcid.org/0000-0001-8633-6418" target="blank">ORCID ID</a>)
 * Augusto Cosentino
+* Gabriël de Klerk, Johannes Gutenberg-Universität Mainz
 * Cristina de la Escosura Balbas, U. Complutense of Madrid, (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID</a>)
+* Francesca Dell'Oro, University of Neuchâtel, (<a href="https://orcid.org/0000-0002-8343-356X" target="blank">ORCID ID</a>)
 * Elena Duce Pastor, Postdoctoral researcher Margarita Salas, Autonoma University of Madrid / Universidad de Zaragoza, (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID</a>)
 * David Eibeck, Universität Stuttgart / Johannes-Gutenberg-Universität Mainz
 * Timo Eichhorn
@@ -44,6 +46,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Anamarija Kurilić, University of Zadar, (<a href="https://orcid.org/0000-0001-7178-4584" target="blank">ORCID ID</a>)
 * Chiara Lasagni, Dipartimento di Studi Storici - Università di Torino, (<a href="https://orcid.org/0000-0003-3569-2417" target="blank">ORCID ID</a>)
 * Nicolas Laubry, Ecole française de Rome, (<a href="https://orcid.org/0000-0002-7155-9261" target="blank">ORCID ID</a>)
+* Meilin Lyu, University Athens
 * Nenad Markovic
 * Florian Matei-Popescu, Vasile Pârvan Archaeological Institute, Bucharest
 * Kresimir Matijevic, Europa-Universität Flensburg
@@ -54,6 +57,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Tina Obershaw, Piac, Digital  
 * Silvia Orlandi, Sapienza Università di Roma, (<a href="https://orcid.org/0000-0003-1469-0666" target="blank">ORCID ID</a>)
 * Pablo Ozcáriz Gil, Universidad Rey Juan Carlos, (<a href="https://orcid.org/0000-0002-3390-4386" target="blank">ORCID ID</a>)
+* Manolis Pagkalos, University of Groningen / Research Center for the Humanities, (<a href="https://orcid.org/0000-0002-3042-7932" target="blank">ORCID ID</a>)
 * María Luisa Pérez Gutiérrez
 * Fiona Phillips, University of Oxford
 * Gregor Pobežin, ZRC SAZU, Institute of Cultural History, (<a href="https://orcid.org/0000-0002-3418-9767" target="blank">ORCID ID</a>)
