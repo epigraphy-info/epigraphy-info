@@ -13,6 +13,14 @@ The *seventh ENCODE/Epigraphy.info workshop* will be taking place between **Mond
 
 The event will be held primarily as in-person meeting, at the campus of KU Leuven’s Faculty of Arts, but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending. You can check the full programme [here](https://docs.google.com/document/d/1m5qEP2b7K-2Jw4du-LNByuMELui5UIltDQFR0V0LjLU/edit?usp=sharing){:target="_blank" rel="noopener"} 
 
+  * [Steering Committee elections + location Epigraphy.info VIII](#steering-committee-elections---location-epigraphyinfo-viii)
+  * [Accomodation workshop](#accomodation-workshop)
+  * [Programme](#programme)
+    + [Morning session: EpiDoc for Mycenaean texts (trainers: Gabriel Bodard, Federico Aurora, Alice Bencivenni & Marta Fogagnolo)](#morning-session--epidoc-for-mycenaean-texts--trainers--gabriel-bodard--federico-aurora--alice-bencivenni---marta-fogagnolo-)
+    + [Afternoon session: working with inscriptions in the READ environment (trainer: Stephen White)](#afternoon-session--working-with-inscriptions-in-the-read-environment--trainer--stephen-white-)
+  * [Registration training sessions](#registration-training-sessions)
+  * [Registration workshop](#registration-workshop)
+
 
 ## Steering Committee elections + location Epigraphy.info VIII
 
@@ -60,7 +68,7 @@ We are happy to inform you that IDEA (the International Digital Epigraphy Associ
 
 ---
 
-## Registration training sessions
+## Registration ENCODE training sessions
 
 
 In order to register for the training sessions, please, fill in the [Google registration form](https://forms.gle/JR6uZ3bk75wsKFua9){:target="_blank" rel="noopener"} (see below) until April 7th, 2023.
@@ -68,10 +76,10 @@ In order to register for the training sessions, please, fill in the [Google regi
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeb7ACfj0hNHf8irCwF2S5Z_AoF0yZJdLJtJgxbkcuKIVRgRQ/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
-## Registration workshop
+## Registration Epigraphy.info workshop
 
 
-In order to register for the workshop, please, fill in the [Google registration form](https://forms.gle/tddAuTbn2nwzks6y6){:target="_blank" rel="noopener"} (see below) until March 31st, 2023.
+In order to register for the workshop, please, fill in the [Google registration form](https://forms.gle/tddAuTbn2nwzks6y6){:target="_blank" rel="noopener"} (see below) until April 7th, 2023.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc29XvbNyUImaDM-7hLyi3aONioIHYKOdBRga7s6V9Cs3nOjQ/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
