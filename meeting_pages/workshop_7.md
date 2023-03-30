@@ -16,6 +16,7 @@ The event will be held primarily as in-person meeting, at the campus of KU Leuve
   * [Steering Committee elections + location Epigraphy.info VIII](#steering-committee-elections---location-epigraphyinfo-viii)
   * [Accomodation workshop](#accomodation-workshop)
   * [Programme ENCODE/Epigraphy.info workshop](#programme)
+  * [IDEA bursaries for ECRs](#idea-bursaries-for-early-carreer-researchers)
   * [Registration ENCODE training sessions](#registration-encode-training-sessions)
   * [Registration Epigraphy.info workshop](#registration-epigraphyinfo-workshop)
 
@@ -61,6 +62,9 @@ This workshop will be accessing READ through participants personal computer thro
 * Wednesday *April 26th*: **Epigraphy.info** workshop + (optional) social event (visit to a museum, 13:30-17:00 CET)
 
 *If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
+
+
+## IDEA bursaries for early carreer researchers
 
 We are happy to inform you that IDEA (the International Digital Epigraphy Association) decided to sponsor early career scholars who are going to participate in the next Epigraphy.info event. More details can be found on [the EAGLE website](https://www.eagle-network.eu/financial-support-for-participation-to-epigraphy-info-event/){:target="_blank" rel="noopener"}
 
