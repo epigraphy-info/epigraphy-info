@@ -11,7 +11,9 @@ published: true
 
 The *seventh ENCODE/Epigraphy.info workshop* will be taking place between **Monday April 24 and Wednesday April 26 2023 in Leuven**.
 
-The event will be held primarily as in-person meeting, at the campus of KU Leuven’s Faculty of Arts, but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending.
+The event will be held primarily as in-person meeting, at the campus of KU Leuven’s Faculty of Arts, but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending. You can check the full programme [here](https://docs.google.com/document/d/1m5qEP2b7K-2Jw4du-LNByuMELui5UIltDQFR0V0LjLU/edit?usp=sharing){:target="_blank" rel="noopener"} 
+
+## Programme
 
 * Monday *April 24th*: **ENCODE** in-person training sessions on EpiDoc (focus on Mycenean inscriptions) and the READ (Research Environment for Ancient Documents) platform + Epigraphy.info poster session (followed by a reception at 17:30 CET)
 
@@ -64,7 +66,7 @@ In order to register for the workshop, please, fill in the [Google registration 
 ## Accomodation workshop
 
 
-A list of hotels in Leuven (not exhaustive), in different price categories, can be consulted [here](https://epigraphy.info/documents/Epigraphy.info VII - List hotels Leuven.pdf){:target="_blank" rel="noopener"}
+A list of hotels in Leuven (not exhaustive), in different price categories, can be consulted [here](https://epigraphy.info/documents/Epigraphy.info VII - List hotels Leuven.pdf)
 
 ---
 <!--- 
@@ -108,55 +110,3 @@ We want to make our poster session as effective and inclusive as possible: if yo
 In order to present a poster, please send a title and a short abstract to our committee by March 24th, 2023 ([info@epigraphy.info](mailto:info@epigraphy.info)). By March 31th, 2023 you will receive a notification from the steering committee whether your poster has been accepted. Posters should be submitted by April 18th, 2023.
 
 ---
-
-## ENCODE Workshop / training
-
-As in Vienna and in Hamburg the Leuven workshop will be preceded by a technical training, which will be structured in three sessions. This will take place from April 24rd 2023 and will have, as the main workshop in-person form only.
-
-Please note that the number of participants will be limited. Therefore, we kindly ask you to register for the sessions you would like to attend as soon as possible by filling in the respective Google form until 24th March, 2023.
-
-
-
-
-THIS NEEDS TO BE ADJUSTED>>>>
-
-
-
-
-
-
-
-
-### Session 1 (Tuesday November 3rd)
-
-**Mark Depauw, Tom Gheldof, N.N., “Trismegistos Users Sessions”**
-
-*A hands-on workshop that explores the different Trismegistos portals (TM Places, People, Texts, …) and offers an opportunity to discover its new tools (LOD APIs, SNA tool, …).*
-
-Please follow this link for further information about this session and to register: [https://epinfovworkshoptm.eventbrite.nl](https://epinfovworkshoptm.eventbrite.nl){:target="_blank" rel="noopener"}.
-To complete your registration send us ([info@epigraphy.info](mailto:info@epigraphy.info)) the registration confirmation and specify in the email if you are going to attend the session in person or virtually.
-
----
-
-### Session 2 (Tuesday November 3rd)
-
-**Tom Elliott, N.N., “Geography in Digital Epigraphy”**
-
-*This workshop will address computational practices and resources for dealing with geography in epigraphic projects.*
-
-Please follow this link for further information about this session and to register: [https://epinfovworkshoptm.eventbrite.nl](https://epinfovworkshoptm.eventbrite.nl){:target="_blank" rel="noopener"}.
-To complete your registration send us ([info@epigraphy.info](mailto:info@epigraphy.info)) the registration confirmation and specify in the email if you are going to attend the session in person or virtually.
-
----
-
-### Session 3 (Wednesday November 4th)
-
-**Vincent Razanajao, “Consolidating and using the EAGLE thesaurus with epigraphic corpora”**
-
-*The aim of this workshop is to move forward on the key question of metadata related to epigraphy by consolidating and using the EAGLE vocabularies.*
-
-Please follow this link for further information about this session and to register: [https://epinfovworkshoptm.eventbrite.nl](https://epinfovworkshoptm.eventbrite.nl){:target="_blank" rel="noopener"}.
-To complete your registration send us ([info@epigraphy.info](mailto:info@epigraphy.info)) the registration confirmation and specify in the email if you are going to attend the session in person or virtually.
-A second circular with further details and information about the election procedure of the new steering committee will follow in September.
-
--->
