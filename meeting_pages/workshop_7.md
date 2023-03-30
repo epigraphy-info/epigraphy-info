@@ -17,7 +17,7 @@ The event will be held primarily as in-person meeting, at the campus of KU Leuve
   * [Accomodation workshop](#accomodation-workshop)
   * [Programme ENCODE/Epigraphy.info workshop](#programme)
   * [Registration ENCODE training sessions](#registration-encode-training-sessions)
-  * [Registration EPigraphy.info workshop](#registration-epigraphyinfo-workshop)
+  * [Registration Epigraphy.info workshop](#registration-epigraphyinfo-workshop)
 
 
 ## Steering Committee elections + location Epigraphy.info VIII
