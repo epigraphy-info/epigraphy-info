@@ -7,7 +7,7 @@ published: true
 
 
 
-# ENCODE/Epigraphy.info VII Workshop in Leuven
+# ENCODE/Epigraphy.info VII Workshop (Leuven)
 
 The *seventh ENCODE/Epigraphy.info workshop* will be taking place between **Monday April 24 and Wednesday April 26 2023 in Leuven**.
 
