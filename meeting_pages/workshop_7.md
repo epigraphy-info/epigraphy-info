@@ -13,12 +13,24 @@ The *seventh ENCODE/Epigraphy.info workshop* will be taking place between **Mond
 
 The event will be held primarily as in-person meeting, at the campus of KU Leuven’s Faculty of Arts, but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending. You can check the full programme [here](https://docs.google.com/document/d/1m5qEP2b7K-2Jw4du-LNByuMELui5UIltDQFR0V0LjLU/edit?usp=sharing){:target="_blank" rel="noopener"} 
 
+
+## Steering Committee elections + location Epigraphy.info VIII
+
+During the Leuven workshop, the election of new members for the Steering Committee will take place and the location for the next workshop will be decided. If you would like to candidate as member of the Steering Committee or if you would like to host the next Epigraphy.info workshop, please send your application to ([info@epigraphy.info](mailto:info@epigraphy.info)). 
+
+
+## Accomodation workshop
+
+
+A list of hotels in Leuven (not exhaustive), in different price categories, can be consulted [here](https://epigraphy.info/documents/Epigraphy.info VII - List hotels Leuven.pdf)
+
+
 ## Programme
 
 * Monday *April 24th*: **ENCODE** in-person training sessions on EpiDoc (focus on Mycenean inscriptions) and the READ (Research Environment for Ancient Documents) platform + Epigraphy.info poster session (followed by a reception at 17:30 CET)
 
 ### Morning session: EpiDoc for Mycenaean texts (trainers: Gabriel Bodard, Federico Aurora, Alice Bencivenni & Marta Fogagnolo)
-Mycenaean Greek texts (ca. 1350-1150) are written in a syllabary that we call Linear B. In scholarly editions they are usually transcribed using latin letters and a system (Wingspread Conventions) similar to, but not identical with, the Leiden Conventions. Digital encoding of Mycenaean texts (as in the online databases DAMOS and LiBER), at the moment, has not made use of EpiDoc. However, to facilitate work on Mycenaean inscriptions to conform to FAIR principles (e.g. to make exchange and reuse of data by other epigraphical databases easier) work on the alignment of [EpiDoc with Mycenaean usage](https://epidoc.stoa.org/gl/latest/app-epi-mycenaean.html) {:target="_blank" rel="noopener"} was recently started and published as an appendix to the EpiDoc-guidelines. 
+Mycenaean Greek texts (ca. 1350-1150) are written in a syllabary that we call Linear B. In scholarly editions they are usually transcribed using latin letters and a system (Wingspread Conventions) similar to, but not identical with, the Leiden Conventions. Digital encoding of Mycenaean texts (as in the online databases DAMOS and LiBER), at the moment, has not made use of EpiDoc. However, to facilitate work on Mycenaean inscriptions to conform to FAIR principles (e.g. to make exchange and reuse of data by other epigraphical databases easier) work on the alignment of [EpiDoc with Mycenaean usage](https://epidoc.stoa.org/gl/latest/app-epi-mycenaean.html){:target="_blank" rel="noopener"} was recently started and published as an appendix to the EpiDoc-guidelines. 
 
 The workshop will be a hands-on, collaborative, group work on completing the alignment of EpiDoc with the Wingspread Conventions, with the aim – in addition to provide a new encoding tool for Mycenologists – of giving and in-depth picture of the workings of EpiDoc and how it can be adapted to different epigraphic traditions.
 
@@ -62,11 +74,6 @@ In order to register for the training sessions, please, fill in the [Google regi
 In order to register for the workshop, please, fill in the [Google registration form](https://forms.gle/tddAuTbn2nwzks6y6){:target="_blank" rel="noopener"} (see below) until March 31st, 2023.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc29XvbNyUImaDM-7hLyi3aONioIHYKOdBRga7s6V9Cs3nOjQ/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-## Accomodation workshop
-
-
-A list of hotels in Leuven (not exhaustive), in different price categories, can be consulted [here](https://epigraphy.info/documents/Epigraphy.info VII - List hotels Leuven.pdf)
 
 ---
 <!--- 
