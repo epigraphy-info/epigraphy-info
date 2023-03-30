@@ -61,6 +61,11 @@ In order to register for the workshop, please, fill in the [Google registration 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc29XvbNyUImaDM-7hLyi3aONioIHYKOdBRga7s6V9Cs3nOjQ/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
+## Accomodation workshop
+
+
+A list of hotels in Leuven (not exhaustive), in different price categories, can be consulted [here](https://epigraphy.info/documents/Epigraphy.info VII - List hotels Leuven.pdf){:target="_blank" rel="noopener"}
+
 ---
 <!--- 
 
