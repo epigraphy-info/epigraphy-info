@@ -11,7 +11,7 @@ published: true
 
 The *seventh ENCODE/Epigraphy.info workshop* will be taking place between **Monday April 24 and Wednesday April 26 2023 in Leuven**.
 
-The event will be held primarily as in-person meeting, at the campus of KU Leuven’s Faculty of Arts, but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending. You can check the full programme [here](https://docs.google.com/document/d/1m5qEP2b7K-2Jw4du-LNByuMELui5UIltDQFR0V0LjLU/edit?usp=sharing){:target="_blank" rel="noopener"} 
+The event will be held primarily as in-person meeting, at the campus of KU Leuven’s [Faculty of Arts](https://www.arts.kuleuven.be/english/contact){:target="_blank" rel="noopener"}, but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending. You can check the full programme [here](https://docs.google.com/document/d/1m5qEP2b7K-2Jw4du-LNByuMELui5UIltDQFR0V0LjLU/edit?usp=sharing){:target="_blank" rel="noopener"} 
 
   * [Steering Committee elections + location Epigraphy.info VIII](#steering-committee-elections---location-epigraphyinfo-viii)
   * [Accomodation workshop](#accomodation-workshop)
