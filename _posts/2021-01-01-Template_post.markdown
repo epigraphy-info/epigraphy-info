@@ -3,6 +3,8 @@ layout: post
 title:  "Template post for Epigraphy.info News section"
 date:   2020-11-23 14:00:00
 author: Petra Hermankova
+categories: News
+tags: announcement
 published: false
 ---
 

@@ -3,6 +3,8 @@ layout: post
 title:  "7th Epigraphy.info workshop - preliminary programme"
 date:   2023-02-17 00:01:00
 author: Petra Hermankova
+categories: News
+tags: announcemen
 published: true
 ---
 
