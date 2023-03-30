@@ -16,8 +16,6 @@ The event will be held primarily as in-person meeting, at the campus of KU Leuve
   * [Steering Committee elections + location Epigraphy.info VIII](#steering-committee-elections---location-epigraphyinfo-viii)
   * [Accomodation workshop](#accomodation-workshop)
   * [Programme ENCODE/Epigraphy.info workshop](#programme)
-    + [Morning session: EpiDoc for Mycenaean texts](#morning-session--epidoc-for-mycenaean-texts--trainers--gabriel-bodard--federico-aurora--alice-bencivenni---marta-fogagnolo-)
-    + [Afternoon session: working with inscriptions in the READ environment](#afternoon-session--working-with-inscriptions-in-the-read-environment--trainer--stephen-white-)
   * [Registration ENCODE training sessions](#registration-encode-training-sessions)
   * [Registration EPigraphy.info workshop](#registration-epigraphyinfoworkshop)
 
