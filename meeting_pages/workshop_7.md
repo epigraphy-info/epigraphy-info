@@ -55,7 +55,7 @@ This workshop will be accessing READ through participants personal computer thro
 
 * Tuesday *April 25th*: **Epigraphy.info** workshop + (optional) social dinner (19:00 CET)
 
-* Wednesday *April 26th*: **Epigraphy.info** workshop + (optional) social event (visit to a museum, 13:30-17:00 CET)
+* Wednesday *April 26th*: **Epigraphy.info** workshop + (optional) social event (visit to a museum, 14:00-17:00 CET)
 
 *If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
 
