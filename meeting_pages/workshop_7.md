@@ -11,12 +11,12 @@ published: true
 
 The *seventh ENCODE/Epigraphy.info workshop* will be taking place between **Monday April 24 and Wednesday April 26 2023 in Leuven**.
 
-The event will be held primarily as in-person meeting, at the campus of KU Leuven’s [Faculty of Arts](https://www.arts.kuleuven.be/english/contact){:target="_blank" rel="noopener"}, but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending. You can check the full programme [here](https://docs.google.com/document/d/1m5qEP2b7K-2Jw4du-LNByuMELui5UIltDQFR0V0LjLU/edit?usp=sharing){:target="_blank" rel="noopener"} 
+The event will be held primarily as in-person meeting, at the campus of KU Leuven’s [Faculty of Arts](https://www.arts.kuleuven.be/english/contact){:target="_blank" rel="noopener"}, but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending. 
 
   * [Steering Committee elections + location Epigraphy.info VIII](#steering-committee-elections---location-epigraphyinfo-viii)
-  * [Accomodation workshop](#accomodation-workshop)
   * [Programme ENCODE/Epigraphy.info workshop](#programme)
   * [IDEA bursaries for ECRs](#idea-bursaries-for-early-carreer-researchers)
+  * [Accomodation workshop](#accomodation-workshop)
   * [Registration ENCODE training sessions](#registration-encode-training-sessions)
   * [Registration Epigraphy.info workshop](#registration-epigraphyinfo-workshop)
 
@@ -26,13 +26,9 @@ The event will be held primarily as in-person meeting, at the campus of KU Leuve
 During the Leuven workshop, the election of new members for the Steering Committee will take place and the location for the next workshop will be decided. If you would like to candidate as member of the Steering Committee or if you would like to host the next Epigraphy.info workshop, please send your application to ([info@epigraphy.info](mailto:info@epigraphy.info)). 
 
 
-## Accomodation workshop
-
-
-A list of hotels in Leuven (not exhaustive), in different price categories, can be consulted [here](https://epigraphy.info/documents/Epigraphy.info VII - List hotels Leuven.pdf)
-
-
 ## Programme
+
+You can check the full programme [here](https://docs.google.com/document/d/1m5qEP2b7K-2Jw4du-LNByuMELui5UIltDQFR0V0LjLU/edit?usp=sharing){:target="_blank" rel="noopener"} 
 
 * Monday *April 24th*: **ENCODE** in-person training sessions on EpiDoc (focus on Mycenean inscriptions) and the READ (Research Environment for Ancient Documents) platform + Epigraphy.info poster session (followed by a reception at 17:30 CET)
 
@@ -67,6 +63,12 @@ This workshop will be accessing READ through participants personal computer thro
 ## IDEA bursaries for early carreer researchers
 
 We are happy to inform you that IDEA (the International Digital Epigraphy Association) decided to sponsor early career scholars who are going to participate in the next Epigraphy.info event. More details can be found on [the EAGLE website](https://www.eagle-network.eu/financial-support-for-participation-to-epigraphy-info-event/){:target="_blank" rel="noopener"}
+
+
+## Accomodation workshop
+
+
+A list of hotels in Leuven (not exhaustive), in different price categories, can be consulted [here](https://epigraphy.info/documents/Epigraphy.info VII - List hotels Leuven.pdf)
 
 ---
 
