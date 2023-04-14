@@ -60,12 +60,11 @@ This workshop will be accessing READ through participants personal computer thro
 
 ## Online posters
 
-See **[E-Poster Session]({{ "../workshop_7_posters/"}})**
+Go to the **[Digital poster session]({{ "../workshop_7_posters/"}})** page
 
 ---
 
----
-
+## Further programme:
 
 * Tuesday *April 25th*: **Epigraphy.info** workshop + (optional) social dinner (19:00 CET)
 
