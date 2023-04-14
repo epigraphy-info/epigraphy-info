@@ -21,11 +21,13 @@ The event will be held primarily as in-person meeting, at the campus of KU Leuve
   * [Registration Epigraphy.info workshop](#registration-epigraphyinfo-workshop)
   * [Online posters](#online-posters)
 
+---
 
 ## Steering Committee elections + location Epigraphy.info VIII
 
 During the Leuven workshop, the election of new members for the Steering Committee will take place and the location for the next workshop will be decided. If you would like to candidate as member of the Steering Committee or if you would like to host the next Epigraphy.info workshop, please send your application to ([info@epigraphy.info](mailto:info@epigraphy.info)). 
 
+---
 
 ## Programme
 
@@ -62,11 +64,14 @@ This workshop will be accessing READ through participants personal computer thro
 
 *If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
 
+---
+
 
 ## IDEA bursaries for early carreer researchers
 
 We are happy to inform you that IDEA (the International Digital Epigraphy Association) decided to sponsor early career scholars who are going to participate in the next Epigraphy.info event. More details can be found on [the EAGLE website](https://www.eagle-network.eu/financial-support-for-participation-to-epigraphy-info-event/){:target="_blank" rel="noopener"}
 
+---
 
 ## Accomodation workshop
 
@@ -89,6 +94,8 @@ In order to register for the training sessions, please, fill in the [Google regi
 In order to register for the workshop, please, fill in the [Google registration form](https://forms.gle/tddAuTbn2nwzks6y6){:target="_blank" rel="noopener"} (see below) until April 7th, 2023.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc29XvbNyUImaDM-7hLyi3aONioIHYKOdBRga7s6V9Cs3nOjQ/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+---
 
 ## Online posters
 
