@@ -12,7 +12,7 @@ The seventh workshop will host poster session dedicated to the presentation of n
 
 **[All posters on Epigraphy.info GitHub](https://github.com/epigraphy-info/epigraphy-info/tree/main/documents/workshop_7/){:target="_blank" rel="noopener"}** 
 
-**[Short video presentations on Epigraphy.info YouTube channel](https://www.youtube.com/@EpigraphyInfo)
+**[Short video presentations on Epigraphy.info YouTube channel](https://www.youtube.com/@EpigraphyInfo)**
 
 ---
 
@@ -23,16 +23,16 @@ The seventh workshop will host poster session dedicated to the presentation of n
 
 *Abstract:*
 
-As was presented in the last Epigraphy.info workshop (https://epigraphy.info/documents/workshop_6/P5_AndreuPintado_VALETE_VIATORES.pdf), in the last two years, a consortium created by several European Universities, with the financial support of Creative Europe, has developed a project, Valete vos viatores: travelling through Latin inscriptions across the Roman Empire with an essential focus: to develop new tools and supports that contribute to highlight the role played by inscriptions in the Roman world and to use these tools as material supports for new forms of university teaching in Roman Epigraphy, among them, a large virtual repository of digitialized inscriptions, a video game, a documentary serie of four chapters explaining main goals on research in Roman Epigraphy and an open access final publication. The poster will present some of these supports as well as the website created for this purpose in case it is useful for teachers of Roman Epigraphy around the world.
+As was presented in the last [Epigraphy.info workshop](https://epigraphy.info/documents/workshop_6/P5_AndreuPintado_VALETE_VIATORES.pdf), in the last two years, a consortium created by several European Universities, with the financial support of Creative Europe, has developed a project, Valete vos viatores: travelling through Latin inscriptions across the Roman Empire with an essential focus: to develop new tools and supports that contribute to highlight the role played by inscriptions in the Roman world and to use these tools as material supports for new forms of university teaching in Roman Epigraphy, among them, a large virtual repository of digitialized inscriptions, a video game, a documentary serie of four chapters explaining main goals on research in Roman Epigraphy and an open access final publication. The poster will present some of these supports as well as the website created for this purpose in case it is useful for teachers of Roman Epigraphy around the world.
 
 *Further information: https://www.unav.edu/web/valete-vos-viatores*
 
 
-**[Click here to see the full Poster 5 (PDF)]({{ site.baseurl }}{% link documents/workshop_7/1_POSTERJAVIERANDREU.pdf %}){:target="_blank" rel="noopener"}**
+**[Click here to see the full interactive poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/1_POSTERJAVIERANDREU.pdf %}){:target="_blank" rel="noopener"}**
 
 <figure>
-<img src='{{site.baseurl}}/documents/workshop_7/1_POSTERJAVIERANDREU.PDF' style="height:30%;" alt="Poster 5" align="middle" >
-<figcaption>Poster preview</figcaption>
+<img src='{{site.baseurl}}/documents/workshop_7/1_POSTERJAVIERANDREU.png' style="height:30%;" alt="Poster" align="middle" >
+<figcaption>For the interactive version, please click on the PDF link above</figcaption>
 </figure>
 
 
@@ -51,18 +51,18 @@ POSTER TEMPLATE
 
 Provide text
 
-**[Click here to see the full Poster 1 (PDF)]({{ site.baseurl }}{% link documents/workshop_7/PROVIDE_PATH.pdf %}){:target="_blank" rel="noopener"}**
+**[Click here to see the full Poster 1 (PDF)]({{ site.baseurl }}{% link documents/workshop_7/1_POSTERJAVIERANDREU.pdf %}){:target="_blank" rel="noopener"}**
 
 
 *Project link: [https://LINK](https://LINK
 
 
-Or [Download Poster 1 as PPTX]({{ site.baseurl }}{% link documents/workshop_7/PROVIDE_PATH.pptx %}){:target="_blank" rel="noopener"}
+Or [Download Poster 1 as PPTX]({{ site.baseurl }}{% link documents/workshop_7/1_POSTERJAVIERANDREU.pdf %}){:target="_blank" rel="noopener"}
 
 
 
 <figure>
-<img src='{{site.baseurl}}/documents/workshop_7/PROVIDE_PATH.png' style="width:100%;" alt="Poster 1" align="middle" >
+<img src='{{site.baseurl}}/documents/workshop_7/1_POSTERJAVIERANDREU.pdf' style="width:100%;" alt="Poster 1" align="middle" >
 <figcaption>Poster preview</figcaption>
 </figure>
 
