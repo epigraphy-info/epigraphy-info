@@ -32,7 +32,7 @@ As was presented in the last [Epigraphy.info workshop](https://epigraphy.info/do
 
 <figure>
 <img src='{{site.baseurl}}/documents/workshop_7/1_POSTERJAVIERANDREU.png' style="height:30%;" alt="Poster" align="middle" >
-<figcaption>For the interactive version, please click on the PDF link above</figcaption>
+<figcaption>For the interactive version, please, click on the PDF link above</figcaption>
 </figure>
 
 
