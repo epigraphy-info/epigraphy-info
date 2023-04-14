@@ -40,8 +40,8 @@ As was presented in the last Epigraphy.info workshop (https://epigraphy.info/doc
 
 **If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).**
 
-
-<-- POSTER TEMPLATE
+<!-- 
+POSTER TEMPLATE
 
 ## Poster X - Title
 
@@ -56,9 +56,9 @@ Provide text
 
 *Project link: [https://LINK](https://LINK
 
-<--
+
 Or [Download Poster 1 as PPTX]({{ site.baseurl }}{% link documents/workshop_7/PROVIDE_PATH.pptx %}){:target="_blank" rel="noopener"}
--->
+
 
 
 <figure>
@@ -66,8 +66,8 @@ Or [Download Poster 1 as PPTX]({{ site.baseurl }}{% link documents/workshop_7/PR
 <figcaption>Poster preview</figcaption>
 </figure>
 
-
 ---
+
 DONE: 
 1. Javier Andreu Pintado (online): VALETE VOS VIATORES: ​​new tools for teaching and disseminating Roman epigraphy
 
