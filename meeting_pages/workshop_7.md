@@ -40,14 +40,14 @@ You can check the full programme [here](https://docs.google.com/document/d/1m5qE
 
 * Monday *April 24th*: **ENCODE** in-person training sessions on EpiDoc (focus on Mycenean inscriptions) and the READ (Research Environment for Ancient Documents) platform + Epigraphy.info poster session (followed by a reception at 18:00 CET)
 
-##### Morning session: EpiDoc for Mycenaean inscriptions (trainers: Gabriel Bodard, Federico Aurora, Alice Bencivenni & Marta Fogagnolo)
+#### Morning session: EpiDoc for Mycenaean inscriptions (trainers: Gabriel Bodard, Federico Aurora, Alice Bencivenni & Marta Fogagnolo)
 Mycenaean Greek texts (ca. 1350-1150) are written in a syllabary that we call Linear B. In scholarly editions they are usually transcribed using latin letters and a system (Wingspread Conventions) similar to, but not identical with, the Leiden Conventions. Digital encoding of Mycenaean texts (as in the online databases DAMOS and LiBER), at the moment, has not made use of EpiDoc. However, to facilitate work on Mycenaean inscriptions to conform to FAIR principles (e.g. to make exchange and reuse of data by other epigraphical databases easier) work on the alignment of [EpiDoc with Mycenaean usage](https://epidoc.stoa.org/gl/latest/app-epi-mycenaean.html){:target="_blank" rel="noopener"} was recently started and published as an appendix to the EpiDoc-guidelines. 
 
 The workshop will be a hands-on, collaborative, group work on completing the alignment of EpiDoc with the Wingspread Conventions, with the aim – in addition to provide a new encoding tool for Mycenologists – of giving and in-depth picture of the workings of EpiDoc and how it can be adapted to different epigraphic traditions.
 
 Participants are required to get acquainted with the basics of EpiDoc and of Myceanean transcription beforehand (material will be provided to successful applicants).
 
-##### Afternoon session: working with inscriptions in the READ environment (trainer: Stephen White)
+#### Afternoon session: working with inscriptions in the READ environment (trainer: Stephen White)
 READ (Research Environment for Ancient Documents) is an open source software system supporting the scholarly study of ancient texts on their physical carriers. It provides editing facilities for philology and at its basic level allows the researcher to link images of a scribed object with a transcription of the text represented. It is capable of handling multiple transcriptions of the same object in parallel. This workshop will introduce the researcher to the basic workflows in READ for linking original-language texts to transcriptions with the specific goal of demonstrating READ's paleographic features.
 
 Attending this workshop should give the participants:
@@ -66,13 +66,13 @@ This workshop will be accessing READ through participants personal computer thro
 
 * Tuesday *April 25th*: **Epigraphy.info** workshop (09:30-18:00 CET) + (optional) social dinner (19:00 CET)
 
-### Project presentations session 1
+#### Project presentations session 1
 
-#### Frank Grieshaber: 'API-Based Annotation of Digital Editions - Historic Events in Malalas’ Chronographia'
+##### Frank Grieshaber: 'API-Based Annotation of Digital Editions - Historic Events in Malalas’ Chronographia'
 
-#### Franziska Weise, Sylvia Melzer, Wolfgang Meier & David Eibeck: 'EDAK database (Epigraphische Datenbank zum antiken Kleinasien)'
+##### Franziska Weise, Sylvia Melzer, Wolfgang Meier & David Eibeck: 'EDAK database (Epigraphische Datenbank zum antiken Kleinasien)'
 
-#### Dimitar Illiev: 'The Digital Collections of Greek and Latin Inscriptions from Bulgaria: Challenges and Perspectives'
+##### Dimitar Illiev: 'The Digital Collections of Greek and Latin Inscriptions from Bulgaria: Challenges and Perspectives'
 
 
 #### EpiDoc editors presentations & discussion
@@ -91,7 +91,7 @@ This workshop will be accessing READ through participants personal computer thro
 ##### Jonathan Prag: 'Advances in Interoperable Epigraphic Bibliography'
 
 
-##### Keynote Alex Mullen (LatinNow): 'Our digital epigraphic ecosystem: challenges and prospects'
+#### Keynote Alex Mullen (LatinNow): 'Our digital epigraphic ecosystem: challenges and prospects'
 
 * Wednesday *April 26th*: **Epigraphy.info** workshop + (optional) social event (visit to a museum and a guided walk through Leuven, 14:30-17:00 CET)
 
