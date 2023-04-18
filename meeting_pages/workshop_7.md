@@ -85,7 +85,7 @@ This workshop will be accessing READ through participants personal computer thro
 
 #### Project presentations session 2
 
-##### Mark Depauw: 'Automatically identifying primary and secondary sources'
+##### Mark Depauw: 'AI-based recognition of (epigraphic) source references in secondary literature'
 
 ##### Jonathan Prag: 'Advances in Interoperable Epigraphic Bibliography'
 
