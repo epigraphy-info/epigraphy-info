@@ -64,9 +64,37 @@ This workshop will be accessing READ through participants personal computer thro
 
 ## Programme Epigraphy.info workshop:
 
-* Tuesday *April 25th*: **Epigraphy.info** workshop + (optional) social dinner (19:00 CET)
+* Tuesday *April 25th*: **Epigraphy.info** workshop (09:30-18:00 CET) + (optional) social dinner (19:00 CET)
+
+### Project presentations session 1
+
+#### Frank Grieshaber: 'API-Based Annotation of Digital Editions - Historic Events in Malalas’ Chronographia'
+
+#### Franziska Weise, Sylvia Melzer, Wolfgang Meier & David Eibeck: 'EDAK database (Epigraphische Datenbank zum antiken Kleinasien)'
+
+#### Dimitar Illiev: 'The Digital Collections of Greek and Latin Inscriptions from Bulgaria: Challenges and Perspectives'
+
+
+### EpiDoc editors presentations & discussion
+
+#### Kaja Harter-Uibopuu*1, Ralf Möller*2, Sylvia Melzer*1,2, Franziska Weise*1, Meike Klettke*: 'Federated search in epigraphic databases using EpiDoc'
+
+(*1Universität Hamburg, *2Universität zu Lübeck, *3Universität Regensburg)
+
+#### Vincent Razanajao: 'The Patrimonivm editor'
+
+
+### Project presentations session 2
+
+#### Mark Depauw: 'Automatically identifying primary and secondary sources'
+
+#### Jonathan Prag: 'Advances in Interoperable Epigraphic Bibliography'
+
+
+#### Keynote Alex Mullen (LatinNow): 'Our digital epigraphic ecosystem: challenges and prospects'
 
 * Wednesday *April 26th*: **Epigraphy.info** workshop + (optional) social event (visit to a museum and a guided walk through Leuven, 14:30-17:00 CET)
+
 
 *If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
 
