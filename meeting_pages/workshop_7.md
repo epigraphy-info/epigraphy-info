@@ -77,7 +77,7 @@ This workshop will be accessing READ through participants personal computer thro
 
 ### EpiDoc editors presentations & discussion
 
-#### Kaja Harter-Uibopuu*1, Ralf Möller*2, Sylvia Melzer*1,2, Franziska Weise*1, Meike Klettke*: 'Federated search in epigraphic databases using EpiDoc'
+#### Kaja Harter-Uibopuu<sup>1</sup>, Ralf Möller*2,  <ins>Sylvia Melzer</ins>*1,2, Franziska Weise*1, Meike Klettke*: 'Federated search in epigraphic databases using EpiDoc'
 
 (*1Universität Hamburg, *2Universität zu Lübeck, *3Universität Regensburg)
 
