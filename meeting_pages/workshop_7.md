@@ -20,9 +20,8 @@ The event will be held primarily as in-person meeting, at the campus of KU Leuve
   * [Online posters](#online-posters)
   * [IDEA bursaries for ECRs](#idea-bursaries-for-early-carreer-researchers)
   * [Accommodation options](#accomodation-workshop)
-  * [Registration ENCODE training sessions](#registration-encode-training-sessions)
   * [Registration Epigraphy.info workshop](#registration-epigraphyinfo-workshop)
-
+  * [Registration ENCODE training sessions](#registration-encode-training-sessions)
 
 ---
 
@@ -118,23 +117,21 @@ A list of hotels in Leuven (not exhaustive), in different price categories, can 
 
 ---
 
+## Registration Epigraphy.info workshop
+
+
+In order to register for the workshop, please, fill in the [Google registration form](https://forms.gle/tddAuTbn2nwzks6y6){:target="_blank" rel="noopener"} (see below) until April 7th, 2023 (in-person attendance) or until April 23rd for remote participation.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc29XvbNyUImaDM-7hLyi3aONioIHYKOdBRga7s6V9Cs3nOjQ/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+---
+
 ## Registration ENCODE training sessions
 
 
 In order to register for the training sessions, please, fill in the [Google registration form](https://forms.gle/JR6uZ3bk75wsKFua9){:target="_blank" rel="noopener"} (see below) until April 7th, 2023.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeb7ACfj0hNHf8irCwF2S5Z_AoF0yZJdLJtJgxbkcuKIVRgRQ/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-
-## Registration Epigraphy.info workshop
-
-
-In order to register for the workshop, please, fill in the [Google registration form](https://forms.gle/tddAuTbn2nwzks6y6){:target="_blank" rel="noopener"} (see below) until April 7th, 2023.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc29XvbNyUImaDM-7hLyi3aONioIHYKOdBRga7s6V9Cs3nOjQ/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
----
-
 
 <!--- 
 
