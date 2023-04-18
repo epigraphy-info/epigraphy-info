@@ -14,7 +14,9 @@ The *seventh ENCODE/Epigraphy.info workshop* will be taking place between **Mond
 The event will be held primarily as in-person meeting, at the campus of KU Leuven’s [Faculty of Arts](https://www.arts.kuleuven.be/english/contact){:target="_blank" rel="noopener"}, but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending. 
 
   * [Steering Committee elections + location Epigraphy.info VIII](#steering-committee-elections---location-epigraphyinfo-viii)
-  * [Programme ENCODE/Epigraphy.info workshop](#programme)
+  * [Programme](#programme)
+  * [Programme ENCODE training sessions](#programme-encode-training-sessions)
+  * [Programme Epigraphy.info workshop](#programme-epigraphyinfo-workshop)
   * [Online posters](#online-posters)
   * [IDEA bursaries for ECRs](#idea-bursaries-for-early-carreer-researchers)
   * [Accommodation options](#accomodation-workshop)
@@ -32,9 +34,11 @@ During the Leuven workshop, the election of new members for the Steering Committ
 
 ## Programme
 
-You can check the full programme [here](https://docs.google.com/document/d/1m5qEP2b7K-2Jw4du-LNByuMELui5UIltDQFR0V0LjLU/edit?usp=sharing){:target="_blank" rel="noopener"} 
+You can check the full programme [here](https://docs.google.com/document/d/1m5qEP2b7K-2Jw4du-LNByuMELui5UIltDQFR0V0LjLU/edit?usp=sharing){:target="_blank" rel="noopener"}. You can find more details about the ENCODE training sessions and the Epigraphy.info workshop below:
 
-* Monday *April 24th*: **ENCODE** in-person training sessions on EpiDoc (focus on Mycenean inscriptions) and the READ (Research Environment for Ancient Documents) platform + Epigraphy.info poster session (followed by a reception at 17:30 CET)
+## Programme ENCODE training sessions
+
+* Monday *April 24th*: **ENCODE** in-person training sessions on EpiDoc (focus on Mycenean inscriptions) and the READ (Research Environment for Ancient Documents) platform + Epigraphy.info poster session (followed by a reception at 18:00 CET)
 
 ### Morning session: EpiDoc for Mycenaean inscriptions (trainers: Gabriel Bodard, Federico Aurora, Alice Bencivenni & Marta Fogagnolo)
 Mycenaean Greek texts (ca. 1350-1150) are written in a syllabary that we call Linear B. In scholarly editions they are usually transcribed using latin letters and a system (Wingspread Conventions) similar to, but not identical with, the Leiden Conventions. Digital encoding of Mycenaean texts (as in the online databases DAMOS and LiBER), at the moment, has not made use of EpiDoc. However, to facilitate work on Mycenaean inscriptions to conform to FAIR principles (e.g. to make exchange and reuse of data by other epigraphical databases easier) work on the alignment of [EpiDoc with Mycenaean usage](https://epidoc.stoa.org/gl/latest/app-epi-mycenaean.html){:target="_blank" rel="noopener"} was recently started and published as an appendix to the EpiDoc-guidelines. 
@@ -58,19 +62,19 @@ This workshop will be accessing READ through participants personal computer thro
 
 ---
 
-## Online posters
-
-Go to the **[Digital poster session]({{ "../workshop_7_posters/"}})** page
-
----
-
-## Further programme:
+## Programme Epigraphy.info workshop:
 
 * Tuesday *April 25th*: **Epigraphy.info** workshop + (optional) social dinner (19:00 CET)
 
-* Wednesday *April 26th*: **Epigraphy.info** workshop + (optional) social event (visit to a museum, 14:00-17:00 CET)
+* Wednesday *April 26th*: **Epigraphy.info** workshop + (optional) social event (visit to a museum and a guided walk through Leuven, 14:30-17:00 CET)
 
 *If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
+
+---
+
+## Online posters
+
+Go to the **[Digital poster session]({{ "../workshop_7_posters/"}})** page
 
 ---
 
