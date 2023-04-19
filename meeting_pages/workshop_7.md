@@ -40,7 +40,7 @@ You can check the full programme [here](https://docs.google.com/document/d/1m5qE
 * Monday *April 24th*: **ENCODE** in-person training sessions on EpiDoc (focus on Mycenean inscriptions) and the READ (Research Environment for Ancient Documents) platform + Epigraphy.info poster session (followed by a reception at 18:00 CET)
 
 #### Morning session: EpiDoc for Mycenaean inscriptions 
-##### (trainers: Gabriel Bodard, Federico Aurora, Alice Bencivenni & Marta Fogagnolo)
+###### (trainers: Gabriel Bodard, Federico Aurora, Alice Bencivenni & Marta Fogagnolo)
 
 <details markdown="1">
 <summary>Details</summary>
@@ -54,8 +54,8 @@ Participants are required to get acquainted with the basics of EpiDoc and of Myc
 </details>
 
 
-##### Afternoon session: working with inscriptions in the READ environment
-##### (trainer: Stephen White)
+#### Afternoon session: working with inscriptions in the READ environment
+###### (trainer: Stephen White)
 
 <details markdown="1">
 <summary>Details</summary>
@@ -84,64 +84,50 @@ This workshop will be accessing READ through participants personal computer thro
 #### Project presentations session 1
 
 ##### Frank Grieshaber: 'API-Based Annotation of Digital Editions - Historic Events in Malalas’ Chronographia'
-
+###### (<sup>1</sup>Heidelberger Akademie der Wissenschaften)
 <details markdown="1">
 <summary>Abstract</summary>
 
-An event in the most basic form brings together three different aspects: there is a place, a time and
-one or more people/agents; added to this is the ancient source text in which the event is attested.
-Taking up the pattern of "don't repeat yourself", one should try to reuse existing gazetteers instead
-of building up redundant databases. The easiest way to reuse gazetteers is via interfaces (APIs).
-Many ancient sources are presented online in the form of digital editions; to avoid unnecessary
-redundancies, these texts should be referenced via APIs also. Unfortunately until now only a tiny
-minority of digital editions offer an API for this purpose, although a usable technology exists in the
-form of the Distributed Text Services (DTS). To remedy this, a web service can be created that
-provides publicly available ExpiDoc/TEI XML data according to the DTS specifications from
+An event in the most basic form brings together three different aspects: there is a place, a time and one or more people/agents; added to this is the ancient source text in which the event is attested. Taking up the pattern of "don't repeat yourself", one should try to reuse existing gazetteers instead of building up redundant databases. The easiest way to reuse gazetteers is via interfaces (APIs). Many ancient sources are presented online in the form of digital editions; to avoid unnecessary redundancies, these texts should be referenced via APIs also. Unfortunately until now only a tiny minority of digital editions offer an API for this purpose, although a usable technology exists in the form of the Distributed Text Services (DTS). To remedy this, a web service can be created that provides publicly available ExpiDoc/TEI XML data according to the DTS specifications from
 repositories such as Github.
-In the most basic form a historic event could be modeled consequently as a collection of URIs:
-Take for example the inscription https://edh.ub.uni-heidelberg.de/edh/inschrift/HD020165, which
-records the extending of the pomerium by emperor Claudius in the year 49 AD:
-• Person:
+
+In the most basic form a historic event could be modeled consequently as a collection of URIs. Take for example the inscription https://edh.ub.uni-heidelberg.de/edh/inschrift/HD020165, which records the extending of the pomerium by emperor Claudius in the year 49 AD:
+*Person:
 Emperor Claudius: https://www.wikidata.org/wiki/Q1411
-• Place:
+*Place:
 Rome: https://pleiades.stoa.org/places/423025
-• Time:
+*Time:
 9th Trib. Pot. Roman Emperor Claudius: https://godot.date/id/yTuwsB3hmhMLiUgqHoKkm9
-• Text:
+*Text:
 HD027380: https://edh.ub.uni-heidelberg.de/data/api/dts/document/?id=HD027380
-• Image:
+*Image:
 IIIF Manifest: https://edh.ub.uni-heidelberg.de/iiif/edh/HD027380.manifest.json
 The combination of all these URIs form an event and can be referenced by its own unique URI like
 e.g. https://eve.hadw-bw.de/id/362342, and host a set of metadata itself describing the event:
-• type of event (“Extending pomerium”)
-• commentary
-• links to other events (e.g.: “prev”/”next”, “before”/”after”, „see also“ vel sim.)
-• user/project
-• date of creation/update
-• version
+*type of event (“Extending pomerium”)
+*commentary
+*links to other events (e.g.: “prev”/”next”, “before”/”after”, „see also“ vel sim.)
+*user/project
+*date of creation/update
+*version
 
-The event metadata can be exported for reuse in several formats, e.g. TEI, JSON, XML (CIDOC-
-CRM) and RDF, so this event data blends perfectly into emerging Linked Open Data (LOD)
+The event metadata can be exported for reuse in several formats, e.g. TEI, JSON, XML (CIDOC-CRM) and RDF, so this event data blends perfectly into emerging Linked Open Data (LOD) infrastructures in the domain of Digital Epigraphy.
 
-infrastructures in the domain of Digital Epigraphy.
-Finally, a brief preview will be provided of a forthcoming web platform that will allow users to create
-project-specific lists of event categories and annotate their source texts available online via DTS
-API. This platform will be used also to annotate events in Malalas' Chronographia to complement
-the online commentary created by the Heidelberg Academy of Sciences and Humanities.
+Finally, a brief preview will be provided of a forthcoming web platform that will allow users to create project-specific lists of event categories and annotate their source texts available online via DTS API. This platform will be used also to annotate events in Malalas' Chronographia to complement the online commentary created by the Heidelberg Academy of Sciences and Humanities.
 
 </details>
 
-##### Franziska Weise, Sylvia Melzer, Wolfgang Meier & David Eibeck: 'EDAK database (Epigraphische Datenbank zum antiken Kleinasien)'
+##### Kaja Harter-Uibopuu<sup>1</sup>, Ralf Möller<sup>2</sup>, <ins>Sylvia Melzer</ins><sup>1,2</sup>, <ins>Franziska Weise</ins><sup>1</sup>, Meike Klettke<sup>3</sup>: 'Federated search in epigraphic databases using EpiDoc'
+###### (<sup>1</sup>Universität Hamburg, <sup>2</sup>Universität zu Lübeck, <sup>3</sup>3Universität Regensburg)
 
 <details markdown="1">
 <summary>Abstract</summary>
 
-To be added
-
+We would like to present some solutions for the EDAK database (Epigraphische Datenbank zum antiken Kleinasien / University of Hamburg) regarding databasing on demand and the concept of federated search, which enables a user to search through several epigraphic databases.  Furthermore, we are working on an "EpiDoc Metadata Generator" which transforms the information about an inscription via a mask in the EpiDoc structure.
 </details>
 
 ##### Dimitar Illiev<sup>1</sup> & Nicolay Sharankov<sup>1</sup>: 'The Digital Collections of Greek and Latin Inscriptions from Bulgaria: Challenges and Perspectives'
-(<sup>1</sup>Department of Classics, St. Kliment Ohridski University of Sofia)
+###### (<sup>1</sup>Department of Classics, St. Kliment Ohridski University of Sofia)
 
 <details markdown="1">
 <summary>Abstract</summary>
@@ -156,26 +142,40 @@ The most fruitful among these collaborations is the one established with the Nat
 
 #### EpiDoc editors presentations & discussion
 
-##### Kaja Harter-Uibopuu<sup>1</sup>, Ralf Möller<sup>2</sup>, <ins>Sylvia Melzer</ins><sup>1,2</sup>, <ins>Franziska Weise</ins><sup>1</sup>, Meike Klettke<sup>3</sup>: 'Federated search in epigraphic databases using EpiDoc'
+##### <ins>Francisca Feraudi-Gruénais</ins><sup>1</sup>, <ins>Wolfgang Meier</ins><sup>2</sup>, Marietta Horster<sup>3</sup>, David Eibeck<sup>3</sup>: 'EEE-EDEp-Editor'
+###### (<sup>1</sup>Universität Heidelberg, <sup>2</sup>exist-db.org, <sup>3</sup>Johannes Gutenberg-Universität Mainz)
 
-(<sup>1</sup>Universität Hamburg, <sup>2</sup>Universität zu Lübeck, <sup>3</sup>3Universität Regensburg)
-
-##### Vincent Razanajao: 'The Patrimonivm editor'
+##### Vincent Razanajao<sup>1</sup>: 'Patrimonivm editor'
+###### (<sup>1</sup>Patrimonivm, Université de Bordeaux)
 
 
 #### Project presentations session 2
 
-##### Mark Depauw: 'AI-based recognition of (epigraphic) source references in secondary literature'
+##### Mark Depauw<sup>1</sup>: 'AI-based recognition of (epigraphic) source references in secondary literature'
+###### (<sup>1</sup>Trismegistos, KU Leuven)
+<details markdown="1">
+<summary>Abstract</summary>
 
-##### Jonathan Prag: 'Advances in Interoperable Epigraphic Bibliography'
+To be added
 
+</details>
+
+##### Jonathan Prag<sup>1</sup>: 'Advances in Interoperable Epigraphic Bibliography'
+###### (<sup>1</sup>FAIR Epigraphy, Oxford University)
+
+<details markdown="1">
+<summary>Abstract</summary>
+
+Bibliography has long presented a challenge for consistent and stable referencing of epigraphic editions. Within the broader epigraphic discipline, a long tradition of the use of abbreviations has developed to enable easy referencing particularly of major corpora and key publications. However, even the abbreviations have lacked sufficient standardisation at times, with the AIEGL list of Greek epigraphic abbreviations only the latest attempt to establish a general standard on that traditional model. Within the digital sphere, the situation is little better, as there is no one resource adequate to the task: individual library catalogues ultimately report physical instances of particular editions, and any one catalogue is dependent upon the contents of the collection it reports; a problem that is only partially overcome by union catalogues (even in digital form, such as the Zenon catalogue of the iDAI). However, even the largest union catalogues do not normally report bibliography below the level of the physical volume, and so lack the granularity of bibliographic reference which is required, whether to book sections or (non-digital) journal articles. The same problem applies to the WorldCat resource. The majority of projects, consequently, create their own bibliographic databases, whether in a closed database, or a public resource such as a Zotero library. Consequently, interoperability of bibliographic references is extremely poor. 
+
+Having been requested to develop a digital version of the AIEGL Greek epigraphic abbreviations list, the FAIR Epigraphy project has used this opportunity to develop a pilot for a LOD bibliographic resource for classical epigraphy, which we will present and discuss.Bibliography has long presented a challenge for consistent and stable referencing of epigraphic editions. Within the broader epigraphic discipline, a long tradition of the use of abbreviations has developed to enable easy referencing particularly of major corpora and key publications. However, even the abbreviations have lacked sufficient standardisation at times, with the AIEGL list of Greek epigraphic abbreviations only the latest attempt to establish a general standard on that traditional model. Within the digital sphere, the situation is little better, as there is no one resource adequate to the task: individual library catalogues ultimately report physical instances of particular editions, and any one catalogue is dependent upon the contents of the collection it reports; a problem that is only partially overcome by union catalogues (even in digital form, such as the Zenon catalogue of the iDAI). However, even the largest union catalogues do not normally report bibliography below the level of the physical volume, and so lack the granularity of bibliographic reference which is required, whether to book sections or (non-digital) journal articles. The same problem applies to the WorldCat resource. The majority of projects, consequently, create their own bibliographic databases, whether in a closed database, or a public resource such as a Zotero library. Consequently, interoperability of bibliographic references is extremely poor. Having been requested to develop a digital version of the AIEGL Greek epigraphic abbreviations list, the FAIR Epigraphy project has used this opportunity to develop a pilot for a LOD bibliographic resource for classical epigraphy, which we will present and discuss.</details>
 
 #### Keynote Alex Mullen (LatinNow): 'Our digital epigraphic ecosystem: challenges and prospects'
 
 <details markdown="1">
 <summary>Abstract</summary>
 
-Our digital epigraphic ecosystem is vast and complex, frustrating and inspiring. It is a constantly evolving mass of interconnected, and sometimes sadly under-connected, people and digital databases, datasets, corpora and editions, some of which are entering their sixth decade. I present LatinNow’s experience of attempting to deploy the Latin, Greek and ‘non-Classical’ epigraphies in combination with a range of archaeological and linguistic data to tackle some big historical questions about life and languages in the Roman West (explore the beta version of LatinNow’s webGIS at https://gis.latinnow.eu/).
+Our digital epigraphic ecosystem is vast and complex, frustrating and inspiring. It is a constantly evolving mass of interconnected, and sometimes sadly under-connected, people and digital databases, datasets, corpora and editions, some of which are entering their sixth decade. I present LatinNow’s experience of attempting to deploy the Latin, Greek and ‘non-Classical’ epigraphies in combination with a range of archaeological and linguistic data to tackle some big historical questions about life and languages in the Roman West (explore the beta version of LatinNow’s webGIS at [https://gis.latinnow.eu/]([https://www.eagle-network.eu/financial-support-for-participation-to-epigraphy-info-event/](https://gis.latinnow.eu/)){:target="_blank" rel="noopener"}).
 
 Challenges of data re-use, duplicates, missing/inaccurate/conflicting metadata, problematic geo-spatial and dating information, and the lack of LOD are well known to this community. The on-going work of Epigraphy.info and the FAIR epigraphy project to continue the pioneering steps taken by EAGLE remains essential and requires broad engagement. Although the work ahead is substantial, we can see the phenomenal potential of the digital future, including harnessing the power of LOD and GIS, and entering the world of AI.
 
