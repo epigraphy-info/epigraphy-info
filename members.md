@@ -48,7 +48,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Nicolas Laubry, Ecole française de Rome, (<a href="https://orcid.org/0000-0002-7155-9261" target="blank">ORCID ID</a>)
 * Meilin Lyu, University Athens
 * Nenad Markovic
-* Florian Matei-Popescu, Vasile Pârvan Archaeological Institute, Bucharest (<a href="https://orcid.org/https://orcid.org/0000-0001-5360-042X" target="blank">ORCID ID</a>)
+* Florian Matei-Popescu, Vasile Pârvan Archaeological Institute, Bucharest (<a href="https://orcid.org/0000-0001-5360-042X" target="blank">ORCID ID</a>)
 * Kresimir Matijevic, Europa-Universität Flensburg
 * Guénette Maxime, Université de Montréal
 * Emmanuelle Morlock, CNRS, (<a href="https://orcid.org/0000-0002-1617-8554" target="blank">ORCID ID</a>)
