@@ -8,7 +8,7 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a> at any time.
 
-*Latest update: 2023-03-30*
+*Latest update: 2023-04-09*
 
 * Canan ARIKAN, University of Vienna
 * Alice Bencivenni, Alma Mater Studiorum Università di Bologna, (<a href="https://orcid.org/0000-0001-5778-8677" target="blank">ORCID ID</a>)
@@ -66,6 +66,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Antonio Romano, Le Mans Université
 * Emre Salman, İstanbul Üniversitesi
 * Nicolay Sharankov, University of Sofia, (<a href="https://orcid.org/0000-0003-3085-2813" target="blank">ORCID ID</a>)
+* Eleni Sfyridou, Ionian University (<a href="https://orcid.org/0000-0002-0940-3186" target="blank">ORCID ID</a>)
 * Bartosz Smogur, University of Warsaw/EPHE, (<a href="https://orcid.org/0000-0002-8380-6696" target="blank">ORCID ID</a>)
 * Thea Sommershield, (<a href="https://orcid.org/0000-0002-6965-8105" target="blank">ORCID ID</a>)
 * Wolfgang Spickermann, University of Graz, (<a href="https://orcid.org/0000-0002-0467-3910" target="blank">ORCID ID</a>)
