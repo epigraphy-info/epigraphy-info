@@ -45,11 +45,7 @@ You can check the full programme [here](https://docs.google.com/document/d/1m5qE
 <details markdown="1">
 <summary>Details</summary>
 
-Mycenaean Greek texts (ca. 1350-1150) are written in a syllabary that we call Linear B. In scholarly editions they are usually transcribed using latin letters and a system (Wingspread Conventions) similar to, but not identical with, the Leiden Conventions. Digital encoding of Mycenaean texts (as in the online databases DAMOS and LiBER), at the moment, has not made use of EpiDoc. However, to facilitate work on Mycenaean inscriptions to conform to FAIR principles (e.g. to make exchange and reuse of data by other epigraphical databases easier) work on the alignment of 
- 
-[EpiDoc with Mycenaean usage](https://epidoc.stoa.org/gl/latest/app-epi-mycenaean.html){:target="_blank" rel="noopener"} 
- 
- was recently started and published as an appendix to the EpiDoc-guidelines. 
+Mycenaean Greek texts (ca. 1350-1150) are written in a syllabary that we call Linear B. In scholarly editions they are usually transcribed using latin letters and a system (Wingspread Conventions) similar to, but not identical with, the Leiden Conventions. Digital encoding of Mycenaean texts (as in the online databases DAMOS and LiBER), at the moment, has not made use of EpiDoc. However, to facilitate work on Mycenaean inscriptions to conform to FAIR principles (e.g. to make exchange and reuse of data by other epigraphical databases easier) work on the alignment of [EpiDoc with Mycenaean usage](https://epidoc.stoa.org/gl/latest/app-epi-mycenaean.html){:target="_blank" rel="noopener"} was recently started and published as an appendix to the EpiDoc-guidelines.
 
 The workshop will be a hands-on, collaborative, group work on completing the alignment of EpiDoc with the Wingspread Conventions, with the aim – in addition to provide a new encoding tool for Mycenologists – of giving and in-depth picture of the workings of EpiDoc and how it can be adapted to different epigraphic traditions.
 
@@ -57,9 +53,9 @@ Participants are required to get acquainted with the basics of EpiDoc and of Myc
 
 </details>
 
+
 ##### Afternoon session: working with inscriptions in the READ environment
 ##### (trainer: Stephen White)
-
 
 <details markdown="1">
 <summary>Details</summary>
@@ -89,10 +85,74 @@ This workshop will be accessing READ through participants personal computer thro
 
 ##### Frank Grieshaber: 'API-Based Annotation of Digital Editions - Historic Events in Malalas’ Chronographia'
 
+<details markdown="1">
+<summary>Abstract</summary>
+
+An event in the most basic form brings together three different aspects: there is a place, a time and
+one or more people/agents; added to this is the ancient source text in which the event is attested.
+Taking up the pattern of "don't repeat yourself", one should try to reuse existing gazetteers instead
+of building up redundant databases. The easiest way to reuse gazetteers is via interfaces (APIs).
+Many ancient sources are presented online in the form of digital editions; to avoid unnecessary
+redundancies, these texts should be referenced via APIs also. Unfortunately until now only a tiny
+minority of digital editions offer an API for this purpose, although a usable technology exists in the
+form of the Distributed Text Services (DTS). To remedy this, a web service can be created that
+provides publicly available ExpiDoc/TEI XML data according to the DTS specifications from
+repositories such as Github.
+In the most basic form a historic event could be modeled consequently as a collection of URIs:
+Take for example the inscription https://edh.ub.uni-heidelberg.de/edh/inschrift/HD020165, which
+records the extending of the pomerium by emperor Claudius in the year 49 AD:
+• Person:
+Emperor Claudius: https://www.wikidata.org/wiki/Q1411
+• Place:
+Rome: https://pleiades.stoa.org/places/423025
+• Time:
+9th Trib. Pot. Roman Emperor Claudius: https://godot.date/id/yTuwsB3hmhMLiUgqHoKkm9
+• Text:
+HD027380: https://edh.ub.uni-heidelberg.de/data/api/dts/document/?id=HD027380
+• Image:
+IIIF Manifest: https://edh.ub.uni-heidelberg.de/iiif/edh/HD027380.manifest.json
+The combination of all these URIs form an event and can be referenced by its own unique URI like
+e.g. https://eve.hadw-bw.de/id/362342, and host a set of metadata itself describing the event:
+• type of event (“Extending pomerium”)
+• commentary
+• links to other events (e.g.: “prev”/”next”, “before”/”after”, „see also“ vel sim.)
+• user/project
+• date of creation/update
+• version
+
+The event metadata can be exported for reuse in several formats, e.g. TEI, JSON, XML (CIDOC-
+CRM) and RDF, so this event data blends perfectly into emerging Linked Open Data (LOD)
+
+infrastructures in the domain of Digital Epigraphy.
+Finally, a brief preview will be provided of a forthcoming web platform that will allow users to create
+project-specific lists of event categories and annotate their source texts available online via DTS
+API. This platform will be used also to annotate events in Malalas' Chronographia to complement
+the online commentary created by the Heidelberg Academy of Sciences and Humanities.
+
+</details>
+
 ##### Franziska Weise, Sylvia Melzer, Wolfgang Meier & David Eibeck: 'EDAK database (Epigraphische Datenbank zum antiken Kleinasien)'
 
-##### Dimitar Illiev: 'The Digital Collections of Greek and Latin Inscriptions from Bulgaria: Challenges and Perspectives'
+<details markdown="1">
+<summary>Abstract</summary>
 
+To be added
+
+</details>
+
+##### Dimitar Illiev<sup>1</sup> & Nicolay Sharankov<sup>1</sup>: 'The Digital Collections of Greek and Latin Inscriptions from Bulgaria: Challenges and Perspectives'
+(<sup>1</sup>Department of Classics, St. Kliment Ohridski University of Sofia)
+
+<details markdown="1">
+<summary>Abstract</summary>
+
+The lands of today’s Bulgaria have a rich and diverse epigraphic heritage. The ancient Greek inscriptions date from a time span of approximately 12 centuries, from 6th c. BCE to 6th c. CE. More than 5,000 in number, the largest part of them is published in two big corpora: Inscriptiones Graecae in Bulgaria repertae by Georgi Mihailov and Spätgriechische und spätlateinische Inschriften aus Bulgarien by Veselin Beshevliev. Many monuments, however, are either left outside the big collections, often scattered in inaccessible publications, or need serious revisions. The current state of the study of Latin inscriptions from Bulgaria is even more complicated: there does not exist any comprehensive publication meeting modern scholarly standards. The number of the Latin inscriptions is comparable to that of the Greek inscriptions, although they belong to a much shorter period, from the beginning of the 1st to the end of the 6th c. CE. Only a small fraction of them was published in Boris Gerov’s Inscriptiones Latinae in Bulgaria repertae, intended as the first part of a large corpus that never materialized. Some inscriptions are included only in rather old editions with multiple errors and incomplete data, while many others remain dispersed, obscure, or unknown to the scholarly public.
+
+Inspired by the achievements of the EpiDoc initiative, a team of researchers at the Department of Classics at the University of Sofia, Bulgaria, initiated the creation of the Telamon online collection of Greek inscriptions from Bulgaria. In Telamon, inscriptions from the large corpora and other publications are gathered for the first time in one place, provided, also for the first time, with metadata, translations, and commentaries in English and Bulgarian, and also inspected by close personal observation (ex autopsia) and re-interpreted in the light of new data, if needed. For this purpose, thanks to the close collaboration in the team between an epigrapher, an IT expert, and other assistants and coordinators, a customized EpiDoc XML template for the encoding of the inscriptions as created. The storage, the indexing, the visualization, andt he filtering of the collection of .xml files is accomplished via our own AIAX front-end platform. AIAX is partly based on the functionalities of the Epi-Doc front-end service (https://github.com/EpiDoc/EFES ), but the underlying software architecture differs from it. The XML code is stored in an SQL database and then processed with PHP, thus making AIAX more manageable by a webmaster with the skills needed for the maintenance of a generic website. The platform is light and flexible, allowing for embedded maps of geo-referenced inscriptions and other improvements. It is open-source and freely available for download on the project’s web page both as a server and as a desktop application: https://telamon.uni-sofia.bg/en/page/project . Since the launch of the website, we have been actively seeking the support of various regional historical and archaeological museums to promote digital epigraphy among the museum specialists as well as to retrieve important new data for the inscriptions in our collection. So far, collaborations with several museums have been established, thus providing the wider scholarly audience using Telamon with updated information for many inscriptions previously studied only through publications that sometimes appeared decades ago.
+
+The most fruitful among these collaborations is the one established with the National Archaeological Institute with Museum (NAIM) in Sofia that hosts the largest collection of ancient inscriptions from Bulgaria. A group of researchers at NAIM together with a part of the Telamon team is currently working on customizations of the Telamon template and the AIAX platform in order to create an inline database of Latin inscriptions. The Tituli project builds upon the achievements of Telamon with special attention to rarer types of monuments peculiar to Latin epigraphy and to the encoding and indexing of hitherto overlooked iconographic and decorative features. As well, it is focused on the accurate encoding and indexing of the complex titulatures of Roman emperors (a problem so far largely unsolved worldwide). For the initial part of the Tituli project, the team has selected monuments which reflect the diversity of Latin inscriptions from Bulgaria. Preference is given to inscriptions from the huge collection of NAIM, as well as to monuments kept in several regional museums in Northern Bulgaria. Careful study and detailed documentation is made of all relevant inscriptions in order to clarify their data and authenticate or revise any existing readings in the publications. 
+
+</details>
 
 #### EpiDoc editors presentations & discussion
 
