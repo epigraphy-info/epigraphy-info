@@ -148,7 +148,7 @@ The most fruitful among these collaborations is the one established with the Nat
 ###### (<sup>1</sup>Universität Heidelberg, <sup>2</sup>exist-db.org, <sup>3</sup>Johannes Gutenberg-Universität Mainz)
 
 ##### Vincent Razanajao<sup>1</sup>: 'Patrimonivm editor'
-###### (<sup>1</sup>Patrimonivm, Université de Bordeaux)
+###### (<sup>1</sup>Patrimonivm, Université Bordeaux-Montaigne)
 
 
 #### Project presentations session 2
@@ -163,7 +163,7 @@ To be added
 </details>
 
 ##### Jonathan Prag<sup>1</sup>: 'Advances in Interoperable Epigraphic Bibliography'
-###### (<sup>1</sup>FAIR Epigraphy, Oxford University)
+###### (<sup>1</sup>FAIR Epigraphy, University of Oxford)
 
 <details markdown="1">
 <summary>Abstract</summary>
@@ -174,8 +174,8 @@ Having been requested to develop a digital version of the AIEGL Greek epigraphic
 
 </details>
 
-#### Keynote Alex Mullen (LatinNow): 'Our digital epigraphic ecosystem: challenges and prospects'
-
+#### Keynote Alex Mullen<sup>1</sup>: 'Our digital epigraphic ecosystem: challenges and prospects'
+(<sup>1</sup>LatinNow, University Of Nottingham)
 <details markdown="1">
 <summary>Abstract</summary>
 
@@ -225,7 +225,7 @@ In order to register for the workshop, please, fill in the [Google registration 
 
 In order to register for the training sessions, please, fill in the [Google registration form](https://forms.gle/JR6uZ3bk75wsKFua9){:target="_blank" rel="noopener"} (see below) until April 7th, 2023.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeb7ACfj0hNHf8irCwF2S5Z_AoF0yZJdLJtJgxbkcuKIVRgRQ/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeb7ACfj0hNHf8irCwF2S5Z_AoF0yZJdLJtJgxbkcuKIVRgRQ/viewform?embedded=true" width="640" height="420" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <!--- 
 
