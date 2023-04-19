@@ -85,6 +85,7 @@ This workshop will be accessing READ through participants personal computer thro
 
 ##### Frank Grieshaber: 'API-Based Annotation of Digital Editions - Historic Events in Malalas’ Chronographia'
 ###### (<sup>1</sup>Heidelberger Akademie der Wissenschaften)
+
 <details markdown="1">
 <summary>Abstract</summary>
 
@@ -92,24 +93,25 @@ An event in the most basic form brings together three different aspects: there i
 repositories such as Github.
 
 In the most basic form a historic event could be modeled consequently as a collection of URIs. Take for example the inscription https://edh.ub.uni-heidelberg.de/edh/inschrift/HD020165, which records the extending of the pomerium by emperor Claudius in the year 49 AD:
-*Person:
+
+* Person:
 Emperor Claudius: https://www.wikidata.org/wiki/Q1411
-*Place:
+* Place:
 Rome: https://pleiades.stoa.org/places/423025
-*Time:
+* Time:
 9th Trib. Pot. Roman Emperor Claudius: https://godot.date/id/yTuwsB3hmhMLiUgqHoKkm9
-*Text:
+* Text:
 HD027380: https://edh.ub.uni-heidelberg.de/data/api/dts/document/?id=HD027380
-*Image:
+* Image:
 IIIF Manifest: https://edh.ub.uni-heidelberg.de/iiif/edh/HD027380.manifest.json
 The combination of all these URIs form an event and can be referenced by its own unique URI like
 e.g. https://eve.hadw-bw.de/id/362342, and host a set of metadata itself describing the event:
-*type of event (“Extending pomerium”)
-*commentary
-*links to other events (e.g.: “prev”/”next”, “before”/”after”, „see also“ vel sim.)
-*user/project
-*date of creation/update
-*version
+* type of event (“Extending pomerium”)
+* commentary
+* links to other events (e.g.: “prev”/”next”, “before”/”after”, „see also“ vel sim.)
+* user/project
+* date of creation/update
+* version
 
 The event metadata can be exported for reuse in several formats, e.g. TEI, JSON, XML (CIDOC-CRM) and RDF, so this event data blends perfectly into emerging Linked Open Data (LOD) infrastructures in the domain of Digital Epigraphy.
 
@@ -168,7 +170,9 @@ To be added
 
 Bibliography has long presented a challenge for consistent and stable referencing of epigraphic editions. Within the broader epigraphic discipline, a long tradition of the use of abbreviations has developed to enable easy referencing particularly of major corpora and key publications. However, even the abbreviations have lacked sufficient standardisation at times, with the AIEGL list of Greek epigraphic abbreviations only the latest attempt to establish a general standard on that traditional model. Within the digital sphere, the situation is little better, as there is no one resource adequate to the task: individual library catalogues ultimately report physical instances of particular editions, and any one catalogue is dependent upon the contents of the collection it reports; a problem that is only partially overcome by union catalogues (even in digital form, such as the Zenon catalogue of the iDAI). However, even the largest union catalogues do not normally report bibliography below the level of the physical volume, and so lack the granularity of bibliographic reference which is required, whether to book sections or (non-digital) journal articles. The same problem applies to the WorldCat resource. The majority of projects, consequently, create their own bibliographic databases, whether in a closed database, or a public resource such as a Zotero library. Consequently, interoperability of bibliographic references is extremely poor. 
 
-Having been requested to develop a digital version of the AIEGL Greek epigraphic abbreviations list, the FAIR Epigraphy project has used this opportunity to develop a pilot for a LOD bibliographic resource for classical epigraphy, which we will present and discuss.Bibliography has long presented a challenge for consistent and stable referencing of epigraphic editions. Within the broader epigraphic discipline, a long tradition of the use of abbreviations has developed to enable easy referencing particularly of major corpora and key publications. However, even the abbreviations have lacked sufficient standardisation at times, with the AIEGL list of Greek epigraphic abbreviations only the latest attempt to establish a general standard on that traditional model. Within the digital sphere, the situation is little better, as there is no one resource adequate to the task: individual library catalogues ultimately report physical instances of particular editions, and any one catalogue is dependent upon the contents of the collection it reports; a problem that is only partially overcome by union catalogues (even in digital form, such as the Zenon catalogue of the iDAI). However, even the largest union catalogues do not normally report bibliography below the level of the physical volume, and so lack the granularity of bibliographic reference which is required, whether to book sections or (non-digital) journal articles. The same problem applies to the WorldCat resource. The majority of projects, consequently, create their own bibliographic databases, whether in a closed database, or a public resource such as a Zotero library. Consequently, interoperability of bibliographic references is extremely poor. Having been requested to develop a digital version of the AIEGL Greek epigraphic abbreviations list, the FAIR Epigraphy project has used this opportunity to develop a pilot for a LOD bibliographic resource for classical epigraphy, which we will present and discuss.</details>
+Having been requested to develop a digital version of the AIEGL Greek epigraphic abbreviations list, the FAIR Epigraphy project has used this opportunity to develop a pilot for a LOD bibliographic resource for classical epigraphy, which we will present and discuss.Bibliography has long presented a challenge for consistent and stable referencing of epigraphic editions. Within the broader epigraphic discipline, a long tradition of the use of abbreviations has developed to enable easy referencing particularly of major corpora and key publications. However, even the abbreviations have lacked sufficient standardisation at times, with the AIEGL list of Greek epigraphic abbreviations only the latest attempt to establish a general standard on that traditional model. Within the digital sphere, the situation is little better, as there is no one resource adequate to the task: individual library catalogues ultimately report physical instances of particular editions, and any one catalogue is dependent upon the contents of the collection it reports; a problem that is only partially overcome by union catalogues (even in digital form, such as the Zenon catalogue of the iDAI). However, even the largest union catalogues do not normally report bibliography below the level of the physical volume, and so lack the granularity of bibliographic reference which is required, whether to book sections or (non-digital) journal articles. The same problem applies to the WorldCat resource. The majority of projects, consequently, create their own bibliographic databases, whether in a closed database, or a public resource such as a Zotero library. Consequently, interoperability of bibliographic references is extremely poor. Having been requested to develop a digital version of the AIEGL Greek epigraphic abbreviations list, the FAIR Epigraphy project has used this opportunity to develop a pilot for a LOD bibliographic resource for classical epigraphy, which we will present and discuss.
+
+</details>
 
 #### Keynote Alex Mullen (LatinNow): 'Our digital epigraphic ecosystem: challenges and prospects'
 
@@ -183,6 +187,7 @@ Challenges of data re-use, duplicates, missing/inaccurate/conflicting metadata, 
 
 * Wednesday *April 26th*: **Epigraphy.info** workshop + (optional) social event (visit to a museum and a guided walk through Leuven, 14:30-17:00 CET)
 
+#### Future/Past - retrospectives and perspectives session
 
 *If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
 
