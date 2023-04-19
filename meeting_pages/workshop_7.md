@@ -33,7 +33,7 @@ During the Leuven workshop, the election of new members for the Steering Committ
 
 ## Programme
 
-You can check the full programme [here](https://docs.google.com/document/d/1m5qEP2b7K-2Jw4du-LNByuMELui5UIltDQFR0V0LjLU/edit?usp=sharing){:target="_blank" rel="noopener"}. You can find more details about the ENCODE training sessions and the Epigraphy.info workshop below:
+You can check the complete programme [here](https://docs.google.com/document/d/1m5qEP2b7K-2Jw4du-LNByuMELui5UIltDQFR0V0LjLU/edit?usp=sharing){:target="_blank" rel="noopener"}. You can find more details about the ENCODE training sessions and the Epigraphy.info workshop below:
 
 ## Programme ENCODE training sessions
 
