@@ -36,6 +36,31 @@ As was presented in the last [Epigraphy.info workshop](https://epigraphy.info/do
 </figure>
 
 
+## Poster 2 - Greek Metrical Inscriptions from the Imperial Age: A Website Proposal
+
+**Pietro Ortimini**, University of Pisa
+
+*Abstract:* TBA
+
+
+**[Click here to see the full interactive poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/2_POSTERORTIMINI.pdf %}){:target="_blank" rel="noopener"}**
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_7/2_POSTERORTIMINI.png' style="height:30%;" alt="Poster" align="middle" >
+<figcaption>For the interactive version, please, click on the PDF link above</figcaption>
+</figure>
+
+
+## Digital presentation - Linguistic Analysis in the **Inscriptions of Israel/Palestine** Project
+
+**Christine Roughan (New York University), Christopher B. Zeichmann (Toronto Metropolitan University), Michael L. Satlow (Brown University)**
+
+*Abstract:* TBA
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kge6s0VeyfE" title="Linguistic Analysis in the **Inscriptions of Israel/Palestine** Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ---
 
 **If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).**
