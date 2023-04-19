@@ -42,7 +42,7 @@ You can check the full programme [here](https://docs.google.com/document/d/1m5qE
 #### Morning session: EpiDoc for Mycenaean inscriptions 
 ##### (trainers: Gabriel Bodard, Federico Aurora, Alice Bencivenni & Marta Fogagnolo)
 
-<details>
+<details markdown="1">
 <summary>Details</summary>
 
 Mycenaean Greek texts (ca. 1350-1150) are written in a syllabary that we call Linear B. In scholarly editions they are usually transcribed using latin letters and a system (Wingspread Conventions) similar to, but not identical with, the Leiden Conventions. Digital encoding of Mycenaean texts (as in the online databases DAMOS and LiBER), at the moment, has not made use of EpiDoc. However, to facilitate work on Mycenaean inscriptions to conform to FAIR principles (e.g. to make exchange and reuse of data by other epigraphical databases easier) work on the alignment of 
@@ -61,7 +61,7 @@ Participants are required to get acquainted with the basics of EpiDoc and of Myc
 ##### (trainer: Stephen White)
 
 
-<details>
+<details markdown="1">
 <summary>Details</summary>
 
 READ (Research Environment for Ancient Documents) is an open source software system supporting the scholarly study of ancient texts on their physical carriers. It provides editing facilities for philology and at its basic level allows the researcher to link images of a scribed object with a transcription of the text represented. It is capable of handling multiple transcriptions of the same object in parallel. This workshop will introduce the researcher to the basic workflows in READ for linking original-language texts to transcriptions with the specific goal of demonstrating READ's paleographic features.
@@ -112,7 +112,7 @@ This workshop will be accessing READ through participants personal computer thro
 
 #### Keynote Alex Mullen (LatinNow): 'Our digital epigraphic ecosystem: challenges and prospects'
 
-<details open>
+<details markdown="1">
 <summary>Abstract</summary>
 
 Our digital epigraphic ecosystem is vast and complex, frustrating and inspiring. It is a constantly evolving mass of interconnected, and sometimes sadly under-connected, people and digital databases, datasets, corpora and editions, some of which are entering their sixth decade. I present LatinNow’s experience of attempting to deploy the Latin, Greek and ‘non-Classical’ epigraphies in combination with a range of archaeological and linguistic data to tackle some big historical questions about life and languages in the Roman West (explore the beta version of LatinNow’s webGIS at https://gis.latinnow.eu/).
