@@ -125,7 +125,8 @@ Finally, a brief preview will be provided of a forthcoming web platform that wil
 <details markdown="1">
 <summary>Abstract</summary>
 
-We would like to present some solutions for the EDAK database (Epigraphische Datenbank zum antiken Kleinasien / University of Hamburg) regarding databasing on demand and the concept of federated search, which enables a user to search through several epigraphic databases.  Furthermore, we are working on an "EpiDoc Metadata Generator" which transforms the information about an inscription via a mask in the EpiDoc structure.
+We present the usage of EpiDoc in federated search of epigraphic databases, as well as the Databasing on Demand (DBoD) approach, which utilizes EpiDoc files to create databases on demand with low resources. Our presentation focuses on the use of a novel indexing process as part of federated query answering that can significantly improve the study of epigraphic data by enabling researchers to perform federated searches across the databases, thus allowing for efficient searches of multiple databases simultaneously. We highlight the benefits of using DBoD and the new indexing process, as well as the challenges associated with their implementation. Our findings suggest that the combination of EpiDoc, DBoD, and the new indexing process has the potential to improve the analysis of epigraphic data by providing researchers with the tools they need to easily create and search custom databases.
+
 </details>
 
 ##### Dimitar Illiev<sup>1</sup> & Nicolay Sharankov<sup>1</sup>: 'The Digital Collections of Greek and Latin Inscriptions from Bulgaria: Challenges and Perspectives'
