@@ -10,9 +10,9 @@ published: true
 
 The seventh workshop will host poster session dedicated to the presentation of new and ongoing projects in the field of Digital Epigraphy. We will also offer the possibility to present your poster virtually, and during the workshop the posters will also be displayed on the Epigraphy.info website (where they can be published publicly afterwards).
 
-**[All posters on Epigraphy.info GitHub](https://github.com/epigraphy-info/epigraphy-info/tree/main/documents/workshop_7/){:target="_blank" rel="noopener"}** 
+**[See all posters on Epigraphy.info GitHub](https://github.com/epigraphy-info/epigraphy-info/tree/main/documents/workshop_7/){:target="_blank" rel="noopener"}** 
 
-**[Short video presentations on Epigraphy.info YouTube channel](https://www.youtube.com/@EpigraphyInfo)**
+**[See the short video presentations on Epigraphy.info YouTube channel](https://www.youtube.com/@EpigraphyInfo)**
 
 ---
 
@@ -53,7 +53,7 @@ Over the next few years, I aspire to create a website where the inscriptions of 
 </figure>
 
 
-## Poster & Digital presentation - Linguistic Analysis in the **Inscriptions of Israel/Palestine** Project
+## Poster 3 & Digital presentation - Linguistic Analysis in the **Inscriptions of Israel/Palestine** Project
 
 **Christine Roughan (New York University), Christopher B. Zeichmann (Toronto Metropolitan University), Michael L. Satlow (Brown University)**
 
@@ -71,6 +71,25 @@ The Inscriptions of Israel/Palestine (IIP) project presents a digital corpus of 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/kge6s0VeyfE" title="Linguistic Analysis in the **Inscriptions of Israel/Palestine** Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+
+## Poster 4 & Digital presentation - When epigraphy meets linguistics. The semantic annotation of modality in the Latin inscriptions of the Republican age.
+
+**Francesca Dell’Oro, Helena Bermúdez Sabel, Pauline Jacsont**
+
+*Abstract:* 
+Modality – i.e., the expression of the notions of necessity, possibility and volition in a language – is today a thriving research field in linguistics. The WoPoss corpus is being set up and annotated with the goal of investigating modality in the history of the Latin language through literary and documentary texts. This poster outlines the new release of the WoPoss corpus, including now 74 inscriptions. This recent achievement crucially enriches the WoPoss corpus and complies with its aim of being a representative corpus in terms of sociolinguistic variables. Moreover, it enhances epigraphic research, by providing a fine-grained semantic analysis which is still rare even on literary texts.
+
+In the poster we outline the whole pipeline along with the sequence of necessary file conversions, including the selection of the relevant Republican inscriptions to be (added and) retrieved from the EDR database, the automatic annotation of the files using the Stanza library for Python (adding lemmas, parts of speech, morphosyntactic description, and syntactic dependencies), the manual semantic annotation, the validation of the final files against the WoPoss project’s schemas and how the corpus can be accessed through the dedicated interface https://woposs.unine.ch/search. 
+
+Acknowledgements: This new release is the result of a close cooperation between the Epigraphic Database Rome project and the SNSF-funded project A World of Possibilities (PI: Francesca Dell’Oro). It was made possible by an EAGLE-IDEA bursary granted to Mrs. Pauline Jacsont.
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_7/4_POSTER_DELLOROETAL.png' style="height:30%;" alt="Poster" align="middle" >
+<figcaption>For the interactive version, please, click on the PDF link above</figcaption>
+</figure>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Oh5zsnVyQLc" title="When epigraphy meets linguistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
@@ -106,6 +125,9 @@ Or [Download Poster 1 as PPTX]({{ site.baseurl }}{% link documents/workshop_7/1_
 
 DONE: 
 1. Javier Andreu Pintado (online): VALETE VOS VIATORES: ​​new tools for teaching and disseminating Roman epigraphy
+2. Pietro Ortimini, Greek Metrical Inscriptions from the Imperial Age (1st-3rd century AD): a Website Proposal.
+3. Christopher B. Zeichmann (online) Jewish military epigraphic evidence
+4. Francesca Dell’Oro, et al. (online): When epigraphy meets linguistics. The semantic annotation of modality in the Latin inscriptions of the Republican age.
 
 
 NOT-DONE:
@@ -113,12 +135,9 @@ NOT-DONE:
 Tamrazyan Hamest: Digitization of the inscriptions on the monuments of Armenian cultural heritage in Nagorno-Karabakh region
 Amanda Rampichini: Digital epigraphy doctoral project
 Elena Duce Pastor: Digital epigraphy and social media for master students: the example of Linear B tablets
-Christopher B. Zeichmann (online) Jewish military epigraphic evidence
 Chiara Cenati: Behind the scenes of the MAPPOLA Database 
 Tom Gheldof et al.: An innovative approach in the study of ancient written artefacts: the ENCODE Project
 Francesca Murano & Achille Felicetti, EpiDoc to CIDOC CRM alignment. Towards a semantic integration of epigraphic information
-Pietro Ortimini, Greek Metrical Inscriptions from the Imperial Age (1st-3rd century AD): a Website Proposal.
-Francesca Dell’Oro, et al. (online): When epigraphy meets linguistics. The semantic annotation of modality in the Latin inscriptions of the Republican age.
 Tatiana Tomassi et al.: EpiSearch. Epigraphic Manuscripts and Digital Humanities
 Evelien de Graaf et al.: Lemmatizer for ancient Greek inscriptions
 Trismegistos: poster TBD
