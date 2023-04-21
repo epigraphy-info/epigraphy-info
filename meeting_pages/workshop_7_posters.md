@@ -35,6 +35,7 @@ As was presented in the last [Epigraphy.info workshop](https://epigraphy.info/do
 <figcaption>For the interactive version, please, click on the PDF link above</figcaption>
 </figure>
 
+---
 
 ## Poster 2 - Greek Metrical Inscriptions from the Imperial Age: A Website Proposal
 
@@ -45,13 +46,15 @@ A rich production of Greek epigraphic poetry flourished during the Imperial Age.
 Over the next few years, I aspire to create a website where the inscriptions of the corpus are fully accessible as a single collection. The inscriptions will be placed on an interactive map, with references to the editions. The data relating to the socio-historical contexts and the literary aspects will be displayed for each inscription. The data are the following: the place of discovery, the epigraphic support, the date, the author, the clients and recipients, the literary genre, the length of the text, the type of meter. It will be also possible to carry out cross-searches thanks to a search index. The intention is to develop the website using Python and the Django web framework. The website will be HTML based, employ semantic markup based on XML, and include external links to the other epigraphy related websites. There are also plans to expand the database to include Greek metrical inscriptions from Late Antiquity (4th -6th century AD).
 
 
-**[Click here to see the full interactive poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/2_POSTERORTIMINI.pdf %}){:target="_blank" rel="noopener"}**
+**[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/2_POSTERORTIMINI.pdf %}){:target="_blank" rel="noopener"}**
 
 <figure>
 <img src='{{site.baseurl}}/documents/workshop_7/2_POSTERORTIMINI.png' style="height:30%;" alt="Poster" align="middle" >
 <figcaption>For the interactive version, please, click on the PDF link above</figcaption>
 </figure>
 
+
+---
 
 ## Poster 3 & Digital presentation - Linguistic Analysis in the **Inscriptions of Israel/Palestine** Project
 
@@ -61,7 +64,7 @@ Over the next few years, I aspire to create a website where the inscriptions of 
 
 The Inscriptions of Israel/Palestine (IIP) project presents a digital corpus of inscriptions from Israel and Palestine dating between the sixth century BCE and the seventh century CE. As of April 2023, this corpus includes 5,282 inscriptions encoded in EpiDoc-compliant XML, an example of which can be seen in the XML excerpt to the right. Four languages comprise the bulk of the corpus: 2,941 of these inscriptions contain Greek, 1,739 contain Aramaic, 457 contain Hebrew, and 262 contain Latin. Other languages (Phoenician, Classical Armenian, Syriac, Arabic, and Georgian) are represented in smaller amounts.
 
-**[Click here to see the full interactive poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/3_POSTER_IIP.pdf %}){:target="_blank" rel="noopener"}**
+**[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/3_POSTER_IIP.pdf %}){:target="_blank" rel="noopener"}**
 
 <figure>
 <img src='{{site.baseurl}}/documents/workshop_7/3_POSTER_IIP.png' style="height:30%;" alt="Poster" align="middle" >
@@ -71,6 +74,7 @@ The Inscriptions of Israel/Palestine (IIP) project presents a digital corpus of 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/kge6s0VeyfE" title="Linguistic Analysis in the **Inscriptions of Israel/Palestine** Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
 
 
 ## Poster 4 & Digital presentation - When epigraphy meets linguistics. The semantic annotation of modality in the Latin inscriptions of the Republican age.
@@ -83,6 +87,8 @@ Modality – i.e., the expression of the notions of necessity, possibility and v
 In the poster we outline the whole pipeline along with the sequence of necessary file conversions, including the selection of the relevant Republican inscriptions to be (added and) retrieved from the EDR database, the automatic annotation of the files using the Stanza library for Python (adding lemmas, parts of speech, morphosyntactic description, and syntactic dependencies), the manual semantic annotation, the validation of the final files against the WoPoss project’s schemas and how the corpus can be accessed through the dedicated interface https://woposs.unine.ch/search. 
 
 Acknowledgements: This new release is the result of a close cooperation between the Epigraphic Database Rome project and the SNSF-funded project A World of Possibilities (PI: Francesca Dell’Oro). It was made possible by an EAGLE-IDEA bursary granted to Mrs. Pauline Jacsont.
+
+**[Click here to see the full poster(PNG)]({{ site.baseurl }}{% link documents/workshop_7/3_DELLOROETAL.png %}){:target="_blank" rel="noopener"}**
 
 <figure>
 <img src='{{site.baseurl}}/documents/workshop_7/4_POSTER_DELLOROETAL.png' style="height:30%;" alt="Poster" align="middle" >
