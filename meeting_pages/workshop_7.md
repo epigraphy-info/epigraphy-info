@@ -220,7 +220,6 @@ A list of hotels in Leuven (not exhaustive), in different price categories, can 
 
 ## Registration Epigraphy.info workshop
 
-
 In order to register for the workshop, please, fill in the [Google registration form](https://forms.gle/tddAuTbn2nwzks6y6){:target="_blank" rel="noopener"} (see below) until April 7th, 2023 (in-person attendance) or until April 23rd for remote participation.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc29XvbNyUImaDM-7hLyi3aONioIHYKOdBRga7s6V9Cs3nOjQ/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
@@ -228,7 +227,6 @@ In order to register for the workshop, please, fill in the [Google registration 
 ---
 
 ## Registration ENCODE training sessions
-
 
 In order to register for the training sessions, please, fill in the [Google registration form](https://forms.gle/JR6uZ3bk75wsKFua9){:target="_blank" rel="noopener"} (see below) until April 7th, 2023.
 
