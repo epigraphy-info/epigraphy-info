@@ -92,20 +92,25 @@ This workshop will be accessing READ through participants personal computer thro
 An event in the most basic form brings together three different aspects: there is a place, a time and one or more people/agents; added to this is the ancient source text in which the event is attested. Taking up the pattern of "don't repeat yourself", one should try to reuse existing gazetteers instead of building up redundant databases. The easiest way to reuse gazetteers is via interfaces (APIs). Many ancient sources are presented online in the form of digital editions; to avoid unnecessary redundancies, these texts should be referenced via APIs also. Unfortunately until now only a tiny minority of digital editions offer an API for this purpose, although a usable technology exists in the form of the Distributed Text Services (DTS). To remedy this, a web service can be created that provides publicly available ExpiDoc/TEI XML data according to the DTS specifications from
 repositories such as Github.
 
-In the most basic form a historic event could be modeled consequently as a collection of URIs. Take for example the inscription https://edh.ub.uni-heidelberg.de/edh/inschrift/HD020165, which records the extending of the pomerium by emperor Claudius in the year 49 AD:
+In the most basic form a historic event could be modeled consequently as a collection of URIs. Take for example the inscription [https://edh.ub.uni-heidelberg.de/edh/inschrift/HD020165](https://edh.ub.uni-heidelberg.de/edh/inschrift/HD020165){:target="_blank" rel="noopener"}, which records the extending of the pomerium by emperor Claudius in the year 49 AD:
 
 * Person:
-Emperor Claudius: https://www.wikidata.org/wiki/Q1411
+Emperor Claudius: [https://www.wikidata.org/wiki/Q1411](https://www.wikidata.org/wiki/Q1411){:target="_blank" rel="noopener"}
+
 * Place:
-Rome: https://pleiades.stoa.org/places/423025
+Rome: [https://pleiades.stoa.org/places/423025](https://pleiades.stoa.org/places/423025){:target="_blank" rel="noopener"}
+
 * Time:
-9th Trib. Pot. Roman Emperor Claudius: https://godot.date/id/yTuwsB3hmhMLiUgqHoKkm9
+9th Trib. Pot. Roman Emperor Claudius: [https://godot.date/id/yTuwsB3hmhMLiUgqHoKkm9](https://godot.date/id/yTuwsB3hmhMLiUgqHoKkm9){:target="_blank" rel="noopener"}
+
 * Text:
-HD027380: https://edh.ub.uni-heidelberg.de/data/api/dts/document/?id=HD027380
+HD027380: [https://edh.ub.uni-heidelberg.de/data/api/dts/document/?id=HD027380](https://edh.ub.uni-heidelberg.de/data/api/dts/document/?id=HD027380){:target="_blank" rel="noopener"}
+
 * Image:
-IIIF Manifest: https://edh.ub.uni-heidelberg.de/iiif/edh/HD027380.manifest.json
+IIIF Manifest: [https://edh.ub.uni-heidelberg.de/iiif/edh/HD027380.manifest.json](https://edh.ub.uni-heidelberg.de/iiif/edh/HD027380.manifest.json){:target="_blank" rel="noopener"}
+
 The combination of all these URIs form an event and can be referenced by its own unique URI like
-e.g. https://eve.hadw-bw.de/id/362342, and host a set of metadata itself describing the event:
+e.g. [https://eve.hadw-bw.de/id/362342](https://eve.hadw-bw.de/id/362342){:target="_blank" rel="noopener"}, and host a set of metadata itself describing the event:
 * type of event (“Extending pomerium”)
 * commentary
 * links to other events (e.g.: “prev”/”next”, “before”/”after”, „see also“ vel sim.)
@@ -134,10 +139,11 @@ We present the usage of EpiDoc in federated search of epigraphic databases, as w
 
 <details markdown="1">
 <summary>Abstract</summary>
+[text](link){:target="_blank" rel="noopener"}
 
 The lands of today’s Bulgaria have a rich and diverse epigraphic heritage. The ancient Greek inscriptions date from a time span of approximately 12 centuries, from 6th c. BCE to 6th c. CE. More than 5,000 in number, the largest part of them is published in two big corpora: Inscriptiones Graecae in Bulgaria repertae by Georgi Mihailov and Spätgriechische und spätlateinische Inschriften aus Bulgarien by Veselin Beshevliev. Many monuments, however, are either left outside the big collections, often scattered in inaccessible publications, or need serious revisions. The current state of the study of Latin inscriptions from Bulgaria is even more complicated: there does not exist any comprehensive publication meeting modern scholarly standards. The number of the Latin inscriptions is comparable to that of the Greek inscriptions, although they belong to a much shorter period, from the beginning of the 1st to the end of the 6th c. CE. Only a small fraction of them was published in Boris Gerov’s Inscriptiones Latinae in Bulgaria repertae, intended as the first part of a large corpus that never materialized. Some inscriptions are included only in rather old editions with multiple errors and incomplete data, while many others remain dispersed, obscure, or unknown to the scholarly public.
 
-Inspired by the achievements of the EpiDoc initiative, a team of researchers at the Department of Classics at the University of Sofia, Bulgaria, initiated the creation of the Telamon online collection of Greek inscriptions from Bulgaria. In Telamon, inscriptions from the large corpora and other publications are gathered for the first time in one place, provided, also for the first time, with metadata, translations, and commentaries in English and Bulgarian, and also inspected by close personal observation (ex autopsia) and re-interpreted in the light of new data, if needed. For this purpose, thanks to the close collaboration in the team between an epigrapher, an IT expert, and other assistants and coordinators, a customized EpiDoc XML template for the encoding of the inscriptions as created. The storage, the indexing, the visualization, andt he filtering of the collection of .xml files is accomplished via our own AIAX front-end platform. AIAX is partly based on the functionalities of the Epi-Doc front-end service (https://github.com/EpiDoc/EFES ), but the underlying software architecture differs from it. The XML code is stored in an SQL database and then processed with PHP, thus making AIAX more manageable by a webmaster with the skills needed for the maintenance of a generic website. The platform is light and flexible, allowing for embedded maps of geo-referenced inscriptions and other improvements. It is open-source and freely available for download on the project’s web page both as a server and as a desktop application: https://telamon.uni-sofia.bg/en/page/project . Since the launch of the website, we have been actively seeking the support of various regional historical and archaeological museums to promote digital epigraphy among the museum specialists as well as to retrieve important new data for the inscriptions in our collection. So far, collaborations with several museums have been established, thus providing the wider scholarly audience using Telamon with updated information for many inscriptions previously studied only through publications that sometimes appeared decades ago.
+Inspired by the achievements of the EpiDoc initiative, a team of researchers at the Department of Classics at the University of Sofia, Bulgaria, initiated the creation of the Telamon online collection of Greek inscriptions from Bulgaria. In Telamon, inscriptions from the large corpora and other publications are gathered for the first time in one place, provided, also for the first time, with metadata, translations, and commentaries in English and Bulgarian, and also inspected by close personal observation (ex autopsia) and re-interpreted in the light of new data, if needed. For this purpose, thanks to the close collaboration in the team between an epigrapher, an IT expert, and other assistants and coordinators, a customized EpiDoc XML template for the encoding of the inscriptions as created. The storage, the indexing, the visualization, andt he filtering of the collection of .xml files is accomplished via our own AIAX front-end platform. AIAX is partly based on the functionalities of the Epi-Doc front-end service ([https://github.com/EpiDoc/EFES](https://github.com/EpiDoc/EFES){:target="_blank" rel="noopener"}), but the underlying software architecture differs from it. The XML code is stored in an SQL database and then processed with PHP, thus making AIAX more manageable by a webmaster with the skills needed for the maintenance of a generic website. The platform is light and flexible, allowing for embedded maps of geo-referenced inscriptions and other improvements. It is open-source and freely available for download on the project’s web page both as a server and as a desktop application: [https://telamon.uni-sofia.bg/en/page/project](https://telamon.uni-sofia.bg/en/page/project){:target="_blank" rel="noopener"}. Since the launch of the website, we have been actively seeking the support of various regional historical and archaeological museums to promote digital epigraphy among the museum specialists as well as to retrieve important new data for the inscriptions in our collection. So far, collaborations with several museums have been established, thus providing the wider scholarly audience using Telamon with updated information for many inscriptions previously studied only through publications that sometimes appeared decades ago.
 
 The most fruitful among these collaborations is the one established with the National Archaeological Institute with Museum (NAIM) in Sofia that hosts the largest collection of ancient inscriptions from Bulgaria. A group of researchers at NAIM together with a part of the Telamon team is currently working on customizations of the Telamon template and the AIAX platform in order to create an inline database of Latin inscriptions. The Tituli project builds upon the achievements of Telamon with special attention to rarer types of monuments peculiar to Latin epigraphy and to the encoding and indexing of hitherto overlooked iconographic and decorative features. As well, it is focused on the accurate encoding and indexing of the complex titulatures of Roman emperors (a problem so far largely unsolved worldwide). For the initial part of the Tituli project, the team has selected monuments which reflect the diversity of Latin inscriptions from Bulgaria. Preference is given to inscriptions from the huge collection of NAIM, as well as to monuments kept in several regional museums in Northern Bulgaria. Careful study and detailed documentation is made of all relevant inscriptions in order to clarify their data and authenticate or revise any existing readings in the publications. 
 
@@ -154,17 +160,17 @@ The most fruitful among these collaborations is the one established with the Nat
 
 #### Project presentations session 2
 
-##### Mark Depauw<sup>1</sup>: 'AI-based recognition of (epigraphic) source references in secondary literature'
+##### Mark Depauw<sup>1</sup>: 'Dealing with sources in scholarly discourse: past, present and future'
 ###### (<sup>1</sup>Trismegistos, KU Leuven)
 <details markdown="1">
 <summary>Abstract</summary>
 
-To be added
+Starting from a critical reflection of the development of the conventions in the field of epigraphy, I present a project at KU Leuven to automatically recognise and extract references to sources in academic secondary literature.
 
 </details>
 
 ##### Jonathan Prag<sup>1</sup>: 'Advances in Interoperable Epigraphic Bibliography'
-###### (<sup>1</sup>FAIR Epigraphy, University of Oxford)
+###### (<sup>1</sup>FAIR Epigraphy, I.Sicily, University of Oxford)
 
 <details markdown="1">
 <summary>Abstract</summary>
@@ -180,9 +186,9 @@ Having been requested to develop a digital version of the AIEGL Greek epigraphic
 <details markdown="1">
 <summary>Abstract</summary>
 
-Our digital epigraphic ecosystem is vast and complex, frustrating and inspiring. It is a constantly evolving mass of interconnected, and sometimes sadly under-connected, people and digital databases, datasets, corpora and editions, some of which are entering their sixth decade. I present LatinNow’s experience of attempting to deploy the Latin, Greek and ‘non-Classical’ epigraphies in combination with a range of archaeological and linguistic data to tackle some big historical questions about life and languages in the Roman West (explore the beta version of LatinNow’s webGIS at [https://gis.latinnow.eu/]([https://www.eagle-network.eu/financial-support-for-participation-to-epigraphy-info-event/](https://gis.latinnow.eu/)){:target="_blank" rel="noopener"}).
+Our digital epigraphic ecosystem is vast and complex, frustrating and inspiring. It is a constantly evolving mass of interconnected, and sometimes sadly under-connected, people and digital databases, datasets, corpora and editions, some of which are entering their sixth decade. I present LatinNow’s experience of attempting to deploy the Latin, Greek and ‘non-Classical’ epigraphies in combination with a range of archaeological and linguistic data to tackle some big historical questions about life and languages in the Roman West (explore the beta version of LatinNow’s webGIS at [https://gis.latinnow.eu/](https://gis.latinnow.eu/){:target="_blank" rel="noopener"}).
 
-Challenges of data re-use, duplicates, missing/inaccurate/conflicting metadata, problematic geo-spatial and dating information, and the lack of LOD are well known to this community. The on-going work of Epigraphy.info and the FAIR epigraphy project to continue the pioneering steps taken by EAGLE remains essential and requires broad engagement. Although the work ahead is substantial, we can see the phenomenal potential of the digital future, including harnessing the power of LOD and GIS, and entering the world of AI.
+Challenges of data re-use, duplicates, missing/inaccurate/conflicting metadata, problematic geo-spatial and dating information, and the lack of LOD are well known to this community. The on-going work of Epigraphy.info and the [FAIR epigraphy](https://www.csad.ox.ac.uk/fair-epigraphy){:target="_blank" rel="noopener"} project to continue the pioneering steps taken by [EAGLE](hhttps://www.eagle-network.eu/){:target="_blank" rel="noopener"} remains essential and requires broad engagement. Although the work ahead is substantial, we can see the phenomenal potential of the digital future, including harnessing the power of LOD and GIS, and entering the world of AI.
 
 </details>
 
