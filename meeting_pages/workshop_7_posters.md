@@ -88,7 +88,7 @@ In the poster we outline the whole pipeline along with the sequence of necessary
 
 Acknowledgements: This new release is the result of a close cooperation between the Epigraphic Database Rome project and the SNSF-funded project A World of Possibilities (PI: Francesca Dell’Oro). It was made possible by an EAGLE-IDEA bursary granted to Mrs. Pauline Jacsont.
 
-**[Click here to see the full poster(PNG)]({{ site.baseurl }}{% link documents/workshop_7/4_DELLOROETAL.png %}){:target="_blank" rel="noopener"}**
+**[Click here to see the full poster(PNG)]({{ site.baseurl }}{% link documents/workshop_7/4_POSTER_DELLOROETAL.png.png %}){:target="_blank" rel="noopener"}**
 
 <figure>
 <img src='{{site.baseurl}}/documents/workshop_7/4_POSTER_DELLOROETAL.png' style="height:30%;" alt="Poster" align="middle" >
