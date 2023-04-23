@@ -154,8 +154,8 @@ The most fruitful among these collaborations is the one established with the Nat
 ##### <ins>Francisca Feraudi-Gruénais</ins><sup>1</sup>, <ins>Wolfgang Meier</ins><sup>2</sup>, Marietta Horster<sup>3</sup>, David Eibeck<sup>3</sup>: 'EEE-EDEp-Editor'
 ###### (<sup>1</sup>Universität Heidelberg, <sup>2</sup>exist-db.org, <sup>3</sup>Johannes Gutenberg-Universität Mainz)
 
-##### Vincent Razanajao<sup>1</sup>: 'Patrimonivm editor'
-###### (<sup>1</sup>Patrimonivm, Université Bordeaux-Montaigne)
+##### Vincent Razanajao<sup>1</sup>: 'PATRIMONIVM editor'
+###### (<sup>1</sup>PATRIMONIVM, Université Bordeaux-Montaigne)
 
 
 #### Project presentations session 2
