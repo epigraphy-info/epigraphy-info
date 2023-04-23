@@ -112,7 +112,7 @@ Acknowledgements: This new release is the result of a close cooperation between 
 
 ---
 
-## Poster - EpiSearch. Epigraphic Manuscripts and Digital Humanities.
+## EpiSearch. Epigraphic Manuscripts and Digital Humanities.
 
 **Tatiana Tommasi**
 
@@ -139,8 +139,34 @@ The EpiSearch team includes Federico Boschetti: Institute for Computational Ling
 <figcaption>For the full version, please, click on the PDF link above</figcaption>
 </figure>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Oh5zsnVyQLc" title="When epigraphy meets linguistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
 
+## EpiDoc to CIDOC CRM alignment. Towards a semantic integration of epigraphic information
+
+**Francesca Murano & Achille Felicetti**
+
+<details markdown="1">
+<summary>*Abstract:*</summary>
+
+The poster presents the definition of the mapping between the EpiDoc encoding schema and CIDOC CRM, the most relevant ontology in the field of Cultural Heritage, provided by the ItAnt project.
+
+The project "Languages and Cultures of Ancient Italy. Historical Linguistics and Digital Models" aims to investigate the languages of Ancient Italy by combining the traditional methods, proper to historical linguistics, with methods and technologies proper to the Digital Humanities.
+
+The languages of ancient Italy are documented almost exclusively in epigraphic texts and the creation of the first digital archive of their documentation according to the TEI/EpiDoc Guidelines is one of the main objectives of the project.
+
+In order to foster future interoperability and integration with other external datasets, a paramount concern of the project, we are mapping the EpiDoc schema to the CIDOC CRM ontology, in particular to its CRMtex extension, an ontological model developed to support the study of ancient documents by identifying relevant textual entities and by modelling the scientific process related to their investigation and features.
+CRMtex defines classes and properties for describing a handwritten text in all its aspects, from its creation in the past, down to its present conservation, investigation and study by scholars, including its transcription, translation, interpretation and publication. 
+
+The full compatibility of CRMtex with the CIDOC CRM ontology and its extensions ensures persistent interoperability of data encoded by means of its entities with other semantic information produced in Cultural Heritage and Digital Humanities.
+
+</details>
+
+**[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/POSTER_MURANO_FELICETTI.pdf %}){:target="_blank" rel="noopener"}**
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_7/POSTER_MURANO_FELICETTI.png' style="height:30%;" alt="Poster" align="middle" >
+<figcaption>For the full version, please, click on the PDF link above</figcaption>
+</figure>
 ---
 
 **If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).**
