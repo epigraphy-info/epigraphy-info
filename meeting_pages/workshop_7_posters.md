@@ -91,7 +91,7 @@ Acknowledgements: This new release is the result of a close cooperation between 
 **[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/POSTER_WOPOSS.pdf %}){:target="_blank" rel="noopener"}**
 
 <figure>
-<img src='{{site.baseurl}}/documents/workshop_7/POSTER_WOPOSSL.png' style="height:30%;" alt="Poster" align="middle" >
+<img src='{{site.baseurl}}/documents/workshop_7/POSTER_WOPOSS.png' style="height:30%;" alt="Poster" align="middle" >
 <figcaption>For the interactive version, please, click on the PDF link above</figcaption>
 </figure>
 
@@ -124,7 +124,7 @@ The EpiSearch team includes Federico Boschetti: Institute for Computational Ling
 
 <figure>
 <img src='{{site.baseurl}}/documents/workshop_7/POSTER_TOMASSI.png' style="height:30%;" alt="Poster" align="middle" >
-<figcaption>For the interactive version, please, click on the PDF link above</figcaption>
+<figcaption>For the full version, please, click on the PDF link above</figcaption>
 </figure>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Oh5zsnVyQLc" title="When epigraphy meets linguistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
