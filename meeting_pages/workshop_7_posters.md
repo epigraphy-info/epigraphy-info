@@ -117,7 +117,7 @@ Acknowledgements: This new release is the result of a close cooperation between 
 **Tatiana Tommasi**
 
 <details markdown="1">
-<summary>*Abstract:*</summary>
+<summary>Abstract:</summary>
 
 EpiSearch is a collaborative pilot project that explores the possibilities offered by technologies deployed in the field of the Digital Humanities to recover the data found in the so-called epigraphic manuscripts and to link them to the main online epigraphic databases existing today (EDR, EDH, EDCS, PHI). Epigraphic manuscripts, consisting of handwritten transcriptions made by erudites in post-classical times, are of fundamental value because they preserve the only record for textual sources that have not survived in their physical form. Despite their importance, epigraphic manuscripts have seldom received sufficient scholarly attention; moreover, until now they have never been studied through a digital approach. The EpiSearch project aims at bridging this gap.
 
@@ -146,7 +146,7 @@ The EpiSearch team includes Federico Boschetti: Institute for Computational Ling
 **Francesca Murano & Achille Felicetti**
 
 <details markdown="1">
-<summary>*Abstract:*</summary>
+<summary>Abstract:</summary>
 
 The poster presents the definition of the mapping between the EpiDoc encoding schema and CIDOC CRM, the most relevant ontology in the field of Cultural Heritage, provided by the ItAnt project.
 
@@ -167,6 +167,51 @@ The full compatibility of CRMtex with the CIDOC CRM ontology and its extensions 
 <img src='{{site.baseurl}}/documents/workshop_7/POSTER_MURANO_FELICETTI.png' style="height:30%;" alt="Poster" align="middle" >
 <figcaption>For the full version, please, click on the PDF link above</figcaption>
 </figure>
+
+---
+
+## Digitization of the inscriptions on the monuments of Armenian cultural heritage in Nagorno-Karabakh region
+
+**Tamrazyan Hamest**
+
+<details markdown="1">
+<summary>Abstract</summary>
+
+As part of a series of actions coordinated by the École Polytechnique Fédérale de Lausanne, the Digital Humanities Institute is currently prototyping methods to offer rapid deployment of DH technology in situations of crisis when a good network of local partners can be identified and coordinated. So far, we have collected, systematized and digitized more than two hundred inscriptions from the Nagorno-Karabakh region. By documenting, digitizing and annotating these inscriptions we strive to create a single readily searchable database of Armenian inscriptions of Nagorno-Karabakh complete with the essential information about them. However, the resources and methods of Digital Epigraphy have not yet been applied to Armenian inscriptions properly. 
+
+This project will be one of the first steps in this direction. It will help to point out the methodological issues which are specific to the application of information technologies to Armenian epigraphy. We assume that the computational approach is going to change the way Armenian epigraphy is studied, to the extent of renovating the discipline on the basis of new, unexplored questions.
+
+</details>
+
+**[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/POSTER_TAMRAZYAN.pdf %}){:target="_blank" rel="noopener"}**
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_7/POSTER_TAMRAZYAN.png' style="height:30%;" alt="Poster" align="middle" >
+<figcaption>For the interactive version, please, click on the PDF link above</figcaption>
+</figure>
+
+---
+
+## Digital epigraphy and social media for master students: the example of Linear B tablets
+
+**Elena Duce Pastor**
+
+<details markdown="1">
+<summary>Abstract</summary>
+
+In this poster, I will present a project I am developing for the academic year 2022-2023 for master students in Antiquity. Concretely, in the subject “The Aegean in the bronze age: Minoans and Mycenaeans”. Students must study one Tablet in lineal B using online databases for bibliography and DAMOS database, which implies learning skills about digital epigraphy. Finally, they have to present their results in a Twitter file related to an official account (Antiquity from the University).
+
+This Project implies the acquisition of digital humanities skills by students and the spread of this info to the general public. I try to teach them not only to be users of digital epigraphy but also to take into account public History.
+
+</details>
+
+**[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/POSTER_DUCE_PASTOR.pdf %}){:target="_blank" rel="noopener"}**
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_7/POSTER_DUCE_PASTOR.png' style="height:30%;" alt="Poster" align="middle" >
+<figcaption>For the interactive version, please, click on the PDF link above</figcaption>
+</figure>
+
 ---
 
 **If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).**
@@ -204,17 +249,21 @@ DONE:
 2. Pietro Ortimini, Greek Metrical Inscriptions from the Imperial Age (1st-3rd century AD): a Website Proposal.
 3. Christopher B. Zeichmann (online) Jewish military epigraphic evidence
 4. Francesca Dell’Oro, et al. (online): When epigraphy meets linguistics. The semantic annotation of modality in the Latin inscriptions of the Republican age.
+5. Tatiana Tomassi et al.: EpiSearch. Epigraphic Manuscripts and Digital Humanities
+6. Francesca Murano & Achille Felicetti, EpiDoc to CIDOC CRM alignment. Towards a semantic integration of epigraphic information
+7. Tamrazyan Hamest: Digitization of the inscriptions on the monuments of Armenian cultural heritage in Nagorno-Karabakh region
+8. Elena Duce Pastor: Digital epigraphy and social media for master students: the example of Linear B tablets
+
+
+
+
 
 
 NOT-DONE:
 
-Tamrazyan Hamest: Digitization of the inscriptions on the monuments of Armenian cultural heritage in Nagorno-Karabakh region
 Amanda Rampichini: Digital epigraphy doctoral project
-Elena Duce Pastor: Digital epigraphy and social media for master students: the example of Linear B tablets
 Chiara Cenati: Behind the scenes of the MAPPOLA Database 
 Tom Gheldof et al.: An innovative approach in the study of ancient written artefacts: the ENCODE Project
-Francesca Murano & Achille Felicetti, EpiDoc to CIDOC CRM alignment. Towards a semantic integration of epigraphic information
-Tatiana Tomassi et al.: EpiSearch. Epigraphic Manuscripts and Digital Humanities
 Evelien de Graaf et al.: Lemmatizer for ancient Greek inscriptions
 Trismegistos: poster TBD
 -->
