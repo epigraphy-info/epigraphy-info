@@ -156,18 +156,18 @@ POSTER TEMPLATE
 
 Provide text
 
-**[Click here to see the full Poster 1 (PDF)]({{ site.baseurl }}{% link documents/workshop_7/1_POSTERJAVIERANDREU.pdf %}){:target="_blank" rel="noopener"}**
+**[Click here to see the full Poster 1 (PDF)]({{ site.baseurl }}{% link documents/workshop_7/POSTER_ANDREU_PINTADO.pdf %}){:target="_blank" rel="noopener"}**
 
 
 *Project link: [https://LINK](https://LINK
 
 
-Or [Download Poster 1 as PPTX]({{ site.baseurl }}{% link documents/workshop_7/1_POSTERJAVIERANDREU.pdf %}){:target="_blank" rel="noopener"}
+Or [Download Poster 1 as PPTX]({{ site.baseurl }}{% link documents/workshop_7/POSTER_ANDREU_PINTADO.pdf %}){:target="_blank" rel="noopener"}
 
 
 
 <figure>
-<img src='{{site.baseurl}}/documents/workshop_7/1_POSTERJAVIERANDREU.pdf' style="width:100%;" alt="Poster 1" align="middle" >
+<img src='{{site.baseurl}}/documents/workshop_7/POSTER_ANDREU_PINTADO.pdf' style="width:100%;" alt="Poster 1" align="middle" >
 <figcaption>Poster preview</figcaption>
 </figure>
 
