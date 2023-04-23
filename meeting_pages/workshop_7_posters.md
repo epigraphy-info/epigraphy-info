@@ -132,7 +132,6 @@ The EpiSearch team includes Federico Boschetti: Institute for Computational Ling
 
 </details>
 
-
 **[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/POSTER_TOMASSI.pdf %}){:target="_blank" rel="noopener"}**
 
 <figure>
