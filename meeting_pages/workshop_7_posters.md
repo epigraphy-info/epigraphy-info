@@ -26,7 +26,7 @@ The seventh workshop will host poster session dedicated to the presentation of n
 
 As was presented in the last [Epigraphy.info workshop](https://epigraphy.info/documents/workshop_6/P5_AndreuPintado_VALETE_VIATORES.pdf), in the last two years, a consortium created by several European Universities, with the financial support of Creative Europe, has developed a project, Valete vos viatores: travelling through Latin inscriptions across the Roman Empire with an essential focus: to develop new tools and supports that contribute to highlight the role played by inscriptions in the Roman world and to use these tools as material supports for new forms of university teaching in Roman Epigraphy, among them, a large virtual repository of digitialized inscriptions, a video game, a documentary serie of four chapters explaining main goals on research in Roman Epigraphy and an open access final publication. The poster will present some of these supports as well as the website created for this purpose in case it is useful for teachers of Roman Epigraphy around the world.
 
-*Further information: https://www.unav.edu/web/valete-vos-viatores*
+*Further information: [https://www.unav.edu/web/valete-vos-viatores](https://www.unav.edu/web/valete-vos-viatores)*
 
 </details>
 
@@ -47,6 +47,7 @@ As was presented in the last [Epigraphy.info workshop](https://epigraphy.info/do
 <summary>Abstract</summary>
 
 A rich production of Greek epigraphic poetry flourished during the Imperial Age. A corpus of about 1700 Greek metrical inscriptions exhibits significant diversity in the geographical, socio-historical, archaeological contexts, and the literary aspects. As a part of my PhD research project, I am redefining the corpus by adding inscriptions not included in the current editions. Moreover, I am collecting the data relating to the geographical, socio-historical, archaeological contexts and the literary aspects for each inscription.
+
 Over the next few years, I aspire to create a website where the inscriptions of the corpus are fully accessible as a single collection. The inscriptions will be placed on an interactive map, with references to the editions. The data relating to the socio-historical contexts and the literary aspects will be displayed for each inscription. The data are the following: the place of discovery, the epigraphic support, the date, the author, the clients and recipients, the literary genre, the length of the text, the type of meter. It will be also possible to carry out cross-searches thanks to a search index. The intention is to develop the website using Python and the Django web framework. The website will be HTML based, employ semantic markup based on XML, and include external links to the other epigraphy related websites. There are also plans to expand the database to include Greek metrical inscriptions from Late Antiquity (4th -6th century AD).
 
 </details>
@@ -214,6 +215,62 @@ This Project implies the acquisition of digital humanities skills by students an
 
 ---
 
+## AGILe: the First Dedicated Lemmatizer for Ancient Greek Inscriptions 
+
+**Evelien de Graaf, Silvia Stopponi, Jasper Bos, Saskia Peels-Matthey, Malvina Nissim**
+
+<details markdown="1">
+<summary>Abstract</summary>
+
+Lemmatization (i.e. linking word forms to their lemmata) of Ancient Greek corpora is of key importance. Lemmatized texts allow for more advanced analyses, for example to easier retrieve (co)-occurrences  and collocations, since it is possible to find all inflected forms of the same lemma with only one search. Despite these advantages, most corpora of Ancient Greek inscriptions have not been lemmatized yet. To remedy this problem, we present **an automatic lemmatizer dedicated to inscriptions**, which can  achieve up to 85% accuracy. 
+We first tested the performance of three available lemmatizers for ancient Greek, GLEM (Bary et al., 2017), the CLTK lemmatizer (Burns, 2020) and the UDPipe lemmatizer (Straka, 2019) on ancient Greek inscriptions. For evaluation, we used a manually lemmatized corpus, the *Collection of Greek Ritual Norms* project (Carbon et al., 2016), and compared the suggestions of these lemmatizers to the manually entered “gold” lemmata. Although reported performance of the lemmatizers on literary texts is around 90%, they perform worse (av. 46% correctness) on the CGRN, since they have been trained on, and are thus successful for literary texts, while epigraphical corpora come with specific challenges, notably,  large (dialectal) variation and spelling mistakes. 
+
+We then created an automatic lemmatizer for inscriptions (called [AGILe](AGILe)), learning directly from epigraphic material, thanks to recent advances in machine learning. Specifically, we trained the Stanza lemmatizer (Qi et al., 2020) on the CGRN, to obtain a lemmatizer tailored to epigraphy. We were able  to increase the performance of automatic lemmatization, achieving almost 85% accuracy.
+
+**Bibliography**
+
+Bary, C., Berck, P., Hendrickx, I. (2017), *A Memory-based Lemmatizer for Ancient Greek, in Proceedings of the 2nd International Conference on Digital Access to Textual Cultural Heritage*, 91– 95.
+Johnson, K. P., Burns, P. J., Stewart, J., Cook, T., Besnier, C., Mattingly, W. J. B. (2021), *The  Classical Language Toolkit: An NLP Framework for Pre-Modern Languages, in Proceedings of  the 59th Annual Meeting of the Association for Computational Linguistics and the 11th  International Joint Conference on Natural Language Processing: System Demonstrations*, 20- 29. 
+Carbon, J-M., Peels, S., Pirenne-Delforge, V. (2016), *A Collection of Greek Ritual Norms (CGRN)*,  <http://cgrn.ulg.ac.be/>. 
+Straka, M., Straková, J., Hajič, J. (2019), *Evaluating Contextualized Embeddings on 54 Languages in POS Tagging, Lemmatization and Dependency Parsing, ArXiv.Org Computing Research  Repository*, <https://arxiv.org/abs/1908.07448>. 
+Qi, P., Zhang, Y., Zhang, Y., Bolton, J., and Manning, C. D. (2020). *Stanza: A Python natural language processing toolkit for many human languages, in Proceedings of the 58th Annual
+Meeting of the Association for Computational Linguistics: System Demonstrations.*
+
+</details>
+
+**[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/POSTER_AGILE.pdf %}){:target="_blank" rel="noopener"}**
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_7/POSTER_AGILE.png' style="height:30%;" alt="Poster" align="middle" >
+<figcaption>For the interactive version, please, click on the PDF link above</figcaption>
+</figure>
+
+---
+
+## Behind the scenes of the MAPPOLA Database
+
+**Chiara Cenati, Alexander Gangoly, Victoria González Berdús, Peter Kruschwitz, Denisa Murzea, Rainer Simon, Paul Strobach, Mirko Tasso*
+
+<details markdown="1">
+<summary>Abstract</summary>
+
+At the V Epigraphy.info workshop in 2020 we presented the idea of an open-access platform  for the ERC-funded project MAPPOLA (Mapping out the poetic landscape(s) of the Roman  empire) displaying the circa 4000 Latin and Greek verse inscriptions produced in the Roman  world on an interactive map, according to various descriptors which include chronology, type  of inscription, prosopographical features, language, etc. Now, almost three years later, we would like to show to the Digital Epigraphy community the  progress we have made in the programming of the database and the technology we have  adopted. 
+
+The database application is programmed in Python using the Flask framework. It loads and  stores data from a relational database (MySQL) which we have given a specifically designed  schema that fits our needs. We have used Eagle Vocabularies as far as possible and we have  adapted them when necessary. For the bibliography we have set up a Zotero library which will  be also extra referenced in the database. EpiDoc is used for the transcription of the epigraphic  texts. For basic tags the Patrimonium EpiDoc converter has been implemented. Different  visualizations of the diplomatic and interpretive transcription as well as the display of verse  division have been obtained in EpiDoc. 
+
+Users will be able to display and filter the results of their search both as a list and on an  interactive map which has been implemented. The technical basis for the map is MapLibre, an  Open Source map library. Users will be able to switch between two different background layers,  a present-day map based on OpenStreetMap data from the MapTiler hosting service, and the  Digital Atlas of the Roman Empire map from the University of Gothenburg.
+
+</details>
+
+**[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/POSTER_MAPPOLA.pdf %}){:target="_blank" rel="noopener"}**
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_7/POSTER_MAPPOLA.png' style="height:30%;" alt="Poster" align="middle" >
+<figcaption>For the interactive version, please, click on the PDF link above</figcaption>
+</figure>
+
+---
+
 **If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).**
 
 <!-- 
@@ -253,7 +310,8 @@ DONE:
 6. Francesca Murano & Achille Felicetti, EpiDoc to CIDOC CRM alignment. Towards a semantic integration of epigraphic information
 7. Tamrazyan Hamest: Digitization of the inscriptions on the monuments of Armenian cultural heritage in Nagorno-Karabakh region
 8. Elena Duce Pastor: Digital epigraphy and social media for master students: the example of Linear B tablets
-
+9. Evelien de Graaf et al.: Lemmatizer for ancient Greek inscriptions
+10. Chiara Cenati: Behind the scenes of the MAPPOLA Database 
 
 
 
@@ -262,8 +320,6 @@ DONE:
 NOT-DONE:
 
 Amanda Rampichini: Digital epigraphy doctoral project
-Chiara Cenati: Behind the scenes of the MAPPOLA Database 
 Tom Gheldof et al.: An innovative approach in the study of ancient written artefacts: the ENCODE Project
-Evelien de Graaf et al.: Lemmatizer for ancient Greek inscriptions
 Trismegistos: poster TBD
 -->
