@@ -88,10 +88,42 @@ In the poster we outline the whole pipeline along with the sequence of necessary
 
 Acknowledgements: This new release is the result of a close cooperation between the Epigraphic Database Rome project and the SNSF-funded project A World of Possibilities (PI: Francesca Dell’Oro). It was made possible by an EAGLE-IDEA bursary granted to Mrs. Pauline Jacsont.
 
-**[Click here to see the full poster(PNG)]({{ site.baseurl }}{% link documents/workshop_7/4_POSTER_DELLOROETAL.png %}){:target="_blank" rel="noopener"}**
+**[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/POSTER_WOPOSS.pdf %}){:target="_blank" rel="noopener"}**
 
 <figure>
-<img src='{{site.baseurl}}/documents/workshop_7/4_POSTER_DELLOROETAL.png' style="height:30%;" alt="Poster" align="middle" >
+<img src='{{site.baseurl}}/documents/workshop_7/POSTER_WOPOSSL.png' style="height:30%;" alt="Poster" align="middle" >
+<figcaption>For the interactive version, please, click on the PDF link above</figcaption>
+</figure>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Oh5zsnVyQLc" title="When epigraphy meets linguistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+## Poster - EpiSearch. Epigraphic Manuscripts and Digital Humanities.
+
+**Tatiana Tommasi**
+
+<details markdown="1">
+<summary>*Abstract:*</summary>
+
+EpiSearch is a collaborative pilot project that explores the possibilities offered by technologies deployed in the field of the Digital Humanities to recover the data found in the so-called epigraphic manuscripts and to link them to the main online epigraphic databases existing today (EDR, EDH, EDCS, PHI). Epigraphic manuscripts, consisting of handwritten transcriptions made by erudites in post-classical times, are of fundamental value because they preserve the only record for textual sources that have not survived in their physical form. Despite their importance, epigraphic manuscripts have seldom received sufficient scholarly attention; moreover, until now they have never been studied through a digital approach. The EpiSearch project aims at bridging this gap.
+
+To reach this goal the EpiSearch team is working on a case study: an epigraphic manuscript written in Venice in the early 1700s by a local antiquarian, Giovanni Antonio Astori. This study is intended as a proof of concept, in view of a future large-scale and collaborative research plan. 
+The project has so far included three main steps.
+
+The first one explores the possibilities offered by Handwritten Text Recognition (HTR) to study epigraphic manuscripts.
+The second encompasses designing an integrated system, created by collecting data from the main online epigraphic databases; this will give us the possibility to match the inscriptions that are transcribed in the manuscript with their edition in digital resources.
+The last step will produce a digital application to browse a visually annotated version of the manuscript with hyperlinks to the online epigraphic databases for connecting the transcriptions of inscriptions with their current digital editions.
+
+The EpiSearch team includes Federico Boschetti: Institute for Computational Linguistics “A. Zampolli” – National Research Council of Italy (CNR-ILC), Pisa / Venice Centre for Digital and Public Humanities (VeDPH), Ca’ Foscari University of Venice; Lorenzo Calvelli, PI: Department of Humanities and VeDPH, Ca’ Foscari University of Venice; Franz Fischer: Department of Humanities and VeDPH, Ca’ Foscari University of Venice; Daniele Fusi: VeDPH, Ca’ Foscari University of Venice; Silvia Orlandi: Sapienza University of Rome; Thea Sommerschield: Department of Humanities, Ca’ Foscari University of Venice; Tatiana Tommasi: Department of Humanities, Ca’ Foscari University of Venice.
+
+</details>
+
+
+**[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/POSTER_TOMASSI.pdf %}){:target="_blank" rel="noopener"}**
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_7/POSTER_TOMASSI.png' style="height:30%;" alt="Poster" align="middle" >
 <figcaption>For the interactive version, please, click on the PDF link above</figcaption>
 </figure>
 
