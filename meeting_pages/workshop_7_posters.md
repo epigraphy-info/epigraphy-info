@@ -217,7 +217,7 @@ This Project implies the acquisition of digital humanities skills by students an
 
 ## AGILe: the First Dedicated Lemmatizer for Ancient Greek Inscriptions 
 
-**Evelien de Graaf, Silvia Stopponi, Jasper Bos, Saskia Peels-Matthey, Malvina Nissim**
+**Evelien de Graaf, Silvia Stopponi, Jasper Bos, Saskia Peels-Matthey & Malvina Nissim**
 
 <details markdown="1">
 <summary>Abstract</summary>
@@ -253,7 +253,7 @@ Meeting of the Association for Computational Linguistics: System Demonstrations.
 
 ## Behind the scenes of the MAPPOLA Database
 
-**Chiara Cenati, Alexander Gangoly, Victoria González Berdús, Peter Kruschwitz, Denisa Murzea, Rainer Simon, Paul Strobach, Mirko Tasso*
+**Chiara Cenati, Alexander Gangoly, Victoria González Berdús, Peter Kruschwitz, Denisa Murzea, Rainer Simon, Paul Strobach & Mirko Tasso*
 
 <details markdown="1">
 <summary>Abstract</summary>
@@ -270,6 +270,86 @@ Users will be able to display and filter the results of their search both as a l
 
 <figure>
 <img src='{{site.baseurl}}/documents/workshop_7/POSTER_MAPPOLA.png' style="height:30%;" alt="Poster" align="middle" >
+<figcaption>For the interactive version, please, click on the PDF link above</figcaption>
+</figure>
+
+---
+
+## Recognizing References to Ancient Sources in Modern Literature
+
+**Lamine Benrais, Mark Depauw & Bart Thijs**
+
+<details markdown="1">
+<summary>Abstract</summary>
+
+This project aims to provide scholars, peers and publishers the infrastructure to connect the more traditional scholarly literature and the world of digital tools. To do this, we develop and refine algorithms to distill references to ancient sources (inscriptions, papyri, authors, …) from articles and books stored as PDF. Combining a rule-based extraction system with existing gazetteers in Trismegistos, a gold standard will be established. This will then form the basis for more versatile and powerful machine learning techniques. 
+
+The references to the ancient sources will be harvested for bibliographic purposes but also the PDF will be annotated with a link to the Trismegistos database. This allows the Trismegistos website to offer users direct access to the ancient sources and to serve as a hub to related data and modern literature. As such the platform enhances interdisciplinarity, discloses sources to junior scholars and opens doors to new research opportunities.
+
+</details>
+
+**[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/POSTER_TM.pdf %}){:target="_blank" rel="noopener"}**
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_7/POSTER_TM.png' style="height:30%;" alt="Poster" align="middle" >
+<figcaption>For the interactive version, please, click on the PDF link above</figcaption>
+</figure>
+
+---
+
+## Epigraf: a research platform for the collection, annotation and publication of text data
+
+**Jakob Juenger**
+
+<details markdown="1">
+<summary>Abstract</summary>
+
+Epigraf (https://epigraf.inschriften.net/) is a research platform that provides tools for the collection, edition, and structured data export of text data such as inscriptions, for instance for the publication of the 'Deutsche Inschriften Online' (DIO). Epigraf works with EpiDoc export and APIs to provide a better basis for further analyses and prepares data imports from other (national and international) projects to implement an open search solution for epigraphic data. In order to adjust the formats, the Epigraf team is interested in connecting to the larger epigraphic community, such as Epigraphy.info. If you would be interested in participating with own data, you are welcome to contact the PI of the project, [Jakob Juenger](mailto:jakob.juenger@uni-muenster.de).
+
+</details>
+
+**[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/POSTER_JUENGER.pdf %}){:target="_blank" rel="noopener"}**
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_7/POSTER_JUENGER.png' style="height:30%;" alt="Poster" align="middle" >
+<figcaption>For the interactive version, please, click on the PDF link above</figcaption>
+</figure>
+
+---
+
+## ENCODE: Creating training material for the study of ancient writing cultures & digital epigraphy
+
+**Alice Bencivenni, Federico Aurora, Marta Fogagnolo & Tom Gheldof**
+
+<details markdown="1">
+<summary>Abstract</summary>
+
+This poster will present the results of the ENCODE project, a three-year (September 2020 - August 2023) Erasmus+ Strategic partnership for higher education, funded by the EU (partner universities: Università di Bologna, Universität Würzburg, KU Leuven, Università di Parma, Universitetet i Oslo). The ENCODE project aims at bridging the existing gap in the teaching/learning domain of ancient written cultures between the peculiar humanistic training and the now essential digital competences required for study, research and employment. It intends to promote digital competences among students and academic staff by developing innovative teaching modules with modern digital approaches and implementing them in the existing academic curricula.
+
+The project stems from the awareness that specialised disciplines dealing with ancient written artefacts like epigraphy, papyrology and palaeography have increasingly embraced digital advancements, for instance by developing tools for new forms of participatory research and collaborative publishing. However, many scholars are still reluctant toward these innovations or require new competences and training in the rapidly evolving field of Digital Humanities and AI. To this end, the project organises conferences, workshops and training activities aimed at fostering awareness and knowledge of digital tools applied to the study of ancient cultural heritage. In particular, the partner universities organised seven Multiplier Events related to the study and digital treatment of ancient written artefacts followed by practical workshops and training activities involving international experts from different disciplines. From these training experiences, the partners have produced:
+
+*a shared vocabulary of digital competences, learning outcomes and best practices in teaching and learning ancient writing cultures
+
+*a database, which collects innovative and customizable teaching modules (basic and advanced) and improves participatory and intercultural approaches to the ancient written heritage
+
+*a full guide to the teaching modules, including a MOOC, that will enhance the importance of innovative digital training and digital applications in the academic and professional environment
+
+*a community network among employers, institutions concerned with digital curation (libraries, museums, publishers), professionals active in museums and libraries, academics, alumni and students who want to start their studies in the area of ancient history, languages and cultures
+
+The shared vocabulary is based on two international reference frameworks, CALOHEE (for humanistic competences) and DigComp (for digital competences). They were used as input and inspiration for the development of the framework of digital competences, focused on teaching and learning about ancient writing cultures. A survey, conducted by the ENCODE partners and distributed via a questionnaire among participants (both teachers and students) of the workshops, provided us with the necessary examples of best practices for such teaching and learning activities in the field of ancient writing cultures.
+
+The teaching modules, specifically developed for the ENCODE training events, were added to the ENCODE database, in order to stimulate the re-use of training materials and provide a possible pathway through which users can access different forms of digital training in the field of ancient writing cultures. The ENCODE database follows the classification in learning outcomes and competences, developed in the shared vocabulary, and adds one or more focus domains. By enabling a SPARQL endpoint, the database can be queried on either of these various parameters (modules, competences, focuses, …).
+
+The ENCODE guidelines are developed to accompany these teaching modules and point to several innovative tools and methods that can be used to enhance digital competences in the field of ancient writing cultures. Additionally, a MOOC (massive open online course), also provides a different (“ideal”) pathway to this training. Organised as an online course on the dariahTeach platform, it offers the possibility to access - asynchronously - the different ENCODE training modules, while also referring to additional resources. The ENCODE course consists of 4 units with several lessons (‘Digital Epigraphy’, ‘Digital Papyrology’, ‘Multilingual-Multicultural Digital Infrastructures’ & ‘Linked Open Data for written artefacts’), including training materials and interviews with experts in the field.
+
+Finally, the community network brings together alumni and stakeholders/employers from different communities, both in the study of ancient written artefacts and in the field of Digital Humanities. This should enhance the interconnection between these different disciplines, assuring a constant and dynamic contact among different actors and collecting professional opportunities. To this end, the partners tried to find a platform that could host this community and found it in the European GoTriple infrastructure and in the Trust Building System (TBS), a tool that enables researchers in Social Sciences and Humanities to connect with each other and find reliable partners. The output is still in progress and will be released at the end of the project: the platform will allow alumni to attach their accurate portfolio with a description of the digital competences achieved in the field of ancient writing cultures, the employers to disseminate occupational opportunities in the field and rely on for specific professional needs since they will rapidly find access to the kind of competence required.
+
+</details>
+
+**[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/POSTER_ENCODE.pdf %}){:target="_blank" rel="noopener"}**
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_7/POSTER_ENCODE.png' style="height:30%;" alt="Poster" align="middle" >
 <figcaption>For the interactive version, please, click on the PDF link above</figcaption>
 </figure>
 
