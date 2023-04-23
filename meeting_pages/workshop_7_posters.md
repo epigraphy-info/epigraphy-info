@@ -230,9 +230,13 @@ We then created an automatic lemmatizer for inscriptions (called [AGILe](AGILe))
 **Bibliography**
 
 Bary, C., Berck, P., Hendrickx, I. (2017), *A Memory-based Lemmatizer for Ancient Greek, in Proceedings of the 2nd International Conference on Digital Access to Textual Cultural Heritage*, 91– 95.
+
 Johnson, K. P., Burns, P. J., Stewart, J., Cook, T., Besnier, C., Mattingly, W. J. B. (2021), *The  Classical Language Toolkit: An NLP Framework for Pre-Modern Languages, in Proceedings of  the 59th Annual Meeting of the Association for Computational Linguistics and the 11th  International Joint Conference on Natural Language Processing: System Demonstrations*, 20- 29. 
+
 Carbon, J-M., Peels, S., Pirenne-Delforge, V. (2016), *A Collection of Greek Ritual Norms (CGRN)*,  <http://cgrn.ulg.ac.be/>. 
-Straka, M., Straková, J., Hajič, J. (2019), *Evaluating Contextualized Embeddings on 54 Languages in POS Tagging, Lemmatization and Dependency Parsing, ArXiv.Org Computing Research  Repository*, <https://arxiv.org/abs/1908.07448>. 
+
+Straka, M., Straková, J., Hajič, J. (2019), *Evaluating Contextualized Embeddings on 54 Languages in POS Tagging, Lemmatization and Dependency Parsing, ArXiv.Org Computing Research  Repository*, <https://arxiv.org/abs/1908.07448>.
+
 Qi, P., Zhang, Y., Zhang, Y., Bolton, J., and Manning, C. D. (2020). *Stanza: A Python natural language processing toolkit for many human languages, in Proceedings of the 58th Annual
 Meeting of the Association for Computational Linguistics: System Demonstrations.*
 
