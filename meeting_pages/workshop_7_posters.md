@@ -133,10 +133,10 @@ The EpiSearch team includes Federico Boschetti: Institute for Computational Ling
 
 </details>
 
-**[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/POSTER_TOMASSI.pdf %}){:target="_blank" rel="noopener"}**
+**[Click here to see the full poster(PDF)]({{ site.baseurl }}{% link documents/workshop_7/POSTER_EPISEARCH.pdf %}){:target="_blank" rel="noopener"}**
 
 <figure>
-<img src='{{site.baseurl}}/documents/workshop_7/POSTER_TOMASSI.png' style="height:30%;" alt="Poster" align="middle" >
+<img src='{{site.baseurl}}/documents/workshop_7/POSTER_EPISEARCH.png' style="height:30%;" alt="Poster" align="middle" >
 <figcaption>For the full version, please, click on the PDF link above</figcaption>
 </figure>
 
@@ -385,25 +385,4 @@ Or [Download Poster 1 as PPTX]({{ site.baseurl }}{% link documents/workshop_7/PO
 
 ---
 
-DONE: 
-1. Javier Andreu Pintado (online): VALETE VOS VIATORES: ​​new tools for teaching and disseminating Roman epigraphy
-2. Pietro Ortimini, Greek Metrical Inscriptions from the Imperial Age (1st-3rd century AD): a Website Proposal.
-3. Christopher B. Zeichmann (online) Jewish military epigraphic evidence
-4. Francesca Dell’Oro, et al. (online): When epigraphy meets linguistics. The semantic annotation of modality in the Latin inscriptions of the Republican age.
-5. Tatiana Tomassi et al.: EpiSearch. Epigraphic Manuscripts and Digital Humanities
-6. Francesca Murano & Achille Felicetti, EpiDoc to CIDOC CRM alignment. Towards a semantic integration of epigraphic information
-7. Tamrazyan Hamest: Digitization of the inscriptions on the monuments of Armenian cultural heritage in Nagorno-Karabakh region
-8. Elena Duce Pastor: Digital epigraphy and social media for master students: the example of Linear B tablets
-9. Evelien de Graaf et al.: Lemmatizer for ancient Greek inscriptions
-10. Chiara Cenati: Behind the scenes of the MAPPOLA Database 
-
-
-
-
-
-NOT-DONE:
-
-Amanda Rampichini: Digital epigraphy doctoral project
-Tom Gheldof et al.: An innovative approach in the study of ancient written artefacts: the ENCODE Project
-Trismegistos: poster TBD
 -->
