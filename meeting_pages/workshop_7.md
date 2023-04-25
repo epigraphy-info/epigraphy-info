@@ -5,7 +5,7 @@ permalink: workshop_7/
 published: true
 ---
 
-
+* [Collaborative Google Doc Vocabulary/Ontology WG](https://docs.google.com/document/d/1FlZvx9i2MIf6hc25VMI5XfK7MabvoyMS9cqtWeqtCww/edit?usp=sharing){:target="_blank" rel="noopener"}
 
 # ENCODE/Epigraphy.info VII Workshop (Leuven)
 
