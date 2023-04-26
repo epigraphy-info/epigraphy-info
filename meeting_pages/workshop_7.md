@@ -12,6 +12,7 @@ The *seventh ENCODE/Epigraphy.info workshop* will be taking place between **Mond
 The event will be held primarily as in-person meeting, at the campus of KU Leuven’s [Faculty of Arts](https://www.arts.kuleuven.be/english/contact){:target="_blank" rel="noopener"}, but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending. 
 
 * [Collaborative Google Doc Vocabulary/Ontology WG](https://docs.google.com/document/d/1FlZvx9i2MIf6hc25VMI5XfK7MabvoyMS9cqtWeqtCww/edit?usp=sharing){:target="_blank" rel="noopener"}
+* [Collaborative Google Doc Outreach/Dissemination WG](https://docs.google.com/document/d/10ytYYpKCL2KJkA7FHOWvcHKPZa6Dzl3Ys7HJrC_nJbw/edit?usp=sharing){:target="_blank" rel="noopener"}
 
   * [Steering Committee elections + location Epigraphy.info VIII](#steering-committee-elections---location-epigraphyinfo-viii)
   * [Programme](#programme)
