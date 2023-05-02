@@ -73,6 +73,9 @@ Inscriptions of Israel/Palestine from the Persian period through the Islamic con
 ### <a href="http://sicily.classics.ox.ac.uk/" target="blank">I.Sicily
 Inscriptions of Sicily
 
+### <a href="https://www.prin-italia-antica.unifi.it/index.html?newlang=eng" target="blank">ItAnt
+Languages and Cultures of Ancient Italy. Historical Linguistics and Digital Models
+
 ### <a href="https://www.ias.edu/krateros" target="blank">Krateros
 Digital repository for the collections of epigraphic squeezes
 
