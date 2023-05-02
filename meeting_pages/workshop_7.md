@@ -25,7 +25,9 @@ The event will be held primarily as in-person meeting, at the campus of KU Leuve
 
 ## Steering Committee elections + location Epigraphy.info VIII
 
-During the Leuven workshop, the election of new members for the Steering Committee will take place and the location for the next workshop will be decided. If you would like to candidate as member of the Steering Committee or if you would like to host the next Epigraphy.info workshop, please send your application to ([info@epigraphy.info](mailto:info@epigraphy.info)). 
+During the Leuven workshop, the election of new members for the Steering Committee will take place and the location for the next workshop will be decided. If you would like to candidate as member of the Steering Committee or if you would like to host the next Epigraphy.info workshop, please send your application to ([info@epigraphy.info](mailto:info@epigraphy.info)).
+
+* [Steering Committee Elections and Bylaws](https://docs.google.com/document/d/1pQFUfXKv2niQc_fD2R9W_lOrUta-w1kcedMGI51SKHM/edit?usp=sharing){:target="_blank" rel="noopener"}
 
 ---
 
@@ -33,8 +35,7 @@ During the Leuven workshop, the election of new members for the Steering Committ
 
 You can check the complete programme [here](https://docs.google.com/document/d/1m5qEP2b7K-2Jw4du-LNByuMELui5UIltDQFR0V0LjLU/edit?usp=sharing){:target="_blank" rel="noopener"}. You can find more details about the ENCODE training sessions and the Epigraphy.info workshop below:
 
-
-* [Shared document Epigraphy.info VII (including Outreach WG & organization of Steering Committee)](https://docs.google.com/document/d/10ytYYpKCL2KJkA7FHOWvcHKPZa6Dzl3Ys7HJrC_nJbw/edit?usp=sharing){:target="_blank" rel="noopener"}
+* [Shared document Epigraphy.info VII (including Outreach WG report)](https://docs.google.com/document/d/10ytYYpKCL2KJkA7FHOWvcHKPZa6Dzl3Ys7HJrC_nJbw/edit?usp=sharing){:target="_blank" rel="noopener"}
 * [Vocabulary/Ontology WG report](https://docs.google.com/document/d/1FlZvx9i2MIf6hc25VMI5XfK7MabvoyMS9cqtWeqtCww/edit?usp=sharing){:target="_blank" rel="noopener"}
 * [Funding WG report](https://docs.google.com/document/d/1-TOFzX2Me4NDT9ozJpii-V4LSEpUn0YjI-GU49FcWwA/edit?usp=sharing){:target="_blank" rel="noopener"}
 * [Social Media WG report](https://docs.google.com/document/d/18jbQs9juidawTmMknuSs2FJh2WoHHK-efxOd0ZCbn-o/edit?usp=sharing){:target="_blank" rel="noopener"}
