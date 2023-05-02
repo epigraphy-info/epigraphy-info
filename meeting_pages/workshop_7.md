@@ -11,9 +11,6 @@ The *seventh ENCODE/Epigraphy.info workshop* will be taking place between **Mond
 
 The event will be held primarily as in-person meeting, at the campus of KU Leuven’s [Faculty of Arts](https://www.arts.kuleuven.be/english/contact){:target="_blank" rel="noopener"}, but we plan for some combination of a hybrid format for participants that would otherwise be prevented from attending. 
 
-* [Collaborative Google Doc Vocabulary/Ontology WG](https://docs.google.com/document/d/1FlZvx9i2MIf6hc25VMI5XfK7MabvoyMS9cqtWeqtCww/edit?usp=sharing){:target="_blank" rel="noopener"}
-* [Collaborative Google Doc Outreach/Dissemination WG](https://docs.google.com/document/d/10ytYYpKCL2KJkA7FHOWvcHKPZa6Dzl3Ys7HJrC_nJbw/edit?usp=sharing){:target="_blank" rel="noopener"}
-
   * [Steering Committee elections + location Epigraphy.info VIII](#steering-committee-elections---location-epigraphyinfo-viii)
   * [Programme](#programme)
   * [Programme ENCODE training sessions](#programme-encode-training-sessions)
@@ -35,6 +32,13 @@ During the Leuven workshop, the election of new members for the Steering Committ
 ## Programme
 
 You can check the complete programme [here](https://docs.google.com/document/d/1m5qEP2b7K-2Jw4du-LNByuMELui5UIltDQFR0V0LjLU/edit?usp=sharing){:target="_blank" rel="noopener"}. You can find more details about the ENCODE training sessions and the Epigraphy.info workshop below:
+
+
+* [Shared document Epigraphy.info VII (including Outreach WG & organization of Steering Committee)](https://docs.google.com/document/d/10ytYYpKCL2KJkA7FHOWvcHKPZa6Dzl3Ys7HJrC_nJbw/edit?usp=sharing){:target="_blank" rel="noopener"}
+* [Vocabulary/Ontology WG report](https://docs.google.com/document/d/1FlZvx9i2MIf6hc25VMI5XfK7MabvoyMS9cqtWeqtCww/edit?usp=sharing){:target="_blank" rel="noopener"}
+* [Funding WG report](https://docs.google.com/document/d/1-TOFzX2Me4NDT9ozJpii-V4LSEpUn0YjI-GU49FcWwA/edit?usp=sharing){:target="_blank" rel="noopener"}
+* [Social Media WG report](https://docs.google.com/document/d/18jbQs9juidawTmMknuSs2FJh2WoHHK-efxOd0ZCbn-o/edit?usp=sharing){:target="_blank" rel="noopener"}
+
 
 ## Programme ENCODE training sessions
 
