@@ -19,6 +19,9 @@ Carmina Latina Epigraphica Online
 ### <a href="https://www.inschriften.net/projekt.html" target="blank">Deutsche Inschriften online
 Deutsche Inschriften online
 
+### <a href="https://emili.celt.dias.ie" target="blank"> EMILI (Early Medieval Irish Latinate Inscriptions)
+A digital corpus of inscriptions in early Irish and the Insular Latin script
+
 ### <a href="https://www.epigraphik.uni-hamburg.de" target="blank"> Epigraphische Datenbank zum antiken Kleinasien
 Greek & Latin inscriptions from Turkey
 
@@ -87,6 +90,9 @@ Computerized Historical Linguistic Database of the Latin Inscriptions of the Imp
 
 ### <a href="https://mappola.eu/" target="blank">MAPPOLA
 Mapping out the poetic landscape(s) of the Roman empire
+
+### <a href="https://ogham.glasgow.ac.uk" target="blank">OG(H)AM
+Harnessing digital technologies to transform understanding of ogham
 
 ### <a href="http://patrimonium.huma-num.fr/" target="blank">PATRIMONIVM
 Geography and Economy of the Imperial Properties in the Roman World
