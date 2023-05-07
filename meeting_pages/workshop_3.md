@@ -33,6 +33,10 @@ Please note that the room provided by the University of Vienna for the training 
 
 * **[Programme of the EpiDoc & Technical Training]({{ site.baseurl }}{% link documents/workshop_3_training_programme.pdf %}){:target="_blank" rel="noopener"}**
 
+## Organisation and contact
+Chiara Cenati: chiara.cenati@univie.ac.at
+
+
 ## Venue
 
 The technical training and the epigraphy.info workshop will take place in different buildings of the [University of Vienna](https://www.univie.ac.at/fileadmin/user_upload/startseite/Dokumente/Umgebungsplan2014.pdf){:target="_blank" rel="noopener"}.
