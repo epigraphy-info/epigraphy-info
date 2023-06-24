@@ -10,10 +10,13 @@ The following list is based on the voluntary submission in the [Membership form]
 
 *Latest update: 2023-04-09*
 
+* Magdy Aly, Mansoura University, (<a href="https://orcid.org/0000-0002-0937-6552" target="blank">ORCID ID</a>)
 * Canan ARIKAN, University of Vienna
+* Vyron Bafounis
 * Alice Bencivenni, Alma Mater Studiorum Università di Bologna, (<a href="https://orcid.org/0000-0001-5778-8677" target="blank">ORCID ID</a>)
 * Rebecca Benefiel, Washington & Lee University, (<a href="https://orcid.org/0000-0002-3312-1517" target="blank">ORCID ID</a>)
 * Juan Manuel Bermúdez Lorenzo, Universidad Rey Juan Carlos, (<a href="https://orcid.org/0000-0002-7291-1079" target="blank">ORCID ID</a>)
+* Emine Bilgiç Kavak
 * John Bodel, Brown University, (<a href="https://orcid.org/0000000318206368" target="blank">ORCID ID</a>)
 * Alberto Cafaro, Università di Pisa, (<a href="https://orcid.org/0000-0003-2517-3146" target="blank">ORCID ID</a>)
 * Macarena Calderón Sánchez, Universidad Complutense de Madrid, (<a href="https://orcid.org/0000-0003-0764-3378" target="blank">ORCID ID</a>)
@@ -31,10 +34,13 @@ The following list is based on the voluntary submission in the [Membership form]
 * Timo Eichhorn
 * Almoatzbellah Elshahawi, Ministry of Tourism and Antiquities
 * Sergio España Chamorro, Sapienza Università di Roma
+* Silvia Evangelisti, University of Foggia, (<a href="https://orcid.org/0000-0002-7186-9518" target="blank">ORCID ID</a>)
+* Michel Feugère, CNRS, (<a href="https://orcid.org/0000-0002-4073-4231" target="blank">ORCID ID</a>)
 * Marta Fogagnolo, Università di Bologna, (<a href="https://orcid.org/0000-0001-5187-5163" target="blank">ORCID ID</a>)
 * Achille Felicetti, PIN, University of Florence, Prato, Italy, (<a href="https://orcid.org/0000-0003-4733-3171" target="blank">ORCID ID</a>)
 * Francisca Feraudi-Gruénais, Heidelberg Academy of Sciences and Humanities, (<a href="https://orcid.org/0000-0002-6230-4750" target="blank">ORCID ID</a>)
 * Olivier Gengler, Heidelberger Akademie der Wissenschaften, (<a href="https://orcid.org/0000-0003-4118-0901" target="blank">ORCID ID</a>)
+* Kyriaki Giannikou, Universiteit Gent, (<a href="https://orcid.org/0000-0002-5865-0810" target="blank">ORCID ID</a>)
 * Ilenia Gradante, University of Oxford, UK, (<a href="https://orcid.org/0000-0002-7176-2833" target="blank">ORCID ID</a>)
 * Andreas Hartmann, Universität Augsburg, (<a href="https://orcid.org/0000-0001-5465-5553" target="blank">ORCID ID</a>)
 * Petra Heřmánková, Aarhus University, (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID</a>)
@@ -52,10 +58,12 @@ The following list is based on the voluntary submission in the [Membership form]
 * Kresimir Matijevic, Europa-Universität Flensburg
 * Guénette Maxime, Université de Montréal
 * Emmanuelle Morlock, CNRS, (<a href="https://orcid.org/0000-0002-1617-8554" target="blank">ORCID ID</a>)
+* Alex Mullen, University of Nottingham, LatinNow, (<a href="https://orcid.org/0000-0002-9110-4678" target="blank">ORCID ID</a>)
 * Sandra Muñoz-Martínez, Universitat de Barcelona, (<a href="https://orcid.org/0000-0002-0546-5224" target="blank">ORCID ID</a>)
 * Francesca Murano, Università degli Studi di Firenze, (<a href="https://orcid.org/0000-0001-6490-3266" target="blank">ORCID ID</a>)
 * Tina Obershaw, Piac, Digital  
 * Silvia Orlandi, Sapienza Università di Roma, (<a href="https://orcid.org/0000-0003-1469-0666" target="blank">ORCID ID</a>)
+* Pietro Ortimini, Università di Pisa, (<a href="https://orcid.org/0000-0002-0479-8553" target="blank">ORCID ID</a>)
 * Pablo Ozcáriz Gil, Universidad Rey Juan Carlos, (<a href="https://orcid.org/0000-0002-3390-4386" target="blank">ORCID ID</a>)
 * Manolis Pagkalos, University of Groningen / Research Center for the Humanities, (<a href="https://orcid.org/0000-0002-3042-7932" target="blank">ORCID ID</a>)
 * María Luisa Pérez Gutiérrez
@@ -68,10 +76,13 @@ The following list is based on the voluntary submission in the [Membership form]
 * Nicolay Sharankov, University of Sofia, (<a href="https://orcid.org/0000-0003-3085-2813" target="blank">ORCID ID</a>)
 * Eleni Sfyridou, Ionian University (<a href="https://orcid.org/0000-0002-0940-3186" target="blank">ORCID ID</a>)
 * Bartosz Smogur, University of Warsaw/EPHE, (<a href="https://orcid.org/0000-0002-8380-6696" target="blank">ORCID ID</a>)
+* Laura Soffiantini, KU Leuven
 * Thea Sommershield, (<a href="https://orcid.org/0000-0002-6965-8105" target="blank">ORCID ID</a>)
 * Wolfgang Spickermann, University of Graz, (<a href="https://orcid.org/0000-0002-0467-3910" target="blank">ORCID ID</a>)
 * Michele Stefanile, Scuola Superiore Meridionale, (<a href="https://orcid.org/0000-0002-7404-5629" target="blank">ORCID ID</a>)
+* Hamest Tamrazyan, École Polytechnique Fédérale de Lausanne
 * Georgios Tsolakis, The University of Chicago, (<a href="https://orcid.org/0000-0001-9555-4038" target="blank">ORCID ID</a>)
+* Scott Vanderbilt, RIB Online, (<a href="https://orcid.org/0000-0002-2612-2677" target="blank">ORCID ID</a>)
 * Banban Wang, Ruprecht-Karls-Universität Heidelberg,  (<a href="https://orcid.org/0000-0002-0336-3080" target="blank">ORCID ID</a>)
 * Nora White, Maynooth University, (<a href="https://orcid.org/0000-0001-7957-651X" target="blank">ORCID ID</a>)
 * Fatih Yılmaz
