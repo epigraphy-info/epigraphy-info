@@ -8,7 +8,7 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a> at any time.
 
-*Latest update: 2023-04-09*
+*Latest update: 2023-06-24*
 
 * Magdy Aly, Mansoura University, (<a href="https://orcid.org/0000-0002-0937-6552" target="blank">ORCID ID</a>)
 * Canan ARIKAN, University of Vienna
