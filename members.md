@@ -8,7 +8,7 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a> at any time.
 
-*Latest update: 2023-06-24*
+*Latest update: 2023-07-04*
 
 * Magdy Aly, Mansoura University, (<a href="https://orcid.org/0000-0002-0937-6552" target="blank">ORCID ID</a>)
 * Canan ARIKAN, University of Vienna
@@ -39,6 +39,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Marta Fogagnolo, Università di Bologna, (<a href="https://orcid.org/0000-0001-5187-5163" target="blank">ORCID ID</a>)
 * Achille Felicetti, PIN, University of Florence, Prato, Italy, (<a href="https://orcid.org/0000-0003-4733-3171" target="blank">ORCID ID</a>)
 * Francisca Feraudi-Gruénais, Heidelberg Academy of Sciences and Humanities, (<a href="https://orcid.org/0000-0002-6230-4750" target="blank">ORCID ID</a>)
+* Valentino Gasparini, Universidad Carlos III de Madrid,  (<a href="https://orcid.org/0000-0002-3345-0062" target="blank">ORCID ID</a>)
 * Olivier Gengler, Heidelberger Akademie der Wissenschaften, (<a href="https://orcid.org/0000-0003-4118-0901" target="blank">ORCID ID</a>)
 * Kyriaki Giannikou, Universiteit Gent, (<a href="https://orcid.org/0000-0002-5865-0810" target="blank">ORCID ID</a>)
 * Ilenia Gradante, University of Oxford, UK, (<a href="https://orcid.org/0000-0002-7176-2833" target="blank">ORCID ID</a>)
