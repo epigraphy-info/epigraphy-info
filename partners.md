@@ -109,6 +109,9 @@ Epigraphic patrimony of Britain
 ### <a href="http://referenceworks.brillonline.com/browse/supplementum-epigraphicum-graecum" target="blank">Supplementum Epigraphicum Graecum (SEG)
 Greek inscriptions with critical apparatus
 
+### <a href="https://humanidadesdigitales.uc3m.es/s/sirar/page/inicio" target="blank">SIRAR
+Sylloge Inscriptionum Religionis Africae Romanae
+
 ### <a href="http://ancientgraffiti.org/Graffiti/" target="blank">The Ancient Graffiti Project
 Digital resource of graffiti of Herculaneum and Pompeii
 
