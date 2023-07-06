@@ -6,9 +6,44 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Jul 2023 10:53:50 +0200</pubDate>
-    <lastBuildDate>Thu, 06 Jul 2023 10:53:50 +0200</lastBuildDate>
+    <pubDate>Thu, 06 Jul 2023 11:33:07 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Jul 2023 11:33:07 +0200</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Release the EDEp editor for active testing</title>
+        <description>&lt;h1 id=&quot;release-the-edep-editor-for-active-testing&quot;&gt;Release the EDEp editor for active testing&lt;/h1&gt;
+
+&lt;p&gt;Dear community of Epigraphy.info,&lt;/p&gt;
+
+&lt;p&gt;We are glad to finally release the EDEp editor for active testing: &lt;a href=&quot;https://edep.adw.uni-heidelberg.de&quot;&gt;https://edep.adw.uni-heidelberg.de&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In the section ‘Demo’ you will find examples of editions provided by us. In the section ‘Workspace’ you can create and save new entries in order to refer to them in your feedback. Note: you need to be logged in to save. The login credentials are:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Username: edep&lt;/em&gt;
+&lt;em&gt;Password: edep&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Please test strictly, realistically and thoroughly as if you wanted to use the editor for your specific work. The testing period will last from today up to and including July 24th 2023. The duration of the test phase is deliberately kept manageable in order to enable concentrated and intensive testing before the summer break.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Suggestions for improvement and queries are kindly requested to this email address: edep-test@exist-db.org&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Thank you all in advance for your cooperation!&lt;/p&gt;
+
+&lt;p&gt;Kind regards,&lt;/p&gt;
+
+&lt;p&gt;David, Francisca, Jörn, Marietta, and Wolfgang&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 06 Jul 2023 05:00:00 +0200</pubDate>
+        <link>http://localhost:4000/news/2023/07/06/EDEP_editor.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2023/07/06/EDEP_editor.html</guid>
+        
+        <category>announcement</category>
+        
+        
+        <category>News</category>
+        
+      </item>
     
       <item>
         <title>NACGLE IV 2024 - call for papers</title>
@@ -308,23 +343,6 @@ More information about the venue, the registration and the programme will be ava
         <category>announcement</category>
         
         <category>social-media</category>
-        
-        
-        <category>News</category>
-        
-      </item>
-    
-      <item>
-        <title>Upcoming 6th Epigraphy.info workshop</title>
-        <description>&lt;p&gt;Dear digital epigraphists!&lt;/p&gt;
-
-&lt;p&gt;We are happy to announce that the &lt;strong&gt;6th Epigraphy.info workshop&lt;/strong&gt; will be organised by The Institute for Advanced Study and will take place from &lt;strong&gt;October 20th-22nd, 2021&lt;/strong&gt;. Due to the ongoing COVID-19 pandemic, the workshop will be held &lt;strong&gt;online&lt;/strong&gt; over Zoom.&lt;/p&gt;
-
-&lt;p&gt;For more information see &lt;a href=&quot;https://epigraphy.info/workshop_6/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 21 Sep 2021 12:00:00 +0200</pubDate>
-        <link>http://localhost:4000/news/2021/09/21/6th_Workshop.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2021/09/21/6th_Workshop.html</guid>
         
         
         <category>News</category>
