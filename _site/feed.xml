@@ -6,22 +6,23 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Jul 2023 11:33:07 +0200</pubDate>
-    <lastBuildDate>Thu, 06 Jul 2023 11:33:07 +0200</lastBuildDate>
+    <pubDate>Thu, 06 Jul 2023 11:37:59 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Jul 2023 11:37:59 +0200</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title>Release the EDEp editor for active testing</title>
-        <description>&lt;h1 id=&quot;release-the-edep-editor-for-active-testing&quot;&gt;Release the EDEp editor for active testing&lt;/h1&gt;
+        <title>Release of the EDEp editor for active testing</title>
+        <description>&lt;h1 id=&quot;release-of-the-edep-editor-for-active-testing&quot;&gt;Release of the EDEp editor for active testing&lt;/h1&gt;
 
 &lt;p&gt;Dear community of Epigraphy.info,&lt;/p&gt;
 
 &lt;p&gt;We are glad to finally release the EDEp editor for active testing: &lt;a href=&quot;https://edep.adw.uni-heidelberg.de&quot;&gt;https://edep.adw.uni-heidelberg.de&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;In the section ‘Demo’ you will find examples of editions provided by us. In the section ‘Workspace’ you can create and save new entries in order to refer to them in your feedback. Note: you need to be logged in to save. The login credentials are:&lt;/p&gt;
+&lt;p&gt;In the section &lt;em&gt;‘Demo’&lt;/em&gt; you will find examples of editions provided by us. In the section ‘Workspace’ you can create and save new entries in order to refer to them in your feedback. Note: you need to be logged in to save. The login credentials are:&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Username: edep&lt;/em&gt;
-&lt;em&gt;Password: edep&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Username: edep&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Password: edep&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Please test strictly, realistically and thoroughly as if you wanted to use the editor for your specific work. The testing period will last from today up to and including July 24th 2023. The duration of the test phase is deliberately kept manageable in order to enable concentrated and intensive testing before the summer break.&lt;/p&gt;
 
