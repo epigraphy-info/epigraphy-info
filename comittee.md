@@ -13,7 +13,7 @@ published: true
 * Aaron Hershkowitz (<a href="https://orcid.org/0000-0002-9456-8574" target="blank">ORCID ID: 0000-0002-9456-8574</a>), Institute for Advanced Study, USA. Secretary
 * Jonathan Prag (<a href="https://orcid.org/0000-0003-3819-8537" target="blank">ORCID ID: 0000-0003-3819-8537</a>), Oxford University, UK
 * Vincent Razanajao, Bordeaux Montaigne, Patrimonium, FR
-* Marietta Horster, Johannes-Gutenberg-Universität Mainz / CIL, DE. Organiser of the workshop 2024.
+* Marietta Horster (<a href="https://orcid.org/0000-0002-3345-0062" target="blank">ORCID ID: 0000-0002-3345-0062</a>), Johannes-Gutenberg-Universität Mainz DE. Organiser of the workshop 2024.
 
 
 
