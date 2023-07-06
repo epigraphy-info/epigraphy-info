@@ -8,7 +8,7 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a> at any time.
 
-*Latest update: 2023-07-04*
+*Latest update: 2023-07-06*
 
 * Magdy Aly, Mansoura University, (<a href="https://orcid.org/0000-0002-0937-6552" target="blank">ORCID ID</a>)
 * Canan ARIKAN, University of Vienna
@@ -46,6 +46,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Andreas Hartmann, Universität Augsburg, (<a href="https://orcid.org/0000-0001-5465-5553" target="blank">ORCID ID</a>)
 * Petra Heřmánková, Aarhus University, (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID</a>)
 * Aaron Hershkowitz, The Institute for Advanced Study, (<a href="https://orcid.org/0000-0002-9456-8574" target="blank">ORCID ID</a>)
+* Marietta Horster, Johannes Gutenberg-Universität Mainz (<a href="https://orcid.org/0000-0003-1434-224X" target="blank">ORCID ID<a>)
 * Pieter Houten, Universität Hamburg, (<a href="https://orcid.org/0000-0002-7872-782X" target="blank">ORCID ID</a>)
 * Dimitar Iliev, St. Kliment Ohridski University of Sofia, (<a href="https://orcid.org/0000-0002-5231-818X" target="blank">ORCID ID</a>)
 * Ivana Kosanović, Institute of Archaeology Belgrade, (<a href="https://orcid.org/0000-0002-5983-9922" target="blank">ORCID ID</a>)
