@@ -16,6 +16,9 @@ Collection of squeezes, photographs and books
 ### <a href="https://institucional.us.es/cleo/?lang=en" target="blank">CLEO
 Carmina Latina Epigraphica Online
 
+### <a href="https://humanidadesdigitales.uc3m.es/s/DEPHis/page/inicio" target="blank"> DEpHis
+Divine Epiteths in Hispania
+
 ### <a href="https://www.inschriften.net/projekt.html" target="blank">Deutsche Inschriften online
 Deutsche Inschriften online
 
