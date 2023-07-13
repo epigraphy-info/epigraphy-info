@@ -79,6 +79,9 @@ Inscriptions of Israel/Palestine from the Persian period through the Islamic con
 ### <a href="http://sicily.classics.ox.ac.uk/" target="blank">I.Sicily
 Inscriptions of Sicily
 
+### <a href="https://ithaca.deepmind.com/" target="blank">ITHACA
+Restoring and attributing ancient texts using deep neural networks
+
 ### <a href="https://www.prin-italia-antica.unifi.it/index.html?newlang=eng" target="blank">ItAnt
 Languages and Cultures of Ancient Italy. Historical Linguistics and Digital Models
 
@@ -102,9 +105,6 @@ Geography and Economy of the Imperial Properties in the Roman World
 
 ### <a href="http://petrae.huma-num.fr/fr/" target="blank">PETRAE
 Latin and Greek inscriptions (Institut Ausonius)
-
-### <a href="https://github.com/sommerschield/ancient-text-restoration" target="blank">PYTHIA
-A deep learning model for the automatic restoration of Greek inscriptions
 
 ### <a href="https://romaninscriptionsofbritain.org/" target="blank">Roman Inscriptions of Britain
 Epigraphic patrimony of Britain
