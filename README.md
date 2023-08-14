@@ -1,5 +1,5 @@
 # How to edit Epigraphy.info website
-**Petra Hermankova**, [@petrifiedvoices](https://github.com/petrifiedvoices) on GitHub
+Author: **Petra Hermankova**, [@petrifiedvoices](https://github.com/petrifiedvoices) on GitHub
 
 **Website:** static website using [GitHub pages infrastructure](https://guides.github.com/features/pages/) (Jekyll), pages written in markdown and then automatically transformed to html
 
@@ -23,7 +23,7 @@ Best to start with [https://guides.github.com/activities/hello-world/](https://g
 **In order to edit the website, you will need to:**
 1. create a GitHub Account
 1. ask to be added to the epigraphy-info Github organization (in order to work independently)
-1. or you can commit your changes and someone from within the organisation has to approve your changes
+1. or you can commit your changes and someone from within the organisation has to approve your changes (as merge request, but you will still need to have your own GitHub account)
 
 
 There are two modes of editing the website:
@@ -41,7 +41,7 @@ There are two modes of editing the website:
 
 ### LOCALLY on your computer (preferred mode)
 
-- safer option; steep learning curve but great for tracking changes anc collaboration between multiple people
+- safer option; steep learning curve but great for tracking changes and collaboration between multiple people
 - the easiest way is to use command line (Terminal) on your computer, but if you prefer there are several GUI Clients/softwares that you can use on Windows and Macs such as [GitHub Desktop](https://desktop.github.com/)
 	
 #### First time working with repo
@@ -51,7 +51,7 @@ There are two modes of editing the website:
 1. Add changes. Terminal: `git add “file” `
 1. Commit changes. Terminal: `git commit -m “my commit message” `
 1. Push changes to Github. Terminal: `git push origin “name of branch” `
-1. Go to the GithubPages and wait for the server to process the change.
+1. Go to the GithubPages and wait for the server to process the change. It may take up to 10 minutes.
 
 #### Second time working with repo
 
@@ -61,7 +61,7 @@ There are two modes of editing the website:
 1. Add changes. Terminal: `git add “file” `
 1. Commit changes. Terminal: `git commit -m “my commit message” `
 1. Push changes to Github. Terminal: `git push origin “name of branch” `
-1. Go to the GithubPages and wait for the server to process the change.
+1. Go to the GithubPages and wait for the server to process the change. It may take up to 10 minutes.
 
 #### Major changes
 
@@ -69,7 +69,7 @@ If you are planning major changes, or want to see how they look on the website b
 
 1. Go to the folder containing website docs on your computer.
 1. Pull all new changes from Github to your local computer.
-1. Using the command line, start the Jekyll server by typing into the Terminal `bundle exec jekyll serve`. You may need to install [Jekyll prerequisites](https://jekyllrb.com/docs/) to your 1. computer first.
+1. Using the command line, start the Jekyll server by typing into the Terminal `bundle exec jekyll serve`. You may need to install [Jekyll prerequisites](https://jekyllrb.com/docs/) to your computer first.
 1. Make edits to all your files.
 1. Type ‘http://localhost:4000’ in your browser and check the changes you have made on the website. 
 1. Once you are happy with your changes, add them, commit and push them to Github.
