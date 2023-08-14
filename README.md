@@ -1,7 +1,7 @@
 # How to edit Epigraphy.info website
 Author: **Petra Hermankova**, [@petrifiedvoices](https://github.com/petrifiedvoices) on GitHub
 
-**Website:** static website using [GitHub pages infrastructure](https://guides.github.com/features/pages/) (Jekyll), pages written in markdown and then automatically transformed to html
+**Website:** static website using [GitHub pages infrastructure](https://guides.github.com/features/pages/) (Jekyll), pages written in markdown and then automatically transformed to HTML
 
 If you are planning to do a major change (adding new pages, instead of editing the existing ones, changing layout templates and the design etc.) and need help, please contact Petra.
 
