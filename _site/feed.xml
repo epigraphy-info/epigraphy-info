@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Jul 2023 12:11:04 +0200</pubDate>
-    <lastBuildDate>Sat, 15 Jul 2023 12:11:04 +0200</lastBuildDate>
+    <pubDate>Fri, 29 Sep 2023 12:14:42 +0200</pubDate>
+    <lastBuildDate>Fri, 29 Sep 2023 12:14:42 +0200</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -20,9 +20,9 @@
 
 &lt;p&gt;In the section &lt;em&gt;‘Demo’&lt;/em&gt; you will find examples of editions provided by us. In the section ‘Workspace’ you can create and save new entries in order to refer to them in your feedback. Note: you need to be logged in to save. The login credentials are:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Username: edep&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Username:&lt;/strong&gt; edep&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Password: edep&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Password:&lt;/strong&gt; edep&lt;/p&gt;
 
 &lt;p&gt;Please test strictly, realistically and thoroughly as if you wanted to use the editor for your specific work. The testing period will last from today up to and including July 24th 2023. The duration of the test phase is deliberately kept manageable in order to enable concentrated and intensive testing before the summer break.&lt;/p&gt;
 

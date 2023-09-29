@@ -40,8 +40,6 @@ nav:
         url: workshop_2/
       - title: Workshop 3 (Vienna)
         url: workshop_3/
-      - title: Nacgle 2020
-        url: nacgle_2020/
       - title: Workshop 4 (Hamburg)
         url: workshop_4/
       - title: Workshop 5 (Leuven/online)
@@ -50,6 +48,8 @@ nav:
         url: workshop_6/ 
       - title: Workshop 7 (Leuven)
         url: workshop_7/ 
+      - title: Workshop 8 (Berlin)
+        url: workshop_8/ 
   - title: Documents
     url: documents/
     subnav:
