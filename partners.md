@@ -225,6 +225,11 @@ Collection of epigraphic squeezes of the Laboratory of Greek Epigraphy of Ca' Fo
 
 ---
 
+### <a href="https://scrollinhand.hu/" target="blank">Scroll in hand
+An Attempt to Explain a Common Iconographic Motive of Roman Funeral Representations
+
+---
+
 ### <a href="https://sketchfab.com/banalesmuseovirtual" target="blank">VM Los Bañales
 Museo Virtual – Los Bañales
 
