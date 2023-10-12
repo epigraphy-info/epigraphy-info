@@ -185,7 +185,7 @@ Epigraphic patrimony of Britain
 
 ---
 
-### <a href="https://scrollinhand.hu/" target="blank">Scroll in hand
+### <a href="https://scrollinhand.hu/" target="blank">Scroll in Hand
 An Attempt to Explain a Common Iconographic Motive of Roman Funeral Representations
 
 ---
