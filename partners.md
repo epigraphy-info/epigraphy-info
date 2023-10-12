@@ -185,6 +185,11 @@ Epigraphic patrimony of Britain
 
 ---
 
+### <a href="https://scrollinhand.hu/" target="blank">Scroll in hand
+An Attempt to Explain a Common Iconographic Motive of Roman Funeral Representations
+
+---
+
 ### <a href="http://referenceworks.brillonline.com/browse/supplementum-epigraphicum-graecum" target="blank">Supplementum Epigraphicum Graecum (SEG)
 Greek inscriptions with critical apparatus
 
@@ -222,11 +227,6 @@ U.S. Epigraphy Project
 
 ### <a href="http://mizar.unive.it/venicesqueeze/public/frontend/index" target="blank">Venice Squeeze Project
 Collection of epigraphic squeezes of the Laboratory of Greek Epigraphy of Ca' Foscari University of Venice
-
----
-
-### <a href="https://scrollinhand.hu/" target="blank">Scroll in hand
-An Attempt to Explain a Common Iconographic Motive of Roman Funeral Representations
 
 ---
 
