@@ -185,6 +185,11 @@ Epigraphic patrimony of Britain
 
 ---
 
+### <a href="https://scrollinhand.hu/" target="blank">Scroll in Hand
+An Attempt to Explain a Common Iconographic Motive of Roman Funeral Representations
+
+---
+
 ### <a href="http://referenceworks.brillonline.com/browse/supplementum-epigraphicum-graecum" target="blank">Supplementum Epigraphicum Graecum (SEG)
 Greek inscriptions with critical apparatus
 
