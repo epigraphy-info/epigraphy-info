@@ -79,11 +79,11 @@ social:
     desc: Fork us on GitHub
     share: true
 
-  - name: Twitter
-    icon: twitter
+  - name: X
+    icon: X
     username: epigraphy_info
-    url: https://twitter.com/epigraphy_info
-    desc: Follow us on Twitter
+    url: https://X.com/epigraphy_info
+    desc: Follow us on X
     share: true
 
   - name: Facebook
