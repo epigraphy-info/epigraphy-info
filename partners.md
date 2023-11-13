@@ -165,6 +165,17 @@ Mapping out the poetic landscape(s) of the Roman Empire
 
 ---
 
+### <a href="https://muzeuzalau.ro/" target="blank">Muzeul Județean de Istorie și Artă Zalău
+History and Art County Museum of Zalău
+
+---
+
+### <a href="https://mnab.ro/ro/" target="blank">Muzeul Național al Banatului: MNaB
+National Museum of Banat
+
+---
+
+
 ### <a href="https://ogham.glasgow.ac.uk" target="blank">OG(H)AM
 Harnessing digital technologies to transform understanding of ogham
 
