@@ -37,7 +37,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Elena Duce Pastor, Postdoctoral researcher Margarita Salas, Autonoma University of Madrid / Universidad de Zaragoza, (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID</a>)
 * David Eibeck, Universität Stuttgart / Johannes-Gutenberg-Universität Mainz
 * Timo Eichhorn
-* Liubov Eliseeva, Institute of World History (<a href="https://orcid.org/0000-0001-5448-6788" target="blank">ORCID ID</a>)
+* Liubov Eliseeva, Institute of World History, Moscow (<a href="https://orcid.org/0000-0001-5448-6788" target="blank">ORCID ID</a>)
 * Almoatzbellah Elshahawi, Ministry of Tourism and Antiquities
 * Sergio España Chamorro, Sapienza Università di Roma
 * Silvia Evangelisti, University of Foggia, (<a href="https://orcid.org/0000-0002-7186-9518" target="blank">ORCID ID</a>)
