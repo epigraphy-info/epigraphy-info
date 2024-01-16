@@ -40,6 +40,11 @@ Deutsche Inschriften online
 
 ---
 
+### <a href="https://www.hadw-bw.de/forschung/forschungsstelle/editionstools-fuer-eine-digitale-epigraphik-edep" target="blank"> EDEp (Editionstools für eine Digitale Epigraphik)
+A free online tool for the digital edition of inscriptions
+
+---
+
 ### <a href="https://emili.celt.dias.ie" target="blank"> EMILI (Early Medieval Irish Latinate Inscriptions)
 A digital corpus of inscriptions in early Irish and the Insular Latin script
 
