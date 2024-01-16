@@ -19,6 +19,8 @@ The following list is based on the voluntary submission in the [Membership form]
 * Emine Bilgiç Kavak
 * Glavin Blasdel, University of Groningen (<a href="https://orcid.org/0009-0000-4780-5795" target="blank">ORCID ID</a>)
 * John Bodel, Brown University, (<a href="https://orcid.org/0000000318206368" target="blank">ORCID ID</a>)
+* Jens Borchert-Pickenhan, Sächsische Akademie der Wissenschaften zu Leipzig
+* Silvia Braito, Universitat de Barcelona (<a href="https://orcid.org/0000-0002-9311-2719" target="blank">ORCID ID</a>)
 * Alberto Cafaro, Università di Pisa, (<a href="https://orcid.org/0000-0003-2517-3146" target="blank">ORCID ID</a>)
 * Macarena Calderón Sánchez, Universidad Complutense de Madrid, (<a href="https://orcid.org/0000-0003-0764-3378" target="blank">ORCID ID</a>)
 * Lorenzo Calvelli, Ca' Foscari University of Venice, (<a href="https://orcid.org/0000-0002-0920-9156" target="blank">ORCID ID</a>)
@@ -31,12 +33,15 @@ The following list is based on the voluntary submission in the [Membership form]
 * Gabriël de Klerk, Johannes Gutenberg-Universität Mainz
 * Cristina de la Escosura Balbas, U. Complutense of Madrid, (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID</a>)
 * Francesca Dell'Oro, University of Neuchâtel, (<a href="https://orcid.org/0000-0002-8343-356X" target="blank">ORCID ID</a>)
+* Muditha Dharmasiri, Maynooth University, Ireland
 * Elena Duce Pastor, Postdoctoral researcher Margarita Salas, Autonoma University of Madrid / Universidad de Zaragoza, (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID</a>)
 * David Eibeck, Universität Stuttgart / Johannes-Gutenberg-Universität Mainz
 * Timo Eichhorn
+* Liubov Eliseeva, Institute of World History (<a href="https://orcid.org/0000-0001-5448-6788" target="blank">ORCID ID</a>)
 * Almoatzbellah Elshahawi, Ministry of Tourism and Antiquities
 * Sergio España Chamorro, Sapienza Università di Roma
 * Silvia Evangelisti, University of Foggia, (<a href="https://orcid.org/0000-0002-7186-9518" target="blank">ORCID ID</a>)
+* Rolando Ferri, Università di Pisa (<a href="http://orcid.org/0000-0002-5241-8332" target="blank">ORCID ID</a>)
 * Michel Feugère, CNRS, (<a href="https://orcid.org/0000-0002-4073-4231" target="blank">ORCID ID</a>)
 * Marta Fogagnolo, Università di Bologna, (<a href="https://orcid.org/0000-0001-5187-5163" target="blank">ORCID ID</a>)
 * Achille Felicetti, PIN, University of Florence, Prato, Italy, (<a href="https://orcid.org/0000-0003-4733-3171" target="blank">ORCID ID</a>)
@@ -57,6 +62,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Anamarija Kurilić, University of Zadar, (<a href="https://orcid.org/0000-0001-7178-4584" target="blank">ORCID ID</a>)
 * Chiara Lasagni, Dipartimento di Studi Storici - Università di Torino, (<a href="https://orcid.org/0000-0003-3569-2417" target="blank">ORCID ID</a>)
 * Nicolas Laubry, Ecole française de Rome, (<a href="https://orcid.org/0000-0002-7155-9261" target="blank">ORCID ID</a>)
+* Wuyue Clara Liang, Universität zu Köln
 * Meilin Lyu, University Athens
 * Nenad Markovic
 * Florian Matei-Popescu, Vasile Pârvan Archaeological Institute, Bucharest (<a href="https://orcid.org/0000-0001-5360-042X" target="blank">ORCID ID</a>)
