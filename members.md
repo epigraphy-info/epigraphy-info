@@ -11,7 +11,7 @@ The following list is based on the voluntary submission in the [Membership form]
 *Latest update: 2024-01-16*
 
 * Magdy Aly, Mansoura University, (<a href="https://orcid.org/0000-0002-0937-6552" target="blank">ORCID ID</a>)
-* Canan ARIKAN, University of Vienna
+* Canan Arikan, University of Vienna
 * Vyron Bafounis
 * Alice Bencivenni, Alma Mater Studiorum Università di Bologna, (<a href="https://orcid.org/0000-0001-5778-8677" target="blank">ORCID ID</a>)
 * Rebecca Benefiel, Washington & Lee University, (<a href="https://orcid.org/0000-0002-3312-1517" target="blank">ORCID ID</a>)

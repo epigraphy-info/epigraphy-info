@@ -18,6 +18,7 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 
 ## Members
 
+* Canan Arikan (since 2024)
 * Marina Bastero Acha (<a href="https://orcid.org/0000-0003-2552-7055" target="blank">ORCID ID: 0000-0003-2552-7055</a>) (since 2021)
 * Chiara Cenati (<a href="https://orcid.org/0000-0003-4962-9611" target="blank">ORCID ID: 0000-0003-4962-9611</a>) (since 2019)
 * Elisa Daga (since 2023)
