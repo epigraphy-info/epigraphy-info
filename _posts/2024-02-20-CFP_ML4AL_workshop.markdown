@@ -11,11 +11,11 @@ published: true
 
 # 1st CfP: Workshop on Machine Learning for Ancient Languages (ML4AL) @ACL 2024
 
-On behalf of the Organising Committee, it is my pleasure to circulate the 1st Call for Papers for the Workshop on Machine Learning for Ancient Languages (ML4AL 2024).
-The Workshop is co-located at ACL 2024 and will take place in a hybrid format in Bangkok, Thailand and remotely, on 15 August 2024.
+On behalf of the Organising Committee, it is my pleasure to circulate the 1st *Call for Papers for the Workshop on Machine Learning for Ancient Languages (ML4AL 2024).*
+The Workshop is co-located at ACL 2024 and will take place in a **hybrid format in Bangkok, Thailand and remotely, on 15 August 2024.**
 
 The submission deadline is May 17th, 2024 11:59pm, UTC-12 (anywhere on Earth).
-Please refer to the ML4AL workshop website http://ml4al.com for the full CfP and for more information.
+Please refer to the ML4AL workshop website [http://ml4al.com](http://ml4al.com) for the full CfP and for more information.
 
 **DESCRIPTION**
 
@@ -32,7 +32,7 @@ We welcome contributions on topics related to, but not limited to:
 
 Encompassing such a vast and fertile remit for ML applications, the ML4AL Workshop is designed to facilitate and invigorate the ongoing collaborative impetus between ML and the Humanities.
 
-ACL (https://2024.aclweb.org/) is the most prominent conference on ML and NLP in the world, and this is the first time a workshop on the topic of ML for Ancient Languages is included at an ACL meeting.
+[ACL](https://2024.aclweb.org/) is the most prominent conference on ML and NLP in the world, and this is the first time a workshop on the topic of ML for Ancient Languages is included at an ACL meeting.
 
 We particularly welcome submissions which tackle low-data, underrepresented, non-Western ancient languages, and we encourage researchers and practitioners from diverse backgrounds, working on ancient languages, irrespective of their gender, ethnicity, nationality, or academic affiliations, including fellows tackling low-underrepresented and non-Western centric ancient languages.
 
@@ -42,6 +42,7 @@ We welcome long (8 page) and short (4 page) paper submissions, in PDF format fol
 Accepted regular workshop papers will be included in the workshop proceedings, but non-archival submissions are also welcome.
 
 All submissions should be completely anonymous to allow a double-blind review process (each paper is expected to be reviewed by at least three reviewers). Selected accepted papers will be presented orally and the rest as posters. Papers on relevant topics that have appeared or might appear in other venues (workshops, conferences, journals) are also welcome, which can be presented at the workshop but will not be included in the workshop proceedings. Already published contributions (excluding preprints) cannot be accepted.
+
 
 **ORGANISING COMMITTEE**
 
@@ -56,7 +57,8 @@ Dr Yudong Liu, Western Washington University, USA
 Dr Bin Li, Nanjing Normal University, China
 Dr Adam Anderson, UC Berkeley, USA
 
-Contact the organisers at: ml4al.organizers@gmail.com
+Contact the organisers at: **ml4al.organizers@gmail.com**
+
 
 **PROGRAM COMMITTEE**
 
@@ -64,10 +66,10 @@ Masayuki Asahara; John Bodel; Gregory Crane; Katrien De Graef; Sanhong Deng; Mar
 
 **IMPORTANT DATES**
 
-- Paper submission deadline: May 17, 2024
-- Notification of acceptance: June 17, 2024
-- Camera-ready paper due: July 1, 2024
-- Workshop: August 15, 2024
+- Paper submission deadline: **May 17, 2024**
+- Notification of acceptance: **June 17, 2024**
+- Camera-ready paper due: **July 1, 2024**
+- Workshop: **August 15, 2024**
 
 All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 
