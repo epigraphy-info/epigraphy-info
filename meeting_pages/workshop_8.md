@@ -7,7 +7,9 @@ published: true
 
 # Epigraphy.info VIII Workshop (Berlin)
 
-**CALL FOR PAPERS & POSTERS**
+# CALL FOR PAPERS & POSTERS 
+
+** Call for papers and posters has been closed, the programme is being finalised and will be released by the end of February**
 
 The *eighth Epigraphy.info workshop* will take place in **Berlin (Germany)**, from **3-5 April 2024**, hosted by the *Department of Digital History at the Humboldt University of Berlin*, and with the courtesy of the *Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)*.
 
@@ -28,10 +30,23 @@ For those interested, please send your abstract (around 200 words for papers and
 
 *The Steering Committee of Epigraphy.info*
 
+---
 
 
+## Registration Epigraphy.info workshop
+
+In order to register for the workshop, please, fill in the Google registration form (see below) until 25 March 2024.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvzk2wtH07lDAD4-7hblm1AYSI6AEFxTBa-APr2eU9efEmg/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+---
 
 
+## Steering Committee elections + location Epigraphy.info IX
+
+During the Epigraphy.info workshop, the election of new members for the Steering Committee will take place and the location for the next workshop will be decided. If you would like to candidate as member of the Steering Committee or if you would like to host the next Epigraphy.info workshop, please send your application to ([info@epigraphy.info](mailto:info@epigraphy.info)).
+
+* [Steering Committee Elections and Bylaws](https://docs.google.com/document/d/1pQFUfXKv2niQc_fD2R9W_lOrUta-w1kcedMGI51SKHM/edit?usp=sharing){:target="_blank" rel="noopener"}
 
 <!--- Copied from the last meeting, edit as needed or reuse the structure
 
@@ -50,13 +65,7 @@ The event will be held primarily as in-person meeting, at the campus of KU Leuve
 
 ---
 
-## Steering Committee elections + location Epigraphy.info VIII
 
-During the Leuven workshop, the election of new members for the Steering Committee will take place and the location for the next workshop will be decided. If you would like to candidate as member of the Steering Committee or if you would like to host the next Epigraphy.info workshop, please send your application to ([info@epigraphy.info](mailto:info@epigraphy.info)).
-
-* [Steering Committee Elections and Bylaws](https://docs.google.com/document/d/1pQFUfXKv2niQc_fD2R9W_lOrUta-w1kcedMGI51SKHM/edit?usp=sharing){:target="_blank" rel="noopener"}
-
----
 
 ## Programme
 
@@ -251,18 +260,18 @@ A list of hotels in Leuven (not exhaustive), in different price categories, can 
 
 ---
 
-## Registration Epigraphy.info workshop
-
-In order to register for the workshop, please, fill in the [Google registration form](https://forms.gle/tddAuTbn2nwzks6y6){:target="_blank" rel="noopener"} (see below) until DATE (in-person attendance) or until DATE for remote participation.
-
-<iframe src="LINK" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+-->
 
 
 
+
+
+
+<!---
 
 * [Programme of the Workshop TBA](){:target="_blank" rel="noopener"}
 
-* [Report on the sixth workshop in IAS - TBA]()
+* [Report on the seventh workshop in Leuven - TBA]()
 
 * [Collaborative Google Docs TBA](){:target="_blank" rel="noopener"}
 
