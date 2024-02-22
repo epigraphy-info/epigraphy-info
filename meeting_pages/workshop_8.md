@@ -17,11 +17,14 @@ published: true
 
  *If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
 
+ ---
+
+
 
  <a id="cfp"></a>
-## CAall for papers & posters 
+## Call for papers & posters 
 
-** Call for papers and posters has been closed, the programme is being finalised and will be released by the end of February**
+*Call for papers and posters has been closed, the programme is being finalised and will be released by the end of February* 
 
 The *eighth Epigraphy.info workshop* will take place in **Berlin (Germany)**, from **3-5 April 2024**, hosted by the *Department of Digital History at the Humboldt University of Berlin*, and with the courtesy of the *Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)*.
 
@@ -49,11 +52,11 @@ For those interested, please send your abstract (around 200 words for papers and
 
 In order to register for the workshop, please, fill in the Google registration form (see below) until 25 March 2024. The registration is open until **25 March 2024** and you change your answers also until 25 March 2024. 
 
-Zoom links for remote participants will be circulated during the week before the workshop to the registered email address.
+**Please note that some parts of the workshop can be attended to only in person as some rooms and location do not allow remote participation.** Zoom links for remote participants will be circulated during the week before the workshop to the registered email address.
 
-**Please note that some parts of the workshop can be attended to only in person as some rooms and location do not allow remote participation.** 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvzk2wtH07lDAD4-7hblm1AYSI6AEFxTBa-APr2eU9efEmg/viewform?embedded=true" width="640" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvzk2wtH07lDAD4-7hblm1AYSI6AEFxTBa-APr2eU9efEmg/viewform?embedded=true" width="800" height="1000" frameborder="1" marginheight="2" marginwidth="2">Loading…</iframe>
 
 ---
 
@@ -73,6 +76,9 @@ During the Epigraphy.info workshop, the election of new members for the Steering
 
 TBA
 
+---
+
+
 
  <a id="shared"></a>
 
@@ -83,6 +89,9 @@ TBA
 * [Report on the seventh workshop in Leuven - TBA]()
 
 TBA
+
+---
+
 
 <a id="posters"></a>
 ## Digital poster session
