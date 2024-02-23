@@ -8,12 +8,9 @@ published: true
 # Epigraphy.info VIII Workshop (Berlin)
 
  - [Registration](#registration)
- - [Programme](#programme)
-  - [Day 1: Wednesday 3 April](#day1)
-  - [Day 2: Thursday 4 April](#day2)
-  - [Day 3: Friday 5 April](#day3)
+ - [Programme](#programme): [Day 1: Wednesday 3 April](#day1), [Day 2: Thursday 4 April](#day2), [Day 3: Friday 5 April](#day3)
  - [Abstracts](#abstracts)
- - [Online posters](#posters)
+ - [Posters](#posters)
  - [Workshop shared documents](#shared)
  - [Steering Committee Elections](#sc)
  
@@ -112,7 +109,7 @@ For abstracts, see [here](#abstracts)
 | 4.4. 14.15 | HU, Senatssaal | **Presentation 4** | Georgios **Tsolakis** (Chicago), _Renewing Roman Law: Epigraphic Problems, Encoding Practices and Legal Challenges_ [abstract](#pres4)|
 | 4.4. 14.45 | HU, Senatssaal | **Presentation 5** | Tsvetan **Vasilev,** Dimitar **Iliev** (Sofia), _ORASIS: A Digital Collection of Bulgaria’s Post-Byzantine Church Murals_ [abstract](#pres5)|
 | 4.4. 15.15 | Lounge | **_Coffee Break_** |     |
-| 4.4. 15.45-17.10 | HU, 2070A | **Hands-on Session** | Imran **Asif**, Petra **Hermankova**, Marietta **Horster**, Jonathan **Prag** (Oxford, Mainz, Aarhus), _Using SPARQL with epigraphic RDF_ [abstract](#handson4) |
+| 4.4. 15.45-17.10 | HU, 2070A | **Hands-on Session** | Imran **Asif**, Petra **Heřmánková**, Marietta **Horster**, Jonathan **Prag** (Oxford, Mainz, Aarhus), _Using SPARQL with epigraphic RDF_ [abstract](#handson4) |
 | 4.4. 15.45-17.10 | HU, 2049A | **Hands-on Session** | Silvia **Stopponi**, Evelien **de Graaf**, Saskia **Peels-Matthey** (Groningen, Leuven), _Training an Automatic Lemmatizer for Ancient Greek Inscriptions_ [abstract](#handson5) |
 | 4.4.<br><br>17.15 | HU, Senatssaal | **Keynote** | Marja **Vierros** (Helsinki), _From EpiDoc XML files to a linguistically searchable corpus_ |
 | 4.4. 19.00 |     | **_Conference Dinner_**      | |
@@ -146,12 +143,12 @@ For abstracts, see [here](#abstracts)
 To see the digital posters, please, go to the **[Digital poster session]({{ "../workshop_8_posters/"}})** page.
 
 1. Federico **Aurora** (Oslo): _Integration and collaboration in Epigraphy_: _EpiDoc-export/import function for Database of Mycenaean at Oslo_ _– DAMOS_
-2. Emine **Bilgiç Kavak** (Sakarya): _Digitization of Inscriptions in the Isparta Yalvaç Archaeology Museum_
+2. Emine **Bilgiç Kavak**, Nurşah Çokbankir **Şengül** (Sakarya): _Digitization of Inscriptions in the Isparta Yalvaç Archaeology Museum_
 3. Andrea **Brunello**, Alessandro **Locaputo**, Stefano **Magnani**, Davide **Redaelli**, Giuseppe **Serra** (Udine): _AI-aided analysis and restoration of late-antique Christian epigraphs (LACUNAE)_
 4. Elena **Duce Pastor** (Madrid): _Digital Epigraphy and Twitter: a proposal of public History for master students_
 5. Marta **Fogagnolo** (Bologna): _Writing on more than one face (in Didyma and Miletus): an epigraphic database (EFES)_
 6. Aliénor **Genety** (Lyon): _Épigraphie latine numérique de Césarée de Maurétanie : une recherche sur les données et les métadonnées d’un groupe de monuments funéraires (Ier siècle avant J.-C. au IIIe siècle après J.-C.)_
-7. Petra **Hermankova** (Mainz/Aarhus), Jonathan **Prag** (Oxford), Imran **Asif** (Oxford), Marietta **Horster** (Mainz): _FAIR – Epigraphic vocabulary_
+7. Petra **Heřmánková** (Mainz/Aarhus), Jonathan **Prag** (Oxford), Imran **Asif** (Oxford), Marietta **Horster** (Mainz): _FAIR – Epigraphic vocabulary_
 8. Estelle **Ingrand-Varenne** (Poitiers), Michèle **Brunet** (Lyon), Damien **Strzelecki** (Lyon): _Epigraphy in the Biblissima+ project_
 9. Christoph **Klose** (Berlin): _Community Cluster: “Objects as Information Carriers” (NFDI4Objects)_
 10. Winfried **Kumptisch**, Wolfgang **Spickermann** (Graz): _Celtic Divine Names in Latin Inscriptions of the Military Zone in Germania Superior on the Left Bank of the River Rhine_
@@ -188,6 +185,97 @@ For poster abstracts, see [here](#posterabs)
 <a id="abstracts"></a>
 ## Abstracts
 
+Go to [Hands-on session abstracts](#handsonabs)
+Go to [Prsentation abstracts](#presabs)
+Go to [Poster abstracts](#posterabs)
+
+<a id="handsonabs"></a>
+### Hands-on sessions
+
+ <a id="handson1"></a>
+#### Hands-on session 1
+
+**The Digital Epigraphy and Archaeology Project: Hands-on Session**
+
+*Eleni Bozia (Florida)*
+
+Over the past decade, archaeology and epigraphy have been reconsidering their modus operandi.  Prompted and facilitated by technological advances, motivated by new research questions, and  challenged by growing calls to engage with contemporary audiences, they have been  experimenting with methodological approaches and interdisciplinary collaborations. Within this  context, the Digital Epigraphy and Archaeology project (DEA) has been developing 3D  digitization techniques that accommodate various types of artifacts, has been incorporating  multidisciplinary approaches to achieve a more holistic stance towards the objects of study, and  has focused on the reproducibility and accessibility of both its techniques and the 3D models. In  this session, we propose to showcase our open-source and open-access cloud system to interested  scholars and teach them how to use it [https://www.digitalepigraphy.org/db/app/sfs](https://www.digitalepigraphy.org/db/app/sfs).  
+
+The Digital Epigraphy and Archaeology project (DEA) Toolbox [https://www.digitalepigraphy.org/](https://www.digitalepigraphy.org/) is a unique initiative as it provides the methods to digitize  squeezes with minor handling with the use of an office scanner. The Toolbox runs as a web  application that focuses on the digitization, 3D visualization, data mining, and electronic  dissemination of artifacts. The tridimensional digitization is achieved through the bidirectional  scanning of the squeeze using a typical 2D office scanner. The scanned images are then processed  by the algorithm we developed, which analysesthe depicted shading in the images and reconstructs  in 3D the original inscription. The advantages are numerous: 1) The process does not require any expensive equipment. 2) The squeeze can be safely preserved in a digitized form, thus eliminating  the possibility of deterioration of the squeezed paper. 3) They can also be distributed electronically,  facilitating epigraphic studies. 4) Finally, the digital squeezes can be more effectively visualized compared to the 2D images, as they can be viewed from different angles, under different artificial  lighting conditions, and in different zooming scales. 
+
+The methods developed by the DEA project have been widely adopted and used so far in  several projects, including the digitization of the collection of squeezes from the Monumentum Ancyranum, a collection of Abraham Lincoln’s Letters housed at the Library of Congress,  collections of squeezes from Thasos, the Rosetta Stone, and several other projects that required  different configuration of methods and accommodation of needs both in terms of the collections and the researchers [https://research.dwi.ufl.edu/projects/digitalepigraphy.org/list/projects/](https://research.dwi.ufl.edu/projects/digitalepigraphy.org/list/projects/).
+
+ <a id="handson2"></a>
+#### Hands-on session 2
+
+**Patrimonium Editor for the Late Egyptian Artefact Database: a hands-on session on an eXist-db application suite**
+
+*Vincent Razanajao (Bordeaux)*
+
+Developed from 2017 onwards for the ERC Patrimonium project directed by Alberto Dalla Rosa (University Bordeaux Montaigne, Ausonius Institute), the Patrimonium Editor is a Virtual Research  Environment (VRE) that makes easier the creation of XML/TEI/EpiDoc files, and their enrichment with  metadata relating to people and places [https://patrimonium.huma-num.fr/](https://patrimonium.huma-num.fr/). This all-in-one web  application built upon eXist-db [https://exist-db.org/](https://exist-db.org/) has been implemented for other projects at  the Ausonius Institute, including the GymnAsia Project jointly run by Pierre Fröhlich (University Bordeaux Montaigne, Ausonius Institute) and Christof Schuler (DAI, München)  [https://gymnasia.huma-num.fr/](https://gymnasia.huma-num.fr/). 
+
+More recently, the Patrimonium Editor has been chosen to serve as the VRE for the Late Egyptian  Artefact Database (LEAD), a project directed by Laurent Coulon and Olivier Perdu (Collège de France)  that aims to create a comprehensive resource for the study of Late Egyptian art production,  especially statuary [https://lead.ifao.egnet.net/](https://lead.ifao.egnet.net/). 
+
+Drawing on the experience of this implementation of the Patrimonium Editor, the aim of this session  is two-fold: 1) to present the required steps to install, customize and run the application suite; 2) give  the opportunity to attendees to deploy a basic, ready-to-use version of the virtual research  environment, and to start to adapt it the needs of their projects, whether it concerns digital  epigraphic editions or projects dealing with epigraphic sources. 
+
+The prerequisites for this session are to have a computer running an instance of the last version of  eXist-db, as well as a local web server ready to be set-up with a virtual host (practical details will be  sent beforehand).
+
+
+
+ <a id="handson3"></a>
+#### Hands-on session 3
+
+**Epigraf Tool Demo. Digital Editions of Latin and German Inscriptions**
+
+*Jakob Jünger and Chantal Gärtner (University of Münster), Markus Studer and Jörg Witzel and Maximilian Michel (Digital Academy Mainz)*
+
+Epigraf is developed and used in the interacademic project "The German Inscriptions" for creating editions of medieval inscriptions. Object descriptions, transcriptions, images, geodata and metadata are edited and published using the application. Epigraf is currently  being migrated from a desktop application to a web application which, in conjunction with a  flexible data model, will enable other projects to work with Epigraf.  
+
+Epigraf supports the full data lifecycle: 
+- Collection: Articles contain object descriptions, editions, images and other metadata. The data model is open to support a wide range of data domains via configuration. Data can be both created in the application and imported from external files. 
+- Annotation: A flexible annotation toolbar can be adapted to meet the project  specifications, for example to enable EpiDoc annotations. 
+- Linking: Data may be linked to each other and norm data is used to link to external  data repositories.. 
+- Analysis: Articles can be searched and filtered by their content and annotations.  Different views such as a map for geocoded objects are available. All data can be  accessed via programming interfaces and downloaded in common file formats. 
+- Publication: A pipeline system can be used to generate documents in EpiDoc, for  Word or other file formats. 
+Further, application programming interfaces allow  transferring data to other publication platforms.  
+
+At the epigraphy.info meeting, we want to present the features with practical examples and  invite participants to consider using it in future projects. In the coming years, Epigraf will be  opened to a wider range of existing and new inscription data to support a general repository and search engine for the community.
+
+ <a id="handson4"></a>
+#### Hands-on session 4
+
+**Using SPARQL with epigraphic RDF**
+
+*Imran Asif, Petra Heřmánková, Marietta Horster, Jonathan Prag (Oxford, Mainz, Aarhus; FAIR Epigraphy)*
+
+
+The FAIR Epigraphy project is dedicated to developing tools, resources and best practice guidelines  for the development of Findable, Accessible, Interoperable and Reusable (FAIR) data for epigraphic  study. Building on the work of the Epigraphy.info community, the FAIR Epigraphy project  advocates the use of a Linked Open Data approach, with individual projects sharing data through the  use of the RDF (Resource Description Framework) standard (see [https://www.w3.org/egov/wiki/Linked_Open_Data)](https://www.w3.org/egov/wiki/Linked_Open_Data))). The project aims to develop and host a RDF  triple store to serve this ambition. Integral to such an approach are community-agreed standards  (vocabularies), such as the EAGLE vocabularies, and a conceptual framework (ontology) to connect  those standards. Development work is ongoing in the creation of revised vocabularies and a more  fully worked-out ontology, building on the preliminary work of [https://www.eagle-network.eu/resources/vocabularies/](https://www.eagle-network.eu/resources/vocabularies/), [https://epigraphy.info/vocabularies_wg/](https://epigraphy.info/vocabularies_wg/), and  [https://doi.org/10.5281/zenodo.4639507](https://doi.org/10.5281/zenodo.4639507). A proof-of-concept triple-store, with an interface at  https://browser.inscriptiones.org/, demonstrates that this approach is viable, and in the coming  months this will be expanded alongside the consolidation of the epigraphic ontology. In order to get  maximum value from a RDF triple-store, without building an unsustainable software interface, users  need to be able to query the data using the SPARQL standard ([https://www.w3.org/TR/sparql11-overview/](https://www.w3.org/TR/sparql11-overview/), as at e.g. [https://browser.inscriptiones.org/#](https://browser.inscriptiones.org/#)).  
+
+This interactive session aims to introduce participants to the application of SPARQL (SPARQL  Protocol and RDF Query Language) within the context of epigraphic RDF datasets. SPARQL serves as  a powerful query language for extracting and manipulating data from RDF-based repositories. The  session will focus on practical exercises, guiding attendees through the basics of constructing  SPARQL queries tailored to epigraphic data. Prior familiarity with SPARQL is recommended as a  prerequisite: participants can benefit from the online SPARQL tutorial available at  [http://www.macs.hw.ac.uk/SWeL/2019/10/28/sparql-for-beginners/](http://www.macs.hw.ac.uk/SWeL/2019/10/28/sparql-for-beginners/). Participants will need to bring  a wifi-enabled laptop with them. 
+
+Through step-by-step tutorials and real-world examples using sample epigraphic RDF datasets,  attendees will learn to formulate SPARQL queries to retrieve specific information and navigate  relationships. The session will cover fundamental SPARQL syntax, including querying patterns,  filtering, aggregations, and graph traversal techniques. 
+By the workshop's conclusion, participants will have acquired foundational skills in effectively  leveraging SPARQL queries to interrogate epigraphic RDF datasets. This session is designed for  researchers, scholars, and practitioners interested in leveraging semantic technologies for exploring,  analyzing, and interpreting epigraphic data. Feedback from participants will inform the further  development of both vocabularies and ontologies in the ongoing work of the FAIR Epigraphy Project.
+
+ <a id="handson5"></a>
+#### Hands-on session 5
+
+**Training an Automatic Lemmatizer for Ancient Greek Inscriptions**
+
+*Silvia Stopponi (University of Groningen), Evelien de Graaf (KU Leuven), dr. Saskia Peels-Matthey (University of Groningen)*
+
+Despite the recent applications of Natural Language Processing techniques to Ancient Greek, no lemmatizer existed for Ancient Greek inscriptions until last year. However, lemmatization is a necessary step if one wants to retrieve all the occurrences of a lemma in a corpus of inscriptions. Subsequently, having observed an unsatisfactory performance of available lemmatizers trained on literary Ancient Greek, particularly weak at dealing with specific characteristics of inscriptions (such as dialectal and spelling variation), we developed AGILe at the University of Groningen: the first automatic lemmatizer trained and tested on Ancient Greek inscriptions (de Graaf et al. 2022; Peels-Matthey et al. in press).
+
+Our lemmatizer achieves an accuracy of 85% on the test set (a portion of the Corpus of Greek Ritual Norms), and performs similarly on other digital collections of inscriptions. It can thus save considerable time for scholars who wish to lemmatize their collection of inscriptions. AGILe was published open access at [https://github.com/agile-gronlp](https://github.com/agile-gronlp) and its appearance has been welcomed by many scholars working on (digital) epigraphy. However, we received several requests for instructions from scholars who wanted to use it, but were not familiar with programming, and thus needed a more user-friendly access than a GitHub repository.
+
+We already set up a provisional Google Colab notebook that provides a ready-to-use version of AGILe that we plan on expanding and would like to offer a practical session of its versatile uses for (digital) epigraphers. We have thus far been unable to provide detailed instructions on using AGILe as the presentations we gave until now were indeed very limited in time and more general in scope, and never focused on how to practically use AGILe.
+This is the structure we propose for our contribution:
+
+- In the first 20 minutes, we give a more technical presentation in which we explain the technicalities of AGILe and give details for example about input and output, the characteristics of the training data, and the strengths and limitations of AGILe, especially in handling phenomena that are typical of the language of inscriptions.
+- In the subsequent 20 minutes, we give a hands-on session accessible to people with and without programming skills. We aim to show how AGILe can be integrated into the workflow of any epigrapher, explaining different possible input and output formats. In particular, we want to show how it can be used in tandem with Epidoc-compliant XML. During the hands-on session we help participants to lemmatize the inscriptions they are interested in and we explain how to customize punctuation removal.
+
+---
+
+<a id="presabs"></a>
 ### Presentations
 
 <a id="pres1"></a>
@@ -260,90 +348,6 @@ This paper aims to provide a detailed presentation of the SIRAR platform (Syllog
 
 The  ALEAM  (Atlas  of  the  Landed  Estates  in  Ancient  Maghreb)  project  aims  to  comprehensively study the large landholdings of ancient North Africa. We will ask how a  world  empire  became  dependent  on  this  one  region  for  wheat  and  why  North  Africa  managed  to  distinguish  itself  from  the  rest  through  its  large  agricultural  estates.  If  imperial  estates  have  been  studied  in  recent  projects,  the  properties  of  private  individuals,  which  preceded  them  and  with  which  the  imperial  property  coexisted  throughout its history, have never been the subject of a global study. Before the interpretation of the data, we will proceed with the creation and the filling of  the database that will give rise to the atlas of the landed estates of the ancient Maghreb. It  will  be  mainly  fed  with  epigraphic,  but  also  archaeological  and  literary  sources.  Its  computer structure will be the adaptation of an existing open source platform. From the  relational database, records of documents, individuals and sites will be linked, allowing  the  consultation  of  objective  data.  A  committee  of  specialists  in  African  antiquity  will  follow the work of creating and filling the database/atlas. This presentation will be divided in the scientific aspects of the project and the technical  aspects of the in-progress database.
 
----
-
-### Hands-on sessions
-
- <a id="handson1"></a>
-#### Hands-on session 1
-
-**The Digital Epigraphy and Archaeology Project: Hands-on Session**
-
-*Eleni Bozia (Florida)*
-
-Over the past decade, archaeology and epigraphy have been reconsidering their modus operandi.  Prompted and facilitated by technological advances, motivated by new research questions, and  challenged by growing calls to engage with contemporary audiences, they have been  experimenting with methodological approaches and interdisciplinary collaborations. Within this  context, the Digital Epigraphy and Archaeology project (DEA) has been developing 3D  digitization techniques that accommodate various types of artifacts, has been incorporating  multidisciplinary approaches to achieve a more holistic stance towards the objects of study, and  has focused on the reproducibility and accessibility of both its techniques and the 3D models. In  this session, we propose to showcase our open-source and open-access cloud system to interested  scholars and teach them how to use it [https://www.digitalepigraphy.org/db/app/sfs](https://www.digitalepigraphy.org/db/app/sfs).  
-
-The Digital Epigraphy and Archaeology project (DEA) Toolbox [https://www.digitalepigraphy.org/](https://www.digitalepigraphy.org/) is a unique initiative as it provides the methods to digitize  squeezes with minor handling with the use of an office scanner. The Toolbox runs as a web  application that focuses on the digitization, 3D visualization, data mining, and electronic  dissemination of artifacts. The tridimensional digitization is achieved through the bidirectional  scanning of the squeeze using a typical 2D office scanner. The scanned images are then processed  by the algorithm we developed, which analysesthe depicted shading in the images and reconstructs  in 3D the original inscription. The advantages are numerous: 1) The process does not require any expensive equipment. 2) The squeeze can be safely preserved in a digitized form, thus eliminating  the possibility of deterioration of the squeezed paper. 3) They can also be distributed electronically,  facilitating epigraphic studies. 4) Finally, the digital squeezes can be more effectively visualized compared to the 2D images, as they can be viewed from different angles, under different artificial  lighting conditions, and in different zooming scales. 
-
-The methods developed by the DEA project have been widely adopted and used so far in  several projects, including the digitization of the collection of squeezes from the Monumentum Ancyranum, a collection of Abraham Lincoln’s Letters housed at the Library of Congress,  collections of squeezes from Thasos, the Rosetta Stone, and several other projects that required  different configuration of methods and accommodation of needs both in terms of the collections and the researchers [https://research.dwi.ufl.edu/projects/digitalepigraphy.org/list/projects/](https://research.dwi.ufl.edu/projects/digitalepigraphy.org/list/projects/).
-
- <a id="handson2"></a>
-#### Hands-on session 2
-
-**Patrimonium Editor for the Late Egyptian Artefact Database: a hands-on session on an eXist-db application suite**
-
-*Vincent Razanajao (Bordeaux)*
-
-Developed from 2017 onwards for the ERC Patrimonium project directed by Alberto Dalla Rosa (University Bordeaux Montaigne, Ausonius Institute), the Patrimonium Editor is a Virtual Research  Environment (VRE) that makes easier the creation of XML/TEI/EpiDoc files, and their enrichment with  metadata relating to people and places [https://patrimonium.huma-num.fr/](https://patrimonium.huma-num.fr/). This all-in-one web  application built upon eXist-db [https://exist-db.org/](https://exist-db.org/) has been implemented for other projects at  the Ausonius Institute, including the GymnAsia Project jointly run by Pierre Fröhlich (University Bordeaux Montaigne, Ausonius Institute) and Christof Schuler (DAI, München)  [https://gymnasia.huma-num.fr/](https://gymnasia.huma-num.fr/). 
-
-More recently, the Patrimonium Editor has been chosen to serve as the VRE for the Late Egyptian  Artefact Database (LEAD), a project directed by Laurent Coulon and Olivier Perdu (Collège de France)  that aims to create a comprehensive resource for the study of Late Egyptian art production,  especially statuary [https://lead.ifao.egnet.net/](https://lead.ifao.egnet.net/). 
-
-Drawing on the experience of this implementation of the Patrimonium Editor, the aim of this session  is two-fold: 1) to present the required steps to install, customize and run the application suite; 2) give  the opportunity to attendees to deploy a basic, ready-to-use version of the virtual research  environment, and to start to adapt it the needs of their projects, whether it concerns digital  epigraphic editions or projects dealing with epigraphic sources. 
-
-The prerequisites for this session are to have a computer running an instance of the last version of  eXist-db, as well as a local web server ready to be set-up with a virtual host (practical details will be  sent beforehand).
-
-
-
- <a id="handson3"></a>
-#### Hands-on session 3
-
-**Epigraf Tool Demo. Digital Editions of Latin and German Inscriptions**
-
-*Jakob Jünger and Chantal Gärtner (University of Münster), Markus Studer and Jörg Witzel and Maximilian Michel (Digital Academy Mainz)*
-
-Epigraf is developed and used in the interacademic project "The German Inscriptions" for creating editions of medieval inscriptions. Object descriptions, transcriptions, images, geodata and metadata are edited and published using the application. Epigraf is currently  being migrated from a desktop application to a web application which, in conjunction with a  flexible data model, will enable other projects to work with Epigraf.  
-
-Epigraf supports the full data lifecycle: 
-- Collection: Articles contain object descriptions, editions, images and other metadata. The data model is open to support a wide range of data domains via configuration. Data can be both created in the application and imported from external files. 
-- Annotation: A flexible annotation toolbar can be adapted to meet the project  specifications, for example to enable EpiDoc annotations. 
-- Linking: Data may be linked to each other and norm data is used to link to external  data repositories.. 
-- Analysis: Articles can be searched and filtered by their content and annotations.  Different views such as a map for geocoded objects are available. All data can be  accessed via programming interfaces and downloaded in common file formats. 
-- Publication: A pipeline system can be used to generate documents in EpiDoc, for  Word or other file formats. 
-Further, application programming interfaces allow  transferring data to other publication platforms.  
-
-At the epigraphy.info meeting, we want to present the features with practical examples and  invite participants to consider using it in future projects. In the coming years, Epigraf will be  opened to a wider range of existing and new inscription data to support a general repository and search engine for the community.
-
- <a id="handson4"></a>
-#### Hands-on session 4
-
-**Using SPARQL with epigraphic RDF**
-
-*Imran Asif, Petra Hermankova, Marietta Horster, Jonathan Prag (Oxford, Mainz, Aarhus; FAIR Epigraphy)*
-
-
-The FAIR Epigraphy project is dedicated to developing tools, resources and best practice guidelines  for the development of Findable, Accessible, Interoperable and Reusable (FAIR) data for epigraphic  study. Building on the work of the Epigraphy.info community, the FAIR Epigraphy project  advocates the use of a Linked Open Data approach, with individual projects sharing data through the  use of the RDF (Resource Description Framework) standard (see [https://www.w3.org/egov/wiki/Linked_Open_Data)](https://www.w3.org/egov/wiki/Linked_Open_Data))). The project aims to develop and host a RDF  triple store to serve this ambition. Integral to such an approach are community-agreed standards  (vocabularies), such as the EAGLE vocabularies, and a conceptual framework (ontology) to connect  those standards. Development work is ongoing in the creation of revised vocabularies and a more  fully worked-out ontology, building on the preliminary work of [https://www.eagle-network.eu/resources/vocabularies/](https://www.eagle-network.eu/resources/vocabularies/), [https://epigraphy.info/vocabularies_wg/](https://epigraphy.info/vocabularies_wg/), and  [https://doi.org/10.5281/zenodo.4639507](https://doi.org/10.5281/zenodo.4639507). A proof-of-concept triple-store, with an interface at  https://browser.inscriptiones.org/, demonstrates that this approach is viable, and in the coming  months this will be expanded alongside the consolidation of the epigraphic ontology. In order to get  maximum value from a RDF triple-store, without building an unsustainable software interface, users  need to be able to query the data using the SPARQL standard ([https://www.w3.org/TR/sparql11-overview/](https://www.w3.org/TR/sparql11-overview/), as at e.g. [https://browser.inscriptiones.org/#](https://browser.inscriptiones.org/#)).  
-
-This interactive session aims to introduce participants to the application of SPARQL (SPARQL  Protocol and RDF Query Language) within the context of epigraphic RDF datasets. SPARQL serves as  a powerful query language for extracting and manipulating data from RDF-based repositories. The  session will focus on practical exercises, guiding attendees through the basics of constructing  SPARQL queries tailored to epigraphic data. Prior familiarity with SPARQL is recommended as a  prerequisite: participants can benefit from the online SPARQL tutorial available at  [http://www.macs.hw.ac.uk/SWeL/2019/10/28/sparql-for-beginners/](http://www.macs.hw.ac.uk/SWeL/2019/10/28/sparql-for-beginners/). Participants will need to bring  a wifi-enabled laptop with them. 
-
-Through step-by-step tutorials and real-world examples using sample epigraphic RDF datasets,  attendees will learn to formulate SPARQL queries to retrieve specific information and navigate  relationships. The session will cover fundamental SPARQL syntax, including querying patterns,  filtering, aggregations, and graph traversal techniques. 
-By the workshop's conclusion, participants will have acquired foundational skills in effectively  leveraging SPARQL queries to interrogate epigraphic RDF datasets. This session is designed for  researchers, scholars, and practitioners interested in leveraging semantic technologies for exploring,  analyzing, and interpreting epigraphic data. Feedback from participants will inform the further  development of both vocabularies and ontologies in the ongoing work of the FAIR Epigraphy Project.
-
- <a id="handson5"></a>
-#### Hands-on session 5
-
-**Training an Automatic Lemmatizer for Ancient Greek Inscriptions**
-
-*Silvia Stopponi (University of Groningen), Evelien de Graaf (KU Leuven), dr. Saskia Peels-Matthey (University of Groningen)*
-
-Despite the recent applications of Natural Language Processing techniques to Ancient Greek, no lemmatizer existed for Ancient Greek inscriptions until last year. However, lemmatization is a necessary step if one wants to retrieve all the occurrences of a lemma in a corpus of inscriptions. Subsequently, having observed an unsatisfactory performance of available lemmatizers trained on literary Ancient Greek, particularly weak at dealing with specific characteristics of inscriptions (such as dialectal and spelling variation), we developed AGILe at the University of Groningen: the first automatic lemmatizer trained and tested on Ancient Greek inscriptions (de Graaf et al. 2022; Peels-Matthey et al. in press).
-
-Our lemmatizer achieves an accuracy of 85% on the test set (a portion of the Corpus of Greek Ritual Norms), and performs similarly on other digital collections of inscriptions. It can thus save considerable time for scholars who wish to lemmatize their collection of inscriptions. AGILe was published open access at [https://github.com/agile-gronlp](https://github.com/agile-gronlp) and its appearance has been welcomed by many scholars working on (digital) epigraphy. However, we received several requests for instructions from scholars who wanted to use it, but were not familiar with programming, and thus needed a more user-friendly access than a GitHub repository.
-
-We already set up a provisional Google Colab notebook that provides a ready-to-use version of AGILe that we plan on expanding and would like to offer a practical session of its versatile uses for (digital) epigraphers. We have thus far been unable to provide detailed instructions on using AGILe as the presentations we gave until now were indeed very limited in time and more general in scope, and never focused on how to practically use AGILe.
-This is the structure we propose for our contribution:
-
-- In the first 20 minutes, we give a more technical presentation in which we explain the technicalities of AGILe and give details for example about input and output, the characteristics of the training data, and the strengths and limitations of AGILe, especially in handling phenomena that are typical of the language of inscriptions.
-- In the subsequent 20 minutes, we give a hands-on session accessible to people with and without programming skills. We aim to show how AGILe can be integrated into the workflow of any epigrapher, explaining different possible input and output formats. In particular, we want to show how it can be used in tandem with Epidoc-compliant XML. During the hands-on session we help participants to lemmatize the inscriptions they are interested in and we explain how to customize punctuation removal.
 
 ---
 <a id="posterabs"></a>
