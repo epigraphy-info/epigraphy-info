@@ -9,6 +9,9 @@ published: true
 
  - [Registration](#registration)
  - [Programme](#programme)
+  - [Day 1: Wednesday 3 April](#day1)
+  - [Day 2: Thursday 4 April](#day2)
+  - [Day 3: Friday 5 April](#day3)
  - [Abstracts](#abstracts)
  - [Online posters](#posters)
  - [Workshop shared documents](#shared)
@@ -61,20 +64,20 @@ In order to register for the workshop, please, fill in the Google registration f
 
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvzk2wtH07lDAD4-7hblm1AYSI6AEFxTBa-APr2eU9efEmg/viewform?embedded=true" width="800" height="1000" frameborder="1" marginheight="1" marginwidth="1">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvzk2wtH07lDAD4-7hblm1AYSI6AEFxTBa-APr2eU9efEmg/viewform?embedded=true" width="800" height="1000" frameborder="0.2" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 
 ---
 
 
- <a id="programme"></a>
+<a id="programme"></a>
 ## Programme
 
 You can see the latest online version of the complete programme [here](https://docs.google.com/document/d/1sufPp2pvixgvAaFsXFsaTr1tGufQy497/edit?usp=sharing&ouid=102160883083196605568&rtpof=true&sd=true){:target="_blank" rel="noopener"}.
 
 
-
+<a id="day1"></a>
 ### Wednesday, 3 April 2024
 
 **UdL – Berlin-Brandenburgische Akademie der Wissenschaften, Unter den Linden 8, Berlin**
@@ -86,12 +89,14 @@ You can see the latest online version of the complete programme [here](https://d
 | 16.00-16.20;<br><br>16.25-17.55 | Vortragsraum, UdL 07W04 | **Short presentation**<br><br>**Hands-on Session**<br><br>\[max. 35 particip.\] | **Squeeze Digitisation**:<br><br>Matthäus **Heil** (BBAW, Berlin) Presentation:<br><br>t.b.a (Digitisation of IG squeezes)<br><br>Eleni **Bozia** (Florida)<br><br>Hands-on-session:<br><br>_Digital epigraphy and archaeology – toolbox presentation_ [abstract](#handson1) |
 | 18.00 | Sitzungsraum UdL | **_Welcome_** | Elena **Duce** **Pastor** (Madrid); Marietta **Horster** (Mainz; BBAW/CIL), Kaja **Harter-Uibopuu** and Sebastian **Prignitz** (BBAW/IG); Martin **Fechner** (BBAW/Telota) |
 | 18.30 | Sitzungsraum UdL | **Presentation** | Till **Grallert** (Berlin)<br><br>_Digital History and the challenges of Data Culture at Humboldt-Universität zu Berlin_ |
-| 19.00 | Vestibule UdL<br><br>(upstairs) | **_Reception_** |     |
+| 19.00 | Vestibule UdL<br><br>(upstairs) | **_Reception_**      ||
 
 
 For abstracts, see [here](#abstracts)
 
+---
 
+<a id="day2"></a>
 ### Thursday, 4 April 2024
 
 **Humboldt Universität Berlin, Unter den Linden 6, 10099 Berlin**
@@ -110,23 +115,25 @@ For abstracts, see [here](#abstracts)
 | 4.4. 15.45-17.10 | HU, 2070A | **Hands-on Session** | Imran **Asif**, Petra **Hermankova**, Marietta **Horster**, Jonathan **Prag** (Oxford, Mainz, Aarhus), _Using SPARQL with epigraphic RDF_ [abstract](#handson4) |
 | 4.4. 15.45-17.10 | HU, 2049A | **Hands-on Session** | Silvia **Stopponi**, Evelien **de Graaf**, Saskia **Peels-Matthey** (Groningen, Leuven), _Training an Automatic Lemmatizer for Ancient Greek Inscriptions_ [abstract](#handson5) |
 | 4.4.<br><br>17.15 | HU, Senatssaal | **Keynote** | Marja **Vierros** (Helsinki), _From EpiDoc XML files to a linguistically searchable corpus_ |
-| 4.4. 19.00 |     | **_Conference Dinner_** |     |
+| 4.4. 19.00 |     | **_Conference Dinner_**      | |
 
 
 For abstracts, see [here](#abstracts)
 
+---
 
+<a id="day3"></a>
 ### Friday, 5 April 2024
 
 **Humboldt Universität Berlin, Unter den Linden 6, 10099 Berlin**
 
-| 5.4.<br><br>9.00 | Lounge | **_Posters + Coffee_** | 13 Poster presentations, (**all presenters should be present at their posters**) |
+| 5.4.<br><br>9.00 | Lounge | **_Posters + Coffee_** | 14 Poster presentations, (**all presenters should be present at their posters**) |
 | --- | --- | --- | --- |
 | 5.4.<br><br>10.00 | HU, Senatssaal | **Presentation 6** | José Carlos **López Gómez**, Valentino **Gasparini** (Malaga), _Connecting the Past: An Introduction to the Platform_ _Sylloge Inscriptionum Religionis Africae Romanae_ (_SIRAR_) [abstract](#pres6)|
 | 5.4.<br><br>10.30 | HU, Senatssaal | **Presentation 7** [abstract](#pres7)| Hernán **González Bordas**, Alexandre **Zanni** (Bordeaux), _The Atlas of the Landed Estates in Ancient Maghreb (ALEAM) - project Database_ |
 | 5.4.<br><br>11.00 | Lounge | **_Coffee Break_** |     |
 | 5.4.<br><br>11.30 | HU, Senatssaal or 2049A | **Meeting** | Feedback on workshop, community decisions, elections, next workshop, perspectives and ToDos etc. |
-| 5.4., 12.30/13.00 |     | **End of Workshop** | some helping hands might be needed … |
+| 5.4., 12.30/13.00 |     | **End of Workshop** | *some helping hands might be needed …* |
 
 
 For abstracts, see [here](#abstracts)
@@ -253,6 +260,7 @@ The  ALEAM  (Atlas  of  the  Landed  Estates  in  Ancient  Maghreb)  project  ai
 #### Hands-on session 1
 
 **The Digital Epigraphy and Archaeology Project: Hands-on Session**
+
 *Eleni Bozia (Florida)*
 
 Over the past decade, archaeology and epigraphy have been reconsidering their modus operandi.  Prompted and facilitated by technological advances, motivated by new research questions, and  challenged by growing calls to engage with contemporary audiences, they have been  experimenting with methodological approaches and interdisciplinary collaborations. Within this  context, the Digital Epigraphy and Archaeology project (DEA) has been developing 3D  digitization techniques that accommodate various types of artifacts, has been incorporating  multidisciplinary approaches to achieve a more holistic stance towards the objects of study, and  has focused on the reproducibility and accessibility of both its techniques and the 3D models. In  this session, we propose to showcase our open-source and open-access cloud system to interested  scholars and teach them how to use it (https://www.digitalepigraphy.org/db/app/sfs).  
@@ -265,6 +273,7 @@ The methods developed by the DEA project have been widely adopted and used so fa
 #### Hands-on session 2
 
 **Patrimonium Editor for the Late Egyptian Artefact Database: a hands-on session on an eXist-db application suite**
+
 *Vincent Razanajao (Bordeaux)*
 
 Developed from 2017 onwards for the ERC Patrimonium project directed by Alberto Dalla Rosa (University Bordeaux Montaigne, Ausonius Institute), the Patrimonium Editor is a Virtual Research  Environment (VRE) that makes easier the creation of XML/TEI/EpiDoc files, and their enrichment with  metadata relating to people and places (https://patrimonium.huma-num.fr/). This all-in-one web  application built upon eXist-db (https://exist-db.org/) has been implemented for other projects at  the Ausonius Institute, including the GymnAsia Project jointly run by Pierre Fröhlich (University Bordeaux Montaigne, Ausonius Institute) and Christof Schuler (DAI, München)  (https://gymnasia.huma-num.fr/). 
@@ -281,6 +290,7 @@ The prerequisites for this session are to have a computer running an instance of
 #### Hands-on session 3
 
 **Epigraf Tool Demo. Digital Editions of Latin and German Inscriptions**
+
 *Jakob Jünger and Chantal Gärtner (University of Münster), Markus Studer and Jörg Witzel and Maximilian Michel (Digital Academy Mainz)*
 
 Epigraf is developed and used in the interacademic project "The German Inscriptions" for creating editions of medieval inscriptions. Object descriptions, transcriptions, images, geodata and metadata are edited and published using the application. Epigraf is currently  being migrated from a desktop application to a web application which, in conjunction with a  flexible data model, will enable other projects to work with Epigraf.  
@@ -299,6 +309,7 @@ At the epigraphy.info meeting, we want to present the features with practical ex
 #### Hands-on session 4
 
 **Using SPARQL with epigraphic RDF**
+
 *Imran Asif, Petra Hermankova, Marietta Horster, Jonathan Prag (Oxford, Mainz, Aarhus; FAIR Epigraphy)*
 
 
@@ -313,6 +324,7 @@ By the workshop's conclusion, participants will have acquired foundational skill
 #### Hands-on session 5
 
 **Training an Automatic Lemmatizer for Ancient Greek Inscriptions**
+
 *Silvia Stopponi (University of Groningen), Evelien de Graaf (KU Leuven), dr. Saskia Peels-Matthey (University of Groningen)*
 
 Despite the recent applications of Natural Language Processing techniques to Ancient Greek, no lemmatizer existed for Ancient Greek inscriptions until last year. However, lemmatization is a necessary step if one wants to retrieve all the occurrences of a lemma in a corpus of inscriptions. Subsequently, having observed an unsatisfactory performance of available lemmatizers trained on literary Ancient Greek, particularly weak at dealing with specific characteristics of inscriptions (such as dialectal and spelling variation), we developed AGILe at the University of Groningen: the first automatic lemmatizer trained and tested on Ancient Greek inscriptions (de Graaf et al. 2022; Peels-Matthey et al. in press).
@@ -332,6 +344,7 @@ To see the digital posters, please, go to the **[Digital poster session]({{ "../
 
 
 **1. Integration and collaboration in Epigraphy: EpiDoc-export/import function for Database of Mycenaean at Oslo – DAMOS**
+
 *Federico Aurora (Oslo)* 
 
 DAMOS - Database of Mycenaean at Oslo contains annotated transcriptions of all the  published Mycenaean texts. The data is stored in a relational (MariaDB) database and can  be searched and browsed through an online graphic user interface (https://damos.hf.uio.no/). 
@@ -339,18 +352,21 @@ The present project deals with developing the possibility to export and import d
 
 
 **2. Digitization of Inscriptions in the Isparta Yalvaç Archaeology Museum**
+
 *Emine Bilgiç Kavak, Nurşah Çokbankir Şengül* (Sakarya)*
 
 This project focuses on the digitalization of all Hellenic and Latin inscriptions preserved in the Isparta Yalvaç Archaeology Museum, which is located on a hill dominating the Yalvaç plain at the foothills of the Sultan Mountains and is one of the most important cities of the Pisidia Region, the city of Antioch. The museum houses nearly 140 inscriptions. The lack of such a study on the inscriptions exhibited in the museum, most of which are in the garden and a small portion inside, limits the use of epigraphic data, which constitutes one of the most important material groups shedding light on the history of the city. Indeed, it has been determined that reading the inscriptions on the columns exhibited in the garden, especially those on the surfaces of which are quite worn over time and due to seasonal conditions, is quite challenging. This project, encompassing the digitization of the epigraphic material to be carried out in the museum, is important for transferring cultural heritage to the coming years within the scope of a digital study and increasing the sustainability of this culture. With this project, which includes the digitization of the epigraphic material to be carried out in the museum, all inscriptions will be classified, transferred to a digital database, and compiled, prioritizing the publication of new inscriptions. Indeed, introducing and sharing new data about Pisidia Antioch with the scientific community is crucial for the regional history. This situation can be understood from the fact that the settlement history of the city and its territory can be traced from the 3rd millennium BC to the 13th century AD.
 
 
 **3. AI-aided analysis and restoration of late-antique Christian epigraphs (LACUNAE)**
+
 *Andrea Brunello, Alessandro Locaputo, Stefano Magnani, Davide Redaelli, Giuseppe Serra (Udine)* 
 
 The aim of the LACUNAE project is the development of a digital tool that uses artificial  intelligence to support the process of integration of lacunae in Greek and Latin epigraphic  documents. The Latin branch of the project will focus on Christian documents from the 4th and  the 5th century and will analyze strictly the epigraphic evidence provided with iconography and  particular signs (e.g., monograms, crosses, Alfa and Omega). The starting point is the selection of the inscriptions and simultaneously the definition of a  taxonomy for the particular signs. These steps will fill a remarkable gap in specialist literature,  where there is a lack of univocal and shared language to describe the iconographic parts. The  selected inscriptions will be sectioned, differentiating the texts from the other formal aspects of  the documents. The outcome will be an annotated dataset with a classification of the several  iconographic parts and signs. This tool will enhance the global interpretation of late-antique Christian epigraphic sources – the  iconography and special signs often gain a better understanding of the texts – and will facilitate the tasks of lacunae integration and retrieval of inscriptions based on a specific signum.
 
 
 **4. Digital Epigraphy and Twitter: a proposal of public History for master students**
+
 *Elena Duce Pastor (Madrid)*
 
 In this poster, I will present the improvements of the Project with the master students of the subject. The Bronze Age in the Mediterranean: Minoans and Mycenaeans which is part of the interuniversity Master of Ancient History and Sciences of the Antiquity, held in the Autonoma and Complutense Universities (Madrid, Spain). In this period, the tablets of Linear B are essential to understanding the dynamics of the society. Nevertheless, the students’ previous knowledge is scarce in epigraphical resources. Thus, digital tools for this period, the DAMOS database of Oslo, based on digital epigraphy and NESTOR for bibliographical resources have helped us to create a service-learning Project based on public History using Twitter. Every student had to work with a Linear B tablet and create a thread on Twitter linking with epigraphic digital Databases. Last year, the Project was successful and this academic year we have included some innovations. Concretely, we have improved the Project with digital epigraphy training sessions to focus more on digital epigraphic resources and to promote significant learning in the students. With the help of Cristina de la Escosura, we have amplified the number of digital epigraphy resources that students use in other subjects.
@@ -358,6 +374,7 @@ This proposal aims to present the main innovations and receive feedback for futu
 
 
 **5. Writing on more than one face (in Didyma and Miletus): an epigraphic database (EFES)**
+
 *Marta Fogagnolo (Bologna)*
 
 The poster aims to present a database published in EFES (EpiDoc Front-End Services) and encoded in EpiDoc-XML, which collects epigraphic supports inscribed on more than one face from Didyma and Miletus (57 records). The database examines a specific case study due to the huge number of supports with these features, but is intended to be implemented in the framework of my post-doctoral project ‘Writing on more than one face: historical, textual and material aspects of a Greek epigraphic practice’ (Department of History and Cultures, University of Bologna). The project aims to collect in an organic and reasoned way (through historical, philological-textual, and archaeological analysis) the evidence of the use and reuse of stone for Greek, or bilingual, epigraphic texts on more than one writing face. In the process of encoding the epigraphic material, a semantic-digital analysis has also been conducted with the aim of implementing the Guidelines for the digital encoding of epigraphic texts specifically concerning the markup of structural textual phenomena both in the text and in the metadata. What is strongly desirable is to bring these topics to the discussion of the EpiDoc and epigraphy.info Community, raising problems and suggesting new markup to encode these features.
@@ -365,6 +382,7 @@ The poster aims to present a database published in EFES (EpiDoc Front-End Servic
 
 
 **6. Épigraphie latine numérique de Césarée de Maurétanie : une recherche sur les données et les métadonnées d’un groupe de monuments funéraires (Ier siècle avant J.-C. au IIIe siècle après J.-C.)**
+
 *Aliénor Genety (Lyon)*
 
 Mon sujet de thèse s’intitule Épigraphie latine numérique de Césarée de Maurétanie : une recherche sur les données et les métadonnées d’un groupe de monuments funéraires (Ier  siècle avant J.-C. au IIIe siècle après J.-C.). Ce dernier porte sur l’étude des inscriptions, issues de nécropoles situées à l’ouest de la  ville de Cherchell (Algérie). L’étude des inscriptions devrait permettre de cerner l’histoire de  ce secteur et les différentes dynamiques d’implantation des nécropoles, le profil sociologique  des usagers et l’évolution des pratiques et des techniques épigraphiques (formulaire,  paléographie, matériaux, etc.). L’analyse complète de ce corpus, lie intrinsèquement pratique  épigraphique et pratique numérique, l’un permettant de nourrir l’autre et inversement. Chaque  notice est pensée et enrichie par un encodage en XML-TEI, pour faire face aux problématiques  qui m’intéressent, à savoir le croisement du traitement du texte inscrit et du monument comme  porteur de cette inscription. Le but de mon travail est de créer un certain nombre de modules  portant sur les formulaires (Diis Manibus, etc.) mais également sur la paléographie même des  caractères. Le traitement de ce corpus épigraphique est à voir comme un « programme »  rédactionnel reposant sur une réflexion sur la technique d’écriture elle-même (taille et forme  des caractères, usage du support, etc.) afin de déterminer si ces éléments peuvent apporter un  éclairage nouveau à l’histoire des inscriptions de Cherchell, par exemple en créant des « mises  en série » nouvelles pouvant poser la question d’un même atelier, ou d’un même groupe social.
@@ -372,12 +390,14 @@ Mon sujet de thèse s’intitule Épigraphie latine numérique de Césarée de M
 
 
 **7. FAIR – Epigraphic vocabulary**
+
 *Petra Heřmánková (Mainz/Aarhus), Jonathan Prag (Oxford), Imran Asif (Oxford), Marietta Horster (Mainz)* 
 
 The creation of an updated controlled epigraphic vocabulary has been identified by the community as essential to moving forward towards the best practice of FAIR and Open Science in epigraphy (Tupman 2021; Heřmánková et al. 2022). The proposed FAIR epigraphic controlled vocabularies present a consolidation of work conducted by the EAGLE Europeana Project in 2013-2016 (Liuzzo et al. 2013; Liuzzo 2015; Liuzzo and Evangelisti 2021) and an alignment of current standards of partner projects of the FAIR Epigraphy Project (https://inscriptiones.org/). This ‘bottom-up’ application employs a multifaceted hierarchic categorization system allowing for multiple conceptual approaches while recognizing the complex and multilingual nature of inscriptions and the historiography of the discipline. Furthermore, the vocabulary adheres to the principles of FAIR data, emphasizing Findability, Accessibility, Interoperability, and Reusability as their core principles (Wilkinson et al. 2016). This means that researchers can easily locate and access relevant terms, ensuring that the vocabulary is user-friendly and widely applicable. Crucially, the controlled vocabulary is made available as a Linked Open Data (LOD) resource, accessible online with stable Uniform Resource Identifiers (URIs), hosted by the FAIR Epigraphy Project and the University of Oxford. This approach facilitates efficient collaboration, linking, and cross-referencing, enabling researchers to build upon each other's work and explore epigraphy in a structured and accessible manner across project boundaries. Overall, this initiative enhances the research landscape in epigraphy by fostering cooperation and providing a reliable and standardized resource for scholars in the field. We present the first stage of the creation of the FAIR Epigraphic vocabularies: the type of inscription aligned across multiple projects, with a simple hierarchic order, multiple examples from partner projects and a detailed description of individual types. We are opening an invitation to discuss our proposed structure, its viability and robustness for long-term use within the digital epigraphic community.
 
 
 **8. Epigraphy in the Biblissima+ project**
+
 *Estelle Ingrand-Varenne (Poitiers), Michèle Brunet (Lyon), Damien Strzelecki (Lyon)*
 
 Biblissima+ (https://projet.biblissima.fr/fr) is a multi-site digital infrastructure for primary  research and services dedicated to the history of the transmission of historical texts, from the  first Mesopotamian clay tablets 3,000 years ago to the first printed books, in all media and  scripts. Biblissima+ is the place at the national level where all the data involved in the history  of the transmission and study of ancient written cultures are processed and made  interoperable. Biblissima+ concerns all heritage collections that transmit ancient texts,  including archaeological sources, seals and coins, as well as the archives of modern scholars  and contemporary researchers.  The “Cluster 5a” brings together projects that apply TEI to epigraphic documents from  Antiquity, the Middle Ages and the modern period, which is a first in France for this  discipline. This working group is giving priority to the generic rules of digital epigraphy by  compiling a thesaurus for the discipline with the OpenTheso tools, and to modelling in order  to create a “format pivot” for searching epigraphic data via the Biblissima+ Portal.  
@@ -385,6 +405,7 @@ The poster will present the overall project and the first steps of the Cluster 5
 
 
 **9. Community Cluster “Objects as Information Carriers” (NFDI4Objects)**
+
 *Christoph Klose (Berlin)*
 
 The Community Cluster "Objects as Information Carriers" is part of the DFG-funded initiative  NFDI4Objects (designated spokespersons Ulrike Ehmig (Berlin-Brandenburg 
@@ -396,6 +417,7 @@ Once the objectives have been defined by the community, they are processed by Te
 
 
 **10. Celtic Divine Names in Latin Inscriptions of the Military Zone in Germania Superior on the Left Bank of the River Rhine**
+
 *Winfried Kumptisch, Wolfgang Spickermann (Graz)*
 
 [https://gams.uni-graz.at/fercan](https://gams.uni-graz.at/fercan)
@@ -407,23 +429,27 @@ With the poster presentation we want to demonstrate the advantages of the PATRIM
 
 
 **11. Specialized databases on cults of the Greco-Roman worlds: Magna Mater, Mithras and Isis**
+
 *Lorena Pérez Yarza (Warsaw), José Carlos López Gómez, Jaime Alvar Ezquerra, Beatriz Paneda Murcia, Pablo Rodriguez Valdés, Blanca Rabazas Rubio (Malaga)* 
 
 The HHR (Historiography and History of Religions) research group, working within the ORINS (Oriental Religions in Spain) and EPIDI (Epítetos divinos. Experiencia religiosa y relaciones de poder en Hispania) research projects, aims to provide scholars of ancient religion with systematic catalogues of the epigraphic and archaeological evidence of different polytheistic cults in Roman Hispania. In this poster, the group presents, in particular, three open-access online catalogues on the most important so-called “oriental cults” in the region: “The Gens Isiaca in Hispania”, “Mithra in Hispania” and “Mater Magna and Atis in Hispania”. Moreover, HHR outlines in this presentation relevant outcomes of the analysis of the collected materials. From a methodological point of view, this analysis has focused on the religious agents involved in the introduction, reception and appropriation of such cults in Hispania and on the contextual circumstances of these processes, which has allowed us to overcome the reductionist diffusionist accounts of previous scholarship. Likewise, this study has adopted as a premise that ancient gods were constructed and continuously reshaped by worshippers through both their onomastic formulae and their visual representations and has thus examined both dimensions of the fabrique du divin in relation to one another. In doing so, the HHR research group has sought to enhance our understanding of the cults at issue and their sources within their historical contexts. More specifically, it has set out to elucidate the modes of the construction of the divine within the cults under study, the forms of reception of these in new local contexts, the evolution of the cults’ religious practices, and the socio-economic characteristics of their adherents.
 
 
 **12. EPIDENTITY Project**
+
 *Martyna Swierk (Warsaw), Individualism and the Community Facing the Cultural Changes*
 
 Late Antiquity, or the early Byzantine period, was a time of fast-paced social, religious, and political changes for the inhabitants of the Roman Middle East. This includes the transformation of Rome into the Christian state, the revival of Jewish and Samaritan religiosity in Palestine and in the diaspora and many others. The main aim of the EPIDENTITY (Epigraphy and Identity in the Early Byzantine Middle East) project is to answer the question to what extent these changes are reflected in monumental inscriptions from the Middle East. Thus, we examine not only the changes that may have become apparent in the epigraphic habit, but also focus on the individual identification of persons acting in the inscriptions visible, for example, in the linguistic layer of the text, as allowed by the use of sociolinguistic methodology. The tool that makes such analyses possible for us is the emerging datebase of sites with non-Greek monumental inscriptions from the early Byzantine East. In the proposed poster I would like to present how using the EpiDoc standards may be of assistance in linguistic diversity research using scripts like  Syriac, Christian Palestinian Aramaic, Hebrew or Old Arabic. 
 
 
 **13. Sacred inscriptions from the Venetia et Histria region published by Ludovico Antonio Muratori in his Novus thesaurus veterum inscriptionum (1739-1742)**
+
 *Tatiana Tommasi (Venezia)*
 
 My PhD project is dedicated to the study of the sacred inscriptions from the ancient Venetia et Histria region (Regio X), with particular attention to the handwritten tradition of epigraphic documents and to the potentialities offered by state-of-the-art digital technologies to study them.  Digital technologies will be mainly applied for recovering the information contained in handwritten documents related to epigraphy (epigraphic manuscripts, but also epistolary exchanges) produced between the eighteenth and the nineteenth century, a fundamental period for the birth of the epigraphic discipline. As a case study, I will focus on the sacred inscriptions from the Venetia et Histria region published by Ludovico Antonio Muratori in his Novus thesaurus veterum inscriptionum (1739-1742) and recorded in the handwritten documents connected to the printed edition (especially the transcriptions of the epigraphic texts sent to Muratori by his contemporaries, who saw the inscriptions in person, now preserved in Modena, Biblioteca Estense Universitaria, Archivio Muratori). During the first part of my project, I will apply Handwritten Text Recognition technologies to the archival documents in order to create an annotated version of them and to improve their layout analysis. In the last phase of my research, I will produce an EpiDoc database of the sacred inscriptions from the Venetia et Histria region, enriching the EpiDoc records with the information retrieved from the epigraphic tradition, in order to create a connection with other epigraphic resources available online
 
 **14. Digital Atlas of Workshops in Epigraphy, DAWE**
+
 *Lorena Pérez Yarza, Marina Bastero Acha, Pawel Nowakowski, Julia Borczynska, Andrés Rea, Maciej Krawczy (Warsaw)*
 
 DAWE is a digital database being developed as part of the ERC STONE-MASTERS project, collecting information on the stonemasons and artisans of Late Antiquity. Our approach views them as key players in facilitating cultural exchange from top to bottom, acting as cultural intermediaries between the elite and the general public during that period of transformation. Additionally, their prefabricated inscriptions (and therefore prefabricated goods in preindustrial societies) hold significant meaning as vehicles of cultural memory in both public and private commemoration. So far, epigraphists of the Roman period have had few instruments to draw upon for the purposes of pursuing synthetic workshop studies, and have been overwhelmingly captivated by other strands: the quantitative research, the study of the self-representation, the visibility of inscriptions, and the “viewers’ culture”. STONE-MASTERS argues, however, that a significant leap in our understanding can be achieved by establishing a highly regionalised network of workshops, which will identify the workshops of origin for most of the inscriptions from the 3rd to the 5th centuries and allow us to trace the changes in style and products offered by these workshops over the centuries. In order to achieve this goal, DAWE is utilising the workshop study techniques that have been developed for other crafts and eras, particularly early Greek vase painters and scribes/scriptoria, and tailoring them to fit the requirements of Graeco-Roman epigraphy.
