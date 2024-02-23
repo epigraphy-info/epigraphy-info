@@ -8,7 +8,7 @@ published: true
 # Epigraphy.info VIII Workshop (Berlin)
 
  - [Registration](#registration)
- - [Programme](#programme): [Day 1: Wednesday 3 April](#day1), [Day 2: Thursday 4 April](#day2), [Day 3: Friday 5 April](#day3)
+ - [Programme](#programme) -> [Day 1](#day1), [Day 2](#day2), [Day 3](#day3)
  - [Abstracts](#abstracts)
  - [Posters](#posters)
  - [Workshop shared documents](#shared)
@@ -185,9 +185,9 @@ For poster abstracts, see [here](#posterabs)
 <a id="abstracts"></a>
 ## Abstracts
 
-Go to [Hands-on session abstracts](#handsonabs)
-Go to [Prsentation abstracts](#presabs)
-Go to [Poster abstracts](#posterabs)
+* Jump to [Hands-on session abstracts](#handsonabs)
+* Jump to [Presentation abstracts](#presabs)
+* Jump to [Poster abstracts](#posterabs)
 
 <a id="handsonabs"></a>
 ### Hands-on sessions
@@ -205,6 +205,8 @@ The Digital Epigraphy and Archaeology project (DEA) Toolbox [https://www.digital
 
 The methods developed by the DEA project have been widely adopted and used so far in  several projects, including the digitization of the collection of squeezes from the Monumentum Ancyranum, a collection of Abraham Lincoln’s Letters housed at the Library of Congress,  collections of squeezes from Thasos, the Rosetta Stone, and several other projects that required  different configuration of methods and accommodation of needs both in terms of the collections and the researchers [https://research.dwi.ufl.edu/projects/digitalepigraphy.org/list/projects/](https://research.dwi.ufl.edu/projects/digitalepigraphy.org/list/projects/).
 
+---
+
  <a id="handson2"></a>
 #### Hands-on session 2
 
@@ -220,7 +222,7 @@ Drawing on the experience of this implementation of the Patrimonium Editor, the 
 
 The prerequisites for this session are to have a computer running an instance of the last version of  eXist-db, as well as a local web server ready to be set-up with a virtual host (practical details will be  sent beforehand).
 
-
+---
 
  <a id="handson3"></a>
 #### Hands-on session 3
@@ -241,6 +243,8 @@ Further, application programming interfaces allow  transferring data to other pu
 
 At the epigraphy.info meeting, we want to present the features with practical examples and  invite participants to consider using it in future projects. In the coming years, Epigraf will be  opened to a wider range of existing and new inscription data to support a general repository and search engine for the community.
 
+---
+
  <a id="handson4"></a>
 #### Hands-on session 4
 
@@ -255,6 +259,8 @@ This interactive session aims to introduce participants to the application of SP
 
 Through step-by-step tutorials and real-world examples using sample epigraphic RDF datasets,  attendees will learn to formulate SPARQL queries to retrieve specific information and navigate  relationships. The session will cover fundamental SPARQL syntax, including querying patterns,  filtering, aggregations, and graph traversal techniques. 
 By the workshop's conclusion, participants will have acquired foundational skills in effectively  leveraging SPARQL queries to interrogate epigraphic RDF datasets. This session is designed for  researchers, scholars, and practitioners interested in leveraging semantic technologies for exploring,  analyzing, and interpreting epigraphic data. Feedback from participants will inform the further  development of both vocabularies and ontologies in the ongoing work of the FAIR Epigraphy Project.
+
+---
 
  <a id="handson5"></a>
 #### Hands-on session 5
@@ -287,6 +293,7 @@ This is the structure we propose for our contribution:
 
 The aim of LACUNAE is to apply artificial intelligence to support the process of restoring gaps in  Archaic and Classical epigraphic texts written in different dialects and alphabets, i.e. documents  whose small number and peculiar linguistic features pose specific methodological problems. Due to the specific nature of the chosen documents, the project aims to develop a tool capable of  taking into account literary sources in addition to epigraphic ones in the restoration process and,  above all, of retrieving texts - both epigraphic and literary - relevant to the document under study  in order to fill in the gaps. Our starting point for this purpose is first and foremost the models that  represent the state of the art tools used today, i.e. Ithaca and Ancient Greek BERT. In our paper we intend to present the preliminary results of the work carried out on Greek dialect  inscriptions, while also discussing the methodological criticisms of the work and the strengths and  weaknesses of the algorithms used. Our discussion will focus on evaluating the performance of  the models across different dialects at different levels of granularity, and on testing new examples  not yet seen by them. Finally, we will offer recommendations to address and improve the identified  critical aspects of the models.
 
+---
 
 <a id="pres2"></a>
 #### Presentation 2
@@ -299,6 +306,7 @@ The goal of this paper is to present ongoing work for the extracEon of informati
 sources and has been generaEng methodologies and linguisEc data about references to authors and works in ancient literature, with a focus on the Deipnosophists of Athenaeus,
 the Lexicon of the Ten Orators of Harpocration, and the lexicon of the Suda. These texts have been annotated semi-automatically to extract references to other authors and works. My goal is to continue this work by annotating Greek and Latin inscriptions which preserve information about authors and therefore literary history. The importance and interest for this kind of analysis are shown be recent printed publications like the volumes of Filippo Canali De Rossi for the series Scriptorum antiquorum tituli, the goal of which is to collect epigraphic evidence about Classical authors and works. Considering the growing availability of digital epigraphic corpora, I aim at presenting a paper with concrete data, questions, and methodologies for annotating Greek and Latin inscriptions. The ultimate goal is to extract information about authors and works and preserve it in external resources for a wide variety of analyses and researches in the fields of digital epigraphy, philology, history and linguistics.
 
+---
 
 <a id="pres3"></a>
 #### Presentation 3
@@ -309,6 +317,7 @@ the Lexicon of the Ten Orators of Harpocration, and the lexicon of the Suda. The
 
 Ancient graffiti, or handwritten wall-inscriptions scratched into wall-plaster, were once  largely dismissed, but over the past decade their value as primary evidence for social exchange  and communication has increasingly come to be recognized.  The Ancient Graffiti Project team is responsible for editing the handwritten inscriptions  of the areas around Vesuvius for the Epigraphic Database Roma and has completed critical  editions for more than 2000 inscriptions so far. Simultaneously, we have been developing a  resource [http://ancientgraffiti.org](http://ancientgraffiti.org) that is integrated with EDR and also provides a genre specific platform that highlights the unique nature of handwritten inscriptions. Since ancient  graffitti differ from monumental inscriptions in form, format, location, audience, and other  aspects, we enhance the presentation of these often brief, but fascinating inscriptions at The  Ancient Graffiti Project by situating them within our geo-referenced, interactive maps of the  sites and by adding graffiti-specific contextual metadata. We have also worked with the Institute  for the Study of the Ancient World to incorporate into AGP more than 300 ancient graffi. from  Smyrna (modern Izmir, Turkiye). The resulting digital epigraphic collection – including graffiti  from Herculaneum, Pompeii, the ager Pompeianus, Smyrna, and soon Stabiae – has been  designed as a user-friendly tool for scholars and the public to access these illuminating texts and  to facilitate new avenues for research on ancient graffiti.
 
+---
 
 <a id="pres4"></a>
 #### Presentation 4
@@ -319,6 +328,7 @@ Ancient graffiti, or handwritten wall-inscriptions scratched into wall-plaster, 
 
 The study of Roman law heavily relies on the analysis of epigraphically preserved legal texts. Despite  their importance, these texts are scattered across multiple publications, and there is only one recent  collection available, albeit highly selective and problematic in various aspects. This paper originates  from the “Roman Statutes: Renewing Roman Law” project, a collaborative effort aiming to produce a  comprehensive edition of all epigraphically preserved Roman laws in both print and online formats. The project not only seeks to provide a new edition of the epigraphically preserved legislation, but also  aims to create an online environment that is engaging for students and an indispensable daily tool for  ancient historians and scholars of Roman law. This paper delves into practical and theoretical challenges related to the particular nature of  the epigraphic texts and the difficulties of providing a workflow to a team of over twenty international  researchers. It focuses on three primary axes: 1) the complexities of encoding epigraphic texts with  specific legal importance, 2) a proposed workflow based on an EpiDoc XML template for text encoding,  and 3) the particular needs in front-end services. The paper does not aim to offer a universal solution  but to bring into discussion the choices made to meet the epigraphic needs stemming from publishing  texts of varying lengths with idiosyncratic nature and the educational and scholarly ambitions of the  “Roman Statutes” project.
 
+---
 
 <a id="pres5"></a>
 #### Presentation 5
@@ -329,6 +339,8 @@ The study of Roman law heavily relies on the analysis of epigraphically preserve
 
 Among the most interesting types of historical inscriptions hitherto poorly covered by Digital Epigraphy are those accompanying church murals and icons from the (post)-Byzantine world. Byzantine religious art left a rich heritage of artistic conventions that lived on long after Byzantium itself was gone, sometimes in quite different linguistic and cultural contexts. There is a great number of texts written in (sometimes substandard) Byzantine Greek accompanying various religious scenes in churches and monasteries throughout Bulgaria from the period of Ottoman rule (XV-XΙΧ c.). The forms and functions of such inscriptions have rarely been an object of research. However, such texts enter into a whole range of relations that require further study and proper representation. Firstly, there is the question of the place of the inscription in the context of the entire visual composition. Then, the issue arises about the intertextual relation of such quotations and the scriptural or liturgical traditions of which they were instances. As well, the roles of the inscriptions in the larger framework not only of the particular religious building needs examination. The present paper will describe the methodology and the workflow of a new project at the University of Sofia, Bulgaria, which aims at resolving such complex issues through the EpiDoc-based tools elaborated during the work on the Telamon collection [https://telamon.uni-sofia.bg](https://telamon.uni-sofia.bg). 
 
+---
+
 <a id="pres6"></a>
 #### Presentation 6
 
@@ -338,6 +350,7 @@ Among the most interesting types of historical inscriptions hitherto poorly cove
 
 This paper aims to provide a detailed presentation of the SIRAR platform (Sylloge Inscriptionum Religionis Africae Romanae), as well as to present some statistical results obtained from the study of its database. SIRAR is an open-access platform that brings together over 5,700 catalogued and georeferenced religious inscriptions from Roman North Africa. While the platform functions as a conventional epigraphic browser, it has been designed a) to prioritize a search system that pays special attention to divine onomastics, significantly simplifying the identification of specific inscriptions based on theonyms and divine epithets; and b) to facilitate the exploration of the epigraphy through an interactive map, where users can also conduct searches to facilitate the geographical identification of the georeferenced pieces. The purpose of our paper is to introduce this new epigraphic platform to the scientific community and present a series of statistical results derived from the study of its database. These results encompass statistical data on theonyms, onomastic attributes, and the interrelation between them through network analysis. Based on these statistics, we will reflect on the degree of normativity in religious invocations or individual innovation in specific ritual or situational contexts.
 
+---
 
 <a id="pres7"></a>
 #### Presentation 7
@@ -348,8 +361,8 @@ This paper aims to provide a detailed presentation of the SIRAR platform (Syllog
 
 The  ALEAM  (Atlas  of  the  Landed  Estates  in  Ancient  Maghreb)  project  aims  to  comprehensively study the large landholdings of ancient North Africa. We will ask how a  world  empire  became  dependent  on  this  one  region  for  wheat  and  why  North  Africa  managed  to  distinguish  itself  from  the  rest  through  its  large  agricultural  estates.  If  imperial  estates  have  been  studied  in  recent  projects,  the  properties  of  private  individuals,  which  preceded  them  and  with  which  the  imperial  property  coexisted  throughout its history, have never been the subject of a global study. Before the interpretation of the data, we will proceed with the creation and the filling of  the database that will give rise to the atlas of the landed estates of the ancient Maghreb. It  will  be  mainly  fed  with  epigraphic,  but  also  archaeological  and  literary  sources.  Its  computer structure will be the adaptation of an existing open source platform. From the  relational database, records of documents, individuals and sites will be linked, allowing  the  consultation  of  objective  data.  A  committee  of  specialists  in  African  antiquity  will  follow the work of creating and filling the database/atlas. This presentation will be divided in the scientific aspects of the project and the technical  aspects of the in-progress database.
 
-
 ---
+
 <a id="posterabs"></a>
 ### Posters
 
@@ -362,6 +375,7 @@ To see the digital posters, please, go to the **[Digital poster session]({{ "../
 DAMOS - Database of Mycenaean at Oslo contains annotated transcriptions of all the  published Mycenaean texts. The data is stored in a relational (MariaDB) database and can  be searched and browsed through an online graphic user interface [https://damos.hf.uio.no/](https://damos.hf.uio.no/). 
 The present project deals with developing the possibility to export and import data  from and to DAMOS in the EpiDoc format with the aim to: 1) integrate the data from  DAMOS into the larger landscape of Latin and Greek documentary sources, making them  reusable in other databases; 2) simplify the process of updating the texts on the occasion  of new editions and new discoveries: the new import function will provide a much better  workflow and, crucially, support collaboration in the field, as it will be possible for  researchers to create and submit a new edition of a text without needing direct access to  the database. EpiDoc-XML constitutes also a sustainable alternative for the long-term  storage of the data in DAMOS. The project is funded by and developed in collaboration with Humit - Centre for  digital development at the Faculty of Humanities of the University of Oslo. The funding application was kindly supported by the Epigraphy.info Funding Working Group and  Steering Committee.
 
+---
 
 **2. Digitization of Inscriptions in the Isparta Yalvaç Archaeology Museum**
 
@@ -369,6 +383,7 @@ The present project deals with developing the possibility to export and import d
 
 This project focuses on the digitalization of all Hellenic and Latin inscriptions preserved in the Isparta Yalvaç Archaeology Museum, which is located on a hill dominating the Yalvaç plain at the foothills of the Sultan Mountains and is one of the most important cities of the Pisidia Region, the city of Antioch. The museum houses nearly 140 inscriptions. The lack of such a study on the inscriptions exhibited in the museum, most of which are in the garden and a small portion inside, limits the use of epigraphic data, which constitutes one of the most important material groups shedding light on the history of the city. Indeed, it has been determined that reading the inscriptions on the columns exhibited in the garden, especially those on the surfaces of which are quite worn over time and due to seasonal conditions, is quite challenging. This project, encompassing the digitization of the epigraphic material to be carried out in the museum, is important for transferring cultural heritage to the coming years within the scope of a digital study and increasing the sustainability of this culture. With this project, which includes the digitization of the epigraphic material to be carried out in the museum, all inscriptions will be classified, transferred to a digital database, and compiled, prioritizing the publication of new inscriptions. Indeed, introducing and sharing new data about Pisidia Antioch with the scientific community is crucial for the regional history. This situation can be understood from the fact that the settlement history of the city and its territory can be traced from the 3rd millennium BC to the 13th century AD.
 
+---
 
 **3. AI-aided analysis and restoration of late-antique Christian epigraphs (LACUNAE)**
 
@@ -376,6 +391,7 @@ This project focuses on the digitalization of all Hellenic and Latin inscription
 
 The aim of the LACUNAE project is the development of a digital tool that uses artificial  intelligence to support the process of integration of lacunae in Greek and Latin epigraphic  documents. The Latin branch of the project will focus on Christian documents from the 4th and  the 5th century and will analyze strictly the epigraphic evidence provided with iconography and  particular signs (e.g., monograms, crosses, Alfa and Omega). The starting point is the selection of the inscriptions and simultaneously the definition of a  taxonomy for the particular signs. These steps will fill a remarkable gap in specialist literature,  where there is a lack of univocal and shared language to describe the iconographic parts. The  selected inscriptions will be sectioned, differentiating the texts from the other formal aspects of  the documents. The outcome will be an annotated dataset with a classification of the several  iconographic parts and signs. This tool will enhance the global interpretation of late-antique Christian epigraphic sources – the  iconography and special signs often gain a better understanding of the texts – and will facilitate the tasks of lacunae integration and retrieval of inscriptions based on a specific signum.
 
+---
 
 **4. Digital Epigraphy and Twitter: a proposal of public History for master students**
 
@@ -384,6 +400,7 @@ The aim of the LACUNAE project is the development of a digital tool that uses ar
 In this poster, I will present the improvements of the Project with the master students of the subject. The Bronze Age in the Mediterranean: Minoans and Mycenaeans which is part of the interuniversity Master of Ancient History and Sciences of the Antiquity, held in the Autonoma and Complutense Universities (Madrid, Spain). In this period, the tablets of Linear B are essential to understanding the dynamics of the society. Nevertheless, the students’ previous knowledge is scarce in epigraphical resources. Thus, digital tools for this period, the DAMOS database of Oslo, based on digital epigraphy and NESTOR for bibliographical resources have helped us to create a service-learning Project based on public History using Twitter. Every student had to work with a Linear B tablet and create a thread on Twitter linking with epigraphic digital Databases. Last year, the Project was successful and this academic year we have included some innovations. Concretely, we have improved the Project with digital epigraphy training sessions to focus more on digital epigraphic resources and to promote significant learning in the students. With the help of Cristina de la Escosura, we have amplified the number of digital epigraphy resources that students use in other subjects.
 This proposal aims to present the main innovations and receive feedback for future academic years.
 
+---
 
 **5. Writing on more than one face (in Didyma and Miletus): an epigraphic database (EFES)**
 
