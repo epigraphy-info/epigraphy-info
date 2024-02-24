@@ -1,9 +1,11 @@
 @import url(//fonts.googleapis.com/css?family=Roboto+Slab:400,700,300|Roboto:400,700,300|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300);
+p { padding-right: 1em; padding-left: 1em; }
+
 p.a { margin: 10px 10px; }
 
 p.b { margin: 5px 5px; }
 
-ul { margin: 0.5em; }
+ul { margin: 1em; }
 
 li a, .dropbtn { display: inline-block; text-align: center; }
 
@@ -87,18 +89,26 @@ html { box-sizing: border-box; }
 /*
 *	Globals
 */
-html, body { margin: 0; padding: 0; width: 100%; }
+html, body { margin: 5; padding: 5; width: 100%; }
 
 code { background-color: #eee; display: inline-block; border-radius: none; padding: 0 0px; }
 
 pre code.hljs { font-size: 0.8333333333em; }
+
+table th:first-of-type { width: 15%; }
+
+table th:nth-of-type(2) { width: 15%; }
+
+table th:nth-of-type(3) { width: 20%; }
+
+table th:nth-of-type(4) { width: 50%; }
 
 .page-divider { display: block; width: 70%; margin-left: auto; margin-right: auto; border-top: 1px solid #ddd; }
 .page-divider .one { position: relative; top: -9px; display: block; background: #ddd; width: 18px; height: 18px; margin-left: auto; margin-right: auto; border-radius: 50%; }
 .page-divider .two { position: relative; top: -26px; display: block; background: #fff; width: 16px; height: 16px; margin-left: auto; margin-right: auto; border-radius: 50%; }
 
 .site-header-container, .post-header-container { width: 100%; text-align: center; }
-.site-header-container.has-cover, .post-header-container.has-cover { color: #fff; text-shadow: 0 2px 1px rgba(0, 0, 0, 0.67) !important; background-position: 50% 50%; background-size: cover; }
+.site-header-container.has-cover, .post-header-container.has-cover { color: #fff; text-shadow: 0 2px 1px rgba(0, 0, 0, 0.67) !important; background-position: 10% 10%; background-size: cover; }
 .site-header-container.has-cover .title, .post-header-container.has-cover .title { font-size: 2.985984em; }
 .site-header-container.has-cover .subtitle, .site-header-container.has-cover .info, .post-header-container.has-cover .subtitle, .post-header-container.has-cover .info { font-size: 1.2em; }
 .site-header-container .scrim, .post-header-container .scrim { padding: 1em 1em; }
@@ -148,7 +158,7 @@ pre code.hljs { font-size: 0.8333333333em; }
 .page-content .post-meta::after { clear: both; content: ""; display: table; }
 .page-content .post-meta .post-date { float: left; display: block; margin-right: 2.3576515979%; width: 48.821174201%; text-align: left; font-size: 0.9em; }
 .page-content .post-meta .post-date:last-child { margin-right: 0; }
-.page-content .post-meta .post-categories { float: left; display: block; margin-right: 2.3576515979%; width: 48.821174201%; margin-right: 0; text-align: right; font-size: 0.9em; }
+.page-content .post-meta .post-categories { float: left; display: block; margin-right: 2.3576515979%; width: 48.821174201%; margin-right: 0; text-align: right; font-size: 1em; }
 .page-content .post-meta .post-categories:last-child { margin-right: 0; }
 .page-content .pagination { padding-top: 2em; text-align: center; color: #999; }
 .page-content .pagination .page-number { padding: 0 1em; }
@@ -176,9 +186,9 @@ pre code.hljs { font-size: 0.8333333333em; }
 .page-content .post .post-navigation { font-size: 0.9em; display: block; width: auto; }
 .page-content .post .post-navigation .prev-post { display: block; width: 50%; float: left; margin: 1em 0; }
 .page-content .post .post-navigation .next-post { display: block; width: 50%; float: left; margin: 1em 0; text-align: right; }
-.page-content .page .post-header { padding: 0.3em 1em 1em 1em; text-align: center; }
+.page-content .page .post-header { padding: 1em 1em 1em 1em; text-align: center; }
 .page-content .page .posts-list li { padding: 0.4822530864em; padding-left: 0; }
-.page-content .page .posts-list .desc { font-size: 0.9em; }
+.page-content .page .posts-list .desc { font-size: 1em; }
 .page-content .page .posts-list .post-date { color: #999; }
 .page-content .page .profile { max-width: 320px; margin: auto; padding-bottom: 0.5em; }
 

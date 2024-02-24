@@ -14,8 +14,8 @@ $desktop: $b1;
 *	Globals
 */
 html, body {
-	margin: 0;
-	padding: 0;
+	margin: 5;
+	padding: 5;
 	width: 100%;
 }
 
@@ -37,6 +37,22 @@ code {
 pre code.hljs {
 	font-size: modular-scale(-1);
 }
+
+//width of markdown tables
+
+table th:first-of-type {
+    width: 15%;
+}
+table th:nth-of-type(2) {
+    width: 15%;
+}
+table th:nth-of-type(3) {
+    width: 20%;
+}
+table th:nth-of-type(4) {
+    width: 50%;
+}
+
 
 .page-divider {
 	$divider-color: $light-gray;
@@ -76,7 +92,7 @@ pre code.hljs {
 	&.has-cover {
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
-		background-position: 50% 50%;
+		background-position: 10% 10%;
 		background-size: cover;
 		.title {
 			font-size: modular-scale(6);
@@ -223,7 +239,7 @@ pre code.hljs {
 			@include span-columns(6);
 			margin-right: 0;
 			text-align: right;
-			font-size: 0.9em;
+			font-size: 1em;
 		}
 	}
 	.pagination {
@@ -327,7 +343,7 @@ pre code.hljs {
 	*/
 	.page {
 		.post-header {
-			padding: 0.3em 1em 1em 1em;
+			padding: 1em 1em 1em 1em;
 			text-align: center;
 		}
 		.posts-list {
@@ -337,7 +353,7 @@ pre code.hljs {
 				padding-left: 0;
 			}
 			.desc {
-				font-size: 0.9em;
+				font-size: 1em;
 			}
 			.post-date {
 				color: $medium-gray;
