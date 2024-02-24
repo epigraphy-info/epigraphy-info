@@ -8,10 +8,10 @@ published: true
 # Epigraphy.info VIII Workshop (Berlin)
 
  - [Registration](#registration)
- - [Programme](#programme) -> [Day 1](#day1), [Day 2](#day2), [Day 3](#day3)
+ - [Programme](#programme) -> **[Day 1](#day1)**, **[Day 2](#day2)**, **[Day 3](#day3)**  or **[Download PDF]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240224.pdf %}){:target="_blank" rel="noopener"}**
  - [Abstracts](#abstracts)
  - [Posters](#posters)
- - [Workshop shared documents](#shared)
+ - [Workshop Collaborative Documents](#shared)
  - [Steering Committee Elections](#sc)
  
 
@@ -57,7 +57,7 @@ For those interested, please send your abstract (around 200 words for papers and
 
 In order to register for the workshop, please fill in the Google registration form (see below). The registration is open until 25 March 2024 and you can change your answers also until this date.
 
-**Please note that some parts of the workshop can be attended to only in person as some rooms and location do not allow remote participation.** Zoom links for remote participants will be circulated during the week before the workshop to the registered email address.
+**Please note that some parts of the workshop can be attended to only in person as some rooms and location do not allow remote participation (marked in the form).** Zoom links for remote participants will be circulated during the week before the workshop to the registered email address.
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvzk2wtH07lDAD4-7hblm1AYSI6AEFxTBa-APr2eU9efEmg/viewform?embedded=true" width="100%" height="1000" frameborder="0.2" marginheight="0" marginwidth="0">Loading…</iframe>
@@ -70,9 +70,7 @@ In order to register for the workshop, please fill in the Google registration fo
 <a id="programme"></a>
 ## Programme
 
-You can see and download the latest version of the complete programme [here]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240224.pdf %}){:target="_blank" rel="noopener"}
-
-
+Here you can download the **[latest version of the complete programme]]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240224.pdf %}){:target="_blank" rel="noopener"}**.
 
 
 <a id="day1"></a>
