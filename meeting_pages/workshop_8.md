@@ -60,7 +60,6 @@ In order to register for the workshop, please fill in the Google registration fo
 **Please note that some parts of the workshop can be attended to only in person as some rooms and location do not allow remote participation.** Zoom links for remote participants will be circulated during the week before the workshop to the registered email address.
 
 
-
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvzk2wtH07lDAD4-7hblm1AYSI6AEFxTBa-APr2eU9efEmg/viewform?embedded=true" width="100%" height="1000" frameborder="0.2" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
@@ -71,7 +70,7 @@ In order to register for the workshop, please fill in the Google registration fo
 <a id="programme"></a>
 ## Programme
 
-You can see and download the latest version of the complete programme [here](https://docs.google.com/document/d/1sufPp2pvixgvAaFsXFsaTr1tGufQy497/edit?usp=sharing&ouid=102160883083196605568&rtpof=true&sd=true){:target="_blank" rel="noopener"}.
+You can see and download the latest version of the complete programme [here]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240224.pdf %}){:target="_blank" rel="noopener"}
 
 
 
