@@ -21,7 +21,7 @@ The eighth **Epigraphy.info workshop** will take place in **Berlin (Germany)**, 
 
 The meeting will include **presentations** and **training sessions**. Part of it will be related to current Digital Epigraphy projects worldwide and we encourage scholars who work on Digital Epigraphy to present **proposals** adapted to a wide variety of formats. The meeting is ideally planned as an in-person event, especially to present a paper or poster, but you can attend and discuss remotely. We might record some of the presentations and talks and later make them available via the [Epigraphy.info Youtube channel](https://www.youtube.com/epigraphy-info) and place the posters on the Epigraphy.info website.
 
- *If you have any questions, please do not hesitate to contact the Epigraphy.info committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
+ *If you have any questions, please do not hesitate to contact the Epigraphy.info Steering Committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
 
 <!---
  <a id="cfp"></a>
@@ -70,7 +70,7 @@ In order to register for the workshop, please fill in the Google registration fo
 <a id="programme"></a>
 ## Programme
 
-Here you can download the **[latest version of the complete programme]]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240224.pdf %}){:target="_blank" rel="noopener"}**.
+Here you can download the **[latest version of the programme]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240224.pdf %}){:target="_blank" rel="noopener"}**.
 
 
 <a id="day1"></a>
@@ -169,7 +169,7 @@ For poster abstracts, see [here](#posterabs)
 
 * [Collaborative Document](https://docs.google.com/document/d/18DyG2P3KvV5h2feueqpw85GLrzv1qpSwJ-xTM6XbzLA/edit?usp=sharing){:target="_blank" rel="noopener"}
 
-* [Report on the seventh workshop in Leuven - TBA]()
+* [Report on the seventh workshop in Leuven - TBA in early March]()
 
 <!--- Copied from the last meeting, edit as needed or reuse the structure
 
@@ -184,9 +184,9 @@ For poster abstracts, see [here](#posterabs)
 <a id="abstracts"></a>
 ## Abstracts
 
-* Jump to [Hands-on session abstracts](#handsonabs)
-* Jump to [Presentation abstracts](#presabs)
-* Jump to [Poster abstracts](#posterabs)
+* Go directly to [Hands-on session abstracts](#handsonabs)
+* Go directly to [Presentation abstracts](#presabs)
+* Go directly to [Poster abstracts](#posterabs)
 
 <a id="handsonabs"></a>
 ### Hands-on sessions
