@@ -14,8 +14,8 @@ $desktop: $b1;
 *	Globals
 */
 html, body {
-	/*margin: 0%;
-	padding: 0%;*/
+	margin: 0;
+	padding: 0;
 	width: 100%;
 }
 
@@ -105,9 +105,9 @@ table th:nth-of-type(4) {
 		padding: 1em 1em;
 		&.has-cover {
 			background-color: rgba(0,0,0,0.2);
-			padding: 6em 1em !important;
+			padding: 1em 1em !important;
 			@include media($tablet) {
-				padding: 9em 1em !important;
+				padding: 2em 1em !important;
 			}
 		}
 	}
@@ -129,7 +129,7 @@ table th:nth-of-type(4) {
     float: right;
     margin: 0.1em;
     font-size: 1.5em;
-    padding-top: 0.13em;
+    padding-top: 0.1em;
     @include media ($tablet) {
       display: none;
     }
@@ -281,14 +281,14 @@ table th:nth-of-type(4) {
 		}
 		.post-header-container {
 			.scrim {
-				padding: 2em 1em 1em 1em;
+				padding: 1em 1em 1em 1em;
 			}
 		}
 		.post-meta {
 			padding-bottom: 1em;
 		}
 		.post-content {
-			padding: 1em 0;
+			padding: 0em 0;
 		}
 		.tags {
 			font-size: 0.9em;
