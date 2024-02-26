@@ -100,8 +100,8 @@ For abstracts, see [here](#abstracts)
 |9-17 | Lounge (in front of HU, 2049A) | Posters | **Putting up posters**<br>Conference Badges<br>Coffee, tea, water throughout the day |
 | --- | --- | --- | --- |
 |9.15-<br>10.55 | HU, 2070A | **Hands-on Session** | Vincent **Razanajao** (Paris)<br>_A new implementation of the Patrimonium Editor for the Late Egyptian Artefact Database: a case-study deployment and hands-on session on an eXist-db application suite_ [abstract](#handson2)|
-|9.15-<br>10.55 | HU, 2049A | **Hands-on Session** | Jakob **Jünger**, Jens **Borchtert-Pickenhan**, Mona **Dorn**, Markus **Studer**, Georg **Hertkorn**, Martin **Riebel** (Münster, Dig. Akad. Mainz, Akad. Leipzig, Akad.Göttingen)<br>_Epigraf Tool: Digital Editions of Latin and German Inscriptions_ [abstract](#handson3)|
-|11.00 | HU, Senatssaal | **Presentation 1** | Valentina **Mignosa**, Maddalena Luisa **Zunino**, Antonio **Brunello**, Alessandro **Locaputo**,  Nicola **Saccomanno**, Giuseppe **Serra** (Udine)<br>_Restoring lacunae in Ancient Greek Dialectial Inscriptions Using AI techniques_ [abstract](#pres1)|
+|9.15-<br>10.55 | HU, 2049A | **Hands-on Session** | Jakob **Jünger**, Jens **Borchert-Pickenhan**, Mona **Dorn**, Markus **Studer**, Georg **Hertkorn**, Martin **Riebel**, Chantal **Gärtner**,  Jörg **Witzel** and Maximilian **Michel** (Münster, Dig. Akad. Mainz, Akad. Leipzig, Akad.Göttingen)<br>_Epigraf Tool: Digital Editions of Latin and German Inscriptions_ [abstract](#handson3)|
+|11.00 | HU, Senatssaal | **Presentation 1** | Valentina **Mignosa**, Maddalena Luisa **Zunino**, Andrea **Brunello**, Alessandro **Locaputo**,  Nicola **Saccomanno**, Giuseppe **Serra** (Udine)<br>_Restoring lacunae in Ancient Greek Dialectial Inscriptions Using AI techniques_ [abstract](#pres1)|
 |11.30 | HU, Senatssaal | **Presentation 2** | Monica **Berti** (Leipzig)<br>_Exploring Ancient Greek Authors in Digital Epigraphic Corpora_ [abstract](#pres2)|
 |12.00 | HU, Senatssaal | **Presentation 3** | Rebecca **Benefiel** (Lexington)<br>_The Ancient Graffiti Project_ [abstract](#pres3)|
 |     |     | **_Lunch Break_** |     |
@@ -228,7 +228,7 @@ The prerequisites for this session are: working knowledge of Epidoc XML, have a 
 
 **Epigraf Tool Demo. Digital Editions of Latin and German Inscriptions**
 
-*Jakob Jünger, Jens Borchtert-Pickenhan, Mona Dorn, Markus Studer, Georg Hertkorn, Martin Riebel (Münster, Dig. Akad. Mainz, Akad. Leipzig, Akad.Göttingen)*
+*Jakob Jünger, Jens Borchert-Pickenhan, Mona Dorn, Markus Studer, Georg Hertkorn, Martin Riebel,Chantal Gärtner,  Jörg Witzel and Maximilian Michel (Münster, Dig. Akad. Mainz, Akad. Leipzig, Akad.Göttingen)*
 
 Epigraf is developed and used in the interacademic project "The German Inscriptions" for creating editions of medieval inscriptions. Object descriptions, transcriptions, images, geodata and metadata are edited and published using the application. Epigraf is currently  being migrated from a desktop application to a web application which, in conjunction with a  flexible data model, will enable other projects to work with Epigraf.  
 
@@ -289,7 +289,7 @@ This is the structure we propose for our contribution:
 
 **Restoring lacunae in Ancient Greek Dialectial Inscriptions Using AI techniques**
 
-*Antonio Brunello, Alessandro Locaputo, Valentina Mignosa, Nicola Saccomanno, Giuseppe Serra, Maddalena Luisa Zunino (Udine)*
+*Andrea Brunello, Alessandro Locaputo, Valentina Mignosa, Nicola Saccomanno, Giuseppe Serra, Maddalena Luisa Zunino (Udine)*
 
 The aim of LACUNAE is to apply artificial intelligence to support the process of restoring gaps in  Archaic and Classical epigraphic texts written in different dialects and alphabets, i.e. documents  whose small number and peculiar linguistic features pose specific methodological problems. Due to the specific nature of the chosen documents, the project aims to develop a tool capable of  taking into account literary sources in addition to epigraphic ones in the restoration process and,  above all, of retrieving texts - both epigraphic and literary - relevant to the document under study  in order to fill in the gaps. Our starting point for this purpose is first and foremost the models that  represent the state of the art tools used today, i.e. Ithaca and Ancient Greek BERT. In our paper we intend to present the preliminary results of the work carried out on Greek dialect  inscriptions, while also discussing the methodological criticisms of the work and the strengths and  weaknesses of the algorithms used. Our discussion will focus on evaluating the performance of  the models across different dialects at different levels of granularity, and on testing new examples  not yet seen by them. Finally, we will offer recommendations to address and improve the identified  critical aspects of the models.
 
