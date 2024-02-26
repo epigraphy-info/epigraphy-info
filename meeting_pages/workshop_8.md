@@ -8,7 +8,7 @@ published: true
 # Epigraphy.info VIII Workshop (Berlin)
 
  - [Registration](#registration)
- - [Programme](#programme) -> **[Day 1](#day1)**, **[Day 2](#day2)**, **[Day 3](#day3)**  or **[Download PDF]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240224.pdf %}){:target="_blank" rel="noopener"}**
+ - [Programme](#programme) -> **[Day 1](#day1)**, **[Day 2](#day2)**, **[Day 3](#day3)**  or **[Download PDF]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240226.pdf %}){:target="_blank" rel="noopener"}**
  - [Abstracts](#abstracts)
  - [Posters](#posters)
  - [Workshop Collaborative Documents](#shared)
@@ -70,7 +70,7 @@ In order to register for the workshop, please fill in the Google registration fo
 <a id="programme"></a>
 ## Programme
 
-Here you can download the **[latest version of the programme]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240224.pdf %}){:target="_blank" rel="noopener"}**.
+Here you can download the **[latest version of the programme]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240226.pdf %}){:target="_blank" rel="noopener"}**.
 
 
 <a id="day1"></a>
@@ -101,7 +101,7 @@ For abstracts, see [here](#abstracts)
 | --- | --- | --- | --- |
 |9.15-<br>10.55 | HU, 2070A | **Hands-on Session** | Vincent **Razanajao** (Paris)<br>_A new implementation of the Patrimonium Editor for the Late Egyptian Artefact Database: a case-study deployment and hands-on session on an eXist-db application suite_ [abstract](#handson2)|
 |9.15-<br>10.55 | HU, 2049A | **Hands-on Session** | Jakob **Jünger**, Jens **Borchtert-Pickenhan**, Mona **Dorn**, Markus **Studer**, Georg **Hertkorn**, Martin **Riebel** (Münster, Dig. Akad. Mainz, Akad. Leipzig, Akad.Göttingen)<br>_Epigraf Tool: Digital Editions of Latin and German Inscriptions_ [abstract](#handson3)|
-|11.00 | HU, Senatssaal | **Presentation 1** | Valentina **Mignosa**, Maddalena Luisa **Zunino** (Udine)<br>_Restoring lacunae in Ancient Greek Dialectial Inscriptions Using AI techniques_ [abstract](#pres1)|
+|11.00 | HU, Senatssaal | **Presentation 1** | Valentina **Mignosa**, Maddalena Luisa **Zunino**, Antonio **Brunello**, Alessandro **Locaputo**,  Nicola **Saccomanno**, Giuseppe **Serra** (Udine)<br>_Restoring lacunae in Ancient Greek Dialectial Inscriptions Using AI techniques_ [abstract](#pres1)|
 |11.30 | HU, Senatssaal | **Presentation 2** | Monica **Berti** (Leipzig)<br>_Exploring Ancient Greek Authors in Digital Epigraphic Corpora_ [abstract](#pres2)|
 |12.00 | HU, Senatssaal | **Presentation 3** | Rebecca **Benefiel** (Lexington)<br>_The Ancient Graffiti Project_ [abstract](#pres3)|
 |     |     | **_Lunch Break_** |     |

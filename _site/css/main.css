@@ -89,7 +89,8 @@ html { box-sizing: border-box; }
 /*
 *	Globals
 */
-html, body { margin: 5; padding: 5; width: 100%; }
+html, body { /*margin: 0%;
+padding: 0%;*/ width: 100%; }
 
 code { background-color: #eee; display: inline-block; border-radius: none; padding: 0 0px; }
 
