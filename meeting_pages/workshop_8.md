@@ -150,7 +150,7 @@ To see the digital posters, please, go to the **[Digital poster session]({{ "../
 7. Petra **Heřmánková** (Mainz/Aarhus), Jonathan **Prag** (Oxford), Imran **Asif** (Oxford), Marietta **Horster** (Mainz): _FAIR – Epigraphic vocabulary_
 8. Estelle **Ingrand-Varenne** (Poitiers), Michèle **Brunet** (Lyon), Damien **Strzelecki** (Lyon): _Epigraphy in the Biblissima+ project_
 9. Christoph **Klose** (Berlin): _Community Cluster: “Objects as Information Carriers” (NFDI4Objects)_
-10. Winfried **Kumptisch**, Wolfgang **Spickermann** (Graz): _Celtic Divine Names in Latin Inscriptions of the Military Zone in Germania Superior on the Left Bank of the River Rhine_
+10. Winfried **Kumpitsch**, Wolfgang **Spickermann** (Graz): _Celtic Divine Names in Latin Inscriptions of the Military Zone in Germania Superior on the Left Bank of the River Rhine_
 11. Lorena **Pérez Yarza** (Warsaw), José Carlos **López Gómez,** Jaime **Alvar Ezquerra**, Beatriz **Paneda Murcia**, Pablo **Rodriguez Valdés**, Blanca **Rabazas Rubio** (Malaga): _Specialized databases on cults of the Greco-Roman worlds: Magna Mater, Mithras and Isis_
 12. Martyna **Swierk** (Warsaw): _Individualism and the Community Facing the Cultural Changes: EPIDENTITY_ Project
 13. Tatiana **Tommasi** (Venezia): _Sacred inscriptions from the Venetia et Histria region published by Ludovico Antonio Muratori in his Novus thesaurus veterum inscriptionum (1739-1742)_
@@ -449,7 +449,7 @@ Once the objectives have been defined by the community, they are processed by Te
 
 **10. Celtic Divine Names in Latin Inscriptions of the Military Zone in Germania Superior on the Left Bank of the River Rhine**
 
-*Winfried Kumptisch, Wolfgang Spickermann (Graz)*
+*Winfried Kumpitsch, Wolfgang Spickermann (Graz)*
 
 [https://gams.uni-graz.at/fercan](https://gams.uni-graz.at/fercan)
 
