@@ -8,7 +8,7 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a> at any time.
 
-*Latest update: 2024-01-16*
+*Latest update: 2024-02-27*
 
 * Magdy Aly, Mansoura University, (<a href="https://orcid.org/0000-0002-0937-6552" target="blank">ORCID ID</a>)
 * Canan Arikan, University of Vienna
@@ -32,6 +32,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Dan Deac, History and Art County Museum Zalău, (<a href="https://orcid.org/0000-0003-4711-8623" target="blank">ORCID ID</a>)
 * Gabriël de Klerk, Johannes Gutenberg-Universität Mainz
 * Cristina de la Escosura Balbas, U. Complutense of Madrid, (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID</a>)
+* Maria Teresa de Luque Morales, Universidad de Córdoba, (<a href="https://orcid.org/0000-0002-6942-945X" target="blank">ORCID ID</a>)
 * Francesca Dell'Oro, University of Neuchâtel, (<a href="https://orcid.org/0000-0002-8343-356X" target="blank">ORCID ID</a>)
 * Muditha Dharmasiri, Maynooth University, Ireland
 * Elena Duce Pastor, Postdoctoral researcher Margarita Salas, Autonoma University of Madrid / Universidad de Zaragoza, (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID</a>)
@@ -57,6 +58,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Pieter Houten, Universität Hamburg, (<a href="https://orcid.org/0000-0002-7872-782X" target="blank">ORCID ID</a>)
 * Dimitar Iliev, St. Kliment Ohridski University of Sofia, (<a href="https://orcid.org/0000-0002-5231-818X" target="blank">ORCID ID</a>)
 * Jordan Iliev, National Centre for Information and Documentation, Sofia (<a href="https://orcid.org/0000-0002-0218-8540" target="blank">ORCID ID</a>)
+* Christoph Klose, Staatliche Museen zu Berlin 
 * Ivana Kosanović, Institute of Archaeology Belgrade, (<a href="https://orcid.org/0000-0002-5983-9922" target="blank">ORCID ID</a>)
 * Peter Kruschwitz, Universität Wien, (<a href="https://orcid.org/0000-0002-8427-1056" target="blank">ORCID ID</a>)
 * Anamarija Kurilić, University of Zadar, (<a href="https://orcid.org/0000-0001-7178-4584" target="blank">ORCID ID</a>)
@@ -93,7 +95,10 @@ The following list is based on the voluntary submission in the [Membership form]
 * Thea Sommershield, (<a href="https://orcid.org/0000-0002-6965-8105" target="blank">ORCID ID</a>)
 * Wolfgang Spickermann, University of Graz, (<a href="https://orcid.org/0000-0002-0467-3910" target="blank">ORCID ID</a>)
 * Michele Stefanile, Scuola Superiore Meridionale, (<a href="https://orcid.org/0000-0002-7404-5629" target="blank">ORCID ID</a>)
+* Silvia Stopponi, University of Groningen, (<a href="https://orcid.org/0000-0002-3041-3477" target="blank">ORCID ID</a>)
 * Hamest Tamrazyan, École Polytechnique Fédérale de Lausanne
+* Dilan Taştekin, İstanbul Üniversitesi, (<a href="https://orcid.org/0000-0002-1033-9564" target="blank">ORCID ID</a>)
+* Tatiana Tommasi, University of Udine; Ca' Foscari University of Venice, (<a href="https://orcid.org/0009-0000-2815-0113" target="blank">ORCID ID</a>)
 * Georgios Tsolakis, The University of Chicago, (<a href="https://orcid.org/0000-0001-9555-4038" target="blank">ORCID ID</a>)
 * Scott Vanderbilt, RIB Online, (<a href="https://orcid.org/0000-0002-2612-2677" target="blank">ORCID ID</a>)
 * Banban Wang, Ruprecht-Karls-Universität Heidelberg,  (<a href="https://orcid.org/0000-0002-0336-3080" target="blank">ORCID ID</a>)
