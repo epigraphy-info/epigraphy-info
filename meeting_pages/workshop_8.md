@@ -5,12 +5,13 @@ permalink: workshop_8/
 published: true
 ---
 
-# Epigraphy.info VIII Workshop in Berlin, April 2024
+# Epigraphy.info VIII in Berlin, April 2024
 
 
 <img src='{{site.baseurl}}/assets/images/workshop8_banner.jpeg' style="width:100%;" alt="Epigraphy.info VIII workshop in Berlin" align="middle">
 
 
+---
 
  - [Registration](#registration)
  - [Programme](#programme) -> **[Day 1](#day1)**, **[Day 2](#day2)**, **[Day 3](#day3)**  or **[Download PDF]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240226.pdf %}){:target="_blank" rel="noopener"}**
