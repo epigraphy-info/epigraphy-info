@@ -17,6 +17,10 @@ published: true
 
  ---
 
+
+<img src='{{site.baseurl}}/assets/workshop8_banner.jpeg' style="width:100%;" alt="Epigraphy.info VIII workshop in Berlin" align="middle">
+
+
 The eighth **Epigraphy.info workshop** will take place in **Berlin (Germany)**, from **3-5 April 2024**, hosted by the *Department of Digital History at the Humboldt University of Berlin*, with the courtesy of the *Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)*.
 
 The meeting will include **presentations** and **training sessions**. Part of it will be related to current Digital Epigraphy projects worldwide and we encourage scholars who work on Digital Epigraphy to present **proposals** adapted to a wide variety of formats. The meeting is ideally planned as an in-person event, especially to present a paper or poster, but you can attend and discuss remotely. We might record some of the presentations and talks and later make them available via the [Epigraphy.info Youtube channel](https://www.youtube.com/epigraphy-info) and place the posters on the Epigraphy.info website.
