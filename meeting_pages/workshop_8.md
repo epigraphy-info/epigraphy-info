@@ -116,7 +116,7 @@ For abstracts, see [here](#abstracts)
 |15.45-17.10 | HU, 2070A | **Hands-on Session** | Imran **Asif**, Petra **Heřmánková**, Marietta **Horster**, Jonathan **Prag** (Oxford, Mainz, Aarhus)<br>_Using SPARQL with epigraphic RDF_ [abstract](#handson4) |
 |15.45-17.10 | HU, 2049A | **Hands-on Session**<br>HYBRID| Silvia **Stopponi**, Evelien **de Graaf**, Saskia **Peels-Matthey** (Groningen, Leuven)<br>_Presenting and testing AGILe, the first Lemmatizer for Ancient Greek Inscriptions_ [abstract](#handson5) |
 |17.15 | HU, Senatssaal | **Keynote** | Marja **Vierros** (Helsinki)<br>_From EpiDoc XML files to a linguistically searchable corpus_ |
-|19.00 |  [Restaurant Maximilians](www.maximilians-berlin.de)   | **_Conference Dinner_**      |  |
+|19.00 |    | **_Conference Dinner_**      | [Restaurant Maximilians](https://www.maximilians-berlin.de/) |
 
 
 For abstracts, see [here](#abstracts)
