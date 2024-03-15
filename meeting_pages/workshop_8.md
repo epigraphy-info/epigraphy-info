@@ -62,7 +62,7 @@ In order to register for the workshop, please fill in the Google registration fo
 
 **Please note that some parts of the workshop can be attended to only in person as some rooms and location do not allow remote participation (marked in the form).** Zoom links for remote participants will be circulated during the week before the workshop to the registered email address.
 
-The participation (both in-person and remote) is **free of charge**, thanks to the generosity of local organisers! The in-person participants will be kindly asked to cover the cost of the conference dinner on Day 1, should the wish to participate.
+The participation (both in-person and remote) is **free of charge**, thanks to the generosity of local organisers! The in-person participants will be kindly asked to cover the cost of the conference dinner on Day 2, should the wish to participate.
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvzk2wtH07lDAD4-7hblm1AYSI6AEFxTBa-APr2eU9efEmg/viewform?embedded=true" width="100%" height="1000" frameborder="0.2" marginheight="0" marginwidth="0">Loading…</iframe>
@@ -116,7 +116,7 @@ For abstracts, see [here](#abstracts)
 |15.45-17.10 | HU, 2070A | **Hands-on Session** | Imran **Asif**, Petra **Heřmánková**, Marietta **Horster**, Jonathan **Prag** (Oxford, Mainz, Aarhus)<br>_Using SPARQL with epigraphic RDF_ [abstract](#handson4) |
 |15.45-17.10 | HU, 2049A | **Hands-on Session**<br>HYBRID| Silvia **Stopponi**, Evelien **de Graaf**, Saskia **Peels-Matthey** (Groningen, Leuven)<br>_Presenting and testing AGILe, the first Lemmatizer for Ancient Greek Inscriptions_ [abstract](#handson5) |
 |17.15 | HU, Senatssaal | **Keynote** | Marja **Vierros** (Helsinki)<br>_From EpiDoc XML files to a linguistically searchable corpus_ |
-|19.00 |  [Restaurant Nolle](https://www.restaurant-nolle.de/en/)   | **_Conference Dinner_**      | S-Bahnbogen 203, Georgenstraße |
+|19.00 |  [Restaurant Maximilians](www.maximilians-berlin.de)   | **_Conference Dinner_**      |  |
 
 
 For abstracts, see [here](#abstracts)
