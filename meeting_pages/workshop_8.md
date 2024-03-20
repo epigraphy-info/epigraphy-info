@@ -85,8 +85,9 @@ Here you can download the **[latest version of the programme]({{ site.baseurl }}
 
 | | BBAW, UdL |     |  |
 | 14.15 | Project-rooms of CIL / IG | ca. 20 min. (in small groups: 14.15; 14.45; 15.15)   | Collections and working space of CIL and IG |
-| --- | --- | --- | --- |
 | 15.45 | Vestibule| Coffee  + START | (Conference badges, Infos) |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | 16.00-16.20;<br><br>16.25-17.55 | Vortragsraum, UdL 07W04 | **Short presentation**<br><br><br>**Hands-on Session**<br>\[max. 35 particip.\] | **Squeeze Digitisation**:<br><br>Matthäus **Heil** (BBAW, Berlin) Presentation: t.b.a (Digitisation of IG squeezes)<br><br>Eleni **Bozia** (Florida)<br>_Digital epigraphy and archaeology – toolbox presentation_ [abstract](#handson1) |
 | 18.00 | Sitzungsraum UdL | **_Welcome_** | Elena **Duce** **Pastor** (Madrid); Marietta **Horster** (Mainz; BBAW/CIL), Kaja **Harter-Uibopuu** and Sebastian **Prignitz** (BBAW/IG); Martin **Fechner** (BBAW/Telota) |
 | 18.30 | Sitzungsraum UdL | **Presentation** | Till **Grallert** (Berlin)<br>_Digital History and the challenges of Data Culture at Humboldt-Universität zu Berlin_ |
