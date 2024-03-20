@@ -83,10 +83,10 @@ Here you can download the **[latest version of the programme]({{ site.baseurl }}
 
 **UdL – Berlin-Brandenburgische Akademie der Wissenschaften, Unter den Linden 8, Berlin**
 
-| 14.00 | Vestibule UdL (upstairs) |     | Conference badges |
+| | BBAW, UdL |     |  |
+| 14.15 | Project-rooms of CIL / IG | ca. 20 min. (in small groups: 14.15; 14.45; 15.15)   | Collections and working space of CIL and IG |
 | --- | --- | --- | --- |
-| 14.15 | Project-rooms of CIL / IG | “Guided Tour” ca. 20 min. (in small groups: 14.15; 14.45; 15.15) | Collection of squeezes, archives, working space of CIL and / or IG |
-| 15.45 | Vestibule | **_Coffee Break_** |     |
+| 15.45 | Vestibule| Coffee  + START | (Conference badges, Infos) |
 | 16.00-16.20;<br><br>16.25-17.55 | Vortragsraum, UdL 07W04 | **Short presentation**<br><br><br>**Hands-on Session**<br>\[max. 35 particip.\] | **Squeeze Digitisation**:<br><br>Matthäus **Heil** (BBAW, Berlin) Presentation: t.b.a (Digitisation of IG squeezes)<br><br>Eleni **Bozia** (Florida)<br>_Digital epigraphy and archaeology – toolbox presentation_ [abstract](#handson1) |
 | 18.00 | Sitzungsraum UdL | **_Welcome_** | Elena **Duce** **Pastor** (Madrid); Marietta **Horster** (Mainz; BBAW/CIL), Kaja **Harter-Uibopuu** and Sebastian **Prignitz** (BBAW/IG); Martin **Fechner** (BBAW/Telota) |
 | 18.30 | Sitzungsraum UdL | **Presentation** | Till **Grallert** (Berlin)<br>_Digital History and the challenges of Data Culture at Humboldt-Universität zu Berlin_ |
@@ -102,10 +102,10 @@ For abstracts, see [here](#abstracts)
 
 **Humboldt Universität Berlin, Unter den Linden 6, 10099 Berlin**
 
-|9-17 | Lounge (in front of HU, 2049A) | Posters | **Putting up posters**<br>Conference Badges<br>Coffee, tea, water throughout the day |
+|9-17 | Lounge (in front of HU, 2249A) | Posters | **Putting up posters**<br>Conference Badges<br>Coffee, tea, water throughout the day |
 | --- | --- | --- | --- |
 |9.15-<br>10.55 | HU, 2070A | **Hands-on Session** | Vincent **Razanajao** (Paris)<br>_A new implementation of the Patrimonium Editor for the Late Egyptian Artefact Database: a case-study deployment and hands-on session on an eXist-db application suite_ [abstract](#handson2)|
-|9.15-<br>10.55 | HU, 2049A | **Hands-on Session** | Jakob **Jünger**, Jens **Borchert-Pickenhan**, Mona **Dorn**, Markus **Studer**, Georg **Hertkorn**, Martin **Riebel**, Chantal **Gärtner**,  Jörg **Witzel** and Maximilian **Michel** (Münster, Dig. Akad. Mainz, Akad. Leipzig, Akad.Göttingen)<br>_Epigraf Tool: Digital Editions of Latin and German Inscriptions_ [abstract](#handson3)|
+|9.15-<br>10.55 | HU, 2249A | **Hands-on Session** | Jakob **Jünger**, Jens **Borchert-Pickenhan**, Mona **Dorn**, Markus **Studer**, Georg **Hertkorn**, Martin **Riebel**, Chantal **Gärtner**,  Jörg **Witzel** and Maximilian **Michel** (Münster, Dig. Akad. Mainz, Akad. Leipzig, Akad.Göttingen)<br>_Epigraf Tool: Digital Editions of Latin and German Inscriptions_ [abstract](#handson3)|
 |11.00 | HU, Senatssaal | **Presentation 1** | Valentina **Mignosa**, Maddalena Luisa **Zunino**, Andrea **Brunello**, Alessandro **Locaputo**,  Nicola **Saccomanno**, Giuseppe **Serra** (Udine)<br>_Restoring lacunae in Ancient Greek Dialectial Inscriptions Using AI techniques_ [abstract](#pres1)|
 |11.30 | HU, Senatssaal | **Presentation 2** | Monica **Berti** (Leipzig)<br>_Exploring Ancient Greek Authors in Digital Epigraphic Corpora_ [abstract](#pres2)|
 |12.00 | HU, Senatssaal | **Presentation 3** | Rebecca **Benefiel** (Lexington)<br>_The Ancient Graffiti Project_ [abstract](#pres3)|
@@ -114,9 +114,9 @@ For abstracts, see [here](#abstracts)
 |14.45 | HU, Senatssaal | **Presentation 5** | Tsvetan **Vasilev,** Dimitar **Iliev** (Sofia)<br>_ORASIS: A Digital Collection of Bulgaria’s Post-Byzantine Church Murals_ [abstract](#pres5)|
 |15.15 | Lounge | **_Coffee Break_** |     |
 |15.45-17.10 | HU, 2070A | **Hands-on Session** | Imran **Asif**, Petra **Heřmánková**, Marietta **Horster**, Jonathan **Prag** (Oxford, Mainz, Aarhus)<br>_Using SPARQL with epigraphic RDF_ [abstract](#handson4) |
-|15.45-17.10 | HU, 2049A | **Hands-on Session**<br>HYBRID| Silvia **Stopponi**, Evelien **de Graaf**, Saskia **Peels-Matthey** (Groningen, Leuven)<br>_Presenting and testing AGILe, the first Lemmatizer for Ancient Greek Inscriptions_ [abstract](#handson5) |
+|15.45-17.10 | HU, 2249A | **Hands-on Session**<br>HYBRID| Silvia **Stopponi**, Evelien **de Graaf**, Saskia **Peels-Matthey** (Groningen, Leuven)<br>_Presenting and testing AGILe, the first Lemmatizer for Ancient Greek Inscriptions_ [abstract](#handson5) |
 |17.15 | HU, Senatssaal | **Keynote** | Marja **Vierros** (Helsinki)<br>_From EpiDoc XML files to a linguistically searchable corpus_ |
-|19.00 |    | **_Conference Dinner_**      | [Restaurant Maximilians](https://www.maximilians-berlin.de/) |
+|19.00 |    | **_Conference Dinner_**      | [Restaurant Maximilians](https://www.maximilians-berlin.de/) ca. 15min. walk, Friedrichstr.185-190|
 
 
 For abstracts, see [here](#abstracts)
@@ -133,7 +133,7 @@ For abstracts, see [here](#abstracts)
 |10.00 | HU, Senatssaal | **Presentation 6** | José Carlos **López Gómez**, Valentino **Gasparini** (Malaga)<br>_Connecting the Past: An Introduction to the Platform_ _Sylloge Inscriptionum Religionis Africae Romanae_ (_SIRAR_) [abstract](#pres6)|
 |10.30 | HU, Senatssaal | **Presentation 7** [abstract](#pres7)| Hernán **González Bordas**, Alexandre **Zanni** (Bordeaux)<br>_The Atlas of the Landed Estates in Ancient Maghreb (ALEAM) - project Database_ |
 |11.00 | Lounge | **_Coffee Break_** |     |
-|11.30 | HU, Senatssaal or 2049A | **Meeting** | Feedback on workshop, community decisions, elections, next workshop, perspectives and ToDos etc. |
+|11.30 | HU, Senatssaal or 2249A | **Meeting** | Feedback on workshop, community decisions, elections, next workshop, perspectives and ToDos etc. |
 |12.30/13.00 |     | **End of Workshop** | *some helping hands might be needed …* |
 
 
