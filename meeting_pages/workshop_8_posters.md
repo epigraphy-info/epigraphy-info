@@ -8,7 +8,7 @@ published: true
 
 # Digital poster session
 
-The Epigraphy.info VIII workshop will host poster session dedicated to the presentation of new and ongoing projects in the field of Digital Epigraphy. The poster session will be held in person, but also offer the possibility to present your poster virtually on the Epigraphy.info website during the workshop (where they can be remain publicly afterwards).
+The Epigraphy.info VIII workshop will host poster session dedicated to the presentation of new and ongoing projects in the field of Digital Epigraphy. The poster session will be held in person, but also offer the possibility to present your poster virtually on the Epigraphy.info website during the workshop (where they will also remain publicly afterwards).
 
 **[See all posters on Epigraphy.info GitHub](https://github.com/epigraphy-info/epigraphy-info/tree/main/documents/workshop_8/){:target="_blank" rel="noopener"}** 
 
