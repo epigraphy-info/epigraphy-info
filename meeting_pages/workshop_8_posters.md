@@ -19,23 +19,24 @@ The Epigraphy.info VIII workshop will host poster session dedicated to the prese
 
 -->
 
+---
 
 #### List of posters:
 
-1. Federico **Aurora** (Oslo): _Integration and collaboration in Epigraphy_: _EpiDoc-export/import function for Database of Mycenaean at Oslo_ _– DAMOS_ [See details](#poster1)
+1. Federico **Aurora** (Oslo): _Integration and collaboration in Epigraphy_: _EpiDoc-export/import function for Database of Mycenaean at Oslo_ _– DAMOS_ [See poster](#poster1)
 2. Emine **Bilgiç Kavak**, Nurşah Çokbankir **Şengül** (Sakarya): _Digitization of Inscriptions in the Isparta Yalvaç Archaeology Museum_
 3. Andrea **Brunello**, Alessandro **Locaputo**, Stefano **Magnani**, Davide **Redaelli**, Giuseppe **Serra** (Udine): _AI-aided analysis and restoration of late-antique Christian epigraphs (LACUNAE)_
-4. Elena **Duce Pastor** (Madrid): _Digital Epigraphy and Twitter: a proposal of public History for master students_ [See details](#poster4)
-5. Marta **Fogagnolo** (Bologna): _Writing on more than one face (in Didyma and Miletus): an epigraphic database (EFES)_ [See details](#poster5)
-6. Aliénor **Genety** (Lyon): _Épigraphie latine numérique de Césarée de Maurétanie : une recherche sur les données et les métadonnées d’un groupe de monuments funéraires (Ier siècle avant J.-C. au IIIe siècle après J.-C.)_ [See details](#poster6)
-7. Petra **Heřmánková** (Mainz/Aarhus), Jonathan **Prag** (Oxford), Imran **Asif** (Oxford), Marietta **Horster** (Mainz): _FAIR – Epigraphic vocabulary_ [See details](#poster7)
+4. Elena **Duce Pastor** (Madrid): _Digital Epigraphy and Twitter: a proposal of public History for master students_ [See poster](#poster4)
+5. Marta **Fogagnolo** (Bologna): _Writing on more than one face (in Didyma and Miletus): an epigraphic database (EFES)_ [See poster](#poster5)
+6. Aliénor **Genety** (Lyon): _Épigraphie latine numérique de Césarée de Maurétanie : une recherche sur les données et les métadonnées d’un groupe de monuments funéraires (Ier siècle avant J.-C. au IIIe siècle après J.-C.)_ [See poster](#poster6)
+7. Petra **Heřmánková** (Mainz/Aarhus), Jonathan **Prag** (Oxford), Imran **Asif** (Oxford), Marietta **Horster** (Mainz): _FAIR – Epigraphic vocabulary_ [See poster](#poster7)
 8. Estelle **Ingrand-Varenne** (Poitiers), Michèle **Brunet** (Lyon), Damien **Strzelecki** (Lyon): _Epigraphy in the Biblissima+ project_
 9. Christoph **Klose** (Berlin): _Community Cluster: “Objects as Information Carriers” (NFDI4Objects)_
-10. Winfried **Kumpitsch**, Wolfgang **Spickermann** (Graz): _Celtic Divine Names in Latin Inscriptions of the Military Zone in Germania Superior on the Left Bank of the River Rhine_ [See details](#poster10)
+10. Winfried **Kumpitsch**, Wolfgang **Spickermann** (Graz): _Celtic Divine Names in Latin Inscriptions of the Military Zone in Germania Superior on the Left Bank of the River Rhine_ [See poster](#poster10)
 11. Lorena **Pérez Yarza** (Warsaw), José Carlos **López Gómez,** Jaime **Alvar Ezquerra**, Beatriz **Paneda Murcia**, Pablo **Rodriguez Valdés**, Blanca **Rabazas Rubio** (Malaga): _Specialized databases on cults of the Greco-Roman worlds: Magna Mater, Mithras and Isis_
 12. Martyna **Swierk** (Warsaw): _Individualism and the Community Facing the Cultural Changes: EPIDENTITY_ Project
-13. Tatiana **Tommasi** (Venezia): _Sacred inscriptions from the Venetia et Histria region published by Ludovico Antonio Muratori in his Novus thesaurus veterum inscriptionum (1739-1742)_ [See details](#poster13)
-14. Lorena **Pérez Yarza**, Marina **Bastero Acha**, Pawel **Nowakowski**, Julia **Borczynska**, Andrés **Rea**, Maciej **Krawczy** (Warsaw): _Digital Atlas of Workshops in Epigraphy,_ _DAWE_ [See details](#poster14)
+13. Tatiana **Tommasi** (Venezia): _Sacred inscriptions from the Venetia et Histria region published by Ludovico Antonio Muratori in his Novus thesaurus veterum inscriptionum (1739-1742)_ [See poster](#poster13)
+14. Lorena **Pérez Yarza**, Marina **Bastero Acha**, Pawel **Nowakowski**, Julia **Borczynska**, Andrés **Rea**, Maciej **Krawczy** (Warsaw): _Digital Atlas of Workshops in Epigraphy,_ _DAWE_ [See poster](#poster14)
 
 
 ---
