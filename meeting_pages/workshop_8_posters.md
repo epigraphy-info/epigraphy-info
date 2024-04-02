@@ -26,16 +26,16 @@ The Epigraphy.info VIII workshop will host poster session dedicated to the prese
 2. Emine **Bilgiç Kavak**, Nurşah Çokbankir **Şengül** (Sakarya): _Digitization of Inscriptions in the Isparta Yalvaç Archaeology Museum_
 3. Andrea **Brunello**, Alessandro **Locaputo**, Stefano **Magnani**, Davide **Redaelli**, Giuseppe **Serra** (Udine): _AI-aided analysis and restoration of late-antique Christian epigraphs (LACUNAE)_
 4. Elena **Duce Pastor** (Madrid):[_Digital Epigraphy and Twitter: a proposal of public History for master students_](#poster4)
-5. Marta **Fogagnolo** (Bologna): _Writing on more than one face (in Didyma and Miletus): an epigraphic database (EFES)_
-6. Aliénor **Genety** (Lyon): _Épigraphie latine numérique de Césarée de Maurétanie : une recherche sur les données et les métadonnées d’un groupe de monuments funéraires (Ier siècle avant J.-C. au IIIe siècle après J.-C.)_
+5. Marta **Fogagnolo** (Bologna): [_Writing on more than one face (in Didyma and Miletus): an epigraphic database (EFES)_](#poster5)
+6. Aliénor **Genety** (Lyon): [_Épigraphie latine numérique de Césarée de Maurétanie : une recherche sur les données et les métadonnées d’un groupe de monuments funéraires (Ier siècle avant J.-C. au IIIe siècle après J.-C.)_](#poster6)
 7. Petra **Heřmánková** (Mainz/Aarhus), Jonathan **Prag** (Oxford), Imran **Asif** (Oxford), Marietta **Horster** (Mainz): [_FAIR – Epigraphic vocabulary_](#poster7)
 8. Estelle **Ingrand-Varenne** (Poitiers), Michèle **Brunet** (Lyon), Damien **Strzelecki** (Lyon): _Epigraphy in the Biblissima+ project_
 9. Christoph **Klose** (Berlin): _Community Cluster: “Objects as Information Carriers” (NFDI4Objects)_
 10. Winfried **Kumpitsch**, Wolfgang **Spickermann** (Graz): [_Celtic Divine Names in Latin Inscriptions of the Military Zone in Germania Superior on the Left Bank of the River Rhine_](#poster10)
 11. Lorena **Pérez Yarza** (Warsaw), José Carlos **López Gómez,** Jaime **Alvar Ezquerra**, Beatriz **Paneda Murcia**, Pablo **Rodriguez Valdés**, Blanca **Rabazas Rubio** (Malaga): _Specialized databases on cults of the Greco-Roman worlds: Magna Mater, Mithras and Isis_
 12. Martyna **Swierk** (Warsaw): _Individualism and the Community Facing the Cultural Changes: EPIDENTITY_ Project
-13. Tatiana **Tommasi** (Venezia): _Sacred inscriptions from the Venetia et Histria region published by Ludovico Antonio Muratori in his Novus thesaurus veterum inscriptionum (1739-1742)_
-14. Lorena **Pérez Yarza**, Marina **Bastero Acha**, Pawel **Nowakowski**, Julia **Borczynska**, Andrés **Rea**, Maciej **Krawczy** (Warsaw): _Digital Atlas of Workshops in Epigraphy,_ _DAWE_
+13. Tatiana **Tommasi** (Venezia): [_Sacred inscriptions from the Venetia et Histria region published by Ludovico Antonio Muratori in his Novus thesaurus veterum inscriptionum (1739-1742)_](#poster13)
+14. Lorena **Pérez Yarza**, Marina **Bastero Acha**, Pawel **Nowakowski**, Julia **Borczynska**, Andrés **Rea**, Maciej **Krawczy** (Warsaw): [_Digital Atlas of Workshops in Epigraphy,_ _DAWE_](#poster14)
 
 
 ---
@@ -57,6 +57,46 @@ This proposal aims to present the main innovations and receive feedback for futu
 </figure>
 
 ---
+
+<a id="poster5"></a>
+## 5. Marta **Fogagnolo** (Bologna): _Writing on more than one face (in Didyma and Miletus): an epigraphic database (EFES)_
+
+
+*Abstract:*
+
+The poster aims to present a database published in EFES (EpiDoc Front-End Services) and encoded in EpiDoc-XML, which collects epigraphic supports inscribed on more than one face from Didyma and Miletus (57 records). The database examines a specific case study due to the huge number of supports with these features, but is intended to be implemented in the framework of my post-doctoral project ‘Writing on more than one face: historical, textual and material aspects of a Greek epigraphic practice’ (Department of History and Cultures, University of Bologna). The project aims to collect in an organic and reasoned way (through historical, philological-textual, and archaeological analysis) the evidence of the use and reuse of stone for Greek, or bilingual, epigraphic texts on more than one writing face. In the process of encoding the epigraphic material, a semantic-digital analysis has also been conducted with the aim of implementing the Guidelines for the digital encoding of epigraphic texts specifically concerning the markup of structural textual phenomena both in the text and in the metadata. What is strongly desirable is to bring these topics to the discussion of the EpiDoc and epigraphy.info Community, raising problems and suggesting new markup to encode these features.
+
+**[Click here to see the full Poster 5 (PNG)]({{ site.baseurl }}{% link documents/workshop_8/Poster_5.png %}){:target="_blank" rel="noopener"}**
+
+
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_8/Poster_5.png' style="width:100%;" alt="Poster 5" align="middle" >
+<figcaption>Poster preview</figcaption>
+</figure>
+
+
+---
+
+<a id="poster6"></a>
+## 6. Aliénor **Genety** (Lyon): _Épigraphie latine numérique de Césarée de Maurétanie : une recherche sur les données et les métadonnées d’un groupe de monuments funéraires (Ier siècle avant J.-C. au IIIe siècle après J.-C.)_
+
+
+*Abstract:*
+
+Mon sujet de thèse s’intitule Épigraphie latine numérique de Césarée de Maurétanie : une recherche sur les données et les métadonnées d’un groupe de monuments funéraires (Ier  siècle avant J.-C. au IIIe siècle après J.-C.). Ce dernier porte sur l’étude des inscriptions, issues de nécropoles situées à l’ouest de la  ville de Cherchell (Algérie). L’étude des inscriptions devrait permettre de cerner l’histoire de  ce secteur et les différentes dynamiques d’implantation des nécropoles, le profil sociologique  des usagers et l’évolution des pratiques et des techniques épigraphiques (formulaire,  paléographie, matériaux, etc.). L’analyse complète de ce corpus, lie intrinsèquement pratique  épigraphique et pratique numérique, l’un permettant de nourrir l’autre et inversement. Chaque  notice est pensée et enrichie par un encodage en XML-TEI, pour faire face aux problématiques  qui m’intéressent, à savoir le croisement du traitement du texte inscrit et du monument comme  porteur de cette inscription. Le but de mon travail est de créer un certain nombre de modules  portant sur les formulaires (Diis Manibus, etc.) mais également sur la paléographie même des  caractères. Le traitement de ce corpus épigraphique est à voir comme un « programme »  rédactionnel reposant sur une réflexion sur la technique d’écriture elle-même (taille et forme  des caractères, usage du support, etc.) afin de déterminer si ces éléments peuvent apporter un  éclairage nouveau à l’histoire des inscriptions de Cherchell, par exemple en créant des « mises  en série » nouvelles pouvant poser la question d’un même atelier, ou d’un même groupe social.
+
+**[Click here to see the full Poster 6 (PDF)]({{ site.baseurl }}{% link documents/workshop_8/Poster_6.pdf %}){:target="_blank" rel="noopener"}**
+
+
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_8/Poster_6.png' style="width:100%;" alt="Poster 6" align="middle" >
+<figcaption>Poster preview</figcaption>
+</figure>
+
+---
+
 
  <a id="poster7"></a>
 ## 7. Petra **Heřmánková** (Mainz/Aarhus), Jonathan **Prag** (Oxford), Imran **Asif** (Oxford), Marietta **Horster** (Mainz): _FAIR – Epigraphic vocabulary_
@@ -97,6 +137,45 @@ With the poster presentation we want to demonstrate the advantages of the PATRIM
 
 ---
 
+
+
+<a id="poster13"></a>
+## 13. Tatiana **Tommasi** (Venezia): _Sacred inscriptions from the Venetia et Histria region published by Ludovico Antonio Muratori in his Novus thesaurus veterum inscriptionum (1739-1742)_
+
+
+*Abstract:*
+
+My PhD project is dedicated to the study of the sacred inscriptions from the ancient Venetia et Histria region (Regio X), with particular attention to the handwritten tradition of epigraphic documents and to the potentialities offered by state-of-the-art digital technologies to study them.  Digital technologies will be mainly applied for recovering the information contained in handwritten documents related to epigraphy (epigraphic manuscripts, but also epistolary exchanges) produced between the eighteenth and the nineteenth century, a fundamental period for the birth of the epigraphic discipline. As a case study, I will focus on the sacred inscriptions from the Venetia et Histria region published by Ludovico Antonio Muratori in his Novus thesaurus veterum inscriptionum (1739-1742) and recorded in the handwritten documents connected to the printed edition (especially the transcriptions of the epigraphic texts sent to Muratori by his contemporaries, who saw the inscriptions in person, now preserved in Modena, Biblioteca Estense Universitaria, Archivio Muratori). During the first part of my project, I will apply Handwritten Text Recognition technologies to the archival documents in order to create an annotated version of them and to improve their layout analysis. In the last phase of my research, I will produce an EpiDoc database of the sacred inscriptions from the Venetia et Histria region, enriching the EpiDoc records with the information retrieved from the epigraphic tradition, in order to create a connection with other epigraphic resources available online.
+
+**[Click here to see the full Poster 13 (PDF)]({{ site.baseurl }}{% link documents/workshop_8/Poster_13.pdf %}){:target="_blank" rel="noopener"}**
+
+
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_8/Poster_13.png' style="width:100%;" alt="Poster 6" align="middle" >
+<figcaption>Poster preview</figcaption>
+</figure>
+
+---
+
+<a id="poster14"></a>
+## 14. Lorena **Pérez Yarza**, Marina **Bastero Acha**, Pawel **Nowakowski**, Julia **Borczynska**, Andrés **Rea**, Maciej **Krawczy** (Warsaw): _Digital Atlas of Workshops in Epigraphy,_ _DAWE_
+
+
+*Abstract:*
+
+DAWE is a digital database being developed as part of the ERC STONE-MASTERS project, collecting information on the stonemasons and artisans of Late Antiquity. Our approach views them as key players in facilitating cultural exchange from top to bottom, acting as cultural intermediaries between the elite and the general public during that period of transformation. Additionally, their prefabricated inscriptions (and therefore prefabricated goods in preindustrial societies) hold significant meaning as vehicles of cultural memory in both public and private commemoration. So far, epigraphists of the Roman period have had few instruments to draw upon for the purposes of pursuing synthetic workshop studies, and have been overwhelmingly captivated by other strands: the quantitative research, the study of the self-representation, the visibility of inscriptions, and the “viewers’ culture”. STONE-MASTERS argues, however, that a significant leap in our understanding can be achieved by establishing a highly regionalised network of workshops, which will identify the workshops of origin for most of the inscriptions from the 3rd to the 5th centuries and allow us to trace the changes in style and products offered by these workshops over the centuries. In order to achieve this goal, DAWE is utilising the workshop study techniques that have been developed for other crafts and eras, particularly early Greek vase painters and scribes/scriptoria, and tailoring them to fit the requirements of Graeco-Roman epigraphy.
+
+**[Click here to see the full Poster 14 (PDF)]({{ site.baseurl }}{% link documents/workshop_8/Poster_14.pdf %}){:target="_blank" rel="noopener"}**
+
+
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_8/Poster_14.png' style="width:100%;" alt="Poster 14" align="middle" >
+<figcaption>Poster preview</figcaption>
+</figure>
+
+
 <!-- 
 POSTER TEMPLATE
 
@@ -187,6 +266,25 @@ Or [Download Poster 1 as PPTX]({{ site.baseurl }}{% link documents/workshop_7/PO
 </figure>
 
 ---
+
+
+<a id="poster6"></a>
+## 6. 
+
+
+*Abstract:*
+
+Provide text
+
+**[Click here to see the full Poster 6 (PDF)]({{ site.baseurl }}{% link documents/workshop_8/Poster_6.pdf %}){:target="_blank" rel="noopener"}**
+
+
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_8/Poster_6.png' style="width:100%;" alt="Poster 6" align="middle" >
+<figcaption>Poster preview</figcaption>
+</figure>
+
 
 -->
 
