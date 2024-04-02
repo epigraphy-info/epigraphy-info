@@ -22,7 +22,7 @@ The Epigraphy.info VIII workshop will host poster session dedicated to the prese
 
 #### List of posters:
 
-1. Federico **Aurora** (Oslo): _Integration and collaboration in Epigraphy_: _EpiDoc-export/import function for Database of Mycenaean at Oslo_ _– DAMOS_
+1. Federico **Aurora** (Oslo): [_Integration and collaboration in Epigraphy_: _EpiDoc-export/import function for Database of Mycenaean at Oslo_ _– DAMOS_](#poster1)
 2. Emine **Bilgiç Kavak**, Nurşah Çokbankir **Şengül** (Sakarya): _Digitization of Inscriptions in the Isparta Yalvaç Archaeology Museum_
 3. Andrea **Brunello**, Alessandro **Locaputo**, Stefano **Magnani**, Davide **Redaelli**, Giuseppe **Serra** (Udine): _AI-aided analysis and restoration of late-antique Christian epigraphs (LACUNAE)_
 4. Elena **Duce Pastor** (Madrid):[_Digital Epigraphy and Twitter: a proposal of public History for master students_](#poster4)
@@ -37,6 +37,25 @@ The Epigraphy.info VIII workshop will host poster session dedicated to the prese
 13. Tatiana **Tommasi** (Venezia): [_Sacred inscriptions from the Venetia et Histria region published by Ludovico Antonio Muratori in his Novus thesaurus veterum inscriptionum (1739-1742)_](#poster13)
 14. Lorena **Pérez Yarza**, Marina **Bastero Acha**, Pawel **Nowakowski**, Julia **Borczynska**, Andrés **Rea**, Maciej **Krawczy** (Warsaw): [_Digital Atlas of Workshops in Epigraphy,_ _DAWE_](#poster14)
 
+
+---
+
+<a id="poster1"></a>
+## 1. Federico **Aurora** (Oslo): _Integration and collaboration in Epigraphy_: _EpiDoc-export/import function for Database of Mycenaean at Oslo_ _– DAMOS_
+
+*Abstract:*
+
+DAMOS - Database of Mycenaean at Oslo contains annotated transcriptions of all the  published Mycenaean texts. The data is stored in a relational (MariaDB) database and can  be searched and browsed through an online graphic user interface [https://damos.hf.uio.no/](https://damos.hf.uio.no/). 
+The present project deals with developing the possibility to export and import data  from and to DAMOS in the EpiDoc format with the aim to: 1) integrate the data from  DAMOS into the larger landscape of Latin and Greek documentary sources, making them  reusable in other databases; 2) simplify the process of updating the texts on the occasion  of new editions and new discoveries: the new import function will provide a much better  workflow and, crucially, support collaboration in the field, as it will be possible for  researchers to create and submit a new edition of a text without needing direct access to  the database. EpiDoc-XML constitutes also a sustainable alternative for the long-term  storage of the data in DAMOS. The project is funded by and developed in collaboration with Humit - Centre for  digital development at the Faculty of Humanities of the University of Oslo. The funding application was kindly supported by the Epigraphy.info Funding Working Group and  Steering Committee.
+
+
+
+**[Click here to see the full Poster 1 (PDF)]({{ site.baseurl }}{% link documents/workshop_8/Poster_1.pdf %}){:target="_blank" rel="noopener"}**
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_8/Poster_1.png' style="width:100%;" alt="Poster 1" align="middle" >
+<figcaption>Poster preview</figcaption>
+</figure>
 
 ---
 
