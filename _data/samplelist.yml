@@ -55,10 +55,10 @@ nav:
     subnav:
       - title: Documents
         url: documents/    
-  - title: JOIN US/Contact
+  - title: JOIN US
     url: contact/
     subnav:
-      - title: Contact us
+      - title: Contact
         url: contact/
       - title: Join us!
         url: join_us/
