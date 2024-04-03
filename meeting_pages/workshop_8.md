@@ -79,12 +79,10 @@ The participation (both in-person and remote) is **free of charge**, thanks to t
 
 Here you can download the **[latest version of the programme]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240226.pdf %}){:target="_blank" rel="noopener"}**.
 
-<!---
+
 Here you can download the **[map of the venue and location of the rooms]({{ site.baseurl }}{% link documents/workshop_8/HU_Plan.pdf %}){:target="_blank" rel="noopener"}.**
 
--->
-
-
+---
 
 <a id="day1"></a>
 ### Wednesday, 3 April 2024
