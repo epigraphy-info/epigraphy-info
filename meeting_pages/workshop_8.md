@@ -11,12 +11,12 @@ published: true
 ---
 
  - [Registration](#registration)
- - [Programme](#programme) -> **[Day 1](#day1)**, **[Day 2](#day2)**, **[Day 3](#day3)**  or **[Download PDF]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240226.pdf %}){:target="_blank" rel="noopener"}**
+ - [Programme and venue](#programme) -> **[Day 1](#day1)**, **[Day 2](#day2)**, **[Day 3](#day3)**  or **[Download PDF]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240226.pdf %}){:target="_blank" rel="noopener"}**
  - [Abstracts](#abstracts)
  - [Posters](#posters)
  - [Workshop Collaborative Documents](#shared)
  - [Steering Committee Elections](#sc)
- 
+
 
  ---
 
@@ -53,7 +53,9 @@ For those interested, please send your abstract (around 200 words for papers and
 
 -->
 
+
 ---
+
 
  <a id="registration"></a>
 ## Registration for the Epigraphy.info workshop
@@ -73,9 +75,12 @@ The participation (both in-person and remote) is **free of charge**, thanks to t
 
 
 <a id="programme"></a>
-## Programme
+## Programme and venue 
 
 Here you can download the **[latest version of the programme]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240226.pdf %}){:target="_blank" rel="noopener"}**.
+
+Here you can download the **[map of the venue and location of the rooms]({{ site.baseurl }}{% link documents/workshop_8/HU_plan.pdf %}){:target="_blank" rel="noopener"}.**
+
 
 
 <a id="day1"></a>
@@ -487,7 +492,7 @@ Late Antiquity, or the early Byzantine period, was a time of fast-paced social, 
 
 *Tatiana Tommasi (Venezia)*
 
-My PhD project is dedicated to the study of the sacred inscriptions from the ancient Venetia et Histria region (Regio X), with particular attention to the handwritten tradition of epigraphic documents and to the potentialities offered by state-of-the-art digital technologies to study them.  Digital technologies will be mainly applied for recovering the information contained in handwritten documents related to epigraphy (epigraphic manuscripts, but also epistolary exchanges) produced between the eighteenth and the nineteenth century, a fundamental period for the birth of the epigraphic discipline. As a case study, I will focus on the sacred inscriptions from the Venetia et Histria region published by Ludovico Antonio Muratori in his Novus thesaurus veterum inscriptionum (1739-1742) and recorded in the handwritten documents connected to the printed edition (especially the transcriptions of the epigraphic texts sent to Muratori by his contemporaries, who saw the inscriptions in person, now preserved in Modena, Biblioteca Estense Universitaria, Archivio Muratori). During the first part of my project, I will apply Handwritten Text Recognition technologies to the archival documents in order to create an annotated version of them and to improve their layout analysis. In the last phase of my research, I will produce an EpiDoc database of the sacred inscriptions from the Venetia et Histria region, enriching the EpiDoc records with the information retrieved from the epigraphic tradition, in order to create a connection with other epigraphic resources available online
+My PhD project is dedicated to the study of the sacred inscriptions from the ancient Venetia et Histria region (Regio X), with particular attention to the handwritten tradition of epigraphic documents and to the potentialities offered by state-of-the-art digital technologies to study them.  Digital technologies will be mainly applied for recovering the information contained in handwritten documents related to epigraphy (epigraphic manuscripts, but also epistolary exchanges) produced between the eighteenth and the nineteenth century, a fundamental period for the birth of the epigraphic discipline. As a case study, I will focus on the sacred inscriptions from the Venetia et Histria region published by Ludovico Antonio Muratori in his Novus thesaurus veterum inscriptionum (1739-1742) and recorded in the handwritten documents connected to the printed edition (especially the transcriptions of the epigraphic texts sent to Muratori by his contemporaries, who saw the inscriptions in person, now preserved in Modena, Biblioteca Estense Universitaria, Archivio Muratori). During the first part of my project, I will apply Handwritten Text Recognition technologies to the archival documents in order to create an annotated version of them and to improve their layout analysis. In the last phase of my research, I will produce an EpiDoc database of the sacred inscriptions from the Venetia et Histria region, enriching the EpiDoc records with the information retrieved from the epigraphic tradition, in order to create a connection with other epigraphic resources available online.
 
 ---
 
