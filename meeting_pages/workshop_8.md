@@ -11,7 +11,7 @@ published: true
 ---
 
  - [Registration](#registration)
- - [Programme and venue](#programme) -> **[Day 1](#day1)**, **[Day 2](#day2)**, **[Day 3](#day3)**  or **[Download PDF]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240226.pdf %}){:target="_blank" rel="noopener"}** or **[Venue map]({{ site.baseurl }}{% link documents/workshop_8/HU_plan.pdf %}){:target="_blank" rel="noopener"}.**
+ - [Programme and venue](#programme) -> **[Day 1](#day1)**, **[Day 2](#day2)**, **[Day 3](#day3)** or **[Download PDF]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240226.pdf %}){:target="_blank" rel="noopener"}** or **[Venue map]({{ site.baseurl }}{% link documents/workshop_8/HU_plan.pdf %}){:target="_blank" rel="noopener"}**
  - [Abstracts](#abstracts)
  - [Posters](#posters)
  - [Workshop Collaborative Documents](#shared)
@@ -79,7 +79,10 @@ The participation (both in-person and remote) is **free of charge**, thanks to t
 
 Here you can download the **[latest version of the programme]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240226.pdf %}){:target="_blank" rel="noopener"}**.
 
+<!---
 Here you can download the **[map of the venue and location of the rooms]({{ site.baseurl }}{% link documents/workshop_8/HU_plan.pdf %}){:target="_blank" rel="noopener"}.**
+
+-->
 
 
 
