@@ -41,4 +41,4 @@ published: true
 
 ---
 
-**See the election process for the Steering committee [(in PDF)]({{ site.baseurl }}{% link documents/steeringcommittee.pdf %}){:target="_blank" rel="noopener"}.**
+**See the [election process for the Steering committee (updated in 2023)]({{ site.baseurl }}{% link documents/steeringcommittee_2023.pdf %}){:target="_blank" rel="noopener"}.**
