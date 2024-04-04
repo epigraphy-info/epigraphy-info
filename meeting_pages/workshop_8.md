@@ -312,6 +312,7 @@ The aim of LACUNAE is to apply artificial intelligence to support the process of
 #### Presentation 2
 
 **Exploring Ancient Greek Authors in Digital Epigraphic Corpora**
+DOIN: [10.5281/zenodo.10911823](https://zenodo.org/records/10911824)
 
 *Monica Berti (Leipzig)*
 
