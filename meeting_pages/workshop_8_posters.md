@@ -30,7 +30,7 @@ The Epigraphy.info VIII workshop will host poster session dedicated to the prese
 5. Marta **Fogagnolo** (Bologna): _Writing on more than one face (in Didyma and Miletus): an epigraphic database (EFES)_ [See poster](#poster5)
 6. Aliénor **Genety** (Lyon): _Épigraphie latine numérique de Césarée de Maurétanie : une recherche sur les données et les métadonnées d’un groupe de monuments funéraires (Ier siècle avant J.-C. au IIIe siècle après J.-C.)_ [See poster](#poster6)
 7. Petra **Heřmánková** (Mainz/Aarhus), Jonathan **Prag** (Oxford), Imran **Asif** (Oxford), Marietta **Horster** (Mainz): _FAIR – Epigraphic vocabulary_ [See poster](#poster7)
-8. Estelle **Ingrand-Varenne** (Poitiers), Michèle **Brunet** (Lyon), Damien **Strzelecki** (Lyon): _Epigraphy in the Biblissima+ project_
+8. Estelle **Ingrand-Varenne** (Poitiers), Michèle **Brunet** (Lyon), Damien **Strzelecki** (Lyon): _Epigraphy in the Biblissima+ project_ [See poster](#poster8)
 9. Christoph **Klose** (Berlin): _Community Cluster: “Objects as Information Carriers” (NFDI4Objects)_
 10. Winfried **Kumpitsch**, Wolfgang **Spickermann** (Graz): _Celtic Divine Names in Latin Inscriptions of the Military Zone in Germania Superior on the Left Bank of the River Rhine_ [See poster](#poster10)
 11. Lorena **Pérez Yarza** (Warsaw), José Carlos **López Gómez,** Jaime **Alvar Ezquerra**, Beatriz **Paneda Murcia**, Pablo **Rodriguez Valdés**, Blanca **Rabazas Rubio** (Malaga): _Specialized databases on cults of the Greco-Roman worlds: Magna Mater, Mithras and Isis_
@@ -137,6 +137,23 @@ The creation of an updated controlled epigraphic vocabulary has been identified 
 
 <figure>
 <img src='{{site.baseurl}}/documents/workshop_8/Poster_7.png' style="width:100%;" alt="Poster 7" align="middle" >
+<figcaption>Poster preview</figcaption>
+</figure>
+
+---
+ <a id="poster8"></a>
+## Estelle **Ingrand-Varenne** (Poitiers), Michèle **Brunet** (Lyon), Damien **Strzelecki** (Lyon): _Epigraphy in the Biblissima+ project_
+
+*Abstract:*
+
+Biblissima+ [https://projet.biblissima.fr/fr](https://projet.biblissima.fr/fr) is a multi-site digital infrastructure for primary  research and services dedicated to the history of the transmission of historical texts, from the  first Mesopotamian clay tablets 3,000 years ago to the first printed books, in all media and  scripts. Biblissima+ is the place at the national level where all the data involved in the history  of the transmission and study of ancient written cultures are processed and made  interoperable. Biblissima+ concerns all heritage collections that transmit ancient texts,  including archaeological sources, seals and coins, as well as the archives of modern scholars  and contemporary researchers.  The “Cluster 5a” brings together projects that apply TEI to epigraphic documents from  Antiquity, the Middle Ages and the modern period, which is a first in France for this  discipline. This working group is giving priority to the generic rules of digital epigraphy by  compiling a thesaurus for the discipline with the OpenTheso tools, and to modelling in order  to create a “format pivot” for searching epigraphic data via the Biblissima+ Portal.  
+The poster will present the overall project and the first steps of the Cluster 5a TEI and  epigraphy. 
+
+**[Click here to see the full Poster 8 (PDF)]({{ site.baseurl }}{% link documents/workshop_8/Poster_8.pdf %}){:target="_blank" rel="noopener"}**
+
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_8/Poster_8.png' style="width:100%;" alt="Poster 8" align="middle" >
 <figcaption>Poster preview</figcaption>
 </figure>
 
