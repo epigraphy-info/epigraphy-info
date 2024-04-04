@@ -312,9 +312,10 @@ The aim of LACUNAE is to apply artificial intelligence to support the process of
 #### Presentation 2
 
 **Exploring Ancient Greek Authors in Digital Epigraphic Corpora**
-DOIN: [10.5281/zenodo.10911823](https://zenodo.org/records/10911824)
 
 *Monica Berti (Leipzig)*
+
+DOI: [10.5281/zenodo.10911823](https://zenodo.org/records/10911824)
 
 The goal of this paper is to present ongoing work for the extracEon of information about Graeco-Roman authors from epigraphic sources. My previous work was based on literary
 sources and has been generaEng methodologies and linguisEc data about references to authors and works in ancient literature, with a focus on the Deipnosophists of Athenaeus,
