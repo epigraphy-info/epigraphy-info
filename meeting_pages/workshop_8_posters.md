@@ -31,7 +31,7 @@ The Epigraphy.info VIII workshop will host poster session dedicated to the prese
 6. Aliénor **Genety** (Lyon): _Épigraphie latine numérique de Césarée de Maurétanie : une recherche sur les données et les métadonnées d’un groupe de monuments funéraires (Ier siècle avant J.-C. au IIIe siècle après J.-C.)_ [See poster](#poster6)
 7. Petra **Heřmánková** (Mainz/Aarhus), Jonathan **Prag** (Oxford), Imran **Asif** (Oxford), Marietta **Horster** (Mainz): _FAIR – Epigraphic vocabulary_ [See poster](#poster7)
 8. Estelle **Ingrand-Varenne** (Poitiers), Michèle **Brunet** (Lyon), Damien **Strzelecki** (Lyon): _Epigraphy in the Biblissima+ project_ [See poster](#poster8)
-9. Christoph **Klose** (Berlin): _Community Cluster: “Objects as Information Carriers” (NFDI4Objects)_
+9. Christoph **Klose** (Berlin): _Community Cluster: “Objects as Information Carriers” (NFDI4Objects)_ [See poster](#poster9)
 10. Winfried **Kumpitsch**, Wolfgang **Spickermann** (Graz): _Celtic Divine Names in Latin Inscriptions of the Military Zone in Germania Superior on the Left Bank of the River Rhine_ [See poster](#poster10)
 11. Lorena **Pérez Yarza** (Warsaw), José Carlos **López Gómez,** Jaime **Alvar Ezquerra**, Beatriz **Paneda Murcia**, Pablo **Rodriguez Valdés**, Blanca **Rabazas Rubio** (Malaga): _Specialized databases on cults of the Greco-Roman worlds: Magna Mater, Mithras and Isis_
 12. Martyna **Swierk** (Warsaw): _Individualism and the Community Facing the Cultural Changes: EPIDENTITY_ Project
