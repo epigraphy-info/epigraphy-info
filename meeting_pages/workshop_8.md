@@ -517,7 +517,5 @@ During the Epigraphy.info workshop, the election of new members for the Steering
 
 
 
-**See the [election process for the Steering committee (updated in 2023)](https://epigraphy.info/documents/steeringcommittee_2023.pdf)**.
+**See the [election process for the Steering committee 2023](https://epigraphy.info/documents/steeringcommittee_2023.pdf)**.
 
-
----
