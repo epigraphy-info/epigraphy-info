@@ -13,9 +13,10 @@ published: true
  - [Registration](#registration)
  - [Programme and venue](#programme) -> **[Day 1](#day1)**, **[Day 2](#day2)**, **[Day 3](#day3)** or **[Download PDF]({{ site.baseurl }}{% link documents/workshop_8/Programme_Epigraphy_Berlin_20240226.pdf %}){:target="_blank" rel="noopener"}** or **[Venue map]({{ site.baseurl }}{% link documents/workshop_8/HU_Plan.pdf %}){:target="_blank" rel="noopener"}**
  - [Abstracts](#abstracts)
- - [Posters](#posters)
+ - [Posters](#posters) -> **[Digital poster session]({{ "../workshop_8_posters/"}})**
  - [Workshop Collaborative Documents](#shared)
  - [Steering Committee Elections](#sc)
+
 
 
  ---
