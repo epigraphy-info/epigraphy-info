@@ -516,6 +516,3 @@ DAWE is a digital database being developed as part of the ERC STONE-MASTERS proj
 During the Epigraphy.info workshop, the election of new members for the Steering Committee will take place and the location for the next workshop will be decided. If you would like to candidate as member of the Steering Committee or if you would like to host the next Epigraphy.info workshop, please send your application to ([info@epigraphy.info](mailto:info@epigraphy.info)).
 
 
-
-See the [Steering committee election process (2023)](https://epigraphy.info/documents/steeringcommittee_2023.pdf).
-
