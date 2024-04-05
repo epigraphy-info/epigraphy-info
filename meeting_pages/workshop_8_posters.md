@@ -160,6 +160,28 @@ The poster will present the overall project and the first steps of the Cluster 5
 
 ---
 
+ <a id="poster9"></a>
+## 9. Christoph **Klose** (Berlin): _Community Cluster: “Objects as Information Carriers” (NFDI4Objects)_
+
+*Abstract:*
+
+The Community Cluster "Objects as Information Carriers" is part of the DFG-funded initiative  NFDI4Objects (designated spokespersons Ulrike Ehmig (Berlin-Brandenburg 
+Academy of Sciences and Humanities, CIL) and Bernhard Weisser (Berlin State Museums, Coin  Cabinet). The cluster aims to establish an open community representing both collecting and editing  institutions as well as researchers from all disciplines who deal with written artefacts as material  remains of human history. The cluster focuses on objects as carriers of (semantic) information that  can be expressed in signs, letters or texts. The overarching goal is to model the complex relationships  between the materiality of an object and the semantic information it contains from the perspective  of research data management. In a process driven by the members of the community, needs and  goals in this area of research and documentation are therefore identified. These may include topics such as: 
+∙ Improving the interoperability of existing data collections and data discovery services ∙ Transfer of high-quality research standards from reference works to the semantic web ∙ Qualification of research data through generally accepted and semantically agreed authority files, community-developed vocabularies and ontologies at the interface between textual,  visual and (geo-)spatial information 
+∙ A first goal could be the creation of a transdisciplinary catalogue of existing digital  repositories and databases. 
+Once the objectives have been defined by the community, they are processed by Temporary Working  Groups. Thus we expressively welcome experts, researchers and collecting institutions from the epigraphic  field to join the community cluster in order to contribute to the creation of a future-oriented research data infrastructure.
+
+**[Click here to see the full Poster 9 (PDF)]({{ site.baseurl }}{% link documents/workshop_8/Poster_9.pdf %}){:target="_blank" rel="noopener"}**
+
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_8/Poster_9.png' style="width:100%;" alt="Poster 9" align="middle" >
+<figcaption>Poster preview</figcaption>
+</figure>
+
+
+---
+
 
  <a id="poster10"></a>
 ## Winfried **Kumpitsch**, Wolfgang **Spickermann** (Graz): _Celtic Divine Names in Latin Inscriptions of the Military Zone in Germania Superior on the Left Bank of the River Rhine_
