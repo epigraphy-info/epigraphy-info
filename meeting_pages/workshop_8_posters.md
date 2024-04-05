@@ -163,6 +163,8 @@ The poster will present the overall project and the first steps of the Cluster 5
  <a id="poster9"></a>
 ## 9. Christoph **Klose** (Berlin): _Community Cluster: “Objects as Information Carriers” (NFDI4Objects)_
 
+Contact: c.klose@smb.spk-berlin.de
+
 *Abstract:*
 
 The Community Cluster "Objects as Information Carriers" is part of the DFG-funded initiative  NFDI4Objects (designated spokespersons Ulrike Ehmig (Berlin-Brandenburg 
