@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshop 
+title: Workshop 9
 permalink: workshop_9/
 published: true
 ---
@@ -216,7 +216,7 @@ For poster abstracts, see [here](#posterabs)
 * [Funding WG report](https://docs.google.com/document/d/1-TOFzX2Me4NDT9ozJpii-V4LSEpUn0YjI-GU49FcWwA/edit?usp=sharing){:target="_blank" rel="noopener"}
 * [Social Media WG report](https://docs.google.com/document/d/18jbQs9juidawTmMknuSs2FJh2WoHHK-efxOd0ZCbn-o/edit?usp=sharing){:target="_blank" rel="noopener"}
 
--->
+
 
 ---
 <a id="abstracts"></a>
