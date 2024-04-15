@@ -14,7 +14,7 @@ The workshop traditionally brings together all researchers and enthousiasts of d
 
 The meeting will include **presentations**, **poster session**, as well as **training sessions** and **meetings / hackathons of the working groups**. We welcome any proposals for meeting activities - an official call for activities will be circulated in the second half of 2024. The meeting will be planned as an in-person event but with option to attend and discuss some parts of the programme remotely. 
 
-We are very excited to see you in the happiest city in the world (according to the Happy City Index in 2024, https://happy-city-index.com/)
+We are very excited to see you in **the happiest city in the world** (according to the [Happy City Index in 2024](https://happy-city-index.com/)).
 
 
 *If you have any questions, please do not hesitate to contact the Epigraphy.info Steering Committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
