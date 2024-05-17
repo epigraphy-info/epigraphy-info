@@ -62,6 +62,25 @@ The present project deals with developing the possibility to export and import d
 
 ---
 
+<a id="poster1"></a>
+## 2. Emine **Bilgiç Kavak**, Nurşah Çokbankir **Şengül** (Sakarya): _Digitization of Inscriptions in the Isparta Yalvaç Archaeology Museum_
+
+Contact: bilgickavak@sakarya.edu.tr
+
+*Abstract:*
+
+This project focuses on the digitalization of all Hellenic and Latin inscriptions preserved in the Isparta Yalvaç Archaeology Museum, which is located on a hill dominating the Yalvaç plain at the foothills of the Sultan Mountains and is one of the most important cities of the Pisidia Region, the city of Antioch. The museum houses nearly 140 inscriptions. The lack of such a study on the inscriptions exhibited in the museum, most of which are in the garden and a small portion inside, limits the use of epigraphic data, which constitutes one of the most important material groups shedding light on the history of the city. Indeed, it has been determined that reading the inscriptions on the columns exhibited in the garden, especially those on the surfaces of which are quite worn over time and due to seasonal conditions, is quite challenging. This project, encompassing the digitization of the epigraphic material to be carried out in the museum, is important for transferring cultural heritage to the coming years within the scope of a digital study and increasing the sustainability of this culture. With this project, which includes the digitization of the epigraphic material to be carried out in the museum, all inscriptions will be classified, transferred to a digital database, and compiled, prioritizing the publication of new inscriptions. Indeed, introducing and sharing new data about Pisidia Antioch with the scientific community is crucial for the regional history. This situation can be understood from the fact that the settlement history of the city and its territory can be traced from the 3rd millennium BC to the 13th century AD.
+
+
+**[Click here to see the full Poster 1 (PDF)]({{ site.baseurl }}{% link documents/workshop_8/Poster_2.pdf %}){:target="_blank" rel="noopener"}**
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_8/Poster_2.png' style="width:100%;" alt="Poster 2" align="middle" >
+<figcaption>Poster preview</figcaption>
+</figure>
+
+---
+
 
  <a id="poster4"></a>
 ## 4. Elena **Duce Pastor** (Madrid): _Digital Epigraphy and Twitter: a proposal of public History for master students_
