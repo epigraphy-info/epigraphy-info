@@ -24,7 +24,7 @@ The Epigraphy.info VIII workshop will host poster session dedicated to the prese
 #### List of posters:
 
 1. Federico **Aurora** (Oslo): _Integration and collaboration in Epigraphy_: _EpiDoc-export/import function for Database of Mycenaean at Oslo_ _– DAMOS_ [See poster](#poster1)
-2. Emine **Bilgiç Kavak**, Nurşah Çokbankir **Şengül** (Sakarya): _Digitization of Inscriptions in the Isparta Yalvaç Archaeology Museum_
+2. Emine **Bilgiç Kavak**, Nurşah Çokbankir **Şengül** (Sakarya): _Digitization of Inscriptions in the Isparta Yalvaç Archaeology Museum_ [See poster](#poster2)
 3. Andrea **Brunello**, Alessandro **Locaputo**, Stefano **Magnani**, Davide **Redaelli**, Giuseppe **Serra** (Udine): _AI-aided analysis and restoration of late-antique Christian epigraphs (LACUNAE)_
 4. Elena **Duce Pastor** (Madrid): _Digital Epigraphy and Twitter: a proposal of public History for master students_ [See poster](#poster4)
 5. Marta **Fogagnolo** (Bologna): _Writing on more than one face (in Didyma and Miletus): an epigraphic database (EFES)_ [See poster](#poster5)
@@ -62,7 +62,7 @@ The present project deals with developing the possibility to export and import d
 
 ---
 
-<a id="poster1"></a>
+<a id="poster2"></a>
 ## 2. Emine **Bilgiç Kavak**, Nurşah Çokbankir **Şengül** (Sakarya): _Digitization of Inscriptions in the Isparta Yalvaç Archaeology Museum_
 
 Contact: bilgickavak@sakarya.edu.tr
