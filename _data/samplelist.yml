@@ -23,8 +23,8 @@ nav:
     subnav:
       - title: Working groups
         url: working_groups/      
-      - title: Social Media
-        url: social_media_wg/
+      - title: Communication/Outreach
+        url: communication_outreach_wg/
       - title: Funding
         url: funding_wg/
       - title: Ontologies

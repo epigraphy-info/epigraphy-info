@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Communication & Outreach WG
-permalink: /social_media_wg/
+permalink: /communication_outreach_wg/
 ---
 
 ## WHO WE ARE AND WHAT WE DO
