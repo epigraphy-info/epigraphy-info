@@ -182,16 +182,7 @@ For poster abstracts, see [here](#posterabs)
 
 * [Collaborative Document](https://docs.google.com/document/d/18DyG2P3KvV5h2feueqpw85GLrzv1qpSwJ-xTM6XbzLA/edit?usp=sharing){:target="_blank" rel="noopener"}
 
-* [Report on the seventh workshop in Leuven - TBA in early March]()
-
-<!--- Copied from the last meeting, edit as needed or reuse the structure
-
-* [Shared document Epigraphy.info VII (including Outreach WG report)](https://docs.google.com/document/d/10ytYYpKCL2KJkA7FHOWvcHKPZa6Dzl3Ys7HJrC_nJbw/edit?usp=sharing){:target="_blank" rel="noopener"}
-* [Vocabulary/Ontology WG report](https://docs.google.com/document/d/1FlZvx9i2MIf6hc25VMI5XfK7MabvoyMS9cqtWeqtCww/edit?usp=sharing){:target="_blank" rel="noopener"}
-* [Funding WG report](https://docs.google.com/document/d/1-TOFzX2Me4NDT9ozJpii-V4LSEpUn0YjI-GU49FcWwA/edit?usp=sharing){:target="_blank" rel="noopener"}
-* [Social Media WG report](https://docs.google.com/document/d/18jbQs9juidawTmMknuSs2FJh2WoHHK-efxOd0ZCbn-o/edit?usp=sharing){:target="_blank" rel="noopener"}
-
--->
+* [Report on the past workshops in Leuven and IAS (2020-2023)](https://zenodo.org/records/11241585)
 
 ---
 <a id="abstracts"></a>
