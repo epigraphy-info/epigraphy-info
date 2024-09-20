@@ -8,7 +8,7 @@ published: true
 <img src='{{site.baseurl}}/assets/images/workshop9_banner.png' style="width:100%;" alt="Epigraphy.info IX workshop in Aarhus" align="middle">
 
 
-The ninth **Epigraphy.info workshop** will take place in **Aarhus (Denmark)** in the spring 2025 (late March/early April). The workshop will be hosted by the **[Past Social Network Project](https://projects.au.dk/pastnetworks)**, Department of History and Classical Studies, Aarhus University, supported by the *[Center for Humanities Computing](https://chc.au.dk/)*, Aarhus University.
+The ninth **Epigraphy.info workshop** will take place in **Aarhus (Denmark)** 2-4 April 2025. The workshop will be hosted by the **[Past Social Network Project](https://projects.au.dk/pastnetworks)**, Department of History and Classical Studies, Aarhus University, supported by the *[Center for Humanities Computing](https://chc.au.dk/)*, Aarhus University.
 
 The workshop traditionally brings together all researchers and enthousiasts of digital epigraphy to discuss the current trends and issues of the discipline. This year, the focus will be given to **networking** and building the epigraphic **links and relationships** in a broad sense, with an option for focused training in the application of Social network analysis in epigraphy. 
 
