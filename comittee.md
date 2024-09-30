@@ -11,6 +11,7 @@ published: true
 * David Eibeck, Johannes-Gutenberg-Universität Mainz, DE. Liaison
 * Georgios Tsolakis (<a href="https://orcid.org/0000-0001-9555-4038" target="blank">ORCID ID</a>), The University of Chicago, USA 
 * Rebecca Benefiel (<a href="https://orcid.org/0000-0002-3312-1517" target="blank">ORCID ID</a>), Washington and Lee University, USA
+* Marina Bastero Acha (<a href="https://orcid.org/0000-0003-2552-7055" target="blank">ORCID ID</a>), University of Warsaw, PL
 * Jonathan Prag (<a href="https://orcid.org/0000-0003-3819-8537" target="blank">ORCID ID</a>), Oxford University, UK
 * Petra Hermankova (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID</a>), Aarhus University, DK. Organiser of the 2025 workshop.
 
