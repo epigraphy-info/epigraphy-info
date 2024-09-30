@@ -7,13 +7,12 @@ published: true
 
 ## The current [Steering committee]({{ site.baseurl }}{% link documents/steeringcommittee.pdf %}){:target="_blank" rel="noopener"}:
 
-* Elena Duce Pastor (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID: 0000-0003-0604-2300</a>), Universidad Autónoma de Madrid, ES. Chair
+* Elena Duce Pastor (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID</a>), Universidad Autónoma de Madrid, ES. 
 * David Eibeck, Johannes-Gutenberg-Universität Mainz, DE. Liaison
-* Petra Hermankova (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID: 0000-0002-6349-0540</a>), Aarhus University, DK 
-* Aaron Hershkowitz (<a href="https://orcid.org/0000-0002-9456-8574" target="blank">ORCID ID: 0000-0002-9456-8574</a>), Institute for Advanced Study, USA. Secretary
-* Jonathan Prag (<a href="https://orcid.org/0000-0003-3819-8537" target="blank">ORCID ID: 0000-0003-3819-8537</a>), Oxford University, UK
-* Vincent Razanajao, Bordeaux Montaigne, Patrimonium, FR
-* Marietta Horster (<a href="https://orcid.org/0000-0002-3345-0062" target="blank">ORCID ID: 0000-0002-3345-0062</a>), Johannes-Gutenberg-Universität Mainz DE. Organiser of the workshop 2024.
+* Georgios Tsolakis (<a href="https://orcid.org/0000-0001-9555-4038" target="blank">ORCID ID</a>), The University of Chicago, USA 
+* Rebecca Benefiel (<a href="https://orcid.org/0000-0002-3312-1517" target="blank">ORCID ID</a>), Washington and Lee University, USA
+* Jonathan Prag (<a href="https://orcid.org/0000-0003-3819-8537" target="blank">ORCID ID</a>), Oxford University, UK
+* Petra Hermankova (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID</a>), Aarhus University, DK. Organiser of the 2025 workshop.
 
 
 
