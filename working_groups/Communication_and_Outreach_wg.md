@@ -14,7 +14,7 @@ The working group disseminates events, news, and information pertinent to the Ep
 
 ## DO YOU WANT TO SHARE YOUR CONTENT WITH OUR HELP?
 
-If you are a partner of the Epigraphy.info community, we will help you to share your content! Don’t hesitate to contact us via <a href = "mailto: socialmedia@epigraphy.info">socialmedia@epigraphy.info</a>.
+If you are a partner of the Epigraphy.info community, we will help you to share your content! Don’t hesitate to contact us via <a href = "mailto: socialmedia@epigraphy.info">communication@epigraphy.info</a>.
 
 ## Members
 
@@ -25,7 +25,6 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 * Elena Duce Pastor (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID: 0000-0003-0604-2300</a>) (since 2021)
 * Cristina de la Escosura Balbas (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID: 0000-0003-1769-657X</a>) (since 2020)
 * David Eibeck (since 2023)
-* Sergio España-Chamorro (<a href="https://orcid.org/0000-0001-6962-5859" target="blank">ORCID ID: 0000-0001-6962-5859</a>) (since 2020)
 * Elena Esposito (since 2023)
 * Petra Heřmánková (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID: 0000-0002-6349-0540</a>) (since 2020)
 * Pietro Ortimini (since 2023)
@@ -54,6 +53,7 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 
 ### *Previous Members*
 
+* Sergio España-Chamorro (<a href="https://orcid.org/0000-0001-6962-5859" target="blank">ORCID ID: 0000-0001-6962-5859</a>) (2020-2024)
 * David Espinosa Espinosa (2019-2020)
 * Tina Hobel (<a href="https://orcid.org/0000-0003-2489-1656" target="blank">ORCID ID: 0000-0003-2489-1656</a>) (2019-2022)
 * Anja Ragolič (2020-2023)
@@ -64,4 +64,4 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 
 GitHub: [https://github.com/epigraphy-info](https://github.com/epigraphy-info)
 
-E-mail contact: [socialmedia@epigraphy.info](mailto:socialmedia@epigraphy.info)
+E-mail contact: [socialmedia@epigraphy.info](mailto:communication@epigraphy.info)
