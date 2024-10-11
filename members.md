@@ -41,7 +41,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Muditha Dharmasiri, Maynooth University, Ireland
 * Tamara Dijkstra, University of Groningen, (<a href="https://orcid.org/0000-0001-5988-8751" target="blank">ORCID ID</a>)
 * Elena Duce Pastor, Postdoctoral researcher Margarita Salas, Autonoma University of Madrid / Universidad de Zaragoza, (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID</a>)
-* David Eibeck, Universität Stuttgart / Johannes-Gutenberg-Universität Mainz
+* David Eibeck, Universität Stuttgart / Johannes-Gutenberg-Universität Mainz, (<a href="https://orcid.org/0009-0008-1641-6568" target="blank">ORCID ID</a>)
 * Timo Eichhorn
 * Liubov Eliseeva, Institute of World History, Moscow (<a href="https://orcid.org/0000-0001-5448-6788" target="blank">ORCID ID</a>)
 * Almoatzbellah Elshahawi, Ministry of Tourism and Antiquities

@@ -24,7 +24,7 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 * Elisa Daga (since 2023)
 * Elena Duce Pastor (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID: 0000-0003-0604-2300</a>) (since 2021)
 * Cristina de la Escosura Balbas (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID: 0000-0003-1769-657X</a>) (since 2020)
-* David Eibeck (since 2023)
+* David Eibeck (<a href="https://orcid.org/0009-0008-1641-6568" target="blank">ORCID ID: 0009-0008-1641-6568</a>), (since 2023)
 * Elena Esposito (since 2023)
 * Petra Heřmánková (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID: 0000-0002-6349-0540</a>) (since 2020)
 * Pietro Ortimini (since 2023)
