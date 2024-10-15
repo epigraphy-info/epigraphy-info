@@ -14,6 +14,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Canan Arikan, University of Vienna
 * Vyron Bafounis
 * Rachael Helen Banes, Österreichische Akademie der Wissenschaften, (<a href="https://orcid.org/0000-0002-7771-3012" target="blank">ORCID ID</a>)
+* Gad Barnea, University of Haifa, (<a href="https://orcid.org/0000-0001-5144-5761" target="blank">ORCID ID</a>)
 * Alice Bencivenni, Alma Mater Studiorum Università di Bologna, (<a href="https://orcid.org/0000-0001-5778-8677" target="blank">ORCID ID</a>)
 * Rebecca Benefiel, Washington & Lee University, (<a href="https://orcid.org/0000-0002-3312-1517" target="blank">ORCID ID</a>)
 * Juan Manuel Bermúdez Lorenzo, Universidad Rey Juan Carlos, (<a href="https://orcid.org/0000-0002-7291-1079" target="blank">ORCID ID</a>)
