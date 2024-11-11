@@ -8,18 +8,22 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a> at any time.
 
-*Latest update: 2024-02-27*
+*Latest update: 2024-10-15*
 
 * Magdy Aly, Mansoura University, (<a href="https://orcid.org/0000-0002-0937-6552" target="blank">ORCID ID</a>)
 * Canan Arikan, University of Vienna
 * Vyron Bafounis
+* Rachael Helen Banes, Österreichische Akademie der Wissenschaften, (<a href="https://orcid.org/0000-0002-7771-3012" target="blank">ORCID ID</a>)
+* Gad Barnea, University of Haifa, (<a href="https://orcid.org/0000-0001-5144-5761" target="blank">ORCID ID</a>)
 * Alice Bencivenni, Alma Mater Studiorum Università di Bologna, (<a href="https://orcid.org/0000-0001-5778-8677" target="blank">ORCID ID</a>)
 * Rebecca Benefiel, Washington & Lee University, (<a href="https://orcid.org/0000-0002-3312-1517" target="blank">ORCID ID</a>)
 * Juan Manuel Bermúdez Lorenzo, Universidad Rey Juan Carlos, (<a href="https://orcid.org/0000-0002-7291-1079" target="blank">ORCID ID</a>)
+* Monica Berti, Leipzig University, (<a href="https://orcid.org/0000-0003-2779-4229" target="blank">ORCID ID</a>)
 * Emine Bilgiç Kavak
 * Glavin Blasdel, University of Groningen (<a href="https://orcid.org/0009-0000-4780-5795" target="blank">ORCID ID</a>)
 * John Bodel, Brown University, (<a href="https://orcid.org/0000000318206368" target="blank">ORCID ID</a>)
 * Jens Borchert-Pickenhan, Sächsische Akademie der Wissenschaften zu Leipzig
+* Eleni Bozia, University of Florida, (<a href="https://orcid.org/0000-0002-6210-461X" target="blank">ORCID ID</a>)
 * Silvia Braito, Universitat de Barcelona (<a href="https://orcid.org/0000-0002-9311-2719" target="blank">ORCID ID</a>)
 * Alberto Cafaro, Università di Pisa, (<a href="https://orcid.org/0000-0003-2517-3146" target="blank">ORCID ID</a>)
 * Macarena Calderón Sánchez, Universidad Complutense de Madrid, (<a href="https://orcid.org/0000-0003-0764-3378" target="blank">ORCID ID</a>)
@@ -27,6 +31,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Giorgia Capra, University of Oxford, (<a href="https://orcid.org/0000-0003-1030-5679" target="blank">ORCID ID</a>)
 * Noelia Cases Mora, Universidad de Alicante, (<a href="https://orcid.org/0000-0001-7991-083X" target="blank">ORCID ID</a>)
 * Chiara Cenati, University of Vienna, (<a href="https://orcid.org/0000-0003-4962-9611" target="blank">ORCID ID</a>)
+* Nursah Cokbankir Sengül, Akdeniz University, (<a href="https://orcid.org/0000-0002-5451-6198" target="blank">ORCID ID</a>)
 * Ewan Coopey, Macquarie University, (<a href="https://orcid.org/0000-0001-8633-6418" target="blank">ORCID ID</a>)
 * Augusto Cosentino
 * Dan Deac, History and Art County Museum Zalău, (<a href="https://orcid.org/0000-0003-4711-8623" target="blank">ORCID ID</a>)
@@ -35,8 +40,9 @@ The following list is based on the voluntary submission in the [Membership form]
 * Maria Teresa de Luque Morales, Universidad de Córdoba, (<a href="https://orcid.org/0000-0002-6942-945X" target="blank">ORCID ID</a>)
 * Francesca Dell'Oro, University of Neuchâtel, (<a href="https://orcid.org/0000-0002-8343-356X" target="blank">ORCID ID</a>)
 * Muditha Dharmasiri, Maynooth University, Ireland
+* Tamara Dijkstra, University of Groningen, (<a href="https://orcid.org/0000-0001-5988-8751" target="blank">ORCID ID</a>)
 * Elena Duce Pastor, Postdoctoral researcher Margarita Salas, Autonoma University of Madrid / Universidad de Zaragoza, (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID</a>)
-* David Eibeck, Universität Stuttgart / Johannes-Gutenberg-Universität Mainz
+* David Eibeck, Universität Stuttgart / Johannes-Gutenberg-Universität Mainz, (<a href="https://orcid.org/0009-0008-1641-6568" target="blank">ORCID ID</a>)
 * Timo Eichhorn
 * Liubov Eliseeva, Institute of World History, Moscow (<a href="https://orcid.org/0000-0001-5448-6788" target="blank">ORCID ID</a>)
 * Almoatzbellah Elshahawi, Ministry of Tourism and Antiquities
@@ -65,11 +71,13 @@ The following list is based on the voluntary submission in the [Membership form]
 * Chiara Lasagni, Dipartimento di Studi Storici - Università di Torino, (<a href="https://orcid.org/0000-0003-3569-2417" target="blank">ORCID ID</a>)
 * Nicolas Laubry, Ecole française de Rome, (<a href="https://orcid.org/0000-0002-7155-9261" target="blank">ORCID ID</a>)
 * Wuyue Clara Liang, Universität zu Köln
+* Flavia Licciardello, Alma Mater Studiorum Università di Bologna, (<a href="https://orcid.org/0000-0002-9133-9282" target="blank">ORCID ID</a>)
 * Meilin Lyu, University Athens
 * Nenad Markovic
 * Florian Matei-Popescu, Vasile Pârvan Archaeological Institute, Bucharest (<a href="https://orcid.org/0000-0001-5360-042X" target="blank">ORCID ID</a>)
 * Kresimir Matijevic, Europa-Universität Flensburg
 * Guénette Maxime, Université de Montréal
+* Valentina Mignosa, Università degli Studi di Udine, (<a href="https://orcid.org/0000-0002-7122-2511" target="blank">ORCID ID</a>)
 * Emmanuelle Morlock, CNRS, (<a href="https://orcid.org/0000-0002-1617-8554" target="blank">ORCID ID</a>)
 * Alex Mullen, University of Nottingham, LatinNow, (<a href="https://orcid.org/0000-0002-9110-4678" target="blank">ORCID ID</a>)
 * Sandra Muñoz-Martínez, Universitat de Barcelona, (<a href="https://orcid.org/0000-0002-0546-5224" target="blank">ORCID ID</a>)
@@ -100,6 +108,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Dilan Taştekin, İstanbul Üniversitesi, (<a href="https://orcid.org/0000-0002-1033-9564" target="blank">ORCID ID</a>)
 * Tatiana Tommasi, University of Udine; Ca' Foscari University of Venice, (<a href="https://orcid.org/0009-0000-2815-0113" target="blank">ORCID ID</a>)
 * Georgios Tsolakis, The University of Chicago, (<a href="https://orcid.org/0000-0001-9555-4038" target="blank">ORCID ID</a>)
+* Cinzia Tuena, Universität Basel, (<a href="https://orcid.org/0009-0009-7338-4977" target="blank">ORCID ID</a>)
 * Scott Vanderbilt, RIB Online, (<a href="https://orcid.org/0000-0002-2612-2677" target="blank">ORCID ID</a>)
 * Banban Wang, Ruprecht-Karls-Universität Heidelberg,  (<a href="https://orcid.org/0000-0002-0336-3080" target="blank">ORCID ID</a>)
 * Nora White, Maynooth University, (<a href="https://orcid.org/0000-0001-7957-651X" target="blank">ORCID ID</a>)
