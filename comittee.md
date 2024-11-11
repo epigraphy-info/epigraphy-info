@@ -28,6 +28,7 @@ published: true
 * Feraudi-Gruénais, Francisca (<a href="https://orcid.org/0000-0002-6230-4750" target="blank">ORCID ID: 0000-0002-6230-4750</a>) / Heidelberg Academy of Sciences and Humanities, EDH / 2018-2019
 * Gheldof, Tom (<a href="https://orcid.org/0000-0001-5223-6275" target="blank">ORCID ID: 0000-0001-5223-6275</a>) / Trismegistos / 2019-2020
 * Grieshaber, Frank / Heidelberg Academy of Sciences and Humanities, EDH / 2018 (tech.comm.)
+* Hershkowitz, Aaron, The Institute for Advanced Study, (<a href="https://orcid.org/0000-0002-9456-8574" target="blank">ORCID ID</a>), 2021-2024
 * Kurilić, Anamarija / University of Zadar / 2018-2019
 * Liuzzo, Pietro (<a href="https://orcid.org/0000-0001-5714-4011" target="blank">ORCID ID: 0000-0001-5714-4011</a>) / University of Hamburg / 2018 (tech.comm.)-2019
 * Lougovaya-Ast, Julia / Heidelberg University / 2018-2019
