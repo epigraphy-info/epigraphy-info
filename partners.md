@@ -110,7 +110,7 @@ Translations of Ancient Greek inscriptions into Modern Greek
 
 ---
 
-### <a href="http://eda-bea.es/" target="blank">Hispania Epigraphica Online
+### <a href="https://hepol.uah.es/" target="blank">Hispania Epigraphica Online
 Epigraphic patrimony of Portugal and Spain
 
 ---
