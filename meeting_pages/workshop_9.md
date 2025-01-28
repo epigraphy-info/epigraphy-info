@@ -12,16 +12,22 @@ The **ninth Epigraphy.info workshop** will take place in **Aarhus (Denmark)** fr
 
 The workshop traditionally brings together researchers and enthusiasts of digital epigraphy to discuss the current trends and issues of the discipline (see https://epigraphy.info/ for details of previous workshops). The meeting will include presentations and a poster session, as well as training sessions and meetings/hackathons of the existing working groups. 
 
-The preliminary program has been released and the accepted participants have been notified. If you haven't received an email from us, please get in touch with the Steering Committee. The final programme along with registration will be published in early February.
+## Preliminary programme and practical information
 
-**[Click here to see the preliminary programme (PDF)]({{ site.baseurl }}{% link documents/workshop_9/Preliminary_programme.pdf %}){:target="_blank" rel="noopener"}**
+The preliminary program has been released and the accepted participants have been notified. If you haven't received an email from us, please get in touch with the Steering Committee. The recipients of bursaries will be notified by the end of January. 
+
+**[Click here to download the preliminary programme (PDF)]({{ site.baseurl }}{% link documents/workshop_9/Preliminary_programme.pdf %}){:target="_blank" rel="noopener"}**
 
 <figure>
 <img src='{{site.baseurl}}/documents/workshop_9/Preliminary_programme.png' style="width:100%;" alt="Preliminary programme January 2025" align="middle" >
-<figcaption>Poster preview</figcaption>
+<figcaption>Preliminary programme 28 January 2025</figcaption>
 </figure>
 
 
+
+The **final programme along with registration and venue details will be published in early February**. However, if you wish to proceed with bookings, the main venue is located at the Conference Center at Aarhus University. The address is Fredrik Nielsens Vej 2-4, 8000 Aarhus C, easily accessible from the city centre by public transport or by foot. For more info, see the link below.
+
+[Getting to Aarhus - practical information](https://conferences.au.dk/getting-to-aarhus-and-aarhus-university)
 
 We are very excited to see you in **the happiest city in the world** (according to the [Happy City Index in 2024](https://happy-city-index.com/)).
 
