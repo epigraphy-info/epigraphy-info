@@ -25,6 +25,7 @@ The **final programme along with registration and venue details will be publishe
 <figcaption>Preliminary programme 28 January 2025</figcaption>
 </figure>
 
+---
 
 ## Venue
 The main venue is located at the **Conference Center at Aarhus University**. The address is Fredrik Nielsens Vej 2-4, 8000 Aarhus C (buildings 1420-1423), easily accessible from the city centre by public transport or by foot. For more info, see the link below.
@@ -55,7 +56,7 @@ Map of the Aarhus University Conference Centre
 - [Comwell Aarhus](https://comwell.com/en/hotels/comwell-hotel-aarhus): 5 minutes from the train station / 5 minutes walk from the bus station, view of the Aarhus from above. 
 
 
-
+---
 
 
 We are very excited to see you in **the happiest city in the world** (according to the [Happy City Index in 2024](https://happy-city-index.com/)).
