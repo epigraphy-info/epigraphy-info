@@ -12,9 +12,11 @@ The **ninth Epigraphy.info workshop** will take place in **Aarhus (Denmark)** fr
 
 The workshop traditionally brings together researchers and enthusiasts of digital epigraphy to discuss the current trends and issues of the discipline (see https://epigraphy.info/ for details of previous workshops). The meeting will include presentations and a poster session, as well as training sessions and meetings/hackathons of the existing working groups. 
 
-## Preliminary programme and practical information
+## Preliminary programme
 
 The preliminary program has been released and the accepted participants have been notified. If you haven't received an email from us, please get in touch with the Steering Committee. The recipients of bursaries will be notified by the end of January. 
+
+The **final programme along with registration and venue details will be published in early February**.
 
 **[Click here to download the preliminary programme (PDF)]({{ site.baseurl }}{% link documents/workshop_9/Preliminary_programme.pdf %}){:target="_blank" rel="noopener"}**
 
@@ -24,10 +26,37 @@ The preliminary program has been released and the accepted participants have bee
 </figure>
 
 
-
-The **final programme along with registration and venue details will be published in early February**. However, if you wish to proceed with bookings, the main venue is located at the Conference Center at Aarhus University. The address is Fredrik Nielsens Vej 2-4, 8000 Aarhus C, easily accessible from the city centre by public transport or by foot. For more info, see the link below.
+## Venue
+The main venue is located at the **Conference Center at Aarhus University**. The address is Fredrik Nielsens Vej 2-4, 8000 Aarhus C (buildings 1420-1423), easily accessible from the city centre by public transport or by foot. For more info, see the link below.
 
 [Getting to Aarhus - practical information](https://conferences.au.dk/getting-to-aarhus-and-aarhus-university)
+
+Map of the Aarhus University Conference Centre
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2221.1526710957855!2d10.199990407566913!3d56.17175365699403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTbCsDEwJzE2LjUiTiAxMMKwMTInMDAuOCJF!5e0!3m2!1sen!2sdk!4v1738143579735!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+## Accommodation
+
+**Budget friendly options** 
+
+- [Wake Up](https://www.wakeupcopenhagen.com/the-hotels/aarhus#/) hotel - next to the train station / 5 minutes walk from the bus station and direct buses are going to the university, or you can walk it in ca. 30 mins
+
+- [Cabinn](https://en.cabinn.com/hotel/cabinn-aarhus) hotel - located in the Latin quarter next to the main cathedral, but close to buses or lightrail, or ca. 20 minutes walk.
+
+- [DanHostel](https://www.aarhusdanhostel.dk/en) - located in the Risskov forest, ca. 15-20 minutes walking distance from the venue, and 15 minutes to the city centre. Public transport nearby, but requires some walking.
+
+- [Roberta's Aarhus Society](https://robertassociety.com/) - hostel with dorms or private rooms, opening in February 2025. In the city centre, close to public transport.
+
+
+**Convenient options**
+
+- [Scandic The Mayor](https://www.scandichotels.com/hotels/denmark/aarhus/scandic-the-mayor) hotel: next to the train station / 5 minutes walk from the bus station and direct buses are going to the university, or you can walk it in ca. 30 mins
+
+- [Comwell Aarhus](https://comwell.com/en/hotels/comwell-hotel-aarhus): 5 minutes from the train station / 5 minutes walk from the bus station, view of the Aarhus from above. 
+
+
+
+
 
 We are very excited to see you in **the happiest city in the world** (according to the [Happy City Index in 2024](https://happy-city-index.com/)).
 
