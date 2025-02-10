@@ -10,31 +10,56 @@ published: true
 
 The **ninth Epigraphy.info workshop** will take place in **Aarhus (Denmark)** from **2-4 April 2025**. The workshop will be hosted by the [Past Social Network Project](https://projects.au.dk/pastnetworks) and the [Social Resilience Lab](https://cas.au.dk/en/social-resilience-lab), Department of History and Classical Studies at Aarhus University, supported by the [Center for Humanities Computing](https://chc.au.dk/), and by [The Museum of Ancient Art](https://antikmuseet.au.dk/en/), Aarhus University.
 
-The workshop traditionally brings together researchers and enthusiasts of digital epigraphy to discuss the current trends and issues of the discipline (see https://epigraphy.info/ for details of previous workshops). The meeting will include presentations and a poster session, as well as training sessions and meetings/hackathons of the existing working groups. 
+The workshop traditionally brings together researchers and enthusiasts of digital epigraphy to discuss the current trends and issues of the discipline (browse the [Epigraphy.info website](https://epigraphy.info/) for details of previous workshops). The meeting will include presentations and a poster session, as well as training sessions and meetings/hackathons of the existing working groups. Anyone is welcome to join an existing working group, or to start their own initiative, should they feel the need!
 
-## Preliminary programme
+## Programme
 
-The preliminary program has been released and the accepted participants have been notified. If you haven't received an email from us, please get in touch with the Steering Committee. The recipients of bursaries will be notified by the end of January. 
+The program has been finalised and the accepted participants have been notified. The recipients of the [FAIR Epigraphy](https://inscriptiones.org/) and the [Past Social Network Project](https://projects.au.dk/pastnetworks) bursaries were notified on 31/1/25. If you haven't received an email from us, please get in touch with the Steering Committee.
 
-The **final programme along with registration and venue details will be published in early February**.
 
-**[Click here to download the preliminary programme (PDF)]({{ site.baseurl }}{% link documents/workshop_9/Preliminary_programme.pdf %}){:target="_blank" rel="noopener"}**
+**[Click here to download the final programme and the book of abstracts as PDF]({{ site.baseurl }}{% link documents/workshop_9/Final_programme_Aarhus.pdf %}){:target="_blank" rel="noopener"}**
+
 
 <figure>
-<img src='{{site.baseurl}}/documents/workshop_9/Preliminary_programme.png' style="width:100%;" alt="Preliminary programme January 2025" align="middle" >
-<figcaption>Preliminary programme 28 January 2025</figcaption>
+<img src='{{site.baseurl}}/documents/workshop_9/Final_programme_Aarhus-01.png' style="width:100%;" alt="Final programme February 2025" align="middle" >
 </figure>
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_9/Final_programme_Aarhus-02.png' style="width:100%;" alt="Final programme February 2025" align="middle" >
+</figure>
+
+<figure>
+<img src='{{site.baseurl}}/documents/workshop_9/Final_programme_Aarhus-03.png' style="width:100%;" alt="Final programme February 2025" align="middle" >
+</figure>
+
+**[Click here to download the final programme and the book of abstracts as PDF]({{ site.baseurl }}{% link documents/workshop_9/Final_programme_Aarhus.pdf %}){:target="_blank" rel="noopener"}**
+
+---
+
+## Registration
+
+All participants are kindly asked to **register by 15 March 2025** via the provided link: 
+
+>>> **[Registration form](https://forms.gle/t1PBjPrvRnNHjC2p9)** 
+
+There is **no registration fee** as the conference is sponsored by the [Past Social Network Project](https://projects.au.dk/pastnetworks) and the Aarhus University. However, participants are asked to cover their travel and accommodation expenses, and an optional social dinner on Day 2.
 
 ---
 
 ## Venue
-The main venue is located at the **Conference Center at Aarhus University**. The address is Fredrik Nielsens Vej 2-4, 8000 Aarhus C (buildings 1420-1423), easily accessible from the city centre by public transport or by foot. For more info, see the link below.
 
-[Getting to Aarhus - practical information](https://conferences.au.dk/getting-to-aarhus-and-aarhus-university)
+The main venue is located at the **Conference Center at Aarhus University**. The address is Fredrik Nielsens Vej 2-4, 8000 Aarhus C (buildings 1420-1423). The venue is easily accessible from the city centre by public transport or by foot. For more info on how to get to Aarhus and the University, please, see the link below. 
+
+**[Getting to Aarhus - practical information](https://conferences.au.dk/getting-to-aarhus-and-aarhus-university)**
+
+
+
+The easiest access to the **main meeting room 1422-132** is from Nordre Ringgade (the Northern Ringroad), marked on the map below, through the building 1422.
 
 Map of the Aarhus University Conference Centre
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2221.1526710957855!2d10.199990407566913!3d56.17175365699403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTbCsDEwJzE2LjUiTiAxMMKwMTInMDAuOCJF!5e0!3m2!1sen!2sdk!4v1738143579735!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+---
 
 ## Accommodation
 
@@ -51,17 +76,40 @@ Map of the Aarhus University Conference Centre
 
 **Convenient options**
 
-- [Scandic The Mayor](https://www.scandichotels.com/hotels/denmark/aarhus/scandic-the-mayor) hotel: next to the train station / 5 minutes walk from the bus station and direct buses are going to the university, or you can walk it in ca. 30 mins
+- [Scandic The Mayor](https://www.scandichotels.com/hotels/denmark/aarhus/scandic-the-mayor) hotel: next to the train station / 5 minutes walk from the bus station and direct buses are going to the university, or ca. 35 mins walk
 
-- [Comwell Aarhus](https://comwell.com/en/hotels/comwell-hotel-aarhus): 5 minutes from the train station / 5 minutes walk from the bus station, view of the Aarhus from above. 
+- [Scandic Aarhus City](https://www.scandichotels.com/hotels/denmark/aarhus/scandic-aarhus-city) hotel: in the city centre / 5 minutes walk from the bus station and direct buses are going to the university, or ca. 30 mins walk
+
+- [Comwell Aarhus](https://comwell.com/en/hotels/comwell-hotel-aarhus): 5 minutes from the train station / 5 minutes walk from the bus station, view of the Aarhus from above. Please note there is ongoing contruction works in the immediate surroundings of the hotel and the access might be temporarily more challenging.
+
+
+---
+
+## Poster session
+
+All poster presenters are asked to register via the Registration form, see above.
+
+Poster presenters will receive detailed info during the second half of February via email.
+
+If you send the digital version of your poster before **15 March 2025**, we are offering to print it and have it set up for you free of cost. Otherwise, you are more than welcome to print and set it up on the poster boards yourself when you arrive. There is always an option to place the digital version of your poster at Epigraphy.info website and/or publish it on Zenodo under the Epigraphy.info umbrella and obtain a unique DOI. 
+
+If you are unable to attend in person, you are more than welcome to record a short 2 minute video presenting your poster, that can be uploaded along with your poster to the Epigraphy.info website. See previous years for examples.
+
+Printed poster format: A0
+
+Preferred digital format: PDF
+
+
+More information will follow soon.
 
 
 ---
 
 
-We are very excited to see you in **the happiest city in the world** (according to the [Happy City Index in 2024](https://happy-city-index.com/)).
+We are very excited to see you in **the happiest city in the world** (according to the [Happy City Index in 2024](https://happy-city-index.com/))!
 
-*If you have any questions, please do not hesitate to contact the Epigraphy.info Steering Committee ([info@epigraphy.info](mailto:info@epigraphy.info)).*
+
+*If you have any questions, please do not hesitate to contact the Epigraphy.info Steering Committee ([info@epigraphy.info](mailto:info@epigraphy.info)) or the [local organisers](mailto:petra.hermankova@cas.au.dk).*
 
 Members the Steering Committee and the local organisers
 
