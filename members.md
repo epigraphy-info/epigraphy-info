@@ -8,9 +8,11 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a> at any time.
 
-*Latest update: 2024-10-15*
+*Latest update: 2025-02-11*
 
 * Magdy Aly, Mansoura University, (<a href="https://orcid.org/0000-0002-0937-6552" target="blank">ORCID ID</a>)
+* Antiopi Argyriou, University of Athens
+* Maria Rosaria Ariano, Sapienza - Università di Roma
 * Canan Arikan, University of Vienna
 * Vyron Bafounis
 * Rachael Helen Banes, Österreichische Akademie der Wissenschaften, (<a href="https://orcid.org/0000-0002-7771-3012" target="blank">ORCID ID</a>)
@@ -31,9 +33,12 @@ The following list is based on the voluntary submission in the [Membership form]
 * Giorgia Capra, University of Oxford, (<a href="https://orcid.org/0000-0003-1030-5679" target="blank">ORCID ID</a>)
 * Noelia Cases Mora, Universidad de Alicante, (<a href="https://orcid.org/0000-0001-7991-083X" target="blank">ORCID ID</a>)
 * Chiara Cenati, University of Vienna, (<a href="https://orcid.org/0000-0003-4962-9611" target="blank">ORCID ID</a>)
+* Luca Ceruti, Università di Bologna, (<a href="https://orcid.org/0009-0002-5234-8992" target="blank">ORCID ID</a>)
 * Nursah Cokbankir Sengül, Akdeniz University, (<a href="https://orcid.org/0000-0002-5451-6198" target="blank">ORCID ID</a>)
 * Ewan Coopey, Macquarie University, (<a href="https://orcid.org/0000-0001-8633-6418" target="blank">ORCID ID</a>)
 * Augusto Cosentino
+* Lorenzo De Cinque, Scuola Normale Superiore di Pisa, (<a href="https://orcid.org/0009-0007-9631-5769" target="blank">ORCID ID</a>)
+* Gaia De Luca, Aix Marseille Université
 * Dan Deac, History and Art County Museum Zalău, (<a href="https://orcid.org/0000-0003-4711-8623" target="blank">ORCID ID</a>)
 * Gabriël de Klerk, Johannes Gutenberg-Universität Mainz
 * Cristina de la Escosura Balbas, U. Complutense of Madrid, (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID</a>)
@@ -67,6 +72,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Christoph Klose, Staatliche Museen zu Berlin 
 * Ivana Kosanović, Institute of Archaeology Belgrade, (<a href="https://orcid.org/0000-0002-5983-9922" target="blank">ORCID ID</a>)
 * Peter Kruschwitz, Universität Wien, (<a href="https://orcid.org/0000-0002-8427-1056" target="blank">ORCID ID</a>)
+* Winfried Kumpitsch, University of Graz, (<a href="https://orcid.org/0009-0007-8707-0106" target="blank">ORCID ID</a>)
 * Anamarija Kurilić, University of Zadar, (<a href="https://orcid.org/0000-0001-7178-4584" target="blank">ORCID ID</a>)
 * Chiara Lasagni, Dipartimento di Studi Storici - Università di Torino, (<a href="https://orcid.org/0000-0003-3569-2417" target="blank">ORCID ID</a>)
 * Nicolas Laubry, Ecole française de Rome, (<a href="https://orcid.org/0000-0002-7155-9261" target="blank">ORCID ID</a>)
@@ -92,6 +98,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Fiona Phillips, University of Oxford
 * Gregor Pobežin, ZRC SAZU, Institute of Cultural History, (<a href="https://orcid.org/0000-0002-3418-9767" target="blank">ORCID ID</a>)
 * Juan Pablo Prieto, Université Bordeaux Montaigne, (<a href="https://orcid.org/0000-0002-9955-7743" target="blank">ORCID ID</a>)
+* Andrés Rea, Uniwersytet Warszawski (University of Warsaw), (<a href="https://orcid.org/0009-0003-1660-6453" target="blank">ORCID ID</a>)
 * Luca Rigobianco, Università Ca' Foscari Venezia
 * Antonio Romano, Le Mans Université
 * Emre Salman, İstanbul Üniversitesi
