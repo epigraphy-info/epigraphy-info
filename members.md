@@ -8,12 +8,13 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a> at any time.
 
-*Latest update: 2025-02-11*
+*Latest update: 2025-02-12*
 
 * Magdy Aly, Mansoura University, (<a href="https://orcid.org/0000-0002-0937-6552" target="blank">ORCID ID</a>)
 * Antiopi Argyriou, University of Athens
 * Maria Rosaria Ariano, Sapienza - Università di Roma
 * Canan Arikan, University of Vienna
+* Federico Aurora, University of Oslo, (<a href="https://orcid.org/0000-0002-5048-2322" target="blank">ORCID ID</a>)
 * Vyron Bafounis
 * Rachael Helen Banes, Österreichische Akademie der Wissenschaften, (<a href="https://orcid.org/0000-0002-7771-3012" target="blank">ORCID ID</a>)
 * Gad Barnea, University of Haifa, (<a href="https://orcid.org/0000-0001-5144-5761" target="blank">ORCID ID</a>)
@@ -78,6 +79,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Nicolas Laubry, Ecole française de Rome, (<a href="https://orcid.org/0000-0002-7155-9261" target="blank">ORCID ID</a>)
 * Wuyue Clara Liang, Universität zu Köln
 * Flavia Licciardello, Alma Mater Studiorum Università di Bologna, (<a href="https://orcid.org/0000-0002-9133-9282" target="blank">ORCID ID</a>)
+* Anna Clara Maniero Azzolini (<a href="https://orcid.org/0009-0002-0425-2339" target="blank">ORCID ID</a>)
 * Meilin Lyu, University Athens
 * Nenad Markovic
 * Florian Matei-Popescu, Vasile Pârvan Archaeological Institute, Bucharest (<a href="https://orcid.org/0000-0001-5360-042X" target="blank">ORCID ID</a>)
@@ -97,7 +99,9 @@ The following list is based on the voluntary submission in the [Membership form]
 * María Luisa Pérez Gutiérrez
 * Fiona Phillips, University of Oxford
 * Gregor Pobežin, ZRC SAZU, Institute of Cultural History, (<a href="https://orcid.org/0000-0002-3418-9767" target="blank">ORCID ID</a>)
+* Ofer Pogorelsky, The Hebrew University of Jerusalem
 * Juan Pablo Prieto, Université Bordeaux Montaigne, (<a href="https://orcid.org/0000-0002-9955-7743" target="blank">ORCID ID</a>)
+* Matteo Pola, University of Zadar, (<a href="https://orcid.org/0000-0003-1265-8400" target="blank">ORCID ID</a>)
 * Andrés Rea, Uniwersytet Warszawski (University of Warsaw), (<a href="https://orcid.org/0009-0003-1660-6453" target="blank">ORCID ID</a>)
 * Luca Rigobianco, Università Ca' Foscari Venezia
 * Antonio Romano, Le Mans Université
