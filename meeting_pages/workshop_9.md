@@ -59,15 +59,17 @@ The easiest access to the **main meeting room 1422-132** is from Nordre Ringgade
 Map of the Aarhus University Conference Centre
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2221.1526710957855!2d10.199990407566913!3d56.17175365699403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTbCsDEwJzE2LjUiTiAxMMKwMTInMDAuOCJF!5e0!3m2!1sen!2sdk!4v1738143579735!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+---
 
-## Reception location
+### Reception location
 
 The reception will be hosted by the [Antikmuseet](https://antikmuseet.au.dk/), accross the street from the main venue. The address: Victor Albecks Vej 3, 8000 Aarhus C. See more at the [museum's website](https://antikmuseet.au.dk/en/visit-the-museum). 
 
 The catering during the reception is provided by the Past Social Project.
 
+---
 
-## Social dinner location
+### Social dinner location
 
 We will have a social dinner in [Nicolinehus](https://www.nicolinehus.dk/), located on the artificial island [Aarhus Ø](https://www.visitaarhus.com/aarhus-region/plan-your-trip/aarhus-o-aarhus-east-gdk1027642). The location is ca. 35 minutes by walk, or 25 minutes by public transport. The choice of food ranges from Danish, Mediterranean, Mexican, to Asian and everyone can choose according to their taste. The prices are 100-200 for main food, 50-100 for beverages, depending on the provider. You can have a look at the various menues at the [Nicolinehus website](https://www.nicolinehus.dk/).
 
@@ -102,9 +104,8 @@ The social dinner is self-paid.
 
 ## Poster session
 
-All poster presenters are asked to register via the Registration form, see above.
+All in-person poster presenters are asked to register via the Registration form by 15 March 2025, see above. Should you present only digital posters, please get in touch with the local organisers (petra.hermankova@cas.au.dk).
 
-Poster presenters received detailed info via email on 15 Feb.
 
 ### In-person posters
 If you present your poster in-person, you can also use the digital option, see below. 
@@ -119,7 +120,7 @@ If you present your poster in-person, you can also use the digital option, see b
 
 **Collecting your posters:** You can collect your poster either immediately after the Poster session, or leave it until the end of the conference (depending on your departure). If you do not wish to collect your poster, we will take care of them for you.
 
-Don’t forget to register by 15 March 2025!
+
 
 
 ### Digital posters
