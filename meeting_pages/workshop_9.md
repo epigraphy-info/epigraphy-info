@@ -43,6 +43,25 @@ All participants are kindly asked to **register by 15 March 2025** via the provi
 >>> **[Registration form](https://forms.gle/t1PBjPrvRnNHjC2p9)** 
 
 There is **no registration fee** as the conference is sponsored by the [Past Social Network Project](https://projects.au.dk/pastnetworks) and the Aarhus University. However, participants are asked to cover their travel and accommodation expenses, and an optional social dinner on Day 2.
+---
+
+## Online participation
+
+It is now possible to register for the remote participation at the event via Zoom. However, only selected parts of the programme allow the remote participation, see below. 
+
+The registration is open until **31 March 2025** and you can change your answers until this date. You will be circulated a zoom link on 1 April 2025. All communication and further instructions will be sent to the email registered in the form.
+
+>>> **[Online participation registration](https://forms.gle/zNJEs9PRDrcKoqAX7)**
+
+**List of in-person only events:**
+- Hands-on sessions
+- Poster session
+- Working groups meetings - up to discretion of the individual groups. If you would like to participate remotely, make sure to signal which working group you would like to join and we will provide that information to the working groups. They will get in touch with you.
+
+**Presenting remotely**
+
+We kindly ask all presenters who wish to present remotely to send us a video recording of your presentation by 31 March 2025 (petra.hermankova@cas.au.dk) or upload it to YouTube and share the link. Please, make sure to keep the time limit (15 min). We will play the video to the in-person and online participants. The Q&A will follow the video streaming and will be held via Zoom. Please, make sure you are online on Zoom at the specified time. If you have any questions, do not hesitate to get in touch.
+
 
 ---
 
