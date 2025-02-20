@@ -12,6 +12,8 @@ The **ninth Epigraphy.info workshop** will take place in **Aarhus (Denmark)** fr
 
 The workshop traditionally brings together researchers and enthusiasts of digital epigraphy to discuss the current trends and issues of the discipline (browse the [Epigraphy.info website](https://epigraphy.info/) for details of previous workshops). The meeting will include presentations and a poster session, as well as training sessions and meetings/hackathons of the existing working groups. Anyone is welcome to join an existing working group, or to start their own initiative, should they feel the need!
 
+---
+
 ## Programme
 
 The program has been finalised and the accepted participants have been notified. The recipients of the [FAIR Epigraphy](https://inscriptiones.org/) and the [Past Social Network Project](https://projects.au.dk/pastnetworks) bursaries were notified on 31/1/25. If you haven't received an email from us, please get in touch with the Steering Committee.
@@ -43,6 +45,7 @@ All participants are kindly asked to **register by 15 March 2025** via the provi
 >>> **[Registration form](https://forms.gle/t1PBjPrvRnNHjC2p9)** 
 
 There is **no registration fee** as the conference is sponsored by the [Past Social Network Project](https://projects.au.dk/pastnetworks) and the Aarhus University. However, participants are asked to cover their travel and accommodation expenses, and an optional social dinner on Day 2.
+
 ---
 
 ## Online participation
@@ -60,7 +63,7 @@ The registration is open until **31 March 2025** and you can change your answers
 
 **Presenting remotely**
 
-We kindly ask all presenters who wish to present remotely to send us a video recording of your presentation by 31 March 2025 (petra.hermankova@cas.au.dk) or upload it to YouTube and share the link. Please, make sure to keep the time limit (15 min). We will play the video to the in-person and online participants. The Q&A will follow the video streaming and will be held via Zoom. Please, make sure you are online on Zoom at the specified time. If you have any questions, do not hesitate to get in touch.
+We kindly ask all presenters who wish to present remotely to send us a video recording of your presentation by **31 March 2025** (petra.hermankova@cas.au.dk) or upload it to YouTube and share the link. Please, make sure to keep the time limit (15 min). We will play the video to the in-person and online participants. The Q&A will follow the video streaming and will be held via Zoom. Please, make sure you are online on Zoom at the specified time. If you have any questions, do not hesitate to get in touch.
 
 
 ---
