@@ -8,7 +8,7 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a> at any time.
 
-*Latest update: 2025-02-12*
+*Latest update: 2025-03-27*
 
 * Magdy Aly, Mansoura University, (<a href="https://orcid.org/0000-0002-0937-6552" target="blank">ORCID ID</a>)
 * Antiopi Argyriou, University of Athens
@@ -17,6 +17,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Federico Aurora, University of Oslo, (<a href="https://orcid.org/0000-0002-5048-2322" target="blank">ORCID ID</a>)
 * Vyron Bafounis
 * Rachael Helen Banes, Österreichische Akademie der Wissenschaften, (<a href="https://orcid.org/0000-0002-7771-3012" target="blank">ORCID ID</a>)
+* Anna Barbano, Università di Genova
 * Gad Barnea, University of Haifa, (<a href="https://orcid.org/0000-0001-5144-5761" target="blank">ORCID ID</a>)
 * Alice Bencivenni, Alma Mater Studiorum Università di Bologna, (<a href="https://orcid.org/0000-0001-5778-8677" target="blank">ORCID ID</a>)
 * Rebecca Benefiel, Washington & Lee University, (<a href="https://orcid.org/0000-0002-3312-1517" target="blank">ORCID ID</a>)
@@ -35,9 +36,11 @@ The following list is based on the voluntary submission in the [Membership form]
 * Noelia Cases Mora, Universidad de Alicante, (<a href="https://orcid.org/0000-0001-7991-083X" target="blank">ORCID ID</a>)
 * Chiara Cenati, University of Vienna, (<a href="https://orcid.org/0000-0003-4962-9611" target="blank">ORCID ID</a>)
 * Luca Ceruti, Università di Bologna, (<a href="https://orcid.org/0009-0002-5234-8992" target="blank">ORCID ID</a>)
+* Alice Cicarelli
 * Nursah Cokbankir Sengül, Akdeniz University, (<a href="https://orcid.org/0000-0002-5451-6198" target="blank">ORCID ID</a>)
 * Ewan Coopey, Macquarie University, (<a href="https://orcid.org/0000-0001-8633-6418" target="blank">ORCID ID</a>)
 * Augusto Cosentino
+* Federica Cosenza, University of Heidelberg
 * Lorenzo De Cinque, Scuola Normale Superiore di Pisa, (<a href="https://orcid.org/0009-0007-9631-5769" target="blank">ORCID ID</a>)
 * Gaia De Luca, Aix Marseille Université
 * Dan Deac, History and Art County Museum Zalău, (<a href="https://orcid.org/0000-0003-4711-8623" target="blank">ORCID ID</a>)
@@ -63,6 +66,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Olivier Gengler, Heidelberger Akademie der Wissenschaften, (<a href="https://orcid.org/0000-0003-4118-0901" target="blank">ORCID ID</a>)
 * Kyriaki Giannikou, Universiteit Gent, (<a href="https://orcid.org/0000-0002-5865-0810" target="blank">ORCID ID</a>)
 * Ilenia Gradante, University of Oxford, UK, (<a href="https://orcid.org/0000-0002-7176-2833" target="blank">ORCID ID</a>)
+* Leonardo Gregoratti
 * Andreas Hartmann, Universität Augsburg, (<a href="https://orcid.org/0000-0001-5465-5553" target="blank">ORCID ID</a>)
 * Petra Heřmánková, Aarhus University, (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID</a>)
 * Aaron Hershkowitz, The Institute for Advanced Study, (<a href="https://orcid.org/0000-0002-9456-8574" target="blank">ORCID ID</a>)
@@ -100,15 +104,16 @@ The following list is based on the voluntary submission in the [Membership form]
 * Fiona Phillips, University of Oxford
 * Gregor Pobežin, ZRC SAZU, Institute of Cultural History, (<a href="https://orcid.org/0000-0002-3418-9767" target="blank">ORCID ID</a>)
 * Ofer Pogorelsky, The Hebrew University of Jerusalem
-* Juan Pablo Prieto, Université Bordeaux Montaigne, (<a href="https://orcid.org/0000-0002-9955-7743" target="blank">ORCID ID</a>)
 * Matteo Pola, University of Zadar, (<a href="https://orcid.org/0000-0003-1265-8400" target="blank">ORCID ID</a>)
+* Juan Pablo Prieto, Université Bordeaux Montaigne, (<a href="https://orcid.org/0000-0002-9955-7743" target="blank">ORCID ID</a>)
 * Andrés Rea, Uniwersytet Warszawski (University of Warsaw), (<a href="https://orcid.org/0009-0003-1660-6453" target="blank">ORCID ID</a>)
 * Luca Rigobianco, Università Ca' Foscari Venezia
 * Antonio Romano, Le Mans Université
 * Emre Salman, İstanbul Üniversitesi
 * Nermine Sami, Ministry of Tourism and Antiquities - Egypt
+* * Eleni Sfyridou, Ionian University (<a href="https://orcid.org/0000-0002-0940-3186" target="blank">ORCID ID</a>)
 * Nicolay Sharankov, University of Sofia, (<a href="https://orcid.org/0000-0003-3085-2813" target="blank">ORCID ID</a>)
-* Eleni Sfyridou, Ionian University (<a href="https://orcid.org/0000-0002-0940-3186" target="blank">ORCID ID</a>)
+* Joe Sheppard, Ashmolean Museum, University of Oxford, (<a href="https://orcid.org/0009-0005-6250-3740" target="blank">ORCID ID</a>)
 * Bartosz Smogur, University of Warsaw/EPHE, (<a href="https://orcid.org/0000-0002-8380-6696" target="blank">ORCID ID</a>)
 * Laura Soffiantini, KU Leuven
 * Thea Sommershield, (<a href="https://orcid.org/0000-0002-6965-8105" target="blank">ORCID ID</a>)
