@@ -17,7 +17,7 @@ The workshop traditionally brings together researchers and enthusiasts of digita
 ## Important links
 
 
- - [Programme and book fo abstracts](#programme) 
+ - [Programme and book of abstracts](#programme) 
  - [Posters](#posters) -> **[Digital poster session]({{ "../workshop_9_posters/"}})**
  - [Workshop Collaborative Documents](#shared)
  - [Steering Committee Elections](#sc)
@@ -54,9 +54,9 @@ The program has been finalised and the accepted participants have been notified.
 
 ## Shared documents
 
-* [Collaborative Document](https://docs.google.com/document/d/1DWFxqSczF3N_RX73ejBzf6TRfMoAJ4RV4Bl1QoEsoww/edit?usp=sharing){:target="_blank" rel="noopener"}
+- [Collaborative Document (GoogleDoc)](https://docs.google.com/document/d/1DWFxqSczF3N_RX73ejBzf6TRfMoAJ4RV4Bl1QoEsoww/edit?usp=sharing){:target="_blank" rel="noopener"}
 
-* [Report on the eight workshop in Berlin on Zenodo](https://zenodo.org/records/12514368)
+- [Report on the eight workshop in Berlin on Zenodo](https://zenodo.org/records/12514368)
 
 
 ---
@@ -176,9 +176,10 @@ If you present your poster in-person, you can also use the digital option, see b
 
 For those not present in Aarhus, there will be no digital Zoom during the poster session. Therefore we strongly recommend having a point of contact directly on your poster, so people can contact you for questions.
 
+---
 
 <a id="sc"></a>
-## Steering Committee elections + location Epigraphy.info IX
+## Steering Committee elections + location Epigraphy.info X
 
 During the Epigraphy.info workshop, the election of new members for the Steering Committee will take place and the location for the next workshop will be decided. If you would like to candidate as member of the Steering Committee or if you would like to host the next Epigraphy.info workshop, please send your application to ([info@epigraphy.info](mailto:info@epigraphy.info)).
 
