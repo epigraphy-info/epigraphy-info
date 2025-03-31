@@ -90,7 +90,9 @@ These digital techniques revealed the „biography” of the object: the name of
 ---
 
 <a id="poster3"></a>
-## 3. Alice Cicarelli (Independent researcher, digital poster): _From Manuscript to Digital: Digitization Strategies for the Marcanova Codex (Cod. Lat. 992), https://zenodo.org/records/15035147_
+## 3. Alice Cicarelli (Independent researcher, digital poster): _From Manuscript to Digital: Digitization Strategies for the Marcanova Codex (Cod. Lat. 992)_
+
+[https://zenodo.org/records/15035147](https://zenodo.org/records/15035147)
 
 alicecicarelli@gmail.com 
 
@@ -160,7 +162,9 @@ The Community Cluster Objects as Information Carriers of the National Research D
 
 
  <a id="poster7"></a>
-## 7. Anamarija Kurilić (University of Zadar, digital poster): _STTL, https://zenodo.org/records/15101580_
+## 7. Anamarija Kurilić (University of Zadar, digital poster): _STTL_
+
+[https://zenodo.org/records/15101580](https://zenodo.org/records/15101580)
 
 akurilic2011@gmail.com 
 
@@ -257,7 +261,9 @@ Our poster aims to present the overall contents and structural features of the n
 
 
 <a id="poster12"></a>
-## 12. Antonello Vilella (G. d’Annunzio” University of Chieti-Pescara, digital poster): _Graff-IT Digital Archive: The First Database on Medieval and Early Modern Graffiti in Italy, https://zenodo.org/records/15063166_
+## 12. Antonello Vilella (G. d’Annunzio” University of Chieti-Pescara, digital poster): _Graff-IT Digital Archive: The First Database on Medieval and Early Modern Graffiti in Italy_
+
+[https://zenodo.org/records/15063166](https://zenodo.org/records/15063166)
 __
 
 antonello.vilella@unich.it 
