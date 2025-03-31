@@ -27,24 +27,24 @@ The Epigraphy.info IX workshop will host poster session dedicated to the present
 1. A topography of aretē: Mapping out the geographical and chronological spread of the concept of aretē (= virtue) in Greek inscriptions [See poster](#poster1)
 2. Digital methods for inscriptions on bronze: a case study on 3D modelling and stereomicroscopy [See poster](#poster2)
 3. From Manuscript to Digital: Digitization Strategies for the Marcanova Codex [See poster](#poster3)
-4. [See poster](#poster4)
-5. [See poster](#poster5)
-6. [See poster](#poster6)
-7. [See poster](#poster7)
-8. [See poster](#poster8)
-9. [See poster](#poster9)
-10. [See poster](#poster10)
-11. [See poster](#poster11)
-12. [See poster](#poster12)
-13. [See poster](#poster13)
+4. We need a Digital Epigraphy manual. Reflections on teaching Digital Epigraphy to History students (who did not know about Epigraphy or Ancient Languages before) [See poster](#poster4)
+5. TBA [See poster](#poster5)
+6. NFDI4Objects Community Cluster (CC) Objects as Information Carriers [See poster](#poster6)
+7. STTL Project [See poster](#poster7)
+8. Altinum, a Wikidata project for Latin epigraphy and prosopography [See poster](#poster8)
+9. The Wikibase instance ‘Greek Metrical Inscriptions’ [See poster](#poster9)
+10. Epigraphy in situ in Ancient Liburnia and Iapodia: Contextualizing Epigraphic Formulae in the Northwestern Territories of Roman Dalmatia [See poster](#poster10)
+11. La Lettera e il Leone: An Epigraphic Database of Venetian Renaissance Inscriptions from Cyprus [See poster](#poster11)
+12. Graff-IT Digital Archive: The First Database on Medieval and Early
+Modern Graffiti in Italy [See poster](#poster12)
+13. Building an epigraphic ontology [See poster](#poster13)
 
 
 
 ---
 
 <a id="poster1"></a>
-## 1. Antiopi Argyriou-Casmeridis (CHS Harvard University, Washington DC Summer Fellow 2024-2025; Postdoctoral Researcher National & Kapodistrian University of Athens)
-__‘A topography of aretē: Mapping out the geographical and chronological spread of the concept of aretē (= virtue) in Greek inscriptions’__
+## 1. Antiopi Argyriou-Casmeridis (CHS Harvard University, Washington DC Summer Fellow 2024-2025; Postdoctoral Researcher National & Kapodistrian University of Athens): _‘A topography of aretē: Mapping out the geographical and chronological spread of the concept of aretē (= virtue) in Greek inscriptions’_
 
 antiopi_a@hotmail.com 
 
@@ -65,8 +65,7 @@ This poster is a presentation of an ongoing research project on the topography o
 ---
 
 <a id="poster2"></a>
-## 2. David Bartus, (ELTE Eötvös Loránd University)
-__Digital methods for inscriptions on bronze: a case study on 3D modelling and stereomicroscopy__
+## 2. David Bartus, (ELTE Eötvös Loránd University):_Digital methods for inscriptions on bronze: a case study on 3D modelling and stereomicroscopy_
 
 bartus.david@btk.elte.hu 
 
@@ -91,8 +90,7 @@ These digital techniques revealed the „biography” of the object: the name of
 ---
 
 <a id="poster3"></a>
-## 3. Alice Cicarelli (Independent researcher, digital poster)
-__From Manuscript to Digital: Digitization Strategies for the Marcanova Codex (Cod. Lat. 992), https://zenodo.org/records/15035147__
+## 3. Alice Cicarelli (Independent researcher, digital poster): _From Manuscript to Digital: Digitization Strategies for the Marcanova Codex (Cod. Lat. 992), https://zenodo.org/records/15035147_
 
 alicecicarelli@gmail.com 
 
@@ -112,8 +110,7 @@ At the core of my project lies a strong interest in a Digital Humanities service
 
 
  <a id="poster4"></a>
-## 4. Elena Duce-Pastor (Autonoma University of Madrid),  Cristina de la Escosura-Balbás (University of Alcalá)
-__We need a Digital Epigraphy manual. Reflections on teaching Digital Epigraphy to History students (who did not know about Epigraphy or Ancient Languages before).__
+## 4. Elena Duce-Pastor (Autonoma University of Madrid),  Cristina de la Escosura-Balbás (University of Alcalá):_We need a Digital Epigraphy manual. Reflections on teaching Digital Epigraphy to History students (who did not know about Epigraphy or Ancient Languages before)._
 
 
 elena.duce@uam.es
@@ -142,8 +139,8 @@ Ancient History students in Spain use Digital Epigraphy databases when working o
 ---
 
 <a id="poster6"></a>
-## 6. Christoph Klose (Berlin Coin Collection (Stiftung Preußischer Kulturbesitz) / NFDI4Objects)
-__NFDI4Objects Community Cluster (CC) Objects as Information Carriers__
+## 6. Christoph Klose (Berlin Coin Collection (Stiftung Preußischer Kulturbesitz) / NFDI4Objects):
+NFDI4Objects Community Cluster (CC) Objects as Information Carriers_
 
 c.klose@smb.spk-berlin.de 
 
@@ -163,8 +160,7 @@ The Community Cluster Objects as Information Carriers of the National Research D
 
 
  <a id="poster7"></a>
-## 7. Anamarija Kurilić (University of Zadar, digital poster)
-__STTL__ https://zenodo.org/records/15101580
+## 7. Anamarija Kurilić (University of Zadar, digital poster): _STTL, https://zenodo.org/records/15101580_
 
 akurilic2011@gmail.com 
 
@@ -181,8 +177,7 @@ STTL is a well-known acronym standing for SIT TIBI TERRA LEVIS, and, quite expec
 
 ---
  <a id="poster8"></a>
-## 8. Anna Clara Maniero Azzolini (Independent researcher)
-__Altinum, a Wikidata project for Latin epigraphy and prosopography__
+## 8. Anna Clara Maniero Azzolini (Independent researcher): _Altinum, a Wikidata project for Latin epigraphy and prosopography_
 
 
 azzoliniannaclara@gmail.com 
@@ -203,8 +198,7 @@ All data are accessible under the CC-0 licence and available for consultation on
 ---
 
  <a id="poster9"></a>
-## 9. Pietro Ortimini (University of Pisa)
-__The Wikibase instance ‘Greek Metrical Inscriptions’__
+## 9. Pietro Ortimini (University of Pisa): _The Wikibase instance ‘Greek Metrical Inscriptions’_
 
 pietro.ortimini@phd.unipi.it 
 
@@ -223,8 +217,7 @@ A rich production of epigraphic poetry written in Greek flourished in the territ
 
 
  <a id="poster10"></a>
-## 10. Matteo Pola (University of Zadar)
-__Epigraphy in situ in Ancient Liburnia and Iapodia: Contextualizing Epigraphic Formulae in the Northwestern Territories of Roman Dalmatia__
+## 10. Matteo Pola (University of Zadar): _Epigraphy in situ in Ancient Liburnia and Iapodia: Contextualizing Epigraphic Formulae in the Northwestern Territories of Roman Dalmatia_
 
 
 matteopola87@gmail.com 
@@ -245,8 +238,7 @@ As part of the STTL project (Sit Tibi Terra Levis: Formulae and Phrases from the
 
 
 <a id="poster11"></a>
-## 11. Tatiana Tommasi, Lorenzo Calvelli (University of Udine, Ca' Foscari University of Venice)
-__La Lettera e il Leone: An Epigraphic Database of Venetian Renaissance Inscriptions from Cyprus__
+## 11. Tatiana Tommasi, Lorenzo Calvelli (University of Udine, Ca' Foscari University of Venice): _La Lettera e il Leone: An Epigraphic Database of Venetian Renaissance Inscriptions from Cyprus_
 
 tatiana.tommasi@unive.it 
 
@@ -265,8 +257,7 @@ Our poster aims to present the overall contents and structural features of the n
 
 
 <a id="poster12"></a>
-## 12. Antonello Vilella (G. d’Annunzio” University of Chieti-Pescara, digital poster)
-__Graff-IT Digital Archive: The First Database on Medieval and Early Modern Graffiti in Italy__ https://zenodo.org/records/15063166 
+## 12. Antonello Vilella (G. d’Annunzio” University of Chieti-Pescara, digital poster): _Graff-IT Digital Archive: The First Database on Medieval and Early Modern Graffiti in Italy, https://zenodo.org/records/15063166_
 __
 
 antonello.vilella@unich.it 
@@ -287,8 +278,7 @@ In 2022 the ERC Advanced Grant project Graff-IT “Writing on the Margins. Graff
 
 
 <a id="poster13"></a>
-## 13. Jonathan Prag, Imran Asif, Petra Hermankova, Marietta Horster (FAIR Epigraphy Project, inscriptiones.org)
-__Building an epigraphic ontology__
+## 13. Jonathan Prag, Imran Asif, Petra Hermankova, Marietta Horster (FAIR Epigraphy Project, inscriptiones.org): _Building an epigraphic ontology_
 
 jonathan.prag@classics.ox.ac.uk
 
