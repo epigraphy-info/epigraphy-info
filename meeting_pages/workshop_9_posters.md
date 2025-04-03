@@ -204,6 +204,8 @@ All data are accessible under the CC-0 licence and available for consultation on
  <a id="poster9"></a>
 ## 9. Pietro Ortimini (University of Pisa): _The Wikibase instance ‘Greek Metrical Inscriptions’_
 
+https://zenodo.org/records/15102921
+
 pietro.ortimini@phd.unipi.it 
 
 A rich production of epigraphic poetry written in Greek flourished in the territories of the Graeco-Roman world during the Imperial age (late 1st century BC - early 4th century AD). There is currently no repository that allows for easy collection of data on the inscriptions, which are scattered across various editions. The aim of the Wikibase instance is to gather the Greek metrical inscriptions from the Imperial age into a single collection, providing the following data: edition(s), image(s), geographic provenance, dating, type of inscription, meter, length of the text, objects, layout, clients and recipients, author, external resources (e.g., Trismegistos ID, Wikidata item, Pleiades ID). This data, collected as part of my PhD thesis, is available under the CC BY-SA 4.0 DEED. The data is structured as outlined in the data model and can be queried through SPARQL queries. The data is entered in CSV format through QuickStatements and can be exported in different formats (JSON, TSV, CSV). The Wikibase instance is still a work in progress. The data model is almost complete, queries are being created, and inscriptions are being added (80 inscriptions have been entered so far). As a future perspective, it would be desirable to include the Greek metrical inscriptions from the Archaic, Classical, Hellenistic periods, and Late Antiquity. The aim of this presentation is also to reflect on the use of Wikibase (and Wikidata) for the study of epigraphy.
