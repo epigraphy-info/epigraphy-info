@@ -8,7 +8,7 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a> at any time.
 
-*Latest update: 2025-03-27*
+*Latest update: 2025-04-03*
 
 * Magdy Aly, Mansoura University, (<a href="https://orcid.org/0000-0002-0937-6552" target="blank">ORCID ID</a>)
 * Antiopi Argyriou, University of Athens
@@ -23,6 +23,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Rebecca Benefiel, Washington & Lee University, (<a href="https://orcid.org/0000-0002-3312-1517" target="blank">ORCID ID</a>)
 * Juan Manuel Bermúdez Lorenzo, Universidad Rey Juan Carlos, (<a href="https://orcid.org/0000-0002-7291-1079" target="blank">ORCID ID</a>)
 * Monica Berti, Leipzig University, (<a href="https://orcid.org/0000-0003-2779-4229" target="blank">ORCID ID</a>)
+* Gianmarco Bianchini, Università della Campania "L. Vanvitelli", (<a href="https://orcid.org/0000-0002-2190-6819" target="blank">ORCID ID</a>)
 * Emine Bilgiç Kavak
 * Glavin Blasdel, University of Groningen (<a href="https://orcid.org/0009-0000-4780-5795" target="blank">ORCID ID</a>)
 * John Bodel, Brown University, (<a href="https://orcid.org/0000000318206368" target="blank">ORCID ID</a>)
@@ -45,12 +46,13 @@ The following list is based on the voluntary submission in the [Membership form]
 * Gaia De Luca, Aix Marseille Université
 * Dan Deac, History and Art County Museum Zalău, (<a href="https://orcid.org/0000-0003-4711-8623" target="blank">ORCID ID</a>)
 * Gabriël de Klerk, Johannes Gutenberg-Universität Mainz
-* Cristina de la Escosura Balbas, U. Complutense of Madrid, (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID</a>)
+* Cristina de la Escosura Balbas, University of Alcalá, (<a ,href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID</a>)
 * Maria Teresa de Luque Morales, Universidad de Córdoba, (<a href="https://orcid.org/0000-0002-6942-945X" target="blank">ORCID ID</a>)
 * Francesca Dell'Oro, University of Neuchâtel, (<a href="https://orcid.org/0000-0002-8343-356X" target="blank">ORCID ID</a>)
 * Muditha Dharmasiri, Maynooth University, Ireland
 * Tamara Dijkstra, University of Groningen, (<a href="https://orcid.org/0000-0001-5988-8751" target="blank">ORCID ID</a>)
-* Elena Duce Pastor, Postdoctoral researcher Margarita Salas, Autonoma University of Madrid / Universidad de Zaragoza, (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID</a>)
+* Alina Dimitrova, University of Vienna, (<a href="https://orcid.org/0000-0002-8563-6483" target="blank">ORCID ID</a>)
+* Elena Duce Pastor, Autonomous University of Madrid, (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID</a>)
 * David Eibeck, Universität Stuttgart / Johannes-Gutenberg-Universität Mainz, (<a href="https://orcid.org/0009-0008-1641-6568" target="blank">ORCID ID</a>)
 * Timo Eichhorn
 * Liubov Eliseeva, Institute of World History, Moscow (<a href="https://orcid.org/0000-0001-5448-6788" target="blank">ORCID ID</a>)
@@ -105,13 +107,16 @@ The following list is based on the voluntary submission in the [Membership form]
 * Gregor Pobežin, ZRC SAZU, Institute of Cultural History, (<a href="https://orcid.org/0000-0002-3418-9767" target="blank">ORCID ID</a>)
 * Ofer Pogorelsky, The Hebrew University of Jerusalem
 * Matteo Pola, University of Zadar, (<a href="https://orcid.org/0000-0003-1265-8400" target="blank">ORCID ID</a>)
+* Jonathan Prag, University of Oxford (<a href="https://orcid.org/0000-0003-3819-8537" target="blank">ORCID ID</a>)
 * Juan Pablo Prieto, Université Bordeaux Montaigne, (<a href="https://orcid.org/0000-0002-9955-7743" target="blank">ORCID ID</a>)
 * Andrés Rea, Uniwersytet Warszawski (University of Warsaw), (<a href="https://orcid.org/0009-0003-1660-6453" target="blank">ORCID ID</a>)
 * Luca Rigobianco, Università Ca' Foscari Venezia
 * Antonio Romano, Le Mans Université
+* Daria Russo, CNRS UMR 7041 ArScAn, (<a href="https://orcid.org/0000-0001-8488-7558" target="blank">ORCID ID</a>)
 * Emre Salman, İstanbul Üniversitesi
 * Nermine Sami, Ministry of Tourism and Antiquities - Egypt
-* * Eleni Sfyridou, Ionian University (<a href="https://orcid.org/0000-0002-0940-3186" target="blank">ORCID ID</a>)
+* Eleonora Selvi, Università di Verona (<a href="https://orcid.org/0000-0001-7515-4598" target="blank">ORCID ID</a>)
+* Eleni Sfyridou, Ionian University (<a href="https://orcid.org/0000-0002-0940-3186" target="blank">ORCID ID</a>)
 * Nicolay Sharankov, University of Sofia, (<a href="https://orcid.org/0000-0003-3085-2813" target="blank">ORCID ID</a>)
 * Joe Sheppard, Ashmolean Museum, University of Oxford, (<a href="https://orcid.org/0009-0005-6250-3740" target="blank">ORCID ID</a>)
 * Bartosz Smogur, University of Warsaw/EPHE, (<a href="https://orcid.org/0000-0002-8380-6696" target="blank">ORCID ID</a>)
