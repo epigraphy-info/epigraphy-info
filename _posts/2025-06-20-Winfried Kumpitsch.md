@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "The Epigraphy.info community mourns its colleague Winfried Kumpitsch (1993–2025)"
-date:   2025-06-20 10:00:00
+title:  "In memoriam Winfried Kumpitsch (1993–2025)"
+date:   2025-06-20 06:00:00
 author: Chiara Cenati
 categories: News
 tags: announcement
 published: true
 ---
 
-**The Epigraphy.info community mourns its colleague Winfried Kumpitsch (1993–2025)**
+## The Epigraphy.info community mourns its colleague Winfried Kumpitsch (1993–2025)
 
 Winfried Kumpitsch was an active and enthusiastic member of the community, appreciated by all of us. His contributions and presence will be greatly missed. _Sit tibi terra levis._
 
