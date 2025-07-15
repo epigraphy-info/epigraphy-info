@@ -54,10 +54,10 @@ The following list is based on the voluntary submission in the [Membership form]
 * Alina Dimitrova, University of Vienna, (<a href="https://orcid.org/0000-0002-8563-6483" target="blank">ORCID ID</a>)
 * Elena Duce Pastor, Autonomous University of Madrid, (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID</a>)
 * David Eibeck, Universität Stuttgart / Johannes-Gutenberg-Universität Mainz, (<a href="https://orcid.org/0009-0008-1641-6568" target="blank">ORCID ID</a>)
-* Timo Eichhorn
+* Timo Eichhorn, University of Warsaw
 * Liubov Eliseeva, Institute of World History, Moscow (<a href="https://orcid.org/0000-0001-5448-6788" target="blank">ORCID ID</a>)
 * Almoatzbellah Elshahawi, Ministry of Tourism and Antiquities
-* Sergio España Chamorro, Sapienza Università di Roma
+* Sergio España Chamorro, Universidad Complutense de Madrid (<a href="https://orcid.org/0000-0001-6962-5859" target="blank">ORCID ID</a>)
 * Silvia Evangelisti, University of Foggia, (<a href="https://orcid.org/0000-0002-7186-9518" target="blank">ORCID ID</a>)
 * Rolando Ferri, Università di Pisa (<a href="http://orcid.org/0000-0002-5241-8332" target="blank">ORCID ID</a>)
 * Michel Feugère, CNRS, (<a href="https://orcid.org/0000-0002-4073-4231" target="blank">ORCID ID</a>)
@@ -73,7 +73,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Petra Heřmánková, Aarhus University, (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID</a>)
 * Aaron Hershkowitz, The Institute for Advanced Study, (<a href="https://orcid.org/0000-0002-9456-8574" target="blank">ORCID ID</a>)
 * Marietta Horster, Johannes Gutenberg-Universität Mainz (<a href="https://orcid.org/0000-0003-1434-224X" target="blank">ORCID ID<a>)
-* Pieter Houten, Universität Hamburg, (<a href="https://orcid.org/0000-0002-7872-782X" target="blank">ORCID ID</a>)
+* Pieter Houten,  University of Nottingham, (<a href="https://orcid.org/0000-0002-7872-782X" target="blank">ORCID ID</a>)
 * Dimitar Iliev, St. Kliment Ohridski University of Sofia, (<a href="https://orcid.org/0000-0002-5231-818X" target="blank">ORCID ID</a>)
 * Jordan Iliev, National Centre for Information and Documentation, Sofia (<a href="https://orcid.org/0000-0002-0218-8540" target="blank">ORCID ID</a>)
 * Christoph Klose, Staatliche Museen zu Berlin 
@@ -87,7 +87,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Flavia Licciardello, Alma Mater Studiorum Università di Bologna, (<a href="https://orcid.org/0000-0002-9133-9282" target="blank">ORCID ID</a>)
 * Anna Clara Maniero Azzolini (<a href="https://orcid.org/0009-0002-0425-2339" target="blank">ORCID ID</a>)
 * Meilin Lyu, University Athens
-* Nenad Markovic
+* Nenad Markovic (<a href="https://orcid.org/0000-0002-0505-2593" target="blank">ORCID ID</a>)
 * Florian Matei-Popescu, Vasile Pârvan Archaeological Institute, Bucharest (<a href="https://orcid.org/0000-0001-5360-042X" target="blank">ORCID ID</a>)
 * Kresimir Matijevic, Europa-Universität Flensburg
 * Guénette Maxime, Université de Montréal
