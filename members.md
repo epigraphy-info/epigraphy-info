@@ -46,7 +46,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Gaia De Luca, Aix Marseille Université
 * Dan Deac, History and Art County Museum Zalău, (<a href="https://orcid.org/0000-0003-4711-8623" target="blank">ORCID ID</a>)
 * Gabriël de Klerk, Johannes Gutenberg-Universität Mainz
-* Cristina de la Escosura Balbas, University of Alcalá, (<a ,href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID</a>)
+* Cristina de la Escosura Balbas, University of Alcalá, (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID</a>)
 * Maria Teresa de Luque Morales, Universidad de Córdoba, (<a href="https://orcid.org/0000-0002-6942-945X" target="blank">ORCID ID</a>)
 * Francesca Dell'Oro, University of Neuchâtel, (<a href="https://orcid.org/0000-0002-8343-356X" target="blank">ORCID ID</a>)
 * Muditha Dharmasiri, Maynooth University, Ireland
