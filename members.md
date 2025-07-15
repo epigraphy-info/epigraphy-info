@@ -73,7 +73,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Petra Heřmánková, Aarhus University, (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID</a>)
 * Aaron Hershkowitz, The Institute for Advanced Study, (<a href="https://orcid.org/0000-0002-9456-8574" target="blank">ORCID ID</a>)
 * Marietta Horster, Johannes Gutenberg-Universität Mainz (<a href="https://orcid.org/0000-0003-1434-224X" target="blank">ORCID ID<a>)
-* Pieter Houten,  University of Nottingham, (<a href="https://orcid.org/0000-0002-7872-782X" target="blank">ORCID ID</a>)
+* Pieter Houten,  Honorary Research Fellow, University of Nottingham, (<a href="https://orcid.org/0000-0002-7872-782X" target="blank">ORCID ID</a>)
 * Dimitar Iliev, St. Kliment Ohridski University of Sofia, (<a href="https://orcid.org/0000-0002-5231-818X" target="blank">ORCID ID</a>)
 * Jordan Iliev, National Centre for Information and Documentation, Sofia (<a href="https://orcid.org/0000-0002-0218-8540" target="blank">ORCID ID</a>)
 * Christoph Klose, Staatliche Museen zu Berlin 
