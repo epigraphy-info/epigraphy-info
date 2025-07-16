@@ -15,7 +15,7 @@ Inscriptions of ancient Athens and Attica in English translation
 
 ---
 
-### <a href="https://mizar.unive.it/axon/public/index/index" target="blank">AXON
+### <a href="https://open.unive.it/axon/" target="blank">AXON
 Greek Historical Inscriptions
 
 ---
@@ -246,7 +246,7 @@ U.S. Epigraphy Project
 
 ---
 
-### <a href="http://mizar.unive.it/venicesqueeze/public/frontend/index" target="blank">Venice Squeeze Project
+### <a href="https://pric.unive.it/projects/venice-squeeze-project/home" target="blank">Venice Squeeze Project
 Collection of epigraphic squeezes of the Laboratory of Greek Epigraphy of Ca' Foscari University of Venice
 
 ---
