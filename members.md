@@ -109,7 +109,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Matteo Pola, University of Zadar, (<a href="https://orcid.org/0000-0003-1265-8400" target="blank">ORCID ID</a>)
 * Jonathan Prag, University of Oxford (<a href="https://orcid.org/0000-0003-3819-8537" target="blank">ORCID ID</a>)
 * Juan Pablo Prieto, Université Bordeaux Montaigne, (<a href="https://orcid.org/0000-0002-9955-7743" target="blank">ORCID ID</a>)
-* Andrés Rea, Uniwersytet Warszawski (University of Warsaw), (<a href="https://orcid.org/0009-0003-1660-6453" target="blank">ORCID ID</a>)
+* Andrés Rea, Universiteit Gent (<a href="https://orcid.org/0009-0003-1660-6453" target="blank">ORCID ID</a>)
 * Luca Rigobianco, Università Ca' Foscari Venezia
 * Antonio Romano, Le Mans Université
 * Daria Russo, CNRS UMR 7041 ArScAn, (<a href="https://orcid.org/0000-0001-8488-7558" target="blank">ORCID ID</a>)
