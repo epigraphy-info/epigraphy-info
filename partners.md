@@ -130,8 +130,13 @@ Inscriptions grecques et latines de la Syrie
 
 ---
 
-### <a href="https://igcyr.unibo.it/" target="blank">Inscriptions of Greek Cyrenaica
+### <a href="https://igcyr.unibo.it/" target="blank">Inscriptions of Greek Cyrenaica/Greek Verse Inscriptions of Cyrenaica
 Online Edition of Greek inscriptions from Libya
+
+---
+
+### <a href="https://igcyr2.unibo.it/en/" target="blank">Inscriptions of Greek Cyrenaica/Greek Verse Inscriptions of Cyrenaica Second Edition
+Online Edition of Greek inscriptions from Libya (Second Edition)
 
 ---
 
