@@ -226,8 +226,18 @@ Sylloge Inscriptionum Religionis Africae Romanae
 
 ---
 
+### <a href="https://telamon.uni-sofia.bg/" target="blank">TELAMON
+Ancient Greek Inscriptions from Bulgaria
+
+---
+
 ### <a href="http://ancientgraffiti.org/Graffiti/" target="blank">The Ancient Graffiti Project
 Digital resource of graffiti of Herculaneum and Pompeii
+
+---
+
+### <a href="https://tituli.naim.bg/" target="blank">TITVLI
+Latin inscriptions from Bulgaria
 
 ---
 
