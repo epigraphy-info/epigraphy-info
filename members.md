@@ -91,7 +91,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Florian Matei-Popescu, Vasile Pârvan Archaeological Institute, Bucharest (<a href="https://orcid.org/0000-0001-5360-042X" target="blank">ORCID ID</a>)
 * Kresimir Matijevic, Europa-Universität Flensburg
 * Guénette Maxime, Université de Montréal
-* Valentina Mignosa, Università degli Studi di Udine, (<a href="https://orcid.org/0000-0002-7122-2511" target="blank">ORCID ID</a>)
+* Valentina Mignosa, Ca' Foscari University of Venice (<a href="https://orcid.org/0000-0002-7122-2511" target="blank">ORCID ID</a>)
 * Emmanuelle Morlock, CNRS, (<a href="https://orcid.org/0000-0002-1617-8554" target="blank">ORCID ID</a>)
 * Alex Mullen, University of Nottingham, LatinNow, (<a href="https://orcid.org/0000-0002-9110-4678" target="blank">ORCID ID</a>)
 * Sandra Muñoz-Martínez, Universitat de Barcelona, (<a href="https://orcid.org/0000-0002-0546-5224" target="blank">ORCID ID</a>)
