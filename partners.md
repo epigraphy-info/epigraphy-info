@@ -120,6 +120,11 @@ Epigraphic patrimony of Portugal and Spain
 
 ---
 
+### <a href="https://icg.uni-kiel.de/" target="blank">Inscriptiones Christianae Graecae
+A digital collection of early Christian inscriptions
+
+---
+
 ### <a href="https://www.eagle-network.eu/about/who-we-are/" target="blank">IDEA
 International Digital Epigraphy Association
 
