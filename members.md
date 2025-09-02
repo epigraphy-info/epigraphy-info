@@ -71,6 +71,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Francisca Feraudi-Gruénais, Heidelberg Academy of Sciences and Humanities (<a href="https://orcid.org/0000-0002-6230-4750" target="blank">ORCID ID</a>)
 * Valentino Gasparini, Universidad Carlos III de Madrid (<a href="https://orcid.org/0000-0002-3345-0062" target="blank">ORCID ID</a>)
 * Olivier Gengler, Heidelberger Akademie der Wissenschaften (<a href="https://orcid.org/0000-0003-4118-0901" target="blank">ORCID ID</a>)
+* * Tom Gheldof, KU Leuven’s Faculty of Arts (<a href="https://orcid.org/0000-0001-5223-6275" target="blank">ORCID ID: 0000-0001-5223-6275</a>)
 * Kyriaki Giannikou, Universiteit Gent (<a href="https://orcid.org/0000-0002-5865-0810" target="blank">ORCID ID</a>)
 * Ilenia Gradante, University of Oxford (<a href="https://orcid.org/0000-0002-7176-2833" target="blank">ORCID ID</a>)
 * Leonardo Gregoratti
