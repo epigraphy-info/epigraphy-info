@@ -33,7 +33,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Eleni Bozia, University of Florida (<a href="https://orcid.org/0000-0002-6210-461X" target="blank">ORCID ID</a>)
 * Silvia Braito, Universitat de Barcelona (<a href="https://orcid.org/0000-0002-9311-2719" target="blank">ORCID ID</a>)
 * Annie Burman, Uppsala university / Istituto svedese di studi classici a Roma (<a href="https://orcid.org/0000-0003-2876-729X" target="blank">ORCID ID</a>)
-* Alberto Cafaro, Università di Pisa (<a href="https://orcid.org/0000-0003-2517-3146" target="blank">ORCID ID</a>)
+* Alberto Cafaro, Università di Siena (<a href="https://orcid.org/0000-0003-2517-3146" target="blank">ORCID ID</a>)
 * Macarena Calderón Sánchez, Universidad Complutense de Madrid (<a href="https://orcid.org/0000-0003-0764-3378" target="blank">ORCID ID</a>)
 * Lorenzo Calvelli, Ca' Foscari University of Venice (<a href="https://orcid.org/0000-0002-0920-9156" target="blank">ORCID ID</a>)
 * Giorgia Capra, University of Oxford (<a href="https://orcid.org/0000-0003-1030-5679" target="blank">ORCID ID</a>)
