@@ -5,7 +5,10 @@ permalink: workshop_10/
 published: true
 ---
 
-<img src='{{site.baseurl}}/assets/images/workshop9_banner.png' style="width:100%;" alt="Epigraphy.info IX workshop in Aarhus" align="middle">
+<!-- INSTRUCTIONS: provide new image -->
+
+<img src='{{site.baseurl}}/assets/images/workshop10_banner.jpg' style="width:100%;" alt="Epigraphy.info X workshop in Graz" align="middle">
+
 
 
 The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from **24 to 26 April 2026**.
@@ -26,7 +29,7 @@ The meeting will include presentations and a poster session, as well as training
 
 
  - [Programme and book of abstracts](#programme) 
- - [Posters](#posters) -> **[Digital poster session]({{ "../workshop_9_posters/"}})**
+ - [Posters](#posters) -> **[Digital poster session]({{ "../workshop_10_posters/"}})**
  - [Workshop Collaborative Documents](#shared)
  - [Steering Committee Elections](#sc)
 
@@ -38,7 +41,7 @@ The meeting will include presentations and a poster session, as well as training
 The program has been finalised and the accepted participants have been notified. The recipients of the [FAIR Epigraphy](https://inscriptiones.org/) and the [Past Social Network Project](https://projects.au.dk/pastnetworks) bursaries were notified on 31/1/25. If you haven't received an email from us, please get in touch with the Steering Committee.
 
 
-**[Click here to download the final programme and the book of abstracts as PDF]({{ site.baseurl }}{% link documents/workshop_9/Final_programme_Aarhus.pdf %}){:target="_blank" rel="noopener"}**
+**[Click here to download the final programme and the book of abstracts as PDF]({{ site.baseurl }}{% link documents/workshop_10/Final_programme_Aarhus.pdf %}){:target="_blank" rel="noopener"}**
 
 
 <figure>
