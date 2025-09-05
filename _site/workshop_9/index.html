@@ -1,0 +1,921 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Workshop 9</title>
+  <meta name="description" content="Epigraphy.info is an international open community pursuing a collaborative environment for digital epigraphy, which facilitates scholarly communication and interaction.
+">
+  
+  <meta name="author" content="Petra Hermankova (webmaster)">
+  <meta name="copyright" content="&copy; Petra Hermankova (webmaster) 2025">
+  
+
+  <!-- External libraries -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/monokai-sublime.min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.0/openseadragon.min.js"></script>
+
+<!-- Remember to include jQuery :) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+
+<!-- jQuery Modal -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+
+  <!-- Favicon and other icons (made with http://www.favicon-generator.org/) -->
+  <link rel="shortcut icon" href="/assets/icons/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/assets/icons/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/icons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/icons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/icons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/icons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/icons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/icons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/icons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/icons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/assets/icons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/icons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="manifest" href="/assets/icons/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/icons/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  
+  <!-- Facebook OGP cards -->
+  <meta property="og:description" content="Epigraphy.info is an international open community pursuing a collaborative environment for digital epigraphy, which facilitates scholarly communication and interaction.
+" />
+  <meta property="og:url" content="http://localhost:4000" />
+  <meta property="og:site_name" content="Epigraphy.info" />
+  <meta property="og:title" content="Workshop 9" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="http://localhost:4000/assets/logo.jpg" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="612" />
+  <meta property="og:image:height" content="605" />
+  
+
+  
+  <!-- Twitter: card tags -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Workshop 9">
+  <meta name="twitter:description" content="Epigraphy.info is an international open community pursuing a collaborative environment for digital epigraphy, which facilitates scholarly communication and interaction.
+">
+  <meta name="twitter:image" content="http://localhost:4000/assets/logo.jpg">
+  <meta name="twitter:url" content="http://localhost:4000">
+  
+
+  
+
+  <!-- Site styles -->
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/workshop_9/">
+  <link rel="alternate" type="application/rss+xml" title="Epigraphy.info" href="http://localhost:4000/feed.xml" />
+</head>
+
+
+  <body>
+
+    <header class="navigation" role="banner">
+  <div class="navigation-wrapper">
+    <a href="/" class="logo">
+      
+      <img src="/assets/logo.jpg" alt="Epigraphy.info">
+      
+    </a>
+    <!-- <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
+      <i class="fa fa-bars"></i>
+    </a> -->
+    <nav role="navigation">
+      <!-- <div class="topnav" id="myTopnav">
+  <a href="#home" class="active">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <div class="dropdown">
+    <button class="dropbtn">Dropdown
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div>
+  <a href="#about">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="responsiveHeaderFunction()">&#9776;</a>
+</div> -->
+
+<div class="topnav" id="myTopnav">
+  
+    
+
+
+<!-- <div class="topnav" id="myTopnav">
+  <a href="#home" class="active">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <div class="dropdown">
+    <button class="dropbtn">Dropdown
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div>
+  <a href="#about">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+</div> -->
+
+<div class="dropdown">
+	<button class="dropbtn">News
+      <i class="fa fa-caret-down"></i>
+    </button>
+<div class="dropdown-content">
+ 
+    <a href="/news/">Latest news</a>
+
+
+  
+    <a href="/events/">Upcoming events</a>
+
+
+   
+  </div>
+</div> 
+       
+  
+    
+
+
+<!-- <div class="topnav" id="myTopnav">
+  <a href="#home" class="active">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <div class="dropdown">
+    <button class="dropbtn">Dropdown
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div>
+  <a href="#about">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+</div> -->
+
+<div class="dropdown">
+	<button class="dropbtn">People
+      <i class="fa fa-caret-down"></i>
+    </button>
+<div class="dropdown-content">
+ 
+    <a href="/committee/">Steering Committee</a>
+
+
+  
+    <a href="/members/">Members</a>
+
+
+  
+    <a href="/partners/">Partners</a>
+
+
+   
+  </div>
+</div> 
+       
+  
+    
+
+
+<!-- <div class="topnav" id="myTopnav">
+  <a href="#home" class="active">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <div class="dropdown">
+    <button class="dropbtn">Dropdown
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div>
+  <a href="#about">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+</div> -->
+
+<div class="dropdown">
+	<button class="dropbtn">Working Groups
+      <i class="fa fa-caret-down"></i>
+    </button>
+<div class="dropdown-content">
+ 
+    <a href="/working_groups/">Working groups</a>
+
+
+  
+    <a href="/communication_outreach_wg/">Communication and Outreach</a>
+
+
+  
+    <a href="/funding_wg/">Funding</a>
+
+
+  
+    <a href="/ontologies_wg/">Ontologies</a>
+
+
+  
+    <a href="/vocabularies_wg/">Vocabularies</a>
+
+
+   
+  </div>
+</div> 
+       
+  
+    
+
+
+<!-- <div class="topnav" id="myTopnav">
+  <a href="#home" class="active">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <div class="dropdown">
+    <button class="dropbtn">Dropdown
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div>
+  <a href="#about">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+</div> -->
+
+<div class="dropdown">
+	<button class="dropbtn">Meetings
+      <i class="fa fa-caret-down"></i>
+    </button>
+<div class="dropdown-content">
+ 
+    <a href="/workshop_1/">Workshop 1 (Heidelberg)</a>
+
+
+  
+    <a href="/workshop_2/">Workshop 2 (Zadar)</a>
+
+
+  
+    <a href="/workshop_3/">Workshop 3 (Vienna)</a>
+
+
+  
+    <a href="/workshop_4/">Workshop 4 (Hamburg)</a>
+
+
+  
+    <a href="/workshop_5/">Workshop 5 (Leuven/online)</a>
+
+
+  
+    <a href="/workshop_6/">Workshop 6 (IAS/online)</a>
+
+
+  
+    <a href="/workshop_7/">Workshop 7 (Leuven)</a>
+
+
+  
+    <a href="/workshop_8/">Workshop 8 (Berlin)</a>
+
+
+  
+    <a href="/workshop_9/">Workshop 9 (Aarhus)</a>
+
+
+  
+    <a href="/workshop_10/">Workshop 10 (Graz)</a>
+
+
+   
+  </div>
+</div> 
+       
+  
+    
+
+
+<!-- <div class="topnav" id="myTopnav">
+  <a href="#home" class="active">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <div class="dropdown">
+    <button class="dropbtn">Dropdown
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div>
+  <a href="#about">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+</div> -->
+
+<div class="dropdown">
+	<button class="dropbtn">Documents
+      <i class="fa fa-caret-down"></i>
+    </button>
+<div class="dropdown-content">
+ 
+    <a href="/documents/">Documents</a>
+
+
+   
+  </div>
+</div> 
+       
+  
+    
+
+
+<!-- <div class="topnav" id="myTopnav">
+  <a href="#home" class="active">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <div class="dropdown">
+    <button class="dropbtn">Dropdown
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div>
+  <a href="#about">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+</div> -->
+
+<div class="dropdown">
+	<button class="dropbtn">JOIN US
+      <i class="fa fa-caret-down"></i>
+    </button>
+<div class="dropdown-content">
+ 
+    <a href="/contact/">Contact</a>
+
+
+  
+    <a href="/join_us/">Join us!</a>
+
+
+   
+  </div>
+</div> 
+       
+  
+  <a href="javascript:void(0);" class="icon" onclick="responsiveHeaderFunction()">&#9776;</a>
+</div>
+
+ 
+    </nav>
+  </div>
+</header>
+
+
+    <div class="page-content">
+        <div class="wrapper">
+<div class="page">
+
+  <header class="post-header">
+    <h1 class="post-title">Workshop 9</h1>
+  </header>
+
+  <span class="page-divider">
+  <span class="one"></span>
+  <span class="two"></span>
+</span>
+
+
+  <article class="post-content">
+    <p><img src="/assets/images/workshop9_banner.png" style="width:100%;" alt="Epigraphy.info IX workshop in Aarhus" align="middle" /></p>
+
+<p>The <strong>ninth Epigraphy.info workshop</strong> will take place in <strong>Aarhus (Denmark)</strong> from <strong>2-4 April 2025</strong>. The workshop will be hosted by the <a href="https://projects.au.dk/pastnetworks">Past Social Network Project</a> and the <a href="https://cas.au.dk/en/social-resilience-lab">Social Resilience Lab</a>, Department of History and Classical Studies at Aarhus University, supported by the <a href="https://chc.au.dk/">Center for Humanities Computing</a>, and by <a href="https://antikmuseet.au.dk/en/">The Museum of Ancient Art</a>, Aarhus University.</p>
+
+<p>The workshop traditionally brings together researchers and enthusiasts of digital epigraphy to discuss the current trends and issues of the discipline (browse the <a href="https://epigraphy.info/">Epigraphy.info website</a> for details of previous workshops). The meeting will include presentations and a poster session, as well as training sessions and meetings/hackathons of the existing working groups. Anyone is welcome to join an existing working group, or to start their own initiative, should they feel the need!</p>
+
+<hr />
+
+<h2 id="important-links">Important links</h2>
+
+<ul>
+  <li><a href="#programme">Programme and book of abstracts</a></li>
+  <li><a href="#posters">Posters</a> -&gt; <strong><a href="../workshop_9_posters/">Digital poster session</a></strong></li>
+  <li><a href="#shared">Workshop Collaborative Documents</a></li>
+  <li><a href="#sc">Steering Committee Elections</a></li>
+</ul>
+
+<hr />
+
+<p><a id="programme"></a></p>
+<h2 id="programme">Programme</h2>
+
+<p>The program has been finalised and the accepted participants have been notified. The recipients of the <a href="https://inscriptiones.org/">FAIR Epigraphy</a> and the <a href="https://projects.au.dk/pastnetworks">Past Social Network Project</a> bursaries were notified on 31/1/25. If you haven’t received an email from us, please get in touch with the Steering Committee.</p>
+
+<p><strong><a href="/documents/workshop_9/Final_programme_Aarhus.pdf" target="_blank" rel="noopener">Click here to download the final programme and the book of abstracts as PDF</a></strong></p>
+
+<figure>
+<img src="/documents/workshop_9/Final_programme_Aarhus-01.png" style="width:100%;" alt="Final programme February 2025" align="middle" />
+</figure>
+
+<figure>
+<img src="/documents/workshop_9/Final_programme_Aarhus-02.png" style="width:100%;" alt="Final programme February 2025" align="middle" />
+</figure>
+
+<figure>
+<img src="/documents/workshop_9/Final_programme_Aarhus-03.png" style="width:100%;" alt="Final programme February 2025" align="middle" />
+</figure>
+
+<p><strong><a href="/documents/workshop_9/Final_programme_Aarhus.pdf" target="_blank" rel="noopener">Click here to download the final programme and the book of abstracts as PDF</a></strong></p>
+
+<hr />
+
+<p><a id="shared"></a></p>
+
+<h2 id="shared-documents">Shared documents</h2>
+
+<ul>
+  <li>
+    <p><a href="https://docs.google.com/document/d/1DWFxqSczF3N_RX73ejBzf6TRfMoAJ4RV4Bl1QoEsoww/edit?usp=sharing" target="_blank" rel="noopener">Collaborative Document (GoogleDoc)</a></p>
+  </li>
+  <li>
+    <p><a href="https://zenodo.org/records/12514368">Report on the eight workshop in Berlin on Zenodo</a></p>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="registration">Registration</h2>
+
+<p>All participants are kindly asked to <strong>register via the provided links</strong> either for in-person attendance or remote:</p>
+
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <p><strong><a href="https://forms.gle/t1PBjPrvRnNHjC2p9">In-person registration: Until 15 March</a></strong></p>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <p><strong><a href="https://forms.gle/zNJEs9PRDrcKoqAX7">Online participation registration: Until 31 March</a></strong></p>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<p>There is <strong>no registration fee</strong> as the conference is sponsored by the <a href="https://projects.au.dk/pastnetworks">Past Social Network Project</a> and the Aarhus University. However, participants are asked to cover their travel and accommodation expenses, and an optional social dinner on Day 2.</p>
+
+<p><strong>Online participation</strong></p>
+
+<p>It is now possible to register for the remote participation at the event via Zoom. However, only selected parts of the programme allow the remote participation, see below. After you register, you will be circulated a zoom link on 1 April 2025. All communication and further instructions will be sent to the email registered in the form.</p>
+
+<p><strong>List of in-person only events:</strong></p>
+<ul>
+  <li>Hands-on sessions</li>
+  <li>Poster session</li>
+  <li>Working groups meetings - up to discretion of the individual groups. If you would like to participate remotely, make sure to signal which working group you would like to join and we will provide that information to the working groups. They will get in touch with you.</li>
+</ul>
+
+<p><strong>Presenting remotely</strong></p>
+
+<p>We kindly ask all presenters who wish to present remotely to send us a video recording of your presentation by <strong>31 March 2025</strong> (petra.hermankova@cas.au.dk) or upload it to YouTube and share the link. Please, make sure to keep the time limit (15 min). We will play the video to the in-person and online participants. The Q&amp;A will follow the video streaming and will be held via Zoom. Please, make sure you are online on Zoom at the specified time. If you have any questions, do not hesitate to get in touch.</p>
+
+<hr />
+
+<h2 id="venue">Venue</h2>
+
+<p>The main venue is located at the <strong>Conference Center at Aarhus University</strong>. The address is Fredrik Nielsens Vej 2-4, 8000 Aarhus C (buildings 1420-1423). The venue is easily accessible from the city centre by public transport or by foot. For more info on how to get to Aarhus and the University, please, see the link below.</p>
+
+<p><strong><a href="https://conferences.au.dk/getting-to-aarhus-and-aarhus-university">Getting to Aarhus - practical information</a></strong></p>
+
+<p>The easiest access to the <strong>main meeting room 1422-132</strong> is from Nordre Ringgade (the Northern Ringroad), marked on the map below, through the building 1422.</p>
+
+<p>Map of the Aarhus University Conference Centre</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2221.1526710957855!2d10.199990407566913!3d56.17175365699403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTbCsDEwJzE2LjUiTiAxMMKwMTInMDAuOCJF!5e0!3m2!1sen!2sdk!4v1738143579735!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<hr />
+
+<h3 id="reception-location">Reception location</h3>
+
+<p>The reception will be hosted by the <a href="https://antikmuseet.au.dk/">Antikmuseet</a>, accross the street from the main venue. The address: Victor Albecks Vej 3, 8000 Aarhus C. See more at the <a href="https://antikmuseet.au.dk/en/visit-the-museum">museum’s website</a>.</p>
+
+<p>The catering during the reception is provided by the Past Social Project.</p>
+
+<hr />
+
+<h3 id="social-dinner-location">Social dinner location</h3>
+
+<p>We will have a social dinner in <a href="https://www.nicolinehus.dk/">Nicolinehus</a>, located on the artificial island <a href="https://www.visitaarhus.com/aarhus-region/plan-your-trip/aarhus-o-aarhus-east-gdk1027642">Aarhus Ø</a>. The location is ca. 35 minutes by walk, or 25 minutes by public transport. The choice of food ranges from Danish, Mediterranean, Mexican, to Asian and everyone can choose according to their taste. The prices are 100-200 for main food, 50-100 for beverages, depending on the provider. You can have a look at the various menues at the <a href="https://www.nicolinehus.dk/">Nicolinehus website</a>.</p>
+
+<p>The social dinner is self-paid.</p>
+
+<hr />
+
+<h2 id="accommodation">Accommodation</h2>
+
+<p><strong>Budget friendly options</strong></p>
+
+<ul>
+  <li>
+    <p><a href="https://www.wakeupcopenhagen.com/the-hotels/aarhus#/">Wake Up</a> hotel - next to the train station / 5 minutes walk from the bus station and direct buses are going to the university, or you can walk it in ca. 30 mins</p>
+  </li>
+  <li>
+    <p><a href="https://en.cabinn.com/hotel/cabinn-aarhus">Cabinn</a> hotel - located in the Latin quarter next to the main cathedral, but close to buses or lightrail, or ca. 20 minutes walk.</p>
+  </li>
+  <li>
+    <p><a href="https://www.aarhusdanhostel.dk/en">DanHostel</a> - located in the Risskov forest, ca. 15-20 minutes walking distance from the venue, and 15 minutes to the city centre. Public transport nearby, but requires some walking.</p>
+  </li>
+  <li>
+    <p><a href="https://robertassociety.com/">Roberta’s Aarhus Society</a> - hostel with dorms or private rooms, opening in February 2025. In the city centre, close to public transport.</p>
+  </li>
+</ul>
+
+<p><strong>Convenient options</strong></p>
+
+<ul>
+  <li>
+    <p><a href="https://www.scandichotels.com/hotels/denmark/aarhus/scandic-the-mayor">Scandic The Mayor</a> hotel: next to the train station / 5 minutes walk from the bus station and direct buses are going to the university, or ca. 35 mins walk</p>
+  </li>
+  <li>
+    <p><a href="https://www.scandichotels.com/hotels/denmark/aarhus/scandic-aarhus-city">Scandic Aarhus City</a> hotel: in the city centre / 5 minutes walk from the bus station and direct buses are going to the university, or ca. 30 mins walk</p>
+  </li>
+  <li>
+    <p><a href="https://comwell.com/en/hotels/comwell-hotel-aarhus">Comwell Aarhus</a>: 5 minutes from the train station / 5 minutes walk from the bus station, view of the Aarhus from above. Please note there is ongoing contruction works in the immediate surroundings of the hotel and the access might be temporarily more challenging.</p>
+  </li>
+</ul>
+
+<hr />
+
+<p><a id="posters"></a></p>
+<h2 id="poster-session">Poster session</h2>
+
+<p><strong>Link to the <a href="https://epigraphy.info/workshop_9_posters/">Digital Poster website!</a></strong></p>
+
+<p>All in-person poster presenters are asked to register via the Registration form by 15 March 2025, see above. Should you present only digital posters, please get in touch with the local organisers (petra.hermankova@cas.au.dk).</p>
+
+<h3 id="in-person-posters">In-person posters</h3>
+<p>If you present your poster in-person, you can also use the digital option, see below.</p>
+
+<p><strong>Format:</strong> the poster boards are A0 format. The poster boards measure 158 cm by 190 cm (w x h) and the board proper is 150 cm by 120 cm (w x h). The board is white, and the frame is made of metal. Poster can be both vertical or horizontal.</p>
+
+<p><strong>Printing of posters:</strong> If you send us a digital version of your poster before 15 March 2025 in a digital format (PDF, PPTX, etc.) we are offering to print it and have it set up for you free of cost. Otherwise, you are more than welcome to print and set it up on the poster boards yourself when you arrive. Submit to petra.hermankova@cas.au.dk.</p>
+
+<p><strong>Setting up posters:</strong> You should be able to setup your poster during coffee breaks and lunches on Day 1 or Day 2, or in the beginning of the Poster session Day 2 (14.30-16.00, room 1422-132).</p>
+
+<p><strong>During the session:</strong> We kindly ask you to be present in the vicinity of your poster, so people interested in your project can ask you questions. Make sure to provide a point of contact on the poster (email), or QR codes.</p>
+
+<p><strong>Collecting your posters:</strong> You can collect your poster either immediately after the Poster session, or leave it until the end of the conference (depending on your departure). If you do not wish to collect your poster, we will take care of them for you.</p>
+
+<h3 id="digital-posters">Digital posters</h3>
+
+<p><strong>Website:</strong> We offer the option to place your posters to the Epigraphy.info website, together with a short video presentation. The video will be uploaded to Epigraphy.info YouTube channel, or you can upload it to your channels and send us just the link. The poster will be uploaded to Epigraphy.info GitHub page and linked to the website. See past meetings for <a href="https://epigraphy.info/workshop_8_posters/">practical examples</a>.</p>
+
+<p><strong>Zenodo:</strong> We also offer the option to publish your poster on Zenodo and link it to the Epigraphy.info community on Zenodo. This way you will receive a unique DOI for your poster. For more, see the <a href="https://docs.google.com/document/d/1O-yebji0WAIW8qZl--hV9OcRUJ3JgBtzeGHLjKqpyok/edit?usp=sharing">Zenodo instructions</a>.</p>
+
+<p>For those not present in Aarhus, there will be no digital Zoom during the poster session. Therefore we strongly recommend having a point of contact directly on your poster, so people can contact you for questions.</p>
+
+<hr />
+
+<p><a id="sc"></a></p>
+<h2 id="steering-committee-elections--location-epigraphyinfo-x">Steering Committee elections + location Epigraphy.info X</h2>
+
+<p>During the Epigraphy.info workshop, the election of new members for the Steering Committee will take place and the location for the next workshop will be decided. If you would like to candidate as member of the Steering Committee or if you would like to host the next Epigraphy.info workshop, please send your application to (<a href="mailto:info@epigraphy.info">info@epigraphy.info</a>).</p>
+
+<hr />
+
+<p>We are very excited to see you in <strong>the happiest city in the world</strong> (according to the <a href="https://happy-city-index.com/">Happy City Index in 2024</a>)!</p>
+
+<p><em>If you have any questions, please do not hesitate to contact the Epigraphy.info Steering Committee (<a href="mailto:info@epigraphy.info">info@epigraphy.info</a>) or the <a href="mailto:petra.hermankova@cas.au.dk">local organisers</a>.</em></p>
+
+<p>Members the Steering Committee and the local organisers</p>
+
+<hr />
+
+
+  </article>
+  
+</div>
+</div>
+
+    </div>
+
+    <br>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h3 class="footer-heading">Epigraphy.info</h3>
+<!--
+    <div class="site-navigation">
+
+      <p><strong>Site Map </strong></p>
+      <ul class="pages">
+        
+        
+          <li class="nav-link"><a href="/404.html">Are you lost?</a>
+        
+        
+        
+          <li class="nav-link"><a href="/committee/">Committee</a>
+        
+        
+        
+          <li class="nav-link"><a href="/communication_outreach_wg/">Communication & Outreach WG</a>
+        
+        
+        
+          <li class="nav-link"><a href="/contact/">Contact</a>
+        
+        
+        
+          <li class="nav-link"><a href="/documents/">Documents</a>
+        
+        
+        
+          <li class="nav-link"><a href="/events/">Upcoming Events</a>
+        
+        
+        
+        
+        
+          <li class="nav-link"><a href="/funding_wg/">Funding WG</a>
+        
+        
+        
+        
+        
+          <li class="nav-link"><a href="/join_us/">Join us!</a>
+        
+        
+        
+        
+        
+          <li class="nav-link"><a href="/members/">Members</a>
+        
+        
+        
+          <li class="nav-link"><a href="/nacgle_2020/">NACGLE 2020</a>
+        
+        
+        
+          <li class="nav-link"><a href="/news/">News</a>
+        
+        
+        
+          <li class="nav-link"><a href="/ontologies_wg/">Technical WG - Ontologies</a>
+        
+        
+        
+          <li class="nav-link"><a href="/partners/">Partners</a>
+        
+        
+        
+          <li class="nav-link"><a href="/vocabularies_wg/">Technical WG - Vocabularies</a>
+        
+        
+        
+          <li class="nav-link"><a href="/working_groups/">Working Groups</a>
+        
+        
+        
+          <li class="nav-link"><a href="/workshop_1/">Workshop 1</a>
+        
+        
+        
+          <li class="nav-link"><a href="/workshop_10/">Workshop 10</a>
+        
+        
+        
+          <li class="nav-link"><a href="/workshop_10_posters/">Workshop 10 posters</a>
+        
+        
+        
+          <li class="nav-link"><a href="/workshop_2/">Workshop 2</a>
+        
+        
+        
+          <li class="nav-link"><a href="/workshop_3/">Workshop 3</a>
+        
+        
+        
+          <li class="nav-link"><a href="/workshop_4/">Workshop 4</a>
+        
+        
+        
+          <li class="nav-link"><a href="/workshop_5/">Workshop 5</a>
+        
+        
+        
+          <li class="nav-link"><a href="/workshop_6/">Workshop 6</a>
+        
+        
+        
+          <li class="nav-link"><a href="/workshop_6_posters/">Workshop 6 posters</a>
+        
+        
+        
+          <li class="nav-link"><a href="/workshop_7/">Workshop 7</a>
+        
+        
+        
+          <li class="nav-link"><a href="/workshop_7_posters/">Workshop 7 posters</a>
+        
+        
+        
+          <li class="nav-link"><a href="/workshop_8/">Workshop 8</a>
+        
+        
+        
+          <li class="nav-link"><a href="/workshop_8_posters/">Workshop 8 posters</a>
+        
+        
+        
+          <li class="nav-link"><a href="/workshop_9/">Workshop 9</a>
+        
+        
+        
+          <li class="nav-link"><a href="/workshop_9_posters/">Workshop 9 posters</a>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </ul>
+    </div>
+-->    
+
+    <div class="site-contact">
+
+      <p><strong>Contact us</strong></p>
+      <ul class="social-media-list">
+        <li>
+          <a href="mailto:info@epigraphy.info">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">info@epigraphy.info</span>
+          </a>
+        </li>
+
+        
+          
+          <li>
+            <a href="https://github.com/epigraphy-info" title="Fork us on GitHub">
+              <i class="fa fa-github"></i>
+              <span class="username">epigraphy-info</span>
+            </a>
+          </li>
+          
+        
+          
+          <li>
+            <a href="https://X.com/epigraphy_info" title="Follow us on X">
+              <i class="fa fa-X"></i>
+              <span class="username">epigraphy_info</span>
+            </a>
+          </li>
+          
+        
+          
+          <li>
+            <a href="https://facebook.com/epigraphy.info" title="Follow us on Facebook">
+              <i class="fa fa-facebook"></i>
+              <span class="username">epigraphy.info</span>
+            </a>
+          </li>
+          
+        
+          
+        
+          
+          <li>
+            <a href="https://www.youtube.com/c/epigraphy-info" title="Subscribe on YouTube">
+              <i class="fa fa-youtube"></i>
+              <span class="username">epigraphy-info</span>
+            </a>
+          </li>
+          
+        
+          
+          <li>
+            <a href="https://www.instagram.com/epigraphy.info/" title="Follow us on Instagram">
+              <i class="fa fa-instagram"></i>
+              <span class="username">epigraphy.info</span>
+            </a>
+          </li>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+
+      </ul>
+    </div>
+
+    <div class="site-signature">
+      <p class="rss-subscribe text"><strong>Subscribe <a href="/feed.xml">via RSS</a></strong></p>
+      <p class="text">Epigraphy.info is an international open community pursuing a collaborative environment for digital epigraphy, which facilitates scholarly communication and interaction.
+</p>
+    </div>
+
+  </div>
+
+</footer>
+
+<!-- Scripts -->
+<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/highlight.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+  // Default syntax highlighting
+  hljs.initHighlightingOnLoad();
+
+  // Header
+  // var menuToggle = $('#js-mobile-menu').unbind();
+  // $('#js-navigation-menu').removeClass("show");
+  // menuToggle.on('click', function(e) {
+  //   e.preventDefault();
+  //   $('#js-navigation-menu').slideToggle(function(){
+  //     if($('#js-navigation-menu').is(':hidden')) {
+  //       $('#js-navigation-menu').removeAttr('style');
+  //     }
+  //   });
+  // });
+});
+
+/* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+function responsiveHeaderFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+
+
+</script>
+
+
+
+
+
+
+  </body>
+
+</html>
