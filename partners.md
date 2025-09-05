@@ -15,7 +15,7 @@ Inscriptions of ancient Athens and Attica in English translation
 
 ---
 
-### <a href="https://mizar.unive.it/axon/public/index/index" target="blank">AXON
+### <a href="https://open.unive.it/axon/" target="blank">AXON
 Greek Historical Inscriptions
 
 ---
@@ -120,6 +120,11 @@ Epigraphic patrimony of Portugal and Spain
 
 ---
 
+### <a href="https://icg.uni-kiel.de/" target="blank">Inscriptiones Christianae Graecae
+A digital collection of early Christian inscriptions
+
+---
+
 ### <a href="https://www.eagle-network.eu/about/who-we-are/" target="blank">IDEA
 International Digital Epigraphy Association
 
@@ -130,8 +135,13 @@ Inscriptions grecques et latines de la Syrie
 
 ---
 
-### <a href="https://igcyr.unibo.it/" target="blank">Inscriptions of Greek Cyrenaica
+### <a href="https://igcyr.unibo.it/" target="blank">Inscriptions of Greek Cyrenaica/Greek Verse Inscriptions of Cyrenaica
 Online Edition of Greek inscriptions from Libya
+
+---
+
+### <a href="https://igcyr2.unibo.it/en/" target="blank">Inscriptions of Greek Cyrenaica/Greek Verse Inscriptions of Cyrenaica Second Edition
+Online Edition of Greek inscriptions from Libya (Second Edition)
 
 ---
 
@@ -221,8 +231,18 @@ Sylloge Inscriptionum Religionis Africae Romanae
 
 ---
 
+### <a href="https://telamon.uni-sofia.bg/" target="blank">TELAMON
+Ancient Greek Inscriptions from Bulgaria
+
+---
+
 ### <a href="http://ancientgraffiti.org/Graffiti/" target="blank">The Ancient Graffiti Project
 Digital resource of graffiti of Herculaneum and Pompeii
+
+---
+
+### <a href="https://tituli.naim.bg/" target="blank">TITVLI
+Latin inscriptions from Bulgaria
 
 ---
 
@@ -246,7 +266,7 @@ U.S. Epigraphy Project
 
 ---
 
-### <a href="http://mizar.unive.it/venicesqueeze/public/frontend/index" target="blank">Venice Squeeze Project
+### <a href="https://pric.unive.it/projects/venice-squeeze-project/home" target="blank">Venice Squeeze Project
 Collection of epigraphic squeezes of the Laboratory of Greek Epigraphy of Ca' Foscari University of Venice
 
 ---

@@ -6,9 +6,30 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Feb 2025 11:59:53 +0100</pubDate>
-    <lastBuildDate>Mon, 10 Feb 2025 11:59:53 +0100</lastBuildDate>
-    <generator>Jekyll v3.9.2</generator>
+    <pubDate>Fri, 05 Sep 2025 10:16:28 +0200</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 10:16:28 +0200</lastBuildDate>
+    <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>In memoriam Winfried Kumpitsch (1993–2025)</title>
+        <description>&lt;h2 id=&quot;the-epigraphyinfo-community-mourns-its-colleague-winfried-kumpitsch-19932025&quot;&gt;The Epigraphy.info community mourns its colleague Winfried Kumpitsch (1993–2025)&lt;/h2&gt;
+
+&lt;p&gt;Winfried Kumpitsch was an active and enthusiastic member of the community, appreciated by all of us. His contributions and presence will be greatly missed.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sit tibi terra levis.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Obituary &lt;a href=&quot;https://antike.uni-graz.at/de/neuigkeiten/nachruf-auf-winfried-kumpitsch-1993-2025/&quot;&gt;in German and English&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jun 2025 08:00:00 +0200</pubDate>
+        <link>http://localhost:4000/news/2025/06/20/Winfried-Kumpitsch.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2025/06/20/Winfried-Kumpitsch.html</guid>
+        
+        <category>announcement</category>
+        
+        
+        <category>News</category>
+        
+      </item>
     
       <item>
         <title>CFP for Epigraphy.info IX workshop in Aarhus</title>
@@ -394,34 +415,6 @@ members.&lt;/p&gt;
         <pubDate>Tue, 15 Nov 2022 09:00:00 +0100</pubDate>
         <link>http://localhost:4000/news/2022/11/15/RIB_in_schools.html</link>
         <guid isPermaLink="true">http://localhost:4000/news/2022/11/15/RIB_in_schools.html</guid>
-        
-        <category>announcement</category>
-        
-        <category>social-media</category>
-        
-        
-        <category>News</category>
-        
-      </item>
-    
-      <item>
-        <title>Events form published</title>
-        <description>&lt;h1 id=&quot;events-form-published&quot;&gt;Events form published!&lt;/h1&gt;
-
-&lt;p&gt;Do you want to promote your event via the Epigraphy.info website and its social media?&lt;/p&gt;
-
-&lt;p&gt;Submit your event in the following form and the Social Media Team will do their best to advertise it online.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/events/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Submit your event here&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Please, let us know about your event well in advance, as any last minute requests will not be accommodated. All the applications will be reviewed by the Epigraphy.info Social Media Working Group before any publication.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions to the members of the &lt;strong&gt;Social Media team&lt;/strong&gt;, you can reach them via socialmedia@epigraphy.info.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 15 Nov 2022 06:00:00 +0100</pubDate>
-        <link>http://localhost:4000/news/2022/11/15/Event_form.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2022/11/15/Event_form.html</guid>
         
         <category>announcement</category>
         

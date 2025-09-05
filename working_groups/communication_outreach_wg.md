@@ -23,7 +23,6 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 * Chiara Cenati (<a href="https://orcid.org/0000-0003-4962-9611" target="blank">ORCID ID: 0000-0003-4962-9611</a>) (since 2019)
 * Elisa Daga (since 2023)
 * Elena Duce Pastor (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID: 0000-0003-0604-2300</a>) (since 2021)
-* Cristina de la Escosura Balbas (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID: 0000-0003-1769-657X</a>) (since 2020)
 * David Eibeck (<a href="https://orcid.org/0009-0008-1641-6568" target="blank">ORCID ID: 0009-0008-1641-6568</a>) (since 2023)
 * Elena Esposito (since 2023)
 * Petra Heřmánková (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID: 0000-0002-6349-0540</a>) (since 2020)
@@ -53,7 +52,8 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 
 ### *Previous Members*
 
-* Sergio España-Chamorro (<a href="https://orcid.org/0000-0001-6962-5859" target="blank">ORCID ID: 0000-0001-6962-5859</a>) (since 2020)
+* Cristina de la Escosura Balbas (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID: 0000-0003-1769-657X</a>) (2020-2025)
+* Sergio España-Chamorro (<a href="https://orcid.org/0000-0001-6962-5859" target="blank">ORCID ID: 0000-0001-6962-5859</a>) (2020-2024)
 * David Espinosa Espinosa (2019-2020)
 * Tina Hobel (<a href="https://orcid.org/0000-0003-2489-1656" target="blank">ORCID ID: 0000-0003-2489-1656</a>) (2019-2022)
 * Anja Ragolič (2020-2023)
