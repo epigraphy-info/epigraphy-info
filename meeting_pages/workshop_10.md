@@ -41,7 +41,7 @@ The meeting will include presentations and a poster session, as well as training
 The program has been finalised and the accepted participants have been notified. The recipients of the [FAIR Epigraphy](https://inscriptiones.org/) and the [Past Social Network Project](https://projects.au.dk/pastnetworks) bursaries were notified on 31/1/25. If you haven't received an email from us, please get in touch with the Steering Committee.
 
 
-**[Click here to download the final programme and the book of abstracts as PDF]({{ site.baseurl }}{% link documents/workshop_10/Final_programme_Aarhus.pdf %}){:target="_blank" rel="noopener"}**
+**[Click here to download the final programme and the book of abstracts as PDF]({{ site.baseurl }}{% link documents/workshop_9/Final_programme_Aarhus.pdf %}){:target="_blank" rel="noopener"}**
 
 
 <figure>
