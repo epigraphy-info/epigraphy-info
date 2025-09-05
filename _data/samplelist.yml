@@ -52,6 +52,8 @@ nav:
         url: workshop_8/ 
       - title: Workshop 9 (Aarhus)
         url: workshop_9/ 
+      - title: Workshop 10 (Graz)
+        url: workshop_10/ 
   - title: Documents
     url: documents/
     subnav:
