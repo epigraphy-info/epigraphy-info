@@ -26,7 +26,7 @@ The following list is based on the voluntary submission in the [Membership form]
 * Monica Berti, Leipzig University (<a href="https://orcid.org/0000-0003-2779-4229" target="blank">ORCID ID</a>)
 * Franziska Beutler, University of Vienna (<a href="https://orcid.org/0009-0006-8853-9896" target="blank">ORCID ID</a>)
 * Gianmarco Bianchini, Università della Campania "L. Vanvitelli" (<a href="https://orcid.org/0000-0002-2190-6819" target="blank">ORCID ID</a>)
-* Emine Bilgiç Kavak
+* Emine Bilgiç Kavak Sakarya University (<a href="https://orcid.org/0000-0002-7736-4019" target="blank">ORCID ID</a>)
 * Glavin Blasdel, University of Groningen (<a href="https://orcid.org/0009-0000-4780-5795" target="blank">ORCID ID</a>)
 * Gabriel Bodard, University of London (<a href="http://orcid.org/0000-0002-8566-6666" target="blank">ORCID ID</a>)
 * John Bodel, Brown University (<a href="https://orcid.org/0000000318206368" target="blank">ORCID ID</a>)
