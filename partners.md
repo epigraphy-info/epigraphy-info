@@ -231,6 +231,11 @@ Sylloge Inscriptionum Religionis Africae Romanae
 
 ---
 
+### <a href="https://stonemasters.uw.edu.pl/">STONE-MASTERS
+Masters of the stone: The stonecutters’ workshops and the rise of the late antique epigraphical cultures (third–fifth century AD)
+
+---
+
 ### <a href="https://telamon.uni-sofia.bg/" target="blank">TELAMON
 Ancient Greek Inscriptions from Bulgaria
 
