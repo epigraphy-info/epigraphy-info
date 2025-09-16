@@ -14,22 +14,20 @@ The working group disseminates events, news, and information pertinent to the Ep
 
 ## DO YOU WANT TO SHARE YOUR CONTENT WITH OUR HELP?
 
-If you are a partner of the Epigraphy.info community, we will help you to share your content! Don’t hesitate to contact us via <a href = "mailto: communication@epigraphy.info">communication@epigraphy.info</a>.
+If you are a partner of the Epigraphy.info community, we will help you to share your content! This can be anything that could be interesting for the community, for example Call for Papers, online events, publications, new digital epigraphy projects, etc.
+Don’t hesitate to contact us via <a href = "mailto: communication@epigraphy.info">communication@epigraphy.info</a>.
 
 ## Members
 
 * Canan Arikan (since 2024)
 * Marina Bastero Acha (<a href="https://orcid.org/0000-0003-2552-7055" target="blank">ORCID ID: 0000-0003-2552-7055</a>) (since 2021)
 * Chiara Cenati (<a href="https://orcid.org/0000-0003-4962-9611" target="blank">ORCID ID: 0000-0003-4962-9611</a>) (since 2019)
-* Elisa Daga (since 2023)
 * Elena Duce Pastor (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID: 0000-0003-0604-2300</a>) (since 2021)
 * David Eibeck (<a href="https://orcid.org/0009-0008-1641-6568" target="blank">ORCID ID: 0009-0008-1641-6568</a>) (since 2023)
-* Elena Esposito (since 2023)
 * Petra Heřmánková (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID: 0000-0002-6349-0540</a>) (since 2020)
-* Pietro Ortimini (since 2023)
-* Giulia Senesi (since 2023)
+* Pietro Ortimini (<a href="https://orcid.org/0000-0002-0479-8553" target="blank">ORCID ID: 0000-0002-6349-0540</a>)(since 2023)
 * Nicolay Sharankov (<a href="https://orcid.org/0000-0003-3085-2813" target="blank">ORCID ID: 0000-0003-3085-2813</a>) (since 2023)
-* Laura Soffiantini (since 2023)
+
 
 
 
@@ -53,11 +51,15 @@ If you are a partner of the Epigraphy.info community, we will help you to share 
 ### *Previous Members*
 
 * Cristina de la Escosura Balbas (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID: 0000-0003-1769-657X</a>) (2020-2025)
+* Elisa Daga (2023-2024)
 * Sergio España-Chamorro (<a href="https://orcid.org/0000-0001-6962-5859" target="blank">ORCID ID: 0000-0001-6962-5859</a>) (2020-2024)
 * David Espinosa Espinosa (2019-2020)
+* Elena Esposito (2023-2024)
 * Tina Hobel (<a href="https://orcid.org/0000-0003-2489-1656" target="blank">ORCID ID: 0000-0003-2489-1656</a>) (2019-2022)
 * Anja Ragolič (2020-2023)
 * Nadine Riegler (<a href="https://orcid.org/0000-0002-9380-8388" target="blank">ORCID ID: 0000-0002-9380-8388</a>) (2020-2022)
+* Giulia Senesi (2023-2024)
+* Laura Soffiantini (2023-2024)
 * Franziska Weise (2019-2020)
 
 ## Important links
