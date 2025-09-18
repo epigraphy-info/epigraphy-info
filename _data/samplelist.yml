@@ -22,7 +22,7 @@ nav:
         url: committee/
       - title: Working groups
         url: working_groups/  
-        subsubnav:  
+        subnav:  
           - title: About working groups
             url: working_groups/   
           - title: Communication and Outreach
