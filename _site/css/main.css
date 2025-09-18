@@ -267,3 +267,17 @@ table th:nth-of-type(4) { width: 50%; }
   .topnav.responsive .dropdown { float: none; }
   .topnav.responsive .dropdown-content { position: relative; }
   .topnav.responsive .dropdown .dropbtn { display: block; width: 100%; text-align: left; } }
+/* Third level dropdown styles */
+.dropdown-submenu { position: relative; }
+
+.dropdown-submenu-content { display: none; position: absolute; left: 100%; top: 0; background-color: #f1f1f1; min-width: 160px; box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); z-index: 1001; }
+
+.dropdown-submenu:hover .dropdown-submenu-content { display: block; }
+
+.dropdown-item { padding: 12px 16px; text-decoration: none; display: block; }
+
+.dropdown-item:hover { background-color: #ddd; }
+
+.dropdown-subitem { padding: 12px 16px; text-decoration: none; display: block; }
+
+.dropdown-subitem:hover { background-color: #ccc; }

@@ -1,0 +1,10 @@
+<div class="dropdown-submenu">
+  <a href="#" class="dropdown-item">{{include.title}}
+    <i class="fa fa-caret-right"></i>
+  </a>
+  <div class="dropdown-submenu-content">
+    {% for item in include.nav %}
+      <a href="{{ item.url | relative_url }}" class="dropdown-subitem">{{item.title}}</a>
+    {% endfor %} 
+  </div>
+</div>

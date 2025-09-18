@@ -117,7 +117,10 @@
 <loc>http://localhost:4000/ontologies_wg/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/partners/</loc>
+<loc>http://localhost:4000/partner_inst/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/partner_projects/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/vocabularies_wg/</loc>

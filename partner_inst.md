@@ -1,14 +1,26 @@
 ---
 layout: page
-title: Partners
-permalink: /partners/
+title: Partner institutions
+permalink: /partner_inst/
 ---
+
+
+This page is currently under construction. Please come back later!
+
+
 
 This page contains an alphabetic list of **Epigraphy.info** partners with a short description and hyperlink to their website. For more detailed and up-to-date information about individual partner projects, please, visit their respective website.
 
-Your project can be listed here as well! <a href="mailto:info@epigraphy.info" target="blank">**Join Epigraphy.info and become our partner!**
+Your institution can be listed here as well! <a href="mailto:info@epigraphy.info" target="blank">**Join Epigraphy.info and become our partner!**
 
 ---
+
+<!-- 
+This is a multi-line comment
+that won't be visible in the output
+
+below is the content copied from the old partner page, reuse what you need [copy paste above this comment] and delete what you don't.  
+
 
 ### <a href="https://www.atticinscriptions.com/" target="blank">Attic Inscriptions Online
 Inscriptions of ancient Athens and Attica in English translation
@@ -285,3 +297,4 @@ Museo Virtual – Los Bañales
 Museo Virtual – Santa Criz
 
 
+-->

@@ -1,76 +1,70 @@
 docs_list_title: Epigraphy
 #docs:
-
 nav:
   - title: News
     url: news/
-    subnav: 
+    subnav:
       - title: Latest news
         url: news/
-      - title: Upcoming events
-        url: events/
-  - title: People
-    url: people/
+  - title: Partners
+    url: partners/
+    subnav:
+      - title: Individual members
+        url: members/
+      - title: Partner projects
+        url: partner_projects/
+      - title: Partner institutions
+        url: partner_inst/
+  - title: About us
+    url: about_us/
     subnav:
       - title: Steering Committee
         url: committee/
-      - title: Members
-        url: members/
-      - title: Partners
-        url: partners/
-  - title: Working Groups
-    url: working_groups/
-    subnav:
       - title: Working groups
-        url: working_groups/      
-      - title: Communication and Outreach
-        url: communication_outreach_wg/
-      - title: Funding
-        url: funding_wg/
-      - title: Ontologies
-        url: ontologies_wg/
-      - title: Vocabularies
-        url: vocabularies_wg/            
+        url: working_groups/  
+        subnav:  
+          - title: About working groups
+            url: working_groups/   
+          - title: Communication and Outreach
+            url: communication_outreach_wg/
+          - title: Funding
+            url: funding_wg/
+          - title: Ontologies
+            url: ontologies_wg/
+          - title: Vocabularies
+            url: vocabularies_wg/            
   - title: Meetings
     url: meetings/
     subnav:
-      - title: Workshop 1 (Heidelberg)
-        url: workshop_1/
-      - title: Workshop 2 (Zadar)
-        url: workshop_2/
-      - title: Workshop 3 (Vienna)
-        url: workshop_3/
-      - title: Workshop 4 (Hamburg)
-        url: workshop_4/
-      - title: Workshop 5 (Leuven/online)
-        url: workshop_5/ 
-      - title: Workshop 6 (IAS/online)
-        url: workshop_6/ 
-      - title: Workshop 7 (Leuven)
-        url: workshop_7/ 
-      - title: Workshop 8 (Berlin)
-        url: workshop_8/ 
-      - title: Workshop 9 (Aarhus)
-        url: workshop_9/ 
       - title: Workshop 10 (Graz)
         url: workshop_10/ 
+      - title: Workshop 9 (Aarhus)
+        url: workshop_9/ 
+      - title: Workshop 8 (Berlin)
+        url: workshop_8/
+      - title: Workshop 7 (Leuven)
+        url: workshop_7/
+      - title: Workshop 6 (IAS/online)
+        url: workshop_6/ 
+      - title: Workshop 5 (Leuven/online)
+        url: workshop_5/ 
+      - title: Workshop 4 (Hamburg)
+        url: workshop_4/
+      - title: Workshop 3 (Vienna)
+        url: workshop_3/
+      - title: Workshop 2 (Zadar)
+        url: workshop_2/
+      - title: Workshop 1 (Heidelberg)
+        url: workshop_1/
   - title: Documents
     url: documents/
     subnav:
       - title: Documents
         url: documents/    
-  - title: JOIN US
+  - title: JOIN US!
     url: contact/
     subnav:
       - title: Contact
         url: contact/
       - title: Join us!
         url: join_us/
-  
-
- 
-  
-
-
-
-
