@@ -37,8 +37,6 @@ Divine Epiteths in Hispania
 
 ---
 
----
-
 ### <a href="https://www.digitalepigraphy.org/" target="blank">Digital Epigraphy and Archaeology Project (DEA)
 Digital Epigraphy and Archaeology Project (DEA), University of Florida.
 
