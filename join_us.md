@@ -4,11 +4,11 @@ title: Join us!
 permalink: /join_us/
 ---
 
-If you would like to be involved in the Epigraphy.info community, please fill in the following form, either as an [individual](#individual-membership) or as a [GLAM institution](#glam-institutional-membership), and we will get in touch with you.
+If you would like to be involved in the Epigraphy.info community, please fill in the following forms and we will get in touch with you. You can join our community as an [individual](#individual-membership), as a [GLAM institution](#glam-institutional-membership), or with your project. 
 
 If you have any questions to the members of the Steering Committee, you can reach them via <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a>. 
 
-If you wish to unsubscribe from all communications of the Epigraphy.info community and revoke your membership, you can do so by contacting <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a> at any time.
+If you wish to unsubscribe from all communications of the Epigraphy.info community and revoke your membership, you can do so by contacting <a href = "mailto: communication@epigraphy.info">communication@epigraphy.info</a> at any time.
 
 # Quick links to sign-up forms
 - [Individual membership](#members) 
