@@ -31,6 +31,8 @@ International Digital Epigraphy Association
 ### <a href="https://www.inalco.fr/" target="blank">INALCO
 Institut national des langues et civilisations orientales
 
+---
+
 ### <a href="https://muzeuzalau.ro/" target="blank">Muzeul Județean de Istorie și Artă Zalău
 History and Art County Museum of Zalău
 
