@@ -6,16 +6,14 @@ permalink: /communication_outreach_wg/
 
 ## WHO WE ARE AND WHAT WE DO
 
-The **Communication & Outreach working group** was established at the [3rd Epigraphy.info workshop]({{ "workshop_3/" | relative_url }}){:target="_blank" rel="noopener"}
- in Vienna with the goal of presenting the work of the Epigraphy.info community, facilitating communication between Epigraphy.info partners and the public, and attracting new researchers, students and enthusiasts for our community.
-The working group disseminates events, news, and information pertinent to the Epigraphy.info community and its partners via the Epigraphy.info website and fout widely-used social media channels: <a href="https://twitter.com/epigraphy_info" target="blank">Twitter</a>, <a href="https://www.instagram.com/epigraphy.info/" target="blank">Instagram</a>, <a href="https://www.facebook.com/epigraphy.info/" target="blank">Facebook</a>, and <a href="https://www.youtube.com/c/EpigraphyInfo" target="blank">YouTube</a>. The working group team members create and share contents with an ever-growing community, giving visibility to the activity of Epigraphy.info and of its partners.
+The **Communication & Outreach working group** was established at the [3rd Epigraphy.info workshop]({{ "workshop_3/" | relative_url }}){:target="_blank" rel="noopener"} in Vienna with the goal of presenting the work of the Epigraphy.info community, facilitating communication between Epigraphy.info partners and the public, and attracting new researchers, students and enthusiasts for our community.
+The working group disseminates events, news, and information pertinent to the Epigraphy.info community and its partners via the Epigraphy.info website and fout widely-used social media channels: <a href="https://twitter.com/epigraphy_info" target="blank">X</a>, <a href="https://www.instagram.com/epigraphy.info/" target="blank">Instagram</a>, <a href="https://www.facebook.com/epigraphy.info/" target="blank">Facebook</a>, and <a href="https://www.youtube.com/c/EpigraphyInfo" target="blank">YouTube</a>. The working group team members create and share contents with an ever-growing community, giving visibility to the activity of Epigraphy.info and of its partners.
 
 **Read our <a href="{{site.baseurl}}/documents/Social_Media_Statement.pdf">Social Media Statement</a>.**
 
 ## DO YOU WANT TO SHARE YOUR CONTENT WITH OUR HELP?
 
-If you are a partner of the Epigraphy.info community, we will help you to share your content! This can be anything that could be interesting for the community, for example Call for Papers, online events, publications, new digital epigraphy projects, etc.
-Don’t hesitate to contact us via <a href = "mailto: communication@epigraphy.info">communication@epigraphy.info</a>.
+The Epigraphy.info community is interested in giving visibility to epigraphic collections and projects all around the world through its website and social media channels. If you want to share your contents on our platfoms, feel free to get in touch with the Communication & Outreach working group by sending an email to <a href = "mailto: communication@epigraphy.info">communication@epigraphy.info</a>.
 
 ## Members
 
