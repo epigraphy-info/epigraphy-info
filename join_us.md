@@ -4,7 +4,7 @@ title: Join us!
 permalink: /join_us/
 ---
 
-If you would like to be involved in the Epigraphy.info community, please fill in the following forms and we will get in touch with you. You can join our community as an [individual](#individual-membership), as a [GLAM institution](#glam-institutional-membership), or with your project. 
+If you would like to be involved in the Epigraphy.info community, please fill in the following forms and we will get in touch with you. You can join our community as an [individual](#individual-membership), as a [GLAM institution](#glam-institutional-membership), or with [your project](#project-membership). 
 
 If you have any questions to the members of the Steering Committee, you can reach them via <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a>. 
 
