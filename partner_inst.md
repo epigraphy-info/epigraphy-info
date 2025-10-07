@@ -5,15 +5,57 @@ permalink: /partner_inst/
 ---
 
 
-This page is currently under construction. Please come back later!
+This page contains an alphabetic list of **Epigraphy.info** GLAM partner institutions with a short description and hyperlink to their website.
+
+The following list is based on the voluntary submission in the [GLAM institutional membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"}. If you wish your project to be removed from the list, you can do so by contacting <a href = "mailto: communication@epigraphy.info">communication@epigraphy.info</a> at any time.
 
 
-
-This page contains an alphabetic list of **Epigraphy.info** partners with a short description and hyperlink to their website. For more detailed and up-to-date information about individual partner projects, please, visit their respective website.
-
-Your institution can be listed here as well! <a href="mailto:info@epigraphy.info" target="blank">**Join Epigraphy.info and become our partner!**
+*Latest update: 2025-10-07*
 
 ---
+
+### <a href="https://epigraphy.osu.edu/" target="blank">Center for Paleographical and Epigraphical Studies at The Ohio State University
+Collection of squeezes, photographs and books
+
+---
+
+### Heidelberger Akademie der Wissenschaften, Forschungsstelle Buddhistische Steinschriften
+
+---
+
+### <a href="https://www.eagle-network.eu/about/who-we-are/" target="blank">IDEA
+International Digital Epigraphy Association
+
+---
+
+### <a href="https://www.inalco.fr/" target="blank">INALCO
+Institut national des langues et civilisations orientales
+
+### <a href="https://muzeuzalau.ro/" target="blank">Muzeul Județean de Istorie și Artă Zalău
+History and Art County Museum of Zalău
+
+---
+
+### <a href="https://mnab.ro/ro/" target="blank">Muzeul Național al Banatului: MNaB
+National Museum of Banat
+
+---
+
+### Sakarya University, Department of History
+
+---
+
+### <a href="https://sketchfab.com/banalesmuseovirtual" target="blank">VM Los Bañales
+Museo Virtual – Los Bañales
+
+---
+
+### <a href="https://sketchfab.com/santacrizmv" target="blank">VM Santa Criz
+Museo Virtual – Santa Criz
+
+---
+
+
 
 <!-- 
 This is a multi-line comment

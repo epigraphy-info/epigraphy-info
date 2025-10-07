@@ -22,11 +22,6 @@ Greek Historical Inscriptions
 
 ---
 
-### <a href="https://epigraphy.osu.edu/" target="blank">Center for Paleographical and Epigraphical Studies at The Ohio State University
-Collection of squeezes, photographs and books
-
----
-
 ### <a href="https://institucional.us.es/cleo/?lang=en" target="blank">CLEO
 Carmina Latina Epigraphica Online
 
@@ -39,6 +34,13 @@ Database of Mycenaean at Oslo
 
 ### <a href="https://humanidadesdigitales.uc3m.es/s/DEPHis/page/inicio" target="blank"> DEpHis
 Divine Epiteths in Hispania
+
+---
+
+---
+
+### <a href="https://www.digitalepigraphy.org/" target="blank">Digital Epigraphy and Archaeology Project (DEA)
+Digital Epigraphy and Archaeology Project (DEA), University of Florida.
 
 ---
 
@@ -127,11 +129,6 @@ A digital collection of early Christian inscriptions
 
 ---
 
-### <a href="https://www.eagle-network.eu/about/who-we-are/" target="blank">IDEA
-International Digital Epigraphy Association
-
----
-
 ### <a href="https://igls.mom.fr/" target="blank">IGLS
 Inscriptions grecques et latines de la Syrie
 
@@ -184,16 +181,6 @@ Computerized Historical Linguistic Database of the Latin Inscriptions of the Imp
 
 ### <a href="https://mappola.eu/" target="blank">MAPPOLA
 Mapping out the poetic landscape(s) of the Roman Empire
-
----
-
-### <a href="https://muzeuzalau.ro/" target="blank">Muzeul Județean de Istorie și Artă Zalău
-History and Art County Museum of Zalău
-
----
-
-### <a href="https://mnab.ro/ro/" target="blank">Muzeul Național al Banatului: MNaB
-National Museum of Banat
 
 ---
 
@@ -277,13 +264,5 @@ U.S. Epigraphy Project
 Collection of epigraphic squeezes of the Laboratory of Greek Epigraphy of Ca' Foscari University of Venice
 
 ---
-
-### <a href="https://sketchfab.com/banalesmuseovirtual" target="blank">VM Los Bañales
-Museo Virtual – Los Bañales
-
----
-
-### <a href="https://sketchfab.com/santacrizmv" target="blank">VM Santa Criz
-Museo Virtual – Santa Criz
 
 
