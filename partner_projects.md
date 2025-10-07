@@ -32,15 +32,16 @@ Database of Mycenaean at Oslo
 
 ---
 
+### <a href="https://www.digitalepigraphy.org/" target="blank">Digital Epigraphy and Archaeology Project (DEA)
+Digital Epigraphy and Archaeology Project (DEA), University of Florida.
+
+---
+
 ### <a href="https://humanidadesdigitales.uc3m.es/s/DEPHis/page/inicio" target="blank"> DEpHis
 Divine Epiteths in Hispania
 
 ---
 
-### <a href="https://www.digitalepigraphy.org/" target="blank">Digital Epigraphy and Archaeology Project (DEA)
-Digital Epigraphy and Archaeology Project (DEA), University of Florida.
-
----
 
 ### <a href="https://www.inschriften.net/projekt.html" target="blank">Deutsche Inschriften online
 Deutsche Inschriften online
