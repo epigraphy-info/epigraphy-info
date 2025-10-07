@@ -4,7 +4,7 @@ title: Join us!
 permalink: /join_us/
 ---
 
-If you would like to be involved in the Epigraphy.info community, please fill in the following forms and we will get in touch with you. You can join our community as an [individual](#individual-membership), as a [GLAM institution](#glam-institutional-membership), or with [your project](#project-membership). 
+If you would like to be involved in the Epigraphy.info community, please fill in the following forms and we will get in touch with you. You can join our community as an [individual](#individual-membership), as a [GLAM institution](#glam-institutional-membership), or with [your project](#project-partnership). 
 
 If you have any questions to the members of the Steering Committee, you can reach them via <a href = "mailto: info@epigraphy.info">info@epigraphy.info</a>. 
 
@@ -13,7 +13,7 @@ If you wish to unsubscribe from all communications of the Epigraphy.info communi
 # Quick links to sign-up forms
 - [Individual membership](#members) 
 - [GLAM institutional membership](#institutions) 
-- [Project membership](#projects) 
+- [Project partnership](#projects) 
 
 ---
 <a id="members"></a>
@@ -27,5 +27,5 @@ If you wish to unsubscribe from all communications of the Epigraphy.info communi
 
 ---
 <a id="projects"></a>
-## Project membership
+## Project partnership
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfC4rKJzJgjNtx-bqWQdGczvwMkPBTP2R5gul3fo_C1eKMERA/viewform?embedded=true" width="750" height="750" frameborder="0.1" marginheight="0" marginwidth="0">Loading…</iframe>
