@@ -19,7 +19,7 @@ Collection of squeezes, photographs and books
 
 ---
 
-### Heidelberger Akademie der Wissenschaften, Forschungsstelle Buddhistische Steinschriften
+### <a href="https://www.hadw-bw.de/forschung/forschungsstelle/buddhistische-steinschriften-china" target="blank">Heidelberger Akademie der Wissenschaften, Forschungsstelle Buddhistische Steinschriften
 
 ---
 
@@ -43,7 +43,7 @@ National Museum of Banat
 
 ---
 
-### Sakarya University, Department of History
+### <a href="https://tarih.sakarya.edu.tr/en" target="blank">Sakarya University, Department of History
 
 ---
 
