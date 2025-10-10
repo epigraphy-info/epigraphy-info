@@ -180,6 +180,8 @@ If you arrive at Graz Hauptbahnhof (main station or FlixBus terminal):
 
 **[Click here to download a list of nearby hotels as PDF]({{ site.baseurl }}{% link documents/workshop_10/workshop_10_hotels.pdf %}){:target="_blank" rel="noopener"}**
 
+------------------------------------------------------------------------
+
 ## Sponsors
 
 <p align="center">
