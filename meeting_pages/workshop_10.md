@@ -79,6 +79,8 @@ For any questions, please contact the *Epigraphy.info Steering Committee* at [in
 **Venue:** University of Graz -- Main Building, [Universitätsplatz 3,
 8010 Graz, Austria](https://maps.app.goo.gl/hkLQTJAz26CHB1xR7)
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4026.10969157515!2d15.4469492!3d47.0776328!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476e4a78f6e983ad%3A0xcf40746b8134b4ed!2sUniversity%20of%20Graz!5e1!3m2!1sen!2sus!4v1760117922715!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 ### 1. Basic Facts & Orientation
 
@@ -171,3 +173,7 @@ If you arrive at Graz Hauptbahnhof (main station or FlixBus terminal):
     recognizable by its grand staircase and classical façade.
 -   **Nearest stops:** University (Bus 63) or Mozartgasse (Bus 58).
 -   Follow signs for "Universität Graz -- Hauptgebäude."
+
+------------------------------------------------------------------------
+
+## Accommodation
