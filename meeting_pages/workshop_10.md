@@ -105,23 +105,11 @@ For any questions, please contact the *Epigraphy.info Steering Committee* at [in
 
 ### 3. From Graz Airport to the City / University
 
-  -----------------------------------------------------------------------
-  **Option**      **Route & Duration**       **Cost**      **Notes**
-  --------------- -------------------------- ------------- --------------
-  **S-Bahn S5     Walk 5 min to Flughafen    €3.00         Fastest and
-  (train)**       Graz/Feldkirchen → S5 to                 cheapest
-                  Hauptbahnhof (12 min)                    option.
-
-  **Bus 630/631 + Bus 630/631 to Puntigam →  €3.00         More changes,
-  tram**          Tram 5 to Jakominiplatz →                runs hourly.
-                  Tram 3/7 to Maiffredygasse               
-                  → walk                                   
-
-  **Taxi / Uber** Direct to                  €25--35       Recommended
-                  Universitätsplatz 3 (\~20                for late
-                  min)                                     arrivals or
-                                                           heavy luggage.
-  -----------------------------------------------------------------------
+| **Option** | **Route & Duration** | **Cost** | **Notes** |
+|-------------|----------------------|-----------|------------|
+| **S-Bahn S5 (train)** | Walk 5 min to Flughafen Graz/Feldkirchen → S5 to Hauptbahnhof (12 min) | €3.00 | Fastest and cheapest option. |
+| **Bus 630/631 + tram** | Bus 630/631 to Puntigam → Tram 5 to Jakominiplatz → Tram 3/7 to Maiffredygasse → walk | €3.00 | More changes, runs hourly. |
+| **Taxi / Uber** | Direct to Universitätsplatz 3 (~20 min) | €25–35 | Recommended for late arrivals or heavy luggage. |
 
 ------------------------------------------------------------------------
 
@@ -129,9 +117,9 @@ For any questions, please contact the *Epigraphy.info Steering Committee* at [in
 
 If you arrive at Graz Hauptbahnhof (main station or FlixBus terminal):
 
--   Bus 63 → stop *University of Graz*\
--   Bus 58 → stop *Mozartgasse* (2 min. walk)\
--   Total travel time: \~15 minutes\
+-   Bus 63 → stop *University of Graz*
+-   Bus 58 → stop *Mozartgasse* (2 min. walk)
+-   Total travel time: \~15 minutes
 -   Ticket: €3.00
 
 ------------------------------------------------------------------------
@@ -139,11 +127,11 @@ If you arrive at Graz Hauptbahnhof (main station or FlixBus terminal):
 ### 5. Local Public Transport in Graz
 
 -   A single ticket (zone 101) covers trams, buses, and the airport
-    train.\
+    train.
 -   Tickets can be purchased at machines, via the GrazMobil app, or from
-    the driver.\
+    the driver.
 -   **Key stops:** Maiffredygasse (Tram 1, 3, 7) and Uni/Mensa (Bus
-    63).\
+    63).
 -   **Useful apps:** GrazMobil, BusBahnBim, ÖBB.
 
 ------------------------------------------------------------------------
@@ -151,7 +139,7 @@ If you arrive at Graz Hauptbahnhof (main station or FlixBus terminal):
 ### 6. Walking or Cycling to the University
 
 -   The Main Building (Universitätsplatz 3) is a 15--20 minute walk from
-    the city center (Hauptplatz) through the Stadtpark.\
+    the city center (Hauptplatz) through the Stadtpark.
 -   Bike rentals (*tim Graz*) are also available.
 
 ------------------------------------------------------------------------
@@ -159,6 +147,6 @@ If you arrive at Graz Hauptbahnhof (main station or FlixBus terminal):
 ### 7. Venue Orientation
 
 -   **Main Building (Hauptgebäude):** Universitätsplatz 3 --
-    recognizable by its grand staircase and classical façade.\
--   **Nearest stops:** University (Bus 63) or Mozartgasse (Bus 58).\
+    recognizable by its grand staircase and classical façade.
+-   **Nearest stops:** University (Bus 63) or Mozartgasse (Bus 58).
 -   Follow signs for "Universität Graz -- Hauptgebäude."
