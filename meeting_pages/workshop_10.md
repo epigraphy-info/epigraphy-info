@@ -15,7 +15,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 
 ---
 
-# Call for Papers: Tenth Epigraphy.info Workshop
+## Call for Papers: Tenth Epigraphy.info Workshop
 **University of Graz, Austria — 24–26 April 2026**
 
 
@@ -27,7 +27,7 @@ The tenth Epigraphy.info workshop will be dedicated to the memory of **Winfried 
 
 ---
 
-## Programme and Contributions
+### Programme and Contributions
 
 As in previous years, the workshop will consist of paper sessions, a poster session, and a variety of hands-on or training activities. We warmly welcome contributions in different formats, including:
 
@@ -44,7 +44,7 @@ As in previous years, the workshop will consist of paper sessions, a poster sess
 
 ---
 
-## Participation
+### Participation
 
 The workshop is planned as an **in-person event in Graz**, fostering direct exchange and collaboration. However, a small number of sessions, including selected keynote lectures, will also be available for **remote attendance**.  
 Recordings of some presentations may subsequently be shared via the *Epigraphy.info YouTube channel*, and posters will be made accessible through the *Epigraphy.info website*, depending on the discretion of the presenters.  
@@ -52,13 +52,13 @@ Contributors are further encouraged to deposit their work on [Zenodo](https://ze
 
 ---
 
-## Financial Support
+### Financial Support
 
 Subject to funding, we hope to offer a limited number of **bursaries** for doctoral students and independent researchers presenting at the workshop. Details will be posted on the *Epigraphy.info* website in due course.
 
 ---
 
-## Submission of Proposals
+### Submission of Proposals
 
 To participate, please submit an **abstract** (*max. 250 words* for papers and posters; *max. 500 words* for training sessions) using the **online form** no later than **15 November 2025**.  
 The Steering Committee will review the submissions and circulate a provisional programme by **December 2025**.
