@@ -106,9 +106,9 @@ For any questions, please contact the *Epigraphy.info Steering Committee* at [in
 
 | **Option** | **Route & Duration** | **Cost** | **Notes** |
 |-------------|----------------------|-----------|------------|
-| **S-Bahn S5 (train)** | Walk 5 min to Flughafen Graz/Feldkirchen → S5 to Hauptbahnhof (12 min) | €3.00 | Fastest and cheapest option. |
-| **Bus 630/631 + tram** | Bus 630/631 to Puntigam → Tram 5 to Jakominiplatz → Tram 3/7 to Maiffredygasse → walk | €3.00 | More changes, runs hourly. |
-| **Taxi / Uber** | Direct to Universitätsplatz 3 (~20 min) | €25–35 | Recommended for late arrivals or heavy luggage. |
+| **S-Bahn S5 (train)** | Walk 5 min to Flughafen Graz/Feldkirchen → S5 to Hauptbahnhof (12 min) | € 3.00 | Fastest and cheapest option. |
+| **Bus 630/631 + tram** | Bus 630/631 to Puntigam → Tram 5 to Jakominiplatz → Tram 3/7 to Maiffredygasse → walk | € 3.00 | More changes, runs hourly. |
+| **Taxi / Uber** | Direct to Universitätsplatz 3 (~ 20 min ) | € 25 – 35 | Recommended for late arrivals or heavy luggage. |
 
 ------------------------------------------------------------------------
 
