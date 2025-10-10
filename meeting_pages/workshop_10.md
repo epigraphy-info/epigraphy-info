@@ -186,10 +186,10 @@ If you arrive at Graz Hauptbahnhof (main station or FlixBus terminal):
 
 <div style="display:flex; justify-content:center; align-items:center; gap:40px;">
   <a href="https://www.uni-graz.at" target="_blank" rel="noopener">
-    <img src="{{ site.baseurl }}/documents/workshop_10/Logo_Uni-Graz_4c.jpg" alt="University of Graz" height="80">
+    <img src="{{ site.baseurl }}/documents/workshop_10/Logo_Uni-Graz_4c.jpg" alt="University of Graz" height="150">
   </a>
   <a href="https://www.epigraphy.info/idea" target="_blank" rel="noopener">
-    <img src="{{ site.baseurl }}/documents/workshop_10/idea_logo.png" alt="IDEA" height="80">
+    <img src="{{ site.baseurl }}/documents/workshop_10/idea_logo.png" alt="IDEA" height="150">
   </a>
 </div>
 
