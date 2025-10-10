@@ -76,10 +76,9 @@ For any questions, please contact the *Epigraphy.info Steering Committee* at [in
 
 ## Practical Information: Traveling to Graz
 
-**Venue:** University of Graz -- Main Building, Universitätsplatz 3,
-8010 Graz, Austria
+**Venue:** University of Graz -- Main Building, [Universitätsplatz 3,
+8010 Graz, Austria](https://maps.app.goo.gl/hkLQTJAz26CHB1xR7)
 
-------------------------------------------------------------------------
 
 ### 1. Basic Facts & Orientation
 
