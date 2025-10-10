@@ -84,11 +84,11 @@ For any questions, please contact the *Epigraphy.info Steering Committee* at [in
 ### 1. Basic Facts & Orientation
 
 -   Graz is the capital of the Styrian region (Steiermark) in
-    southeastern Austria.\
+    southeastern Austria.
 -   The conference takes place at the University of Graz Main Building
-    (Universitätsplatz 3).\
+    (Universitätsplatz 3).
 -   The city is served by Graz Airport (GRZ) and the main train station,
-    Graz Hauptbahnhof (Graz Hbf).\
+    Graz Hauptbahnhof (Graz Hbf).
 -   Graz has an integrated tram and bus network within fare zone 101,
     which includes the airport, train station, and university area.
 
@@ -97,7 +97,7 @@ For any questions, please contact the *Epigraphy.info Steering Committee* at [in
 ### 2. How to Reach Graz
 
 -   **By air:** Graz Airport (GRZ) is the nearest airport (10 km south
-    of the city).\
+    of the city).
     If there's no direct flight, connect via Vienna and continue by
     train or bus (2--3 hours from Vienna).
 
