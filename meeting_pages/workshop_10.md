@@ -182,5 +182,7 @@ If you arrive at Graz Hauptbahnhof (main station or FlixBus terminal):
 
 ## Sponsors
 
-![Uni-Graz](documents/workshop_10/Logo_Uni-Graz_4c.jpg)
-![IDEA](documents/workshop_10/idea_logo.png)
+<p align="center">
+  <img src="documents/workshop_10/Logo_Uni-Graz_4c.jpg" alt="Uni-Graz" height="80">
+  <img src="documents/workshop_10/idea_logo.png" alt="IDEA" height="80">
+</p>
