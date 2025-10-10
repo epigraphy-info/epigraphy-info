@@ -71,3 +71,94 @@ We look forward to welcoming you to Graz for this special occasion and honoring 
 For any questions, please contact the *Epigraphy.info Steering Committee* at [info@epigraphy.info](mailto:info@epigraphy.info).
 
 **The Steering Committee and the Local Organizers**
+
+---
+
+## Practical Information: Traveling to Graz
+
+**Venue:** University of Graz -- Main Building, Universitätsplatz 3,
+8010 Graz, Austria
+
+------------------------------------------------------------------------
+
+### 1. Basic Facts & Orientation
+
+-   Graz is the capital of the Styrian region (Steiermark) in
+    southeastern Austria.\
+-   The conference takes place at the University of Graz Main Building
+    (Universitätsplatz 3).\
+-   The city is served by Graz Airport (GRZ) and the main train station,
+    Graz Hauptbahnhof (Graz Hbf).\
+-   Graz has an integrated tram and bus network within fare zone 101,
+    which includes the airport, train station, and university area.
+
+------------------------------------------------------------------------
+
+### 2. How to Reach Graz
+
+-   **By air:** Graz Airport (GRZ) is the nearest airport (10 km south
+    of the city).\
+    If there's no direct flight, connect via Vienna and continue by
+    train or bus (2--3 hours from Vienna).
+
+------------------------------------------------------------------------
+
+### 3. From Graz Airport to the City / University
+
+  -----------------------------------------------------------------------
+  **Option**      **Route & Duration**       **Cost**      **Notes**
+  --------------- -------------------------- ------------- --------------
+  **S-Bahn S5     Walk 5 min to Flughafen    €3.00         Fastest and
+  (train)**       Graz/Feldkirchen → S5 to                 cheapest
+                  Hauptbahnhof (12 min)                    option.
+
+  **Bus 630/631 + Bus 630/631 to Puntigam →  €3.00         More changes,
+  tram**          Tram 5 to Jakominiplatz →                runs hourly.
+                  Tram 3/7 to Maiffredygasse               
+                  → walk                                   
+
+  **Taxi / Uber** Direct to                  €25--35       Recommended
+                  Universitätsplatz 3 (\~20                for late
+                  min)                                     arrivals or
+                                                           heavy luggage.
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+### 4. Arriving by Train or Long-Distance Bus
+
+If you arrive at Graz Hauptbahnhof (main station or FlixBus terminal):
+
+-   Bus 63 → stop *University of Graz*\
+-   Bus 58 → stop *Mozartgasse* (2 min. walk)\
+-   Total travel time: \~15 minutes\
+-   Ticket: €3.00
+
+------------------------------------------------------------------------
+
+### 5. Local Public Transport in Graz
+
+-   A single ticket (zone 101) covers trams, buses, and the airport
+    train.\
+-   Tickets can be purchased at machines, via the GrazMobil app, or from
+    the driver.\
+-   **Key stops:** Maiffredygasse (Tram 1, 3, 7) and Uni/Mensa (Bus
+    63).\
+-   **Useful apps:** GrazMobil, BusBahnBim, ÖBB.
+
+------------------------------------------------------------------------
+
+### 6. Walking or Cycling to the University
+
+-   The Main Building (Universitätsplatz 3) is a 15--20 minute walk from
+    the city center (Hauptplatz) through the Stadtpark.\
+-   Bike rentals (*tim Graz*) are also available.
+
+------------------------------------------------------------------------
+
+### 7. Venue Orientation
+
+-   **Main Building (Hauptgebäude):** Universitätsplatz 3 --
+    recognizable by its grand staircase and classical façade.\
+-   **Nearest stops:** University (Bus 63) or Mozartgasse (Bus 58).\
+-   Follow signs for "Universität Graz -- Hauptgebäude."
