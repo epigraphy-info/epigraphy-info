@@ -14,7 +14,7 @@ tags: announcement
 
 Dear colleagues,
 
-We are pleased to announce the **tenth Epigraphy.info workshop**, to be held in *Graz (Austria)* from **24 to 26 April 2026**. The event will be organized by the *Department of Ancient History and Epigraphy at the University of Graz*, in collaboration with the *Epigraphy.info Steering Committee*.
+We are pleased to announce the **tenth Epigraphy.info workshop**, to be held in *Graz (Austria)* from **24 to 26 April 2026**. The event will be organized by the *Department of Classics, Section Ancient History and Epigraphy, at the University of Graz*, in collaboration with the *Epigraphy.info Steering Committee*.
 
 The tenth Epigraphy.info workshop will be dedicated to the memory of **Winfried Kumpitsch** and will feature a special thematic focus on **Sacred Spaces, Sacred Words: Digital Approaches to Religious Epigraphy,** an area to which Winfried devoted much of his scholarly work and research. Alongside this theme, the workshop will continue the established tradition of bringing together scholars, students, and practitioners of *digital epigraphy* to exchange ideas, share experiences, and develop new collaborations (see [https://epigraphy.info/](https://epigraphy.info/) for past meetings).
 
