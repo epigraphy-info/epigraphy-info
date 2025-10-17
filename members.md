@@ -135,6 +135,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Thea Sommershield (<a href="https://orcid.org/0000-0002-6965-8105" target="blank">ORCID ID</a>)
 * Nicolas Souchon
 * Wolfgang Spickermann, University of Graz (<a href="https://orcid.org/0000-0002-0467-3910" target="blank">ORCID ID</a>)
+* Rikke Steenholt Olesen, Department of Nordic Studies and Linguistics, University of Copenhagen (<a href="https://orcid.org/0000-0002-5166-0290" target="blank">ORCID ID</a>)
 * Michele Stefanile, Scuola Superiore Meridionale (<a href="https://orcid.org/0000-0002-7404-5629" target="blank">ORCID ID</a>)
 * Silvia Stopponi, University of Groningen (<a href="https://orcid.org/0000-0002-3041-3477" target="blank">ORCID ID</a>)
 * Hamest Tamrazyan, École Polytechnique Fédérale de Lausanne
