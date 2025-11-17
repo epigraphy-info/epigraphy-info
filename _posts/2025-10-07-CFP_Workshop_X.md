@@ -53,7 +53,7 @@ Subject to funding, we hope to offer a limited number of **bursaries** for docto
 
 ## Submission of Proposals
 
-To participate, please submit an **abstract** (*max. 250 words* for papers and posters; *max. 500 words* for training sessions) using the **online form** no later than **15 November 2025**.  **<span style="color:red">The deadline has been extended to 25 November 2025.</span>**
+To participate, please submit an **abstract** (*max. 250 words* for papers and posters; *max. 500 words* for training sessions) using the **online form** no later than **15 November 2025**.  **<span style="color:red">The deadline has been extended to 2 December 2025.</span>**
 The Steering Committee will review the submissions and circulate a provisional programme by **December 2025**.
 
 ➡️ [**Proposal submission form**](https://docs.google.com/forms/d/e/1FAIpQLSfQ7QTsjoo22atN_Ya7HJkadszEBxkytFU_MJr3S3Sf5BhIfw/viewform)
