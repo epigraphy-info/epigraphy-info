@@ -119,7 +119,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Matteo Pola, University of Zadar (<a href="https://orcid.org/0000-0003-1265-8400" target="blank">ORCID ID</a>)
 * Jonathan Prag, University of Oxford (<a href="https://orcid.org/0000-0003-3819-8537" target="blank">ORCID ID</a>)
 * Juan Pablo Prieto, Université Bordeaux Montaigne (<a href="https://orcid.org/0000-0002-9955-7743" target="blank">ORCID ID</a>)
-* Kaudagammana Rathanasara, Indian Institute of Technology (BHU), Varanasi  <a href="ttps://orcid.org/0009-0004-5507-1399"target="blank">ORCID ID</a>
+* Kaudagammana Rathanasara, Indian Institute of Technology (BHU), Varanasi  <a href="https://orcid.org/0009-0004-5507-1399"target="blank">ORCID ID</a>
 * Vincent Razanajao, Centre d'Études Alexandrines, CNRS UAR 3134, Alexandria, Egypt (<a href="https://orcid.org/0000-0002-6447-3427" target="blank">ORCID ID</a>)
 * Andrés Rea, Universiteit Gent (<a href="https://orcid.org/0009-0003-1660-6453" target="blank">ORCID ID</a>)
 * Luca Rigobianco, Università Ca' Foscari Venezia
