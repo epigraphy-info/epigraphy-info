@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "Searching for the sacred among Pompeian graffiti"
+title: "Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project"
 ---
 
-<p class="subtitle"><em>Building a tool for The Ancient Graffiti Project</em></p>
-<p class="authors"><strong>Rebecca R. Benefiel, Sara Sprenkle</strong></p>
+**Rebecca R. Benefiel, Sara Sprenkle**
 
 ## Abstract
 
