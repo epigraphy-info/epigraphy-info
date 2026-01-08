@@ -39,7 +39,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 
 <!-- SESSION 1 -->
 <tr class="session-start">
-  <td colspan="4"><b>Session 1 (change 4)</b></td>
+  <td colspan="4"><b>Session 1 (change 1)</b></td>
 </tr>
 
 <tr class="chair-row">
@@ -49,7 +49,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 <tr class="session-paper">
   <td>10:00</td><td>10:25</td>
   <td>Benefiel Rebecca</td>
-  <td>[Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project]({{ site.baseurl }}{% link documents/workshop_10/abstracts/Benefiel-Sprenkle %})</td>
+  <td>Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project</td>
 </tr>
 
 <tr class="session-paper">
@@ -70,52 +70,6 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 </tr>
 
 </table>
-
-<!-- <style>
-/* Base cell spacing */
-td, th {
-  padding: 6px 8px;
-  vertical-align: top;
-}
-
-/* SESSION START: add clear space ABOVE the session */
-.session-start td {
-  border-top: 2px solid #000;
-
-  /* space from previous row */
-  padding-top: 18px;
-
-  /* visual separation from above content */
-  position: relative;
-}
-
-/* extra vertical gap before the line */
-.session-start td::before {
-  content: "";
-  display: block;
-  height: 12px;
-}
-
-/* SESSION END */
-.session-end td {
-  border-bottom: 2px solid #000;
-  padding-bottom: 14px;
-}
-
-/* Inside session: no separators */
-.chair-row td,
-.session-paper td {
-  border-bottom: none;
-}
-
-/* Breaks */
-.break-row td {
-  border-top: 1.5px solid #999;
-  font-style: italic;
-  padding-top: 12px;
-}
-</style> -->
-
 
 ---
 
@@ -239,6 +193,39 @@ For any questions, please contact the *Epigraphy.info Steering Committee* at [in
     <td>Recommended for late arrivals or heavy luggage.</td>
   </tr>
 </table>
+
+<style>
+/* Base cell spacing */
+td, th {
+  padding: 6px 8px;
+  vertical-align: top;
+}
+
+/* Session boundaries */
+.session-start td {
+  border-top: 2px solid #000;
+  padding-top: 16px;   /* space between line and text */
+  margin-top: 12px;    /* space from previous content */
+}
+
+.session-end td {
+  border-bottom: 2px solid #000;
+  padding-bottom: 12px;
+}
+
+/* No borders inside session */
+.chair-row td,
+.session-paper td {
+  border-bottom: none;
+}
+
+/* Breaks */
+.break-row td {
+  border-top: 1.5px solid #999;
+  font-style: italic;
+}
+</style>
+
 
 ------------------------------------------------------------------------
 
