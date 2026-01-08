@@ -15,6 +15,23 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 
 ---
 
+## Programme
+
+| Unnamed: 0   | Unnamed: 1   | Unnamed: 2                  | Unnamed: 3                                                                                                                                              |
+|:-------------|:-------------|:----------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| DAY 1        | nan          | nan                         | nan                                                                                                                                                     |
+| nan          | nan          | nan                         | nan                                                                                                                                                     |
+| 09:00     | 09:30     | nan                         | Registration                                                                                                                                            |
+| 09:30     | 10:00     | Local  Committee            | Welcome Speech and Practical Information                                                                                                                |
+| nan          | nan          | nan                         | nan                                                                                                                                                     |
+| nan          | nan          | nan                         | Chair Georgios Tsolakis                                                                                                                                 |
+| 10:00     | 10:25     | Benefiel Rebecca            | Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project                                                      |
+| 10:25     | 10:50     | Scholler Mattians           | TBA                                                                                                                                                     |
+| 10:50     | 11:15     | Szabó Csaba                 | ReMITHRA: Digital database of Mithraic monuments from the Danubian provinces. Methodological tools and challenges                                       |
+| nan          | nan          | nan                         | nan                                                                                                                                                     |
+| 11:15     | 11:45     | nan                         | Coffee Break                                     
+---
+
 ## Call for Papers: Tenth Epigraphy.info Workshop
 **University of Graz, Austria — 24–26 March 2026**
 
