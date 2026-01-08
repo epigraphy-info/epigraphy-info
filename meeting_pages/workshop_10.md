@@ -127,30 +127,25 @@ For any questions, please contact the *Epigraphy.info Steering Committee* at [in
 ### 3. From Graz Airport to the City / University
 
 <table style="width:100%; border-collapse:collapse;">
-  <tr>
-    <th style="width:25%;">Option</th>
-    <th style="width:45%;">Route & Duration</th>
-    <th style="width:10%;">Cost</th>
-    <th style="width:20%;">Notes</th>
-  </tr>
-  <tr>
-    <td><b>S-Bahn S5 (train)</b></td>
-    <td>Walk 5 min to Flughafen Graz/Feldkirchen → S5 to Hauptbahnhof (12 min)</td>
-    <td>€ 3.00</td>
-    <td>Fastest and cheapest option.</td>
-  </tr>
-  <tr>
-    <td><b>Bus 630/631 + tram</b></td>
-    <td>Bus 630/631 to Puntigam → Tram 5 to Jakominiplatz → Tram 3/7 to Maiffredygasse → walk</td>
-    <td>€ 3.00</td>
-    <td>More changes, runs hourly.</td>
-  </tr>
-  <tr>
-    <td><b>Taxi / Uber</b></td>
-    <td>Direct to Universitätsplatz 3 (~ 20 min)</td>
-    <td>€ 25 – 35</td>
-    <td>Recommended for late arrivals or heavy luggage.</td>
-  </tr>
+<tr><th style='width:10%;'>Col1</th><th style='width:10%;'>Col2</th><th style='width:30%;'>Col3</th><th style='width:50%;'>Col4</th></tr>
+<tr><td>DAY 1</td><td>nan</td><td>nan</td><td>nan</td></tr>
+<tr><td>nan</td><td>nan</td><td>nan</td><td>nan</td></tr>
+<tr><td>09:00</td><td>09:30</td><td>nan</td><td>Registration</td></tr>
+<tr><td>09:30</td><td>10:00</td><td>Local  Committee</td><td>Welcome Speech and Practical Information</td></tr>
+<tr><td>nan</td><td>nan</td><td>nan</td><td>nan</td></tr>
+<tr><td>nan</td><td>nan</td><td>nan</td><td>Chair Georgios Tsolakis</td></tr>
+<tr><td>10:00</td><td>10:25</td><td>Benefiel Rebecca</td><td>Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project</td></tr>
+<tr><td>10:25</td><td>10:50</td><td>Scholler Mattians</td><td>TBA</td></tr>
+<tr><td>10:50</td><td>11:15</td><td>Szabó Csaba</td><td>ReMITHRA: Digital database of Mithraic monuments from the Danubian provinces. Methodological tools and challenges</td></tr>
+<tr><td>nan</td><td>nan</td><td>nan</td><td>nan</td></tr>
+<tr><td>11:15</td><td>11:45</td><td>nan</td><td>Coffee Break</td></tr>
+<tr><td>nan</td><td>nan</td><td>nan</td><td>nan</td></tr>
+<tr><td>nan</td><td>nan</td><td>nan</td><td>Chair Silvia Evangelisti</td></tr>
+<tr><td>11:45</td><td>12:10</td><td>Humennyi Viktor</td><td>Imagining an Interactive Digital Dashboard for Roman Military Epigraphy of Roman Syria (1st–3rd c. CE)</td></tr>
+<tr><td>12:10</td><td>12:35</td><td>Sassmann Manuel</td><td>Buddhist Stone Sutras in China: a cross-media publishing epigraphy project and its quest for a digital legacy</td></tr>
+<tr><td>12:35</td><td>13:00</td><td>Loro Anna</td><td>Encoding Vase Inscriptions: Towards a Digital Corpus of Φωνούμενα</td></tr>
+<tr><td>nan</td><td>nan</td><td>nan</td><td>nan</td></tr>
+<tr><td>13:00</td><td>14:15</td><td>nan</td><td>Lunch Break</td></tr>
 </table>
 
 
