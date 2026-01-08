@@ -19,23 +19,56 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 
 ### Day 1
 <table style="width:100%; border-collapse:collapse;">
-<tr><th style='width:10%;'></th><th style='width:10%;'></th><th style='width:30%;'></th><th style='width:50%;'></th></tr>
-<tr><td>09:00</td><td>09:30</td><td></td><td>Registration</td></tr>
-<tr><td>09:30</td><td>10:00</td><td>Local  Committee</td><td>Welcome Speech and Practical Information</td></tr>
-<tr><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Chair Georgios Tsolakis</td></tr>
-<tr><td>10:00</td><td>10:25</td><td>Benefiel Rebecca</td><td>Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project</td></tr>
-<tr><td>10:25</td><td>10:50</td><td>Scholler Mattians</td><td>TBA</td></tr>
-<tr><td>10:50</td><td>11:15</td><td>Szabó Csaba</td><td>ReMITHRA: Digital database of Mithraic monuments from the Danubian provinces. Methodological tools and challenges</td></tr>
-<tr><td></td><td></td><td></td><td></td></tr>
-<tr><td>11:15</td><td>11:45</td><td></td><td>Coffee Break</td></tr>
-<tr><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Chair Silvia Evangelisti</td></tr>
-<tr><td>11:45</td><td>12:10</td><td>Humennyi Viktor</td><td>Imagining an Interactive Digital Dashboard for Roman Military Epigraphy of Roman Syria (1st–3rd c. CE)</td></tr>
-<tr><td>12:10</td><td>12:35</td><td>Sassmann Manuel</td><td>Buddhist Stone Sutras in China: a cross-media publishing epigraphy project and its quest for a digital legacy</td></tr>
-<tr><td>12:35</td><td>13:00</td><td>Loro Anna</td><td>Encoding Vase Inscriptions: Towards a Digital Corpus of Φωνούμενα</td></tr>
-<tr><td></td><td></td><td></td><td></td></tr>
-<tr><td>13:00</td><td>14:15</td><td></td><td>Lunch Break</td></tr>
+
+<tr>
+  <th style="width:10%;"></th>
+  <th style="width:10%;"></th>
+  <th style="width:30%;"></th>
+  <th style="width:50%;"></th>
+</tr>
+
+<!-- Registration -->
+<tr>
+  <td>09:00</td><td>09:30</td><td></td><td>Registration</td>
+</tr>
+
+<tr>
+  <td>09:30</td><td>10:00</td><td>Local Committee</td>
+  <td>Welcome Speech and Practical Information</td>
+</tr>
+
+<!-- SESSION 1 -->
+<tr class="session-start">
+  <td colspan="4"><b>Session 1</b></td>
+</tr>
+
+<tr class="chair-row">
+  <td colspan="4">Chair: Georgios Tsolakis</td>
+</tr>
+
+<tr class="session-paper">
+  <td>10:00</td><td>10:25</td>
+  <td>Benefiel Rebecca</td>
+  <td>Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project</td>
+</tr>
+
+<tr class="session-paper">
+  <td>10:25</td><td>10:50</td>
+  <td>Scholler Mattians</td>
+  <td>TBA</td>
+</tr>
+
+<tr class="session-paper session-end">
+  <td>10:50</td><td>11:15</td>
+  <td>Szabó Csaba</td>
+  <td>ReMITHRA: Digital database of Mithraic monuments from the Danubian provinces. Methodological tools and challenges</td>
+</tr>
+
+<!-- BREAK -->
+<tr class="break-row">
+  <td>11:15</td><td>11:45</td><td></td><td>Coffee Break</td>
+</tr>
+
 </table>
 
 ---
