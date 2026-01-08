@@ -195,6 +195,7 @@ For any questions, please contact the *Epigraphy.info Steering Committee* at [in
 </table>
 
 <style>
+/* Base cell spacing */
 td, th {
   padding: 6px 8px;
   vertical-align: top;
@@ -203,12 +204,13 @@ td, th {
 /* Session boundaries */
 .session-start td {
   border-top: 2px solid #000;
-  padding-top: 10px;
+  padding-top: 16px;   /* space between line and text */
+  margin-top: 12px;    /* space from previous content */
 }
 
 .session-end td {
   border-bottom: 2px solid #000;
-  padding-bottom: 10px;
+  padding-bottom: 12px;
 }
 
 /* No borders inside session */
