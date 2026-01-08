@@ -78,19 +78,31 @@ td, th {
   vertical-align: top;
 }
 
-/* Session boundaries */
+/* SESSION START: add clear space ABOVE the session */
 .session-start td {
   border-top: 2px solid #000;
-  padding-top: 20px;   /* space between line and text */
-  margin-top: 12px;    /* space from previous content */
+
+  /* space from previous row */
+  padding-top: 18px;
+
+  /* visual separation from above content */
+  position: relative;
 }
 
+/* extra vertical gap before the line */
+.session-start td::before {
+  content: "";
+  display: block;
+  height: 12px;
+}
+
+/* SESSION END */
 .session-end td {
   border-bottom: 2px solid #000;
-  padding-bottom: 12px;
+  padding-bottom: 14px;
 }
 
-/* No borders inside session */
+/* Inside session: no separators */
 .chair-row td,
 .session-paper td {
   border-bottom: none;
@@ -100,8 +112,10 @@ td, th {
 .break-row td {
   border-top: 1.5px solid #999;
   font-style: italic;
+  padding-top: 12px;
 }
 </style>
+
 
 ---
 
