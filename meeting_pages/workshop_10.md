@@ -50,7 +50,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
     <td>10:00</td><td>10:25</td>
     <td>Benefiel Rebecca, Sara Sprenkle</td>
     <td>
-        <a href="www.google.com">
+        <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Benefiel-Sprenkle.html">
             Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project
         </a>
     </td>
