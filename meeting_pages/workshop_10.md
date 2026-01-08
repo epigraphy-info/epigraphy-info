@@ -49,7 +49,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 <tr class="session-paper">
   <td>10:00</td><td>10:25</td>
   <td>Benefiel Rebecca</td>
-  <td>Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project</td>
+  <td>Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project({{ site.baseurl }}{% link documents/workshop_10/abstracts/Benefiel-Sprenkle %})</td>
 </tr>
 
 <tr class="session-paper">
@@ -70,6 +70,38 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 </tr>
 
 </table>
+
+<style>
+/* Base cell spacing */
+td, th {
+  padding: 6px 8px;
+  vertical-align: top;
+}
+
+/* Session boundaries */
+.session-start td {
+  border-top: 2px solid #000;
+  padding-top: 20px;   /* space between line and text */
+  margin-top: 12px;    /* space from previous content */
+}
+
+.session-end td {
+  border-bottom: 2px solid #000;
+  padding-bottom: 12px;
+}
+
+/* No borders inside session */
+.chair-row td,
+.session-paper td {
+  border-bottom: none;
+}
+
+/* Breaks */
+.break-row td {
+  border-top: 1.5px solid #999;
+  font-style: italic;
+}
+</style>
 
 ---
 
@@ -193,39 +225,6 @@ For any questions, please contact the *Epigraphy.info Steering Committee* at [in
     <td>Recommended for late arrivals or heavy luggage.</td>
   </tr>
 </table>
-
-<style>
-/* Base cell spacing */
-td, th {
-  padding: 6px 8px;
-  vertical-align: top;
-}
-
-/* Session boundaries */
-.session-start td {
-  border-top: 2px solid #000;
-  padding-top: 16px;   /* space between line and text */
-  margin-top: 12px;    /* space from previous content */
-}
-
-.session-end td {
-  border-bottom: 2px solid #000;
-  padding-bottom: 12px;
-}
-
-/* No borders inside session */
-.chair-row td,
-.session-paper td {
-  border-bottom: none;
-}
-
-/* Breaks */
-.break-row td {
-  border-top: 1.5px solid #999;
-  font-style: italic;
-}
-</style>
-
 
 ------------------------------------------------------------------------
 
