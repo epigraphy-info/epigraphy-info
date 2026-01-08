@@ -39,7 +39,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 
 <!-- SESSION 1 -->
 <tr class="session-start">
-  <td colspan="4"><b>Session 1 (change 3)</b></td>
+  <td colspan="4"><b>Session 1 (change 4)</b></td>
 </tr>
 
 <tr class="chair-row">
@@ -49,7 +49,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 <tr class="session-paper">
   <td>10:00</td><td>10:25</td>
   <td>Benefiel Rebecca</td>
-  <td>Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project({{ site.baseurl }}{% link documents/workshop_10/abstracts/Benefiel-Sprenkle %})</td>
+  <td>[Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project]({{ site.baseurl }}{% link documents/workshop_10/abstracts/Benefiel-Sprenkle %})</td>
 </tr>
 
 <tr class="session-paper">
