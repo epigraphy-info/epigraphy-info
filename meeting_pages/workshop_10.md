@@ -194,6 +194,36 @@ For any questions, please contact the *Epigraphy.info Steering Committee* at [in
   </tr>
 </table>
 
+<style>
+td, th {
+  padding: 6px 8px;
+  vertical-align: top;
+}
+
+/* Session boundaries */
+.session-start td {
+  border-top: 2px solid #000;
+  padding-top: 10px;
+}
+
+.session-end td {
+  border-bottom: 2px solid #000;
+  padding-bottom: 10px;
+}
+
+/* No borders inside session */
+.chair-row td,
+.session-paper td {
+  border-bottom: none;
+}
+
+/* Breaks */
+.break-row td {
+  border-top: 1.5px solid #999;
+  font-style: italic;
+}
+</style>
+
 
 ------------------------------------------------------------------------
 
