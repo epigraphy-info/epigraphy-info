@@ -71,7 +71,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 
 </table>
 
-<style>
+<!-- <style>
 /* Base cell spacing */
 td, th {
   padding: 6px 8px;
@@ -114,7 +114,7 @@ td, th {
   font-style: italic;
   padding-top: 12px;
 }
-</style>
+</style> -->
 
 
 ---
