@@ -39,7 +39,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 
 <!-- SESSION 1 -->
 <tr class="session-start">
-  <td colspan="4"><b>Session 1 (change 2)</b></td>
+  <td colspan="4"><b>Session 1 (change 3)</b></td>
 </tr>
 
 <tr class="chair-row">
