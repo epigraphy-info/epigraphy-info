@@ -2,17 +2,42 @@
 layout: default
 ---
 <div class="wrapper">
-<div class="page">
+  <div class="page abstract-page">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+    <style>
+      /* Scoped ONLY to abstract pages */
+      .abstract-page .post-header p {
+        margin: 0.4rem 0;
+      }
 
-  {% include page_divider.html %}
+      .abstract-page .subtitle {
+        font-style: italic;
+        margin-top: 0.5rem;
+      }
 
-  <article class="post-content">
-    {{ content }}
-  </article>
-  
-</div>
+      .abstract-page .authors {
+        font-weight: 600;
+        margin-top: 0.4rem;
+      }
+    </style>
+
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+
+      {% if page.subtitle %}
+        <p class="subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+
+      {% if page.authors %}
+        <p class="authors">{{ page.authors }}</p>
+      {% endif %}
+    </header>
+
+    {% include page_divider.html %}
+
+    <article class="post-content">
+      {{ content }}
+    </article>
+
+  </div>
 </div>
