@@ -13,4 +13,4 @@ tags: announcement
 
 The deadline for poster submissions for the Tenth Epigraphy.info Workshop (Graz, 24–26 March 2026) has been extended to 28 February 2026.
 
-For more information, please see the page for [Workshop 10]({{site.baseurl}}/documents/workshop_10/#submission-of-proposals). 
+For more information, please see the page for [Workshop 10]({{site.baseurl}}/workshop_10/#submission-of-proposals). 
