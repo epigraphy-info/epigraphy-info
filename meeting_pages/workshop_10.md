@@ -15,7 +15,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 
 ---
 
-## Programme
+<!-- ## Programme
 
 ### Day 1
 <table style="width:100%; border-collapse:collapse;">
@@ -25,10 +25,10 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
   <th style="width:10%;"></th>
   <th style="width:30%;"></th>
   <th style="width:50%;"></th>
-</tr>
+</tr> -->
 
 <!-- Registration -->
-<tr>
+<!-- <tr>
   <td>09:00</td><td>09:30</td><td></td><td>Registration</td>
 </tr>
 
@@ -38,8 +38,8 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 </tr>
 
 <!-- SESSION 1 -->
-<tr class="session-start">
-  <td colspan="4"><b>Session 1 (change 5)</b></td>
+<!-- <tr class="session-start">
+  <td colspan="4"><b>Session 1</b></td>
 </tr>
 
 <tr class="chair-row">
@@ -59,7 +59,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 <tr class="session-paper">
   <td>10:25</td><td>10:50</td>
   <td>Scholler Mattians</td>
-  <td>TBA</td>
+  <td>FERCAN, Patrimonium, and Celtic Divine Names in the Inscriptions of the Roman Province Germania Inferior and Superior</td>
 </tr>
 
 <tr class="session-paper session-end">
@@ -69,6 +69,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 </tr>
 
 <!-- BREAK -->
+<!-- <tr class="session-start">
 <tr class="break-row">
   <td>11:15</td><td>11:45</td><td></td><td>Coffee Break</td>
 </tr>
@@ -105,7 +106,7 @@ td, th {
   border-top: 1.5px solid #999;
   font-style: italic;
 }
-</style>
+</style> -->
 
 ---
 
