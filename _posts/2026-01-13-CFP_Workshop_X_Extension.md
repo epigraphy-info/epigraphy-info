@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Extension of Poster Deadline: Workshop 10"
-date:   2026-01-13 00:20:00
+date:   2026-01-12 00:20:00
 author: Georgios Tsolakis
 categories: News
 tags: announcement
