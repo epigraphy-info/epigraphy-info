@@ -531,7 +531,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
   <tr class="session-paper">
     <td>09:55</td>
     <td>10:20</td>
-    <td>Anna Fitiskina, Vladimir Ippolitov</td>
+    <td>Anna Fitiski̲na, Vladimir Ippolitov</td>
     <td>
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Fitiskina.html"
