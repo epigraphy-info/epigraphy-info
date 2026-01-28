@@ -1,7 +1,7 @@
 ---
 layout: abstract
 title: "Old East Slavic epigraphy (11–15th centuries) digitally approached"
-authors: "Anna Fitiskiina (HSE University and Vinogradov Russian Language Institute), Vladimir Ippolitov (independent researcher)"
+authors: "Anna Fitiskina (HSE University and Vinogradov Russian Language Institute), Vladimir Ippolitov (independent researcher)"
 ---
 
 ## Abstract
