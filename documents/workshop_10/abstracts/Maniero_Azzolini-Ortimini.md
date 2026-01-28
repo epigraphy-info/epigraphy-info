@@ -38,4 +38,4 @@ No prerequisites are required. Participants who wish to edit are encouraged to c
 - Thornton, K., Seals-Nutt, K., Chen, A. 2024b. “Dura-Europos Stories: Developing Interactive Storytelling Applications Using Knowledge Graphs for Cultural Heritage Exploration.” *Semantic Web* XV/6: 2237–2251. <https://doi.org/10.3233/SW-243552>
 
 ---  
-[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1)
+[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1-march-24)

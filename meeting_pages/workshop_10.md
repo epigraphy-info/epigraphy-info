@@ -36,12 +36,15 @@ th {
 
 table a {
   color: #222;
-  text-decoration: none;
-  border-bottom: 1px dotted #999;
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: #999;
+  text-underline-offset: 3px;
 }
 
-table a:hover {
-  border-bottom-style: solid;
+table a:hover,
+table a:focus {
+  text-decoration-color: #000;
 }
 
 /* Hover / focus */
@@ -139,7 +142,7 @@ table a:visited {
 
   <!-- SESSION 1 -->
   <tr class="session-start">
-    <td colspan="4">Session 1</b></td>
+    <td colspan="4"><b>Session 1</b></td>
   </tr>
 
   <tr class="chair-row">
@@ -149,7 +152,7 @@ table a:visited {
   <tr class="session-paper">
     <td>10:00</td>
     <td>10:25</td>
-    <td>Rebecca Benefiel</td>
+    <td>Rebecca Benefiel, Sara Sprenkle</td>
     <td>
       <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Benefiel-Sprenkle.html">
       Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project
@@ -171,7 +174,7 @@ table a:visited {
   <tr class="session-paper session-end">
     <td>10:50</td>
     <td>11:15</td>
-    <td>Csaba Szabó</td>
+    <td>Csaba Szabó, Tünde Vágási</td>
     <td>
       <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Szabó.html">
       ReMITHRA: Digital database of Mithraic monuments from the Danubian provinces. Methodological tools and challenges
@@ -425,7 +428,7 @@ table a:visited {
   <tr class="session-paper">
     <td>09:55</td>
     <td>10:20</td>
-    <td>Anna Fitiskiina</td>
+    <td>Anna Fitiskiina, Vladimir Ippolitov</td>
     <td>
       <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Fitiskiina.html">Old East Slavic epigraphy (11–15th centuries) digitally approached</a>
     </td>

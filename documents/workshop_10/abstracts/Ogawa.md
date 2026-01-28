@@ -17,4 +17,4 @@ Results out of nine inscriptions found at the African city of Uthina indicate th
 While promising, as the evaluation depends solely on EDH, and transcription practices sometimes differ between EDH and EDCS, further methodological refinement is required for reliable large-scale automatic EpiDoc generation using LLMs.
 
 ---  
-[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1)
+[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1-march-24)

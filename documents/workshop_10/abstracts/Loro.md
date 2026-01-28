@@ -16,4 +16,4 @@ To address these issues, I am developing a new EpiDoc database of the φωνού
 Since vase inscriptions raise specific challenges compared to “standard” epigraphy, I am adapting EpiDoc structures to capture relevant metadata, creating new indexes and facets that enable effective querying of the _corpus_. Ultimately, this approach aims to align the study of inscribed pottery with the broader digital epigraphic ecosystem.
 
 ---  
-[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1)
+[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1-march-24)

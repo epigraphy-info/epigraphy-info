@@ -11,4 +11,4 @@ The Community Cluster Objects as _Information Carriers_ within the National Rese
 Current work within one of the cluster’s working groups focuses on gathering and evaluating digital tools and services from various disciplines through a criteria-based checklist reflecting these needs. Parallel efforts are analysing how existing resources may be sustainably reused and interconnected via LOD principles, and how graph-based modelling approaches can relate multimodal information for research. These activities are presently underway and will be presented in detail at the epigraphy.info meeting at the end of March, where they will be discussed and further refined together with the wider community.
 
 ---  
-[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1)
+[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1-march-24)
