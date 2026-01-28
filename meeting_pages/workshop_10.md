@@ -36,10 +36,8 @@ th {
 
 table a {
   color: #222;
-  text-decoration-line: underline;
-  text-decoration-thickness: 1px;
-  text-decoration-color: #999;
-  text-underline-offset: 3px;
+  text-decoration: none;
+  border-bottom: 1px dotted #999;
 }
 
 table a:hover,
@@ -81,12 +79,26 @@ table a:visited {
   border-bottom: none;
 }
 
-/* ===== POSTER SESSION ===== */
+/* ===== INDEPENDENT SESSION ===== */
 .independent-session td {
   border-top: 1.5px solid #999;
   border-bottom: 1.5px solid #999;
   padding-top: 22px;
   padding-bottom: 22px;
+}
+
+.poster-session-start td {
+  border-top: 1.5px solid #999;
+  padding-top: 24px;
+  padding-bottom: 8px;
+  font-weight: bold;
+}
+
+/* ===== SESSION END ===== */
+.poster-session-end td {
+  border-bottom: 1.5px solid #999;
+  padding-top: 8px;
+  padding-bottom: 24px;
 }
 
 /* Breaks */
@@ -117,6 +129,7 @@ table a:visited {
 }
 </style>
 
+
 <h2 id="day-1">DAY 1: March 24</h2>
 <table style="width: 100%; border-collapse: collapse">
   <tr>
@@ -133,7 +146,7 @@ table a:visited {
     <td>Registration</td>
   </tr>
 
-  <tr class="session-end">
+  <tr class="independent-session">
     <td>09:30</td>
     <td>10:00</td>
     <td>Local Committee</td>
@@ -154,8 +167,10 @@ table a:visited {
     <td>10:25</td>
     <td>Rebecca Benefiel, Sara Sprenkle</td>
     <td>
-      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Benefiel-Sprenkle.html">
-      Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Benefiel-Sprenkle.html"
+      >
+        Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project
       </a>
     </td>
   </tr>
@@ -165,8 +180,10 @@ table a:visited {
     <td>10:50</td>
     <td>Mattians Scholler</td>
     <td>
-      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Scholler.html">
-      FERCAN, Patrimonium, and Celtic Divine Names in the Inscriptions of the Roman Province Germania Inferior and Superior
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Scholler.html"
+      >
+        FERCAN, Patrimonium, and Celtic Divine Names in the Inscriptions of the Roman Province Germania Inferior and Superior
       </a>
     </td>
   </tr>
@@ -176,8 +193,11 @@ table a:visited {
     <td>11:15</td>
     <td>Csaba Szabó, Tünde Vágási</td>
     <td>
-      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Szabó.html">
-      ReMITHRA: Digital database of Mithraic monuments from the Danubian provinces. Methodological tools and challenges
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Szabó.html"
+      >
+        ReMITHRA: Digital database of Mithraic monuments from the Danubian
+        provinces. Methodological tools and challenges
       </a>
     </td>
   </tr>
@@ -204,8 +224,10 @@ table a:visited {
     <td>12:10</td>
     <td>Viktor Humennyi</td>
     <td>
-      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Humennyi.html">
-      Imagining an Interactive Digital Dashboard for Roman Military Epigraphy of Roman Syria (1st–3rd c. CE)
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Humennyi.html"
+      >
+        Imagining an Interactive Digital Dashboard for Roman Military Epigraphy of Roman Syria (1st–3rd c. CE)
       </a>
     </td>
   </tr>
@@ -215,8 +237,10 @@ table a:visited {
     <td>12:35</td>
     <td>Anna Loro</td>
     <td>
-      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Loro.html">
-      Encoding Vase Inscriptions: Towards a Digital Corpus of Φωνούμενα
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Loro.html"
+      >
+        Encoding Vase Inscriptions: Towards a Digital Corpus of Φωνούμενα
       </a>
     </td>
   </tr>
@@ -228,11 +252,54 @@ table a:visited {
     <td>Lunch Break</td>
   </tr>
 
-  <tr class="independent-session">
+  <tr class="poster-session-start">
+    <td colspan="4">Poster Session</b></td>
+  </tr>
+
+  <tr class="session-paper">
     <td>14:00</td>
     <td>14:45</td>
+    <td>Ariano</td>
+    <td><a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Ariano.html"
+        >From stone to dataset: proposing a digital workflow for analyzing out-ofcontext inscriptions. An example of a votive dedication in Eastern Sicily</a>
+      </td>
+  </tr>
+
+  <tr class="session-paper">
     <td></td>
-    <td>Poster Session</td>
+    <td></td>
+    <td>Christoph Klose</td>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Klose.html"
+      >Objects as Information Carriers
+      </a>
+    </td>
+  </tr>
+
+  <tr class="session-paper">
+    <td></td>
+    <td></td>
+    <td>Gevorg Nersesian, Suren Khachatryan, Narine Sarvazyan</td>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Nersesian-Khachatryan-Sarvazyan.html"
+      >Advancing Armenian Inscription Recognition
+      </a>
+    </td>
+  </tr>
+
+  <tr class="session-paper poster-session-end">
+    <td></td>
+    <td></td>
+    <td>Jun Ogawa</td>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Ogawa.html"
+      >Evaluating Large Language Models for Automatic Generation of EpiDoc TEI from Leiden Transcriptions
+      </a>
+    </td>
   </tr>
 
   <!-- SESSION 3 -->
@@ -249,7 +316,9 @@ table a:visited {
     <td>15:10</td>
     <td>Hamest Tamrazyan</td>
     <td>
-      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Tamrazyan.html">Integrating Descriptive Terminology into the Ukrainian SKOS for Religious Epigraphy
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Tamrazyan.html"
+        >Integrating Descriptive Terminology into the Ukrainian SKOS for Religious Epigraphy
       </a>
     </td>
   </tr>
@@ -258,8 +327,11 @@ table a:visited {
     <td>15:10</td>
     <td>15:35</td>
     <td>Nora White</td>
-    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/White.html">
-      Christian inscriptions and inscribed objects from early medieval Ireland
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/White.html"
+      >
+        Christian inscriptions and inscribed objects from early medieval Ireland
       </a>
     </td>
   </tr>
@@ -275,7 +347,13 @@ table a:visited {
     <td>16:05</td>
     <td>17:35</td>
     <td>Anna Clara Maniero Azzolini, Pietro Ortimini</td>
-    <td><b>Practical Session 1: </b><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Maniero_Azzolini-Ortimini.html">Recording Inscriptions in Wikidata and Wikibase</a></td>
+    <td>
+      <b>Practical Session 1: </b
+      ><a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Maniero_Azzolini-Ortimini.html"
+        >Recording Inscriptions in Wikidata and Wikibase</a
+      >
+    </td>
   </tr>
 
   <tr class="independent-session">
@@ -307,8 +385,12 @@ table a:visited {
     <td>09:30</td>
     <td>09:55</td>
     <td>Petra Heřmánková, Marietta Horster, Jonathan Prag, Imran Asif</td>
-    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Heřmánková.html">
-      One Step Closer to LOD in Epigraphy: The Results of FAIR Epigraphy Project (2022–2026)</a>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Heřmánková.html"
+      >
+        One Step Closer to LOD in Epigraphy: The Results of FAIR Epigraphy Project (2022–2026)</a
+      >
     </td>
   </tr>
 
@@ -316,8 +398,12 @@ table a:visited {
     <td>09:55</td>
     <td>10:20</td>
     <td>Georgios Tsolakis</td>
-    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Tsolakis.html">
-      What Have the Machines Ever Done for Us? Assessing ChatGPT and Claude in the Study of Greek Epigraphic Cultures</a>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Tsolakis.html"
+      >
+        What Have the Machines Ever Done for Us? Assessing ChatGPT and Claude in the Study of Greek Epigraphic Cultures</a
+      >
     </td>
   </tr>
 
@@ -325,7 +411,12 @@ table a:visited {
     <td>10:20</td>
     <td>10:45</td>
     <td>Michael Satlow</td>
-    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Satlow.html">Using AI to Encode Inscriptions</a></td>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Satlow.html"
+        >Using AI to Encode Inscriptions</a
+      >
+    </td>
   </tr>
 
   <tr class="break-row">
@@ -346,8 +437,12 @@ table a:visited {
     <td>11:15</td>
     <td>11:40</td>
     <td>Manuel Sassmann</td>
-    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Sassmann.html">
-      Buddhist Stone Sutras in China: a cross-media publishing epigraphy project and its quest for a digital legacy</a>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Sassmann.html"
+      >
+        Buddhist Stone Sutras in China: a cross-media publishing epigraphy project and its quest for a digital legacy</a
+      >
     </td>
   </tr>
 
@@ -355,8 +450,10 @@ table a:visited {
     <td>11:40</td>
     <td>12:05</td>
     <td>Lia Wei</td>
-    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Wei.html">
-      Medieval Taoist cliff inscriptions and their modern reception: descriptive vocabularies for inscribed landscapes, (calli)graphic variation and rubbings</a>
+    <td>
+      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Wei.html">
+        Medieval Taoist cliff inscriptions and their modern reception: descriptive vocabularies for inscribed landscapes, (calli)graphic variation and rubbings</a
+      >
     </td>
   </tr>
 
@@ -364,7 +461,12 @@ table a:visited {
     <td>12:05</td>
     <td>12:30</td>
     <td>Aleksandra Kubiak-Schneider</td>
-    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Kubiak-Schneider.html">Religious Aramaic Epigraphy. Case of Dura-Europos</a></td>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Kubiak-Schneider.html"
+        >Religious Aramaic Epigraphy. Case of Dura-Europos</a
+      >
+    </td>
   </tr>
 
   <tr class="break-row">
@@ -379,7 +481,10 @@ table a:visited {
     <td>15:30</td>
     <td>Gregor Diez</td>
     <td>
-      <b>Practical Session 2:</b> <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Diez.html">Restoring readability. The optical analysis of inscriptions using Reflectance Transformation Imaging (RTI)</a>
+      <b>Practical Session 2:</b>
+      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Diez.html"
+        >Restoring readability. The optical analysis of inscriptions using Reflectance Transformation Imaging (RTI)</a
+      >
     </td>
   </tr>
 
@@ -421,7 +526,10 @@ table a:visited {
     <td>09:55</td>
     <td>Mariana Bodnaruk</td>
     <td>
-      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Bodnaruk.html">Epigraphic Networks of Office and Faith: Digital Perspectives on the Fourth-Century Palatine Elite</a>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Bodnaruk.html"
+        >Epigraphic Networks of Office and Faith: Digital Perspectives on the Fourth-Century Palatine Elite</a
+      >
     </td>
   </tr>
 
@@ -430,7 +538,10 @@ table a:visited {
     <td>10:20</td>
     <td>Anna Fitiskiina, Vladimir Ippolitov</td>
     <td>
-      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Fitiskiina.html">Old East Slavic epigraphy (11–15th centuries) digitally approached</a>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Fitiskiina.html"
+        >Old East Slavic epigraphy (11–15th centuries) digitally approached</a
+      >
     </td>
   </tr>
 
@@ -438,8 +549,12 @@ table a:visited {
     <td>10:20</td>
     <td>10:45</td>
     <td>Dimitar Iliev, Kristiyan Simeonov</td>
-    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Iliev-Simeonov.html">
-      Creating a Digital Corpus of Old Church Slavonic Inscriptions: a Pilot Collection</a>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Iliev-Simeonov.html"
+      >
+        Creating a Digital Corpus of Old Church Slavonic Inscriptions: a Pilot Collection</a
+      >
     </td>
   </tr>
 
@@ -455,8 +570,7 @@ table a:visited {
     <td>12:30</td>
     <td></td>
     <td>
-      Community discussion and reports, decisions, Steering Committee
-      election
+      Community discussion and reports, decisions, Steering Committee election
     </td>
   </tr>
 </table>

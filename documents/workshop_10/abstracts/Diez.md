@@ -10,4 +10,4 @@ authors: "Gregor Diez (Universität Graz)"
 TBA
 
 ---  
-[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-2)
+[Back to Day 2 programme]({{ site.baseurl }}/workshop_10/#day-2)
