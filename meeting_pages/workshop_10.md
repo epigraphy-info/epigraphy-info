@@ -248,7 +248,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
   </tr>
 
   <tr class="poster-session-start">
-    <td colspan="4">Poster Session</b></td>
+    <td colspan="4"><b>Poster Session</b></td>
   </tr>
 
   <tr class="session-paper">
