@@ -37,6 +37,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
   table a {
     color: #222;
     text-decoration-line: underline;
+    text-decoration-style: dotted;
     text-decoration-thickness: 1px;
     text-decoration-color: #999;
     text-underline-offset: 3px;
@@ -45,6 +46,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
   table a:hover,
   table a:focus {
     color: #000;
+    text-decoration-style: solid;
     text-decoration-color: #000;
   }
   /* Visited links */
