@@ -17,118 +17,105 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 ## Programme
 
 <style>
-h2 {
-  margin-top: 4rem; /* more space before */
-  margin-bottom: 0.4rem; /* less space after */
-}
+  h2 {
+    margin-top: 4rem; /* more space before */
+    margin-bottom: 0.4rem; /* less space after */
+  }
 
-h2 + table tr.session-start td,
-h2 + table tr.independent-session td {
-  border-top: none;
-}
+  h2 + table tr.session-start td,
+  h2 + table tr.independent-session td {
+    border-top: none;
+  }
 
-/* Base cell spacing */
-td,
-th {
-  padding: 6px 8px;
-  vertical-align: top;
-}
+  /* Base cell spacing */
+  td,
+  th {
+    padding: 6px 8px;
+    vertical-align: top;
+  }
 
-table a {
-  color: #222;
-  text-decoration: none;
-  border-bottom: 1px dotted #999;
-}
+  table a {
+    color: #222;
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #999;
+    text-underline-offset: 3px;
+  }
 
-table a:hover,
-table a:focus {
-  text-decoration-color: #000;
-}
+  table a:hover,
+  table a:focus {
+    color: #000;
+    text-decoration-color: #000;
+  }
+  /* Visited links */
+  table a:visited {
+    color: #1a1a1a;
+  }
 
-/* Hover / focus */
-table a:hover,
-table a:focus {
-  color: #000;
-  border-bottom: 1px solid #000;
-}
+  /* Session boundaries */
+  /* ===== SESSION START ===== */
+  .session-start td {
+    border-top: 1.5px solid #999;
+    padding-top: 24px;
+    padding-bottom: 8px;
+    font-weight: bold;
+  }
 
-/* Visited links */
-table a:visited {
-  color: #1a1a1a;
-}
+  /* ===== SESSION END ===== */
+  .session-end td {
+    border-bottom: none;
+    padding-top: 8px;
+    padding-bottom: 24px;
+  }
 
-/* Session boundaries */
-/* ===== SESSION START ===== */
-.session-start td {
-  border-top: 1.5px solid #999;
-  padding-top: 24px;
-  padding-bottom: 8px;
-  font-weight: bold;
-}
+  /* No borders inside session */
+  .chair-row td,
+  .session-paper td {
+    border-bottom: none;
+  }
 
-/* ===== SESSION END ===== */
-.session-end td {
-  border-bottom: 1.5px solid #999;
-  padding-top: 8px;
-  padding-bottom: 24px;
-}
+  /* ===== INDEPENDENT SESSION ===== */
+  .independent-session td {
+    border-top: 1.5px solid #999;
+    border-bottom: 1.5px solid #999;
+    padding-top: 22px;
+    padding-bottom: 22px;
+  }
 
-/* No borders inside session */
-.chair-row td,
-.session-paper td {
-  border-bottom: none;
-}
+  .poster-session-start td {
+    border-top: 1.5px solid #999;
+    padding-top: 24px;
+    padding-bottom: 8px;
+    font-weight: bold;
+  }
 
-/* ===== INDEPENDENT SESSION ===== */
-.independent-session td {
-  border-top: 1.5px solid #999;
-  border-bottom: 1.5px solid #999;
-  padding-top: 22px;
-  padding-bottom: 22px;
-}
+  /* ===== SESSION END ===== */
+  .poster-session-end td {
+    border-bottom: 1.5px solid #999;
+    padding-top: 8px;
+    padding-bottom: 24px;
+  }
 
-.poster-session-start td {
-  border-top: 1.5px solid #999;
-  padding-top: 24px;
-  padding-bottom: 8px;
-  font-weight: bold;
-}
+  /* Breaks */
+  .break-row td {
+    border-top: 1.5px solid #999;
+    border-bottom: none;          /* <- key */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+  }
 
-/* ===== SESSION END ===== */
-.poster-session-end td {
-  border-bottom: 1.5px solid #999;
-  padding-top: 8px;
-  padding-bottom: 24px;
-}
+  .break-row td:nth-child(4) {
+    font-style: italic;
+  }
 
-/* Breaks */
-.break-row td {
-  font-style: normal;
-
-  /* the lines */
-  border-top: 1.5px solid #999;
-  border-bottom: 1.5px solid #999;
-
-  /* space BETWEEN text and lines */
-  padding-top: 10px;
-  padding-bottom: 10px;
-
-  /* create visual spacing above and below */
-  position: relative;
-}
-
-.break-row td:nth-child(4) {
-  font-style: italic;
-}
-
-.break-row td::before,
-.break-row td::after {
-  content: "";
-  display: block;
-  height: 8px;
-}
-</style>
-
+  .break-row td::before,
+  .break-row td::after {
+    content: "";
+    display: block;
+    height: 8px;
+  }
+</style>  
 
 <h2 id="day-1">DAY 1: March 24</h2>
 <table style="width: 100%; border-collapse: collapse">
