@@ -14,4 +14,4 @@ Through comparative analysis, the study identifies both convergences and diverge
 This model allows Armenian inscriptions to be integrated into global digital infrastructures without compromising their methodological specificity. It ensures transparency, reproducibility, and long-term preservation by following FAIR data principles and demonstrates how culturally grounded editorial systems can enrich international standards in digital epigraphy.
 
 ---  
-[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1)
+[Back to Day 2 programme]({{ site.baseurl }}/workshop_10/#day-2)

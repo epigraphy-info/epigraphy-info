@@ -313,12 +313,12 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
     <td>
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Tamrazyan.html"
-        >Integrating Descriptive Terminology into the Ukrainian SKOS for Religious Epigraphy
+        >Cultural Semantics of Sacred Writing: Integrating Descriptive Terminology into the Ukrainian SKOS for Religious Epigraphy
       </a>
     </td>
   </tr>
 
-  <tr class="session-paper session-end">
+  <tr class="session-paper">
     <td>15:10</td>
     <td>15:35</td>
     <td>Nora White</td>
@@ -331,16 +331,28 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
     </td>
   </tr>
 
-  <tr class="break-row">
+  <tr class="session-paper session-end">
     <td>15:35</td>
-    <td>16:05</td>
+    <td>16:00</td>
+    <td>Aleksandra Kubiak-Schneider</td>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Kubiak-Schneider.html"
+        >Religious Aramaic Epigraphy. Case of Dura-Europos</a
+      >
+    </td>
+  </tr>
+
+  <tr class="break-row">
+    <td>16:00</td>
+    <td>16:30</td>
     <td></td>
     <td>Break</td>
   </tr>
 
   <tr class="independent-session">
-    <td>16:05</td>
-    <td>17:35</td>
+    <td>16:30</td>
+    <td>18:00</td>
     <td>Anna Clara Maniero Azzolini, Pietro Ortimini</td>
     <td>
       <b>Practical Session 1: </b
@@ -352,8 +364,8 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
   </tr>
 
   <tr class="independent-session">
-    <td>17:35</td>
-    <td>18:35</td>
+    <td>18:00</td>
+    <td>19:00</td>
     <td></td>
     <td>Working Group Meeting</td>
   </tr>
@@ -455,11 +467,11 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
   <tr class="session-paper session-end">
     <td>12:05</td>
     <td>12:30</td>
-    <td>Aleksandra Kubiak-Schneider</td>
+    <td>Hamest Tamrazyan, Gayane Hovhannisyan, Arsen Harutyunyan</td>
     <td>
       <a
-        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Kubiak-Schneider.html"
-        >Religious Aramaic Epigraphy. Case of Dura-Europos</a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Tamrazyan-Hovhannisyan-Harutyunyan.html"
+        >Aligning Armenian Epigraphic Conventions with the Leiden and EpiDoc Frameworks</a
       >
     </td>
   </tr>
