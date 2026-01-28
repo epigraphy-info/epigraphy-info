@@ -1,8 +1,9 @@
 ---
 layout: abstract
-title: "TBA"
-subtitle: "TBA"
-authors: "Gregor Diez (Universität Graz)"
+title: "From stone to dataset"
+subtitle: "Proposing a digital workflow for analyzing out-ofcontext
+inscriptions. An example of a votive dedication in Eastern Sicily"
+authors: "Maria Rosaria Ariano (Sapienza Università di Roma)"
 ---
 
 ## Abstract

@@ -14,85 +14,62 @@ published: true
 The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from **24 to 26 March 2026**.
 
 ---
-
-<!-- ## Programme
-
-### Day 1
-<table style="width:100%; border-collapse:collapse;">
-
-<tr>
-  <th style="width:10%;"></th>
-  <th style="width:10%;"></th>
-  <th style="width:30%;"></th>
-  <th style="width:50%;"></th>
-</tr> -->
-
-<!-- Registration -->
-<!-- <tr>
-  <td>09:00</td><td>09:30</td><td></td><td>Registration</td>
-</tr>
-
-<tr>
-  <td>09:30</td><td>10:00</td><td>Local Committee</td>
-  <td>Welcome Speech and Practical Information</td>
-</tr>
-
-<!-- SESSION 1 -->
-<!-- <tr class="session-start">
-  <td colspan="4"><b>Session 1</b></td>
-</tr>
-
-<tr class="chair-row">
-  <td colspan="4">Chair: Georgios Tsolakis</td>
-</tr>
-
-<tr class="session-paper">
-    <td>10:00</td><td>10:25</td>
-    <td>Benefiel Rebecca, Sara Sprenkle</td>
-    <td>
-        <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Benefiel-Sprenkle.html">
-            Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project
-        </a>
-    </td>
-</tr>
-
-<tr class="session-paper">
-  <td>10:25</td><td>10:50</td>
-  <td>Scholler Mattians</td>
-  <td>FERCAN, Patrimonium, and Celtic Divine Names in the Inscriptions of the Roman Province Germania Inferior and Superior</td>
-</tr>
-
-<tr class="session-paper session-end">
-  <td>10:50</td><td>11:15</td>
-  <td>Szabó Csaba</td>
-  <td>ReMITHRA: Digital database of Mithraic monuments from the Danubian provinces. Methodological tools and challenges</td>
-</tr>
-
-<!-- BREAK -->
-<!-- <tr class="session-start">
-<tr class="break-row">
-  <td>11:15</td><td>11:45</td><td></td><td>Coffee Break</td>
-</tr>
-
-</table>
+## Programme
 
 <style>
+h2 {
+  margin-top: 4rem; /* more space before */
+  margin-bottom: 0.4rem; /* less space after */
+}
+
+h2 + table tr.session-start td,
+h2 + table tr.independent-session td {
+  border-top: none;
+}
+
 /* Base cell spacing */
-td, th {
+td,
+th {
   padding: 6px 8px;
   vertical-align: top;
 }
 
-/* Session boundaries */
-.session-start td {
-  border-top: 2px solid #000;
-  padding-top: 16px;   /* space between line and text */
-  margin-top: 12px;    /* space from previous content */
+table a {
+  color: #222;
+  text-decoration: none;
+  border-bottom: 1px dotted #999;
 }
 
+table a:hover {
+  border-bottom-style: solid;
+}
+
+/* Hover / focus */
+table a:hover,
+table a:focus {
+  color: #000;
+  border-bottom: 1px solid #000;
+}
+
+/* Visited links */
+table a:visited {
+  color: #1a1a1a;
+}
+
+/* Session boundaries */
+/* ===== SESSION START ===== */
+.session-start td {
+  border-top: 1.5px solid #999;
+  padding-top: 24px;
+  padding-bottom: 8px;
+  font-weight: bold;
+}
+
+/* ===== SESSION END ===== */
 .session-end td {
-  border-bottom: 2px solid #000;
-  padding-bottom: 12px;
+  border-bottom: 1.5px solid #999;
+  padding-top: 8px;
+  padding-bottom: 24px;
 }
 
 /* No borders inside session */
@@ -101,12 +78,387 @@ td, th {
   border-bottom: none;
 }
 
+/* ===== POSTER SESSION ===== */
+.independent-session td {
+  border-top: 1.5px solid #999;
+  border-bottom: 1.5px solid #999;
+  padding-top: 22px;
+  padding-bottom: 22px;
+}
+
 /* Breaks */
 .break-row td {
+  font-style: normal;
+
+  /* the lines */
   border-top: 1.5px solid #999;
+  border-bottom: 1.5px solid #999;
+
+  /* space BETWEEN text and lines */
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  /* create visual spacing above and below */
+  position: relative;
+}
+
+.break-row td:nth-child(4) {
   font-style: italic;
 }
-</style> -->
+
+.break-row td::before,
+.break-row td::after {
+  content: "";
+  display: block;
+  height: 8px;
+}
+</style>
+
+<h2>DAY 1: March 24</h2>
+<table style="width: 100%; border-collapse: collapse">
+  <tr>
+    <th style="width: 10%"></th>
+    <th style="width: 10%"></th>
+    <th style="width: 30%"></th>
+    <th style="width: 50%"></th>
+  </tr>
+
+  <tr class="independent-session">
+    <td>09:00</td>
+    <td>09:30</td>
+    <td></td>
+    <td>Registration</td>
+  </tr>
+
+  <tr class="session-end">
+    <td>09:30</td>
+    <td>10:00</td>
+    <td>Local Committee</td>
+    <td>Welcome Speech and Practical Information</td>
+  </tr>
+
+  <!-- SESSION 1 -->
+  <tr class="session-start">
+    <td colspan="4">Session 1</b></td>
+  </tr>
+
+  <tr class="chair-row">
+    <td colspan="4">Chair: Georgios Tsolakis</td>
+  </tr>
+
+  <tr class="session-paper">
+    <td>10:00</td>
+    <td>10:25</td>
+    <td>Rebecca Benefiel</td>
+    <td>
+      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Benefiel-Sprenkle.html">
+      Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project
+      </a>
+    </td>
+  </tr>
+
+  <tr class="session-paper">
+    <td>10:25</td>
+    <td>10:50</td>
+    <td>Mattians Scholler</td>
+    <td>
+      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Scholler.html">
+      FERCAN, Patrimonium, and Celtic Divine Names in the Inscriptions of the Roman Province Germania Inferior and Superior
+      </a>
+    </td>
+  </tr>
+
+  <tr class="session-paper session-end">
+    <td>10:50</td>
+    <td>11:15</td>
+    <td>Csaba Szabó</td>
+    <td>
+      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Szabó.html">
+      ReMITHRA: Digital database of Mithraic monuments from the Danubian provinces. Methodological tools and challenges
+      </a>
+    </td>
+  </tr>
+
+  <!-- BREAK -->
+  <tr class="break-row">
+    <td>11:15</td>
+    <td>11:45</td>
+    <td></td>
+    <td>Break</td>
+  </tr>
+
+  <!-- SESSION 2 -->
+  <tr class="session-start">
+    <td colspan="4"><b>Session 2</b></td>
+  </tr>
+
+  <tr class="chair-row">
+    <td colspan="4">Chair: Silvia Evangelisti</td>
+  </tr>
+
+  <tr class="session-paper">
+    <td>11:45</td>
+    <td>12:10</td>
+    <td>Viktor Humennyi</td>
+    <td>
+      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Humennyi.html">
+      Imagining an Interactive Digital Dashboard for Roman Military Epigraphy of Roman Syria (1st–3rd c. CE)
+      </a>
+    </td>
+  </tr>
+
+  <tr class="session-paper session-end">
+    <td>12:10</td>
+    <td>12:35</td>
+    <td>Anna Loro</td>
+    <td>
+      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Loro.html">
+      Encoding Vase Inscriptions: Towards a Digital Corpus of Φωνούμενα
+      </a>
+    </td>
+  </tr>
+
+  <tr class="break-row">
+    <td>12:35</td>
+    <td>14:00</td>
+    <td></td>
+    <td>Lunch Break</td>
+  </tr>
+
+  <tr class="independent-session">
+    <td>14:00</td>
+    <td>14:45</td>
+    <td></td>
+    <td>Poster Session</td>
+  </tr>
+
+  <!-- SESSION 3 -->
+  <tr class="session-start">
+    <td colspan="4"><b>Session 3</b></td>
+  </tr>
+
+  <tr class="chair-row">
+    <td colspan="4">Chair: Matthias Scholler</td>
+  </tr>
+
+  <tr class="session-paper">
+    <td>14:45</td>
+    <td>15:10</td>
+    <td>Hamest Tamrazyan</td>
+    <td>
+      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Tamrazyan.html">Integrating Descriptive Terminology into the Ukrainian SKOS for Religious Epigraphy
+      </a>
+    </td>
+  </tr>
+
+  <tr class="session-paper session-end">
+    <td>15:10</td>
+    <td>15:35</td>
+    <td>Nora White</td>
+    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/White.html">
+      Christian inscriptions and inscribed objects from early medieval Ireland
+      </a>
+    </td>
+  </tr>
+
+  <tr class="break-row">
+    <td>15:35</td>
+    <td>16:05</td>
+    <td></td>
+    <td>Break</td>
+  </tr>
+
+  <tr class="independent-session">
+    <td>16:05</td>
+    <td>17:35</td>
+    <td>Anna Clara Maniero Azzolini, Pietro Ortimini</td>
+    <td><b>Practical Session 1: </b><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Maniero_Azzolini-Ortimini.html">Recording Inscriptions in Wikidata and Wikibase</a></td>
+  </tr>
+
+  <tr class="independent-session">
+    <td>17:35</td>
+    <td>18:35</td>
+    <td></td>
+    <td>Working Group Meeting</td>
+  </tr>
+</table>
+
+<h2>DAY 2: March 25</h2>
+<table style="width: 100%; border-collapse: collapse">
+  <tr>
+    <th style="width: 10%"></th>
+    <th style="width: 10%"></th>
+    <th style="width: 30%"></th>
+    <th style="width: 50%"></th>
+  </tr>
+
+  <tr class="session-start">
+    <td colspan="4"><b>Session 4</b></td>
+  </tr>
+
+  <tr class="chair-row">
+    <td colspan="4">Chair: Rebecca R. Benefiel</td>
+  </tr>
+
+  <tr class="session-paper">
+    <td>09:30</td>
+    <td>09:55</td>
+    <td>Petra Heřmánková, Marietta Horster, Jonathan Prag, Imran Asif</td>
+    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Heřmánková.html">
+      One Step Closer to LOD in Epigraphy: The Results of FAIR Epigraphy Project (2022–2026)</a>
+    </td>
+  </tr>
+
+  <tr class="session-paper">
+    <td>09:55</td>
+    <td>10:20</td>
+    <td>Georgios Tsolakis</td>
+    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Tsolakis.html">
+      What Have the Machines Ever Done for Us? Assessing ChatGPT and Claude in the Study of Greek Epigraphic Cultures</a>
+    </td>
+  </tr>
+
+  <tr class="session-paper session-end">
+    <td>10:20</td>
+    <td>10:45</td>
+    <td>Michael Satlow</td>
+    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Satlow.html">Using AI to Encode Inscriptions</a></td>
+  </tr>
+
+  <tr class="break-row">
+    <td>10:45</td>
+    <td>11:15</td>
+    <td></td>
+    <td>Break</td>
+  </tr>
+
+  <tr class="session-start">
+    <td colspan="4"><b>Session 5</b></td>
+  </tr>
+  <tr class="chair-row">
+    <td colspan="4">Chair: Andrea Santamaria</td>
+  </tr>
+
+  <tr class="session-paper">
+    <td>11:15</td>
+    <td>11:40</td>
+    <td>Manuel Sassmann</td>
+    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Sassmann.html">
+      Buddhist Stone Sutras in China: a cross-media publishing epigraphy project and its quest for a digital legacy</a>
+    </td>
+  </tr>
+
+  <tr class="session-paper">
+    <td>11:40</td>
+    <td>12:05</td>
+    <td>Lia Wei</td>
+    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Wei.html">
+      Medieval Taoist cliff inscriptions and their modern reception: descriptive vocabularies for inscribed landscapes, (calli)graphic variation and rubbings</a>
+    </td>
+  </tr>
+
+  <tr class="session-paper session-end">
+    <td>12:05</td>
+    <td>12:30</td>
+    <td>Aleksandra Kubiak-Schneider</td>
+    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Kubiak-Schneider.html">Religious Aramaic Epigraphy. Case of Dura-Europos</a></td>
+  </tr>
+
+  <tr class="break-row">
+    <td>12:30</td>
+    <td>14:00</td>
+    <td></td>
+    <td>Lunch Break</td>
+  </tr>
+
+  <tr class="independent-session">
+    <td>14:00</td>
+    <td>15:30</td>
+    <td>Gregor Diez</td>
+    <td>
+      <b>Practical Session 2:</b> <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Diez.html">Restoring readability. The optical analysis of inscriptions using Reflectance Transformation Imaging (RTI)</a>
+    </td>
+  </tr>
+
+  <tr class="break-row">
+    <td>15:30</td>
+    <td>16:00</td>
+    <td></td>
+    <td>Break</td>
+  </tr>
+
+  <tr class="independent-session">
+    <td>16:00</td>
+    <td>17:30</td>
+    <td>Wolfgang Spickermann</td>
+    <td>
+      <b>Keynote Lecture:</b> Perspectives on digital epigraphy: small inscriptions and technical visualization
+    </td>
+  </tr>
+</table>
+
+<h2>DAY 3: March 26</h2>
+<table style="width: 100%; border-collapse: collapse">
+  <tr>
+    <th style="width: 10%"></th>
+    <th style="width: 10%"></th>
+    <th style="width: 30%"></th>
+    <th style="width: 50%"></th>
+  </tr>
+
+  <tr class="session-start">
+    <td colspan="4"><b>Session 6</b></td>
+  </tr>
+  <tr class="chair-row">
+    <td colspan="4">Chair: Annie Burman</td>
+  </tr>
+
+  <tr class="session-paper">
+    <td>09:30</td>
+    <td>09:55</td>
+    <td>Mariana Bodnaruk</td>
+    <td>
+      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Bodnaruk.html">Epigraphic Networks of Office and Faith: Digital Perspectives on the Fourth-Century Palatine Elite</a>
+    </td>
+  </tr>
+
+  <tr class="session-paper">
+    <td>09:55</td>
+    <td>10:20</td>
+    <td>Anna Fitiskiina</td>
+    <td>
+      <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Fitiskiina.html">Old East Slavic epigraphy (11–15th centuries) digitally approached</a>
+    </td>
+  </tr>
+
+  <tr class="session-paper session-end">
+    <td>10:20</td>
+    <td>10:45</td>
+    <td>Dimitar Iliev, Kristiyan Simeonov</td>
+    <td><a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Iliev-Simeonov.html">
+      Creating a Digital Corpus of Old Church Slavonic Inscriptions: a Pilot Collection</a>
+    </td>
+  </tr>
+
+  <tr class="break-row">
+    <td>10:45</td>
+    <td>11:15</td>
+    <td></td>
+    <td>Break</td>
+  </tr>
+
+  <tr class="independent-session">
+    <td>11:15</td>
+    <td>12:30</td>
+    <td></td>
+    <td>
+      Community discussion and reports, decisions, Steering Committee
+      election
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 

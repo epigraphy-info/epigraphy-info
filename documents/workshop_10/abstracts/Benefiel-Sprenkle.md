@@ -2,7 +2,7 @@
 layout: abstract
 title: "Searching for the sacred among Pompeian graffiti"
 subtitle: "Building a tool for The Ancient Graffiti Project"
-authors: "Rebecca R. Benefiel, Sara Sprenkle"
+authors: "Rebecca R. Benefiel (Washington and Lee University; The Ancient Graffiti Project), Sara Sprenkle (Washington and Lee University; The Ancient Graffiti Project)"
 ---
 
 ## Abstract
