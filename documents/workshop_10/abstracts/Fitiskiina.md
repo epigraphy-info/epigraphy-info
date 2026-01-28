@@ -13,4 +13,4 @@ Our aim is to introduce this project into the broader international epigraphic c
 We also aim to highlight the distinctive features of OES inscriptions. Their heterogeneity complicates any attempt to create uniform descriptions. An inscription on a cathedral wall bearing thousands of texts cannot easily be treated in the same way as one on a knife handle. Methods developed for the consistent digital publication of birchbark documents _gramoty.ru_ prove insufficient here. We discuss our approach to addressing this problem and outline our plans for integrating EpiDoc in order to strengthen the project’s descriptive framework.
 
 ---  
-[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-3-march-26)
+[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-3)

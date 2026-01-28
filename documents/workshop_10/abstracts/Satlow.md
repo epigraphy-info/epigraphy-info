@@ -11,4 +11,4 @@ We produced a pipeline, using the AI client Claude, that can do this translation
 from a pdf to a fully formed XML file that includes both the tagged inscription and its metadata.
 
 ---  
-[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-2-march-25)
+[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-2)

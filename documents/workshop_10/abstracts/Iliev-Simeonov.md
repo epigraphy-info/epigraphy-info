@@ -18,4 +18,4 @@ In addition to the pilot collection of encoded inscriptions, several authority l
 The paper will discuss some of the issues in applying the existing Digital Epigraphy tools and methods to Old Slavic source material and the future perspectives before such a project, which is the first of its kind, not only in the EpiDoc community but also in the field of Digital Humanities as a whole.
 
 ---  
-[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-3-march-26)
+[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-3)

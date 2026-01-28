@@ -16,4 +16,4 @@ The paper argues that **descriptive terminology is itself a form of cultural her
 By foregrounding the cultural semantics of sacred writing, this work demonstrates how digital modeling can preserve not only the inscriptions themselves but also the conceptual worlds that gave them meaning.
 
 ---  
-[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1-march-24)
+[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1)

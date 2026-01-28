@@ -13,4 +13,4 @@ Eastern Sicily (Plain of Catania) provides numerous examples of out-of-context i
 A votive dedication carved on a moulded limestone block (_SEG_ 58, 1038), found near the city of Adrano (Catania; ancient Adranon, c. 400 BC), offers an exemplary case: discovered on private property and associated with the indigenous site of Mendolito, it presents issues of contextualization and rendering that make essential this digital workflow proposal.
 
 ---  
-[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1-march-24)
+[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1)

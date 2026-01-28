@@ -13,4 +13,4 @@ The logic and structure of a digital dashboard prototype integrate three key pil
 The dashboard could implement dynamic filters (unit, rank, language, inscription type, material and other “typical” elements), but its main core and problematic issue lie in addressing multilingual and multi-script complexities inherent to Roman military corpora from Syria. Inscriptions in the region shift fluidly between Latin, Greek, and Aramaic, often within single texts, reflecting different language environments, pragmatic translation decisions, and highly localized identity and epigraphical habit strategies. The talk will focus on the technical possibilities for solving these and on several other problems of digital research of multilingual military epigraphy along Rome’s eastern frontier.
 
 ---  
-[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1-march-24)
+[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1)

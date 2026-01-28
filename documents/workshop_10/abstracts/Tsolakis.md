@@ -14,4 +14,4 @@ The project evaluates the reliability of ChatGPT and Claude in distinguishing am
 The presentation will outline the workflow, highlight areas where the two models converge or diverge in their typological decisions, and discuss the methods used to evaluate reliability. While these results remain preliminary, they demonstrate that LLMs can offer meaningful assistance in large-scale typological processing when used with appropriate constraints and scholarly oversight. Moreover, when combined with curated datasets and stable metadata from established corpora, these automated classifications can form the basis for a more robust attribution of epigraphic types and, thus, the analysis of Greek epigraphic cultures.
 
 ---  
-[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-2-march-25)
+[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-2)

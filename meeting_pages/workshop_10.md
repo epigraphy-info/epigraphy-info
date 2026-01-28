@@ -117,7 +117,7 @@ table a:visited {
 }
 </style>
 
-<h2>DAY 1: March 24</h2>
+<h2 id="day-1">DAY 1: March 24</h2>
 <table style="width: 100%; border-collapse: collapse">
   <tr>
     <th style="width: 10%"></th>
@@ -286,7 +286,7 @@ table a:visited {
   </tr>
 </table>
 
-<h2>DAY 2: March 25</h2>
+<h2 id="day-2">DAY 2: March 25</h2>
 <table style="width: 100%; border-collapse: collapse">
   <tr>
     <th style="width: 10%"></th>
@@ -400,7 +400,7 @@ table a:visited {
   </tr>
 </table>
 
-<h2>DAY 3: March 26</h2>
+<h2 id="day-3">DAY 3: March 26</h2>
 <table style="width: 100%; border-collapse: collapse">
   <tr>
     <th style="width: 10%"></th>
