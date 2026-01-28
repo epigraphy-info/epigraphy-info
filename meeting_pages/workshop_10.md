@@ -101,7 +101,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
   /* Breaks */
   .break-row td {
     border-top: 1.5px solid #999;
-    border-bottom: none;          /* <- key */
+    border-bottom: 1.5px solid #999;   /* ← add line after break */
     padding-top: 10px;
     padding-bottom: 10px;
     position: relative;
@@ -111,13 +111,19 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
     font-style: italic;
   }
 
+  /* Prevent double line below the break */
+  .break-row + tr.session-start td,
+  .break-row + tr.independent-session td {
+    border-top: none;
+  }
+
   .break-row td::before,
   .break-row td::after {
     content: "";
     display: block;
     height: 8px;
   }
-</style>  
+  </style>  
 
 <h2 id="day-1">DAY 1: March 24</h2>
 <table style="width: 100%; border-collapse: collapse">
