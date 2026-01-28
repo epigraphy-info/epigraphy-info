@@ -14,7 +14,7 @@ published: true
 The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from **24 to 26 March 2026**.
 
 ---
-## Programme
+## Provisional Programme
 
 <style>
   h2 {
@@ -755,4 +755,3 @@ If you arrive at Graz Hauptbahnhof (main station or FlixBus terminal):
     <img src="{{ site.baseurl }}/documents/workshop_10/idea_logo.png" alt="IDEA" height="150">
   </a>
 </div>
-
