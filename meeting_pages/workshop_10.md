@@ -285,7 +285,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
     </td>
   </tr>
 
-  <tr class="session-paper poster-session-end">
+  <tr class="session-paper">
     <td></td>
     <td></td>
     <td>Jun Ogawa</td>
@@ -293,6 +293,18 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Ogawa.html"
       >Evaluating Large Language Models for Automatic Generation of EpiDoc TEI from Leiden Transcriptions
+      </a>
+    </td>
+  </tr>
+
+  <tr class="session-paper poster-session-end">
+    <td></td>
+    <td></td>
+    <td>Giuseppina Viscardi, Marta Fogagnolo, Caterina Borgatti</td>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Viscardi-FogagnoloBorgatti.html"
+      >Religious epigraphy in the digital Lexicon <i>LARES</i>
       </a>
     </td>
   </tr>
