@@ -31,4 +31,4 @@ some question related to the digital representation of inscriptions and religiou
 them.
 
 ---  
-[Back to Day 2 programme]({{ site.baseurl }}/workshop_10/#day-1)
+[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1)
