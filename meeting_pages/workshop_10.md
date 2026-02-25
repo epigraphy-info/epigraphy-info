@@ -264,6 +264,18 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
   <tr class="session-paper">
     <td></td>
     <td></td>
+    <td>Jeffrey Garcia</td>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Garcia.html"
+      >Sequential Constraint-Elimination in Fragmentary Inscription Analysis: A Test Case from the Athenian Agora
+      </a>
+    </td>
+  </tr>
+
+  <tr class="session-paper">
+    <td></td>
+    <td></td>
     <td>Marietta Horster, David Eibeck, Francisca Feraudi-Gruénais</td>
     <td>
       <a
