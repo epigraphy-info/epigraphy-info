@@ -16,4 +16,4 @@ Similarity comparison is engaged only after the candidate space has been structu
 The case does not assert definitive reconstruction or reclassification. Rather, it demonstrates how explicit sequencing of constraint domains can provide a reproducible and assumption-minimizing framework for evaluating fragmentary inscriptions.
 
 ---  
-[Back to Day 2 programme]({{ site.baseurl }}/workshop_10/#day-1)
+[Back to Day 1 programme]({{ site.baseurl }}/workshop_10/#day-1)
