@@ -322,6 +322,18 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
     </td>
   </tr>
 
+  <tr class="session-paper">
+    <td></td>
+    <td></td>
+    <td>Andrea Santamaria</td>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Santamaria.html"
+      >Corpus of Inscriptions in the Local Language(s) of Thrace: A Preliminary Overview
+      </a>
+    </td>
+  </tr>
+
   <tr class="session-paper poster-session-end">
     <td></td>
     <td></td>
