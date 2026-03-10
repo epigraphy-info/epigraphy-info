@@ -264,6 +264,42 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
   <tr class="session-paper">
     <td></td>
     <td></td>
+    <td>Olmo Ceriotti, Federico Gerardi, Saverio Giulio Malatesta, Silvia Orlandi</td>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Ceriotti_Gerardi_Malatesta_Orlandi_1.html"
+      >Language Modeling for Epigraphs
+      </a>
+    </td>
+  </tr>
+
+  <tr class="session-paper">
+    <td></td>
+    <td></td>
+    <td>Olmo Ceriotti, Federico Gerardi, Saverio Giulio Malatesta, Silvia Orlandi</td>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Ceriotti_Gerardi_Malatesta_Orlandi_2.html"
+      >EDR-AI: A dataset for machine learning on epigraphs
+      </a>
+    </td>
+  </tr>
+
+  <tr class="session-paper">
+    <td></td>
+    <td></td>
+    <td>Miroslav Čovan, Anna Barnau Gerardi</td>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Covan_Barnau.html"
+      >Corpus Inscriptionum Slovaciae: A Digital Portal of Historical Inscriptions with AI-Powered Detection
+      </a>
+    </td>
+  </tr>
+
+  <tr class="session-paper">
+    <td></td>
+    <td></td>
     <td>Jeffrey Garcia</td>
     <td>
       <a
