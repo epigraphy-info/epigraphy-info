@@ -98,6 +98,24 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
     padding-bottom: 24px;
   }
 
+  /* ===== Poster list spacing ===== */
+  .poster-session-start ~ tr.session-paper td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  /* Thin separator only under columns 3–4 */
+  .poster-session-start ~ tr.session-paper td:nth-child(3),
+  .poster-session-start ~ tr.session-paper td:nth-child(4) {
+    border-bottom: 0.5px solid #e0e0e0;
+  }
+
+  /* Remove the line on the final poster row */
+  .poster-session-end td:nth-child(3),
+  .poster-session-end td:nth-child(4) {
+    border-bottom: none;
+  }
+
   /* Breaks */
   .break-row td {
     border-top: 1.5px solid #999;
