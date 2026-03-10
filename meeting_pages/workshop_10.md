@@ -257,7 +257,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
     <td>Maria Rosaria Ariano</td>
     <td><a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Ariano.html"
-        >From stone to dataset: proposing a digital workflow for analyzing out-ofcontext inscriptions. An example of a votive dedication in Eastern Sicily</a>
+        >From stone to dataset: proposing a digital workflow for analyzing out-of-context inscriptions. An example of a votive dedication in Eastern Sicily</a>
       </td>
   </tr>
 
