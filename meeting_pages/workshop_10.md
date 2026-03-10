@@ -333,7 +333,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
     <td>Marietta Horster, David Eibeck, Francisca Feraudi-Gruénais</td>
     <td>
       <a
-        href="{{ site.baseurl }}/documents/workshop_10/abstracts/  Horster_Feraudi-Gruénais_Eibeck.html"
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Horster_Feraudi-Gruénais_Eibeck.html"
       >The EDEp Editor
       </a>
     </td>
