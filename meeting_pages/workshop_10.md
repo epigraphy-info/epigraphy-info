@@ -670,7 +670,7 @@ The tenth Epigraphy.info workshop will be dedicated to the memory of **Winfried 
 
 ---
 
-### Programme and Contributions
+<!-- ### Programme and Contributions
 
 As in previous years, the workshop will consist of paper sessions, a poster session, and a variety of hands-on or training activities. We warmly welcome contributions in different formats, including:
 
@@ -683,7 +683,7 @@ As in previous years, the workshop will consist of paper sessions, a poster sess
 - **Contributions** on any other subject of relevance to the *Epigraphy.info* community.
 - **Posters** highlighting new initiatives, educational activities, or updates on ongoing projects.
 - **Practical sessions**, such as hackathons, demonstrations of digital tools, or training workshops.  
-  Please indicate in your abstract the time you will need for your session.
+  Please indicate in your abstract the time you will need for your session. -->
 
 ---
 
@@ -695,7 +695,7 @@ Contributors are further encouraged to deposit their work on [Zenodo](https://ze
 
 ---
 
-### Ficial Support
+### Financial Support
 
 This section will be updated as additional support is confirmed.
 
@@ -704,14 +704,14 @@ This section will be updated as additional support is confirmed.
 
 ---
 
-### Submission of Proposals
+<!-- ### Submission of Proposals
 
 To participate, please submit an **abstract** (*max. 250 words* for papers and posters; *max. 500 words* for training sessions) using the **online form** no later than **15 November 2025**. **<span style="color:red">The deadline has been extended to 2 December 2025.</span>**
 The Steering Committee will review the submissions and circulate a provisional programme by **15 January 2025**.
 
 <span style="color: red;">**The deadline for poster submissions has been extended to 28 February 2026.**</span>
 
-➡️ [**Proposal submission form**](https://docs.google.com/forms/d/e/1FAIpQLSfQ7QTsjoo22atN_Ya7HJkadszEBxkytFU_MJr3S3Sf5BhIfw/viewform)
+➡️ [**Proposal submission form**](https://docs.google.com/forms/d/e/1FAIpQLSfQ7QTsjoo22atN_Ya7HJkadszEBxkytFU_MJr3S3Sf5BhIfw/viewform) -->
 
 ---
 
