@@ -93,8 +93,8 @@ The following list is based on the voluntary submission in the [Individual membe
 * Nicolas Laubry, Ecole française de Rome (<a href="https://orcid.org/0000-0002-7155-9261" target="blank">ORCID ID</a>)
 * Wuyue Clara Liang, Universität zu Köln
 * Flavia Licciardello, Alma Mater Studiorum Università di Bologna (<a href="https://orcid.org/0000-0002-9133-9282" target="blank">ORCID ID</a>)
-* Meilin Lyu, University Athens
 * Anna Loro, Università Ca' Foscari Venezia, Università di Trieste
+* Meilin Lyu, University Athens
 * Anna Clara Maniero Azzolini (<a href="https://orcid.org/0009-0002-0425-2339" target="blank">ORCID ID</a>)
 * Claudia Marchegiani, Sapienza - Università di Roma
 * Nenad Markovic (<a href="https://orcid.org/0000-0002-0505-2593" target="blank">ORCID ID</a>)
