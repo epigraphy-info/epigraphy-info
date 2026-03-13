@@ -93,9 +93,10 @@ The following list is based on the voluntary submission in the [Individual membe
 * Nicolas Laubry, Ecole française de Rome (<a href="https://orcid.org/0000-0002-7155-9261" target="blank">ORCID ID</a>)
 * Wuyue Clara Liang, Universität zu Köln
 * Flavia Licciardello, Alma Mater Studiorum Università di Bologna (<a href="https://orcid.org/0000-0002-9133-9282" target="blank">ORCID ID</a>)
+* Anna Loro, Università Ca' Foscari Venezia, Università di Trieste
+* Meilin Lyu, University Athens
 * Anna Clara Maniero Azzolini (<a href="https://orcid.org/0009-0002-0425-2339" target="blank">ORCID ID</a>)
 * Claudia Marchegiani, Sapienza - Università di Roma
-* Meilin Lyu, University Athens
 * Nenad Markovic (<a href="https://orcid.org/0000-0002-0505-2593" target="blank">ORCID ID</a>)
 * Florian Matei-Popescu, Vasile Pârvan Archaeological Institute, Bucharest (<a href="https://orcid.org/0000-0001-5360-042X" target="blank">ORCID ID</a>)
 * Kresimir Matijevic, Europa-Universität Flensburg
@@ -105,6 +106,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Alex Mullen, University of Nottingham, LatinNow (<a href="https://orcid.org/0000-0002-9110-4678" target="blank">ORCID ID</a>)
 * Sandra Muñoz-Martínez, Universitat de Barcelona (<a href="https://orcid.org/0000-0002-0546-5224" target="blank">ORCID ID</a>)
 * Francesca Murano, Università degli Studi di Firenze (<a href="https://orcid.org/0000-0001-6490-3266" target="blank">ORCID ID</a>)
+* Gevorg Nersesian, American University of Armenia (<a href="https://orcid.org/0009-0003-4393-3863" target="blank">ORCID ID</a>)
 * Onno van Nijf, University of Groningen (<a href="https://orcid.org/0000-0002-6189-842X" target="blank">ORCID ID</a>)
 * Tina Obershaw, Piac, Digital
 * Julien Ogereau, Christian-Albrechts-Universität zu Kiel (<a href="https://orcid.org/0000-0002-0092-5412" target="blank">ORCID ID</a>)
@@ -149,6 +151,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Julie Verlinden, UGent & KU Leuven
 * Antonello Vilella, University of Chieti-Pescara (<a href="https://orcid.org/0000-0001-5522-8000" target="blank">ORCID ID</a>)
 * Banban Wang, Ruprecht-Karls-Universität Heidelberg (<a href="https://orcid.org/0000-0002-0336-3080" target="blank">ORCID ID</a>)
+* Lia Wei, Inalco (<a href="https://orcid.org/ 0000-0002-8503-1097" target="blank">ORCID ID</a>)
 * Nora White, Maynooth University (<a href="https://orcid.org/0000-0001-7957-651X" target="blank">ORCID ID</a>)
 * Hakan Yaman, Akdeniz University
 * Fatih Yılmaz, Akdeniz University (<a href="https://orcid.org/0000-0002-5820-3754" target="blank">ORCID ID</a>)
