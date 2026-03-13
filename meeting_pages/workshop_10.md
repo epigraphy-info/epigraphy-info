@@ -601,7 +601,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
     </td>
   </tr>
 
-  <tr class="session-start">
+  <tr class="session-paper">
     <td>17:30</td>
     <td>19:00</td>
     <td></td>
