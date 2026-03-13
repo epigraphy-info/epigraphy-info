@@ -600,9 +600,8 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
       <b>Keynote Lecture:</b> Perspectives on digital epigraphy: small inscriptions and technical visualization
     </td>
   </tr>
-</table>
 
-<tr class="session-paper">
+  <tr class="session-start">
     <td>17:30</td>
     <td>19:00</td>
     <td></td>
@@ -616,6 +615,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
     <td></td>
     <td>Dinner at Gipsabgussammlung)</td>
   </tr>
+</table>
 
 <h2 id="day-3">DAY 3: March 26</h2>
 <table style="width: 100%; border-collapse: collapse">
