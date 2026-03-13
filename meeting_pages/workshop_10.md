@@ -394,7 +394,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
     <td>Giuseppina Viscardi, Marta Fogagnolo, Caterina Borgatti</td>
     <td>
       <a
-        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Viscardi-FogagnoloBorgatti.html"
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Viscardi-Fogagnolo-Borgatti.html"
       >Religious epigraphy in the digital Lexicon <i>LARES</i>
       </a>
     </td>
@@ -602,6 +602,21 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
   </tr>
 </table>
 
+<tr class="session-paper">
+    <td>17:30</td>
+    <td>19:00</td>
+    <td></td>
+    <td>Short break and guided tour at the Gipsabgussammlung
+    </td>
+  </tr>
+
+  <tr class="session-paper session-end">
+    <td>19:00</td>
+    <td></td>
+    <td></td>
+    <td>Dinner at Gipsabgussammlung)</td>
+  </tr>
+
 <h2 id="day-3">DAY 3: March 26</h2>
 <table style="width: 100%; border-collapse: collapse">
   <tr>
@@ -670,6 +685,7 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
       Community discussion and reports, decisions, Steering Committee election
     </td>
   </tr>
+
 </table>
 
 
