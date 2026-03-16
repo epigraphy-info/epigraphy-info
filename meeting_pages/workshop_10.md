@@ -14,10 +14,37 @@ published: true
 The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from **24 to 26 March 2026**.
 
 ---
+
+## Tenth Epigraphy.info Workshop
+**University of Graz, Austria — 24–26 March 2026**
+
+
+Dear colleagues,
+
+We are pleased to announce the **tenth Epigraphy.info workshop**, to be held in *Graz (Austria)* from **24 to 26 March 2026**. The event will be organized by the *Department of Classics, Section Ancient History and Epigraphy, at the University of Graz*, in collaboration with the *Epigraphy.info Steering Committee*.
+
+The tenth Epigraphy.info workshop will be dedicated to the memory of **Winfried Kumpitsch** and will feature a special thematic focus on **Sacred Spaces, Sacred Words: Digital Approaches to Religious Epigraphy,** an area to which Winfried devoted much of his scholarly work and research. Alongside this theme, the workshop will continue the established tradition of bringing together scholars, students, and practitioners of *digital epigraphy* to exchange ideas, share experiences, and develop new collaborations (see [https://epigraphy.info/](https://epigraphy.info/) for past meetings).
+
+---
+
+## Participation and Registration
+
+The workshop is planned as an **in-person event in Graz**, fostering direct exchange and collaboration. Participants who wish to attend the workshop **in person** or **remotely** are kindly asked to complete the appropriate registration form.
+
+Separate registration forms are available for:
+
+- **[In-person participation](https://docs.google.com/forms/d/e/1FAIpQLSdFEcEdm77X42k1uala8lOJLsr5VZSjQfsbhwldjyxrksFRtA/viewform?usp=header)**
+- **[Remote attendance](https://docs.google.com/forms/d/e/1FAIpQLScKdSPnzDaFe_yqLOdcRL4WCov9nnFydhbYxh6MR5_MzmXkKw/viewform?usp=header)**
+
+Further information regarding access to the sessions will be communicated to registered participants in advance of the workshop.
+
+---
+
 ## Provisional Programme
 
 <style>
   h2 {
+    font-size: 1.5rem;
     margin-top: 4rem; /* more space before */
     margin-bottom: 0.4rem; /* less space after */
   }
@@ -692,18 +719,6 @@ The **tenth Epigraphy.info workshop** will take place in **Graz (Austria)** from
 
 ---
 
-## Call for Papers: Tenth Epigraphy.info Workshop
-**University of Graz, Austria — 24–26 March 2026**
-
-
-Dear colleagues,
-
-We are pleased to announce the **tenth Epigraphy.info workshop**, to be held in *Graz (Austria)* from **24 to 26 March 2026**. The event will be organized by the *Department of Classics, Section Ancient History and Epigraphy, at the University of Graz*, in collaboration with the *Epigraphy.info Steering Committee*.
-
-The tenth Epigraphy.info workshop will be dedicated to the memory of **Winfried Kumpitsch** and will feature a special thematic focus on **Sacred Spaces, Sacred Words: Digital Approaches to Religious Epigraphy,** an area to which Winfried devoted much of his scholarly work and research. Alongside this theme, the workshop will continue the established tradition of bringing together scholars, students, and practitioners of *digital epigraphy* to exchange ideas, share experiences, and develop new collaborations (see [https://epigraphy.info/](https://epigraphy.info/) for past meetings).
-
----
-
 <!-- ### Programme and Contributions
 
 As in previous years, the workshop will consist of paper sessions, a poster session, and a variety of hands-on or training activities. We warmly welcome contributions in different formats, including:
@@ -721,15 +736,7 @@ As in previous years, the workshop will consist of paper sessions, a poster sess
 
 ---
 
-### Participation
-
-The workshop is planned as an **in-person event in Graz**, fostering direct exchange and collaboration. However, a small number of sessions, including selected keynote lectures, will also be available for **remote attendance**.  
-Recordings of some presentations may subsequently be shared via the *Epigraphy.info YouTube channel*, and posters will be made accessible through the *Epigraphy.info website*, depending on the discretion of the presenters.  
-Contributors are further encouraged to deposit their work on [Zenodo](https://zenodo.org) and link it to the *Epigraphy.info* community for long-term visibility.
-
----
-
-### Financial Support
+## Financial Support
 
 This section will be updated as additional support is confirmed.
 
