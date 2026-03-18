@@ -211,7 +211,7 @@ Further information regarding access to the sessions will be communicated to reg
   <tr class="session-paper">
     <td>10:00</td>
     <td>10:25</td>
-    <td>Rebecca Benefiel, Sara Sprenkle</td>
+    <td>Rebecca Benefiel, Sara Sprenkle, Micah Tongen</td>
     <td>
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Benefiel-Sprenkle.html"
@@ -424,10 +424,10 @@ Further information regarding access to the sessions will be communicated to reg
   <tr class="session-paper poster-session-end">
     <td></td>
     <td></td>
-    <td>Giuseppina Viscardi, Marta Fogagnolo, Caterina Borgatti</td>
+    <td>Caterina Borgatti, Marta Fogagnolo, Giuseppina Viscardi</td>
     <td>
       <a
-        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Viscardi-Fogagnolo-Borgatti.html"
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Borgatti-Fogagnolo-Viscardi.html"
       >Religious epigraphy in the digital Lexicon <i>LARES</i>
       </a>
     </td>
@@ -490,7 +490,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>17:35</td>
     <td>18:35</td>
     <td></td>
-    <td>Working Group Meeting</td>
+    <td>Working Groups Meetings</td>
   </tr>
 </table>
 
@@ -646,7 +646,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>19:00</td>
     <td></td>
     <td></td>
-    <td>Dinner at Gipsabgussammlung)</td>
+    <td>Dinner at Gipsabgussammlung</td>
   </tr>
 </table>
 
