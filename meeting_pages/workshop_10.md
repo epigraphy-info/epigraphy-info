@@ -315,6 +315,18 @@ Further information regarding access to the sessions will be communicated to reg
   <tr class="session-paper">
     <td></td>
     <td></td>
+    <td>Caterina Borgatti, Marta Fogagnolo, Giuseppina Viscardi</td>
+    <td>
+      <a
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Borgatti-Fogagnolo-Viscardi.html"
+      >Religious epigraphy in the digital Lexicon <i>LARES</i>
+      </a>
+    </td>
+  </tr>
+
+  <tr class="session-paper">
+    <td></td>
+    <td></td>
     <td>Olmo Ceriotti, Federico Gerardi, Saverio Giulio Malatesta, Silvia Orlandi</td>
     <td>
       <a
@@ -409,7 +421,7 @@ Further information regarding access to the sessions will be communicated to reg
     </td>
   </tr>
 
-  <tr class="session-paper">
+  <tr class="session-paper poster-session-end">
     <td></td>
     <td></td>
     <td>Andrea Santamaria</td>
@@ -417,18 +429,6 @@ Further information regarding access to the sessions will be communicated to reg
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Santamaria.html"
       >Corpus of Inscriptions in the Local Language(s) of Thrace: A Preliminary Overview
-      </a>
-    </td>
-  </tr>
-
-  <tr class="session-paper poster-session-end">
-    <td></td>
-    <td></td>
-    <td>Caterina Borgatti, Marta Fogagnolo, Giuseppina Viscardi</td>
-    <td>
-      <a
-        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Borgatti-Fogagnolo-Viscardi.html"
-      >Religious epigraphy in the digital Lexicon <i>LARES</i>
       </a>
     </td>
   </tr>
