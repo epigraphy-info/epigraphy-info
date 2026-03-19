@@ -214,7 +214,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>Rebecca Benefiel, Sara Sprenkle, Micah Tongen</td>
     <td>
       <a
-        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Benefiel-Sprenkle.html"
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Benefiel-Sprenkle-Tongen.html"
       >
         Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project
       </a>
@@ -424,10 +424,10 @@ Further information regarding access to the sessions will be communicated to reg
   <tr class="session-paper poster-session-end">
     <td></td>
     <td></td>
-    <td>Andrea Santamaria</td>
+    <td>Andrea Santamaria, Eleonora Selvi</td>
     <td>
       <a
-        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Santamaria.html"
+        href="{{ site.baseurl }}/documents/workshop_10/abstracts/Santamaria-Selvi.html"
       >Corpus of Inscriptions in the Local Language(s) of Thrace: A Preliminary Overview
       </a>
     </td>
