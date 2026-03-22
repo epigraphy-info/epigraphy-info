@@ -174,6 +174,23 @@ Further information regarding access to the sessions will be communicated to reg
     display: block;
     height: 8px;
   }
+
+  /* ===== STREAMING / REMOTE TAG ===== */
+  .stream-tag {
+    color: #b00020;
+    font-weight: normal;
+    margin-left: 6px;
+    white-space: nowrap;
+  }
+
+  .stream-tag::before {
+    content: "[";
+  }
+
+  .stream-tag::after {
+    content: "]";
+  }
+
   </style>  
 
 <h2 id="day-1">DAY 1: March 24</h2>
@@ -630,7 +647,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>17:30</td>
     <td>Wolfgang Spickermann</td>
     <td>
-      <b>Keynote Lecture:</b> Perspectives on digital epigraphy: small inscriptions and technical visualization
+      <b>Keynote Lecture:</b> Perspectives on digital epigraphy: small inscriptions and technical visualization <span class="stream-tag">streamed</span>
     </td>
   </tr>
 
