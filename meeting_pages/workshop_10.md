@@ -46,7 +46,7 @@ Further information regarding access to the sessions will be communicated to reg
 
 ---
 
-## Provisional Programme
+## Programme
 
 <style>
   h2 {
