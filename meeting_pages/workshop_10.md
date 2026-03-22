@@ -536,7 +536,7 @@ Further information regarding access to the sessions will be communicated to reg
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Heřmánková.html"
       >
-        One Step Closer to LOD in Epigraphy: The Results of FAIR Epigraphy Project (2022–2026)</a
+        One Step Closer to LOD in Epigraphy: The Results of FAIR Epigraphy Project (2022–2026) <span class="stream-tag">streamed</span></a
       >
     </td>
   </tr>
@@ -549,7 +549,7 @@ Further information regarding access to the sessions will be communicated to reg
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Tsolakis.html"
       >
-        What Have the Machines Ever Done for Us? Assessing ChatGPT and Claude in the Study of Greek Epigraphic Cultures <span class="stream-tag">streamed</span></a
+        What Have the Machines Ever Done for Us? Assessing ChatGPT and Claude in the Study of Greek Epigraphic Cultures</a
       >
     </td>
   </tr>
