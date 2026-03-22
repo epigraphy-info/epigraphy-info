@@ -177,7 +177,7 @@ Further information regarding access to the sessions will be communicated to reg
 
   /* ===== STREAMING / REMOTE TAG ===== */
   .stream-tag {
-    color: #b00020;
+    color: #8b0000;
     font-weight: normal;
     margin-left: 6px;
     white-space: nowrap;
@@ -260,7 +260,7 @@ Further information regarding access to the sessions will be communicated to reg
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Szabó.html"
       >
         ReMITHRA: Digital database of Mithraic monuments from the Danubian
-        provinces. Methodological tools and challenges
+        provinces. Methodological tools and challenges <span class="stream-tag">streamed</span>
       </a>
     </td>
   </tr>
@@ -303,7 +303,7 @@ Further information regarding access to the sessions will be communicated to reg
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Loro.html"
       >
-        Encoding Vase Inscriptions: Towards a Digital Corpus of Φωνούμενα
+        Encoding Vase Inscriptions: Towards a Digital Corpus of Φωνούμενα <span class="stream-tag">streamed</span>
       </a>
     </td>
   </tr>
@@ -498,7 +498,7 @@ Further information regarding access to the sessions will be communicated to reg
       <b>Practical Session 1: </b
       ><a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Maniero_Azzolini-Ortimini.html"
-        >Recording Inscriptions in Wikidata and Wikibase</a
+        >Recording Inscriptions in Wikidata and Wikibase <span class="stream-tag">streamed</span></a
       >
     </td>
   </tr>
@@ -507,7 +507,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>17:35</td>
     <td>18:35</td>
     <td></td>
-    <td>Working Groups Meetings</td>
+    <td>Working Groups Meetings <span class="stream-tag">remote attendance</span></td>
   </tr>
 </table>
 
@@ -549,7 +549,7 @@ Further information regarding access to the sessions will be communicated to reg
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Tsolakis.html"
       >
-        What Have the Machines Ever Done for Us? Assessing ChatGPT and Claude in the Study of Greek Epigraphic Cultures</a
+        What Have the Machines Ever Done for Us? Assessing ChatGPT and Claude in the Study of Greek Epigraphic Cultures <span class="stream-tag">streamed</span></a
       >
     </td>
   </tr>
@@ -690,7 +690,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Bodnaruk.html"
-        >Epigraphic Networks of Office and Faith: Digital Perspectives on the Fourth-Century Palatine Elite</a
+        >Epigraphic Networks of Office and Faith: Digital Perspectives on the Fourth-Century Palatine Elite <span class="stream-tag">streamed</span></a
       >
     </td>
   </tr>
@@ -715,7 +715,7 @@ Further information regarding access to the sessions will be communicated to reg
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Iliev-Simeonov.html"
       >
-        Creating a Digital Corpus of Old Church Slavonic Inscriptions: a Pilot Collection</a
+        Creating a Digital Corpus of Old Church Slavonic Inscriptions: a Pilot Collection <span class="stream-tag">streamed</span></a
       >
     </td>
   </tr>
@@ -732,7 +732,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>12:30</td>
     <td></td>
     <td>
-      Community discussion and reports, decisions, Steering Committee election
+      Community discussion and reports, decisions, Steering Committee election <span class="stream-tag">remote attendance</span>
     </td>
   </tr>
 
