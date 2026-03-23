@@ -42,27 +42,29 @@ layout: default
       /* Poster buttons */
       .poster-buttons {
         display: inline-flex;
-        justify-content: center;
-        margin: 0.9rem auto 1.2rem auto;
-        border: 1px solid #bbb;
+        margin: 1rem auto 1.25rem auto;
+        border: 1px solid #b8b8b8;
         border-radius: 6px;
         overflow: hidden;
       }
 
       .poster-buttons a {
-        padding: 0.45rem 0.8rem;
-        font-size: 0.9rem;
+        width: 9rem;
+        text-align: center;
+        padding: 0.55rem 0.75rem;
+        box-sizing: border-box;
         text-decoration: none;
-        color: #333;
-        background: #f8f8f8;
+        font-size: 0.95rem;
+        color: #2f2f2f;
+        background: #f7f7f7;
       }
 
       .poster-buttons a + a {
-        border-left: 1px solid #bbb;
+        border-left: 1px solid #b8b8b8;
       }
 
-      .poster-buttons a:hover {
-        background: #f0f0f0;
+      .poster-buttons-wrapper {
+        text-align: center;
       }
     </style>
 
@@ -75,10 +77,8 @@ layout: default
       <p class="authors">{{ page.authors }}</p>
       {% endif %} {% if page.poster %}
       <div class="poster-buttons">
-        <a href="{{ page.poster }}" target="_blank" rel="noopener"
-          >View poster</a
-        >
-        <a href="{{ page.poster }}" download>Download poster</a>
+        <a href="{{ page.poster }}" target="_blank" rel="noopener">View</a>
+        <a href="{{ page.poster }}" download>Download</a>
       </div>
       {% endif %}
     </header>
