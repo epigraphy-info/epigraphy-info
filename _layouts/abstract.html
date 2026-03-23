@@ -1,11 +1,10 @@
 ---
 layout: default
 ---
+
 <div class="wrapper">
   <div class="page abstract-page">
-
     <style>
-
       .abstract-page .post-header {
         text-align: center;
       }
@@ -28,8 +27,8 @@ layout: default
       .abstract-page .authors {
         font-size: 1.1rem;
         font-weight: 600;
-        margin-top: 1.2rem;   /* extra space BEFORE authors */
-        margin-bottom: 1.0rem;
+        margin-top: 1.2rem; /* extra space BEFORE authors */
+        margin-bottom: 1rem;
       }
 
       /* "Abstract" label */
@@ -40,26 +39,40 @@ layout: default
         margin-bottom: 0.6rem;
       }
 
-    </style>
+      .abstract-page .poster-link {
+        margin: 1rem 0 1.2rem 0;
+        text-align: center;
+      }
 
+      .abstract-page .poster-link a {
+        display: inline-block;
+        padding: 0.45rem 0.8rem;
+        border: 1px solid #999;
+        border-radius: 4px;
+        text-decoration: none;
+      }
+    </style>
 
     <header class="post-header">
       <h1 class="post-title">{{ page.title }}</h1>
 
       {% if page.subtitle %}
-        <p class="subtitle">{{ page.subtitle }}</p>
-      {% endif %}
-
-      {% if page.authors %}
-        <p class="authors">{{ page.authors }}</p>
+      <p class="subtitle">{{ page.subtitle }}</p>
+      {% endif %} {% if page.authors %}
+      <p class="authors">{{ page.authors }}</p>
+      {% endif %} {% if page.poster %}
+      <p class="poster-link">
+        <a href="{{ page.poster }}" target="_blank" rel="noopener"
+          >View poster</a
+        >
+        &nbsp;|&nbsp;
+        <a href="{{ page.poster }}" download>Download poster</a>
+      </p>
       {% endif %}
     </header>
 
     {% include page_divider.html %}
 
-    <article class="post-content">
-      {{ content }}
-    </article>
-
+    <article class="post-content">{{ content }}</article>
   </div>
 </div>
