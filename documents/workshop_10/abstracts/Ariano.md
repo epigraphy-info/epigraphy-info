@@ -3,7 +3,7 @@ layout: abstract
 title: "From stone to dataset"
 subtitle: "Proposing a digital workflow for analyzing out-of-context inscriptions. An example of a votive dedication in Eastern Sicily"
 authors: "Maria Rosaria Ariano (Sapienza Università di Roma)"
-poster: "/workshop_10_posters/Ariano, From stone to dataset.pdf.pdf"
+poster: "{{site.baseurl}}/Ariano, From stone to dataset.pdf"
 ---
 
 ## Abstract
