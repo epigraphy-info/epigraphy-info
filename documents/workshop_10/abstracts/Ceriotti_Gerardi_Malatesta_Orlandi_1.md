@@ -2,6 +2,7 @@
 layout: abstract
 title: "Language Modeling for Epigraphs"
 authors: "Olmo Ceriotti (Archeo&Arte3D Lab, DigiLab Sapienza University of Rome), Federico Gerardi (Archeo&Arte3D Lab, DigiLab Sapienza University of Rome), Saverio Giulio Malatesta (Archeo&Arte3D Lab, DigiLab Sapienza University of Rome), Silvia Orlandi (Department of Science of Antiquities, Sapienza University of Rome)"
+poster: "/documents/workshop_10/posters/Ceriotti_LMFE.pdf"
 ---
 
 ## Abstract

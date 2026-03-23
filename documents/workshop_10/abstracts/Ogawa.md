@@ -3,6 +3,7 @@ layout: abstract
 title: "Evaluating Large Language Models for Automatic Generation of EpiDoc
 TEI from Leiden Transcriptions"
 authors: "Jun Ogawa (The University of Tokyo)"
+poster: "/documents/workshop_10/posters/Ogawa_EpigraphyInfo_2026_final.pdf"
 ---
 
 ## Abstract

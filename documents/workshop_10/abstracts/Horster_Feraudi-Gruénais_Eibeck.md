@@ -2,6 +2,7 @@
 layout: abstract
 title: "The EDEp Editor"
 authors: "Marietta Horster (JGU Mainz), David Eibeck (Mainz), Francisca Feraudi-Gruénais (Heidelberg)"
+poster: "/documents/workshop_10/posters/Horster_Feraudi_Eibeck_Graz_2026_1.pdf"
 ---
 
 ## Abstract

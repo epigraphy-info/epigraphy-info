@@ -2,6 +2,7 @@
 layout: abstract
 title: "Objects as Information Carriers"
 authors: "Christoph Klose (Berlin State Museums, Coin Collection. NFDI4Objects)"
+poster: "/documents/workshop_10/posters/Klose_cc_objects_as_information_carriers_linkswork.pdf"
 ---
 
 ## Abstract

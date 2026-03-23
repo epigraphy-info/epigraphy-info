@@ -3,6 +3,7 @@ layout: abstract
 title: "Sequential Constraint-Elimination in Fragmentary Inscription Analysis"
 subtitle: "A Test Case from the Athenian Agora"
 authors: "Jeff Garcia (Independent Systems Designer)"
+poster: "/documents/workshop_10/posters/Garcia_Sequential_Constraint_Elimination_A0.pdf"
 ---
 
 ## Abstract

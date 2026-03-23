@@ -3,6 +3,7 @@ layout: abstract
 title: "Corpus Inscriptionum Slovaciae"
 subtitle: "A Digital Portal of Historical Inscriptions with AI-Powered Detection"
 authors: "Miroslav Čovan (Comenius University Bratislava), Anna Barnau Gerardi (Comenius University Bratislava)"
+poster: "/documents/workshop_10/posters/Covan_Barnau_WORKSHOP_X_GRAZ_COVAN_BARNAU_final_16032026.pdf"
 ---
 
 ## Abstract

@@ -466,7 +466,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Tamrazyan.html"
-        >Cultural Semantics of Sacred Writing: Integrating Descriptive Terminology into the Ukrainian SKOS for Religious Epigraphy
+        >Cultural Semantics of Sacred Writing: Integrating Descriptive Terminology into the Ukrainian SKOS for Religious Epigraphy <span class="stream-tag">streamed</span>
       </a>
     </td>
   </tr>
@@ -611,7 +611,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Tamrazyan-Hovhannisyan-Harutyunyan.html"
-        >Aligning Armenian Epigraphic Conventions with the Leiden and EpiDoc Frameworks</a
+        >Aligning Armenian Epigraphic Conventions with the Leiden and EpiDoc Frameworks <span class="stream-tag">streamed</span></a
       >
     </td>
   </tr>

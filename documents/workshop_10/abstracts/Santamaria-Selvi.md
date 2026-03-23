@@ -3,6 +3,7 @@ layout: abstract
 title: "Corpus of Inscriptions in the Local Language(s) of Thrace"
 subtitle: "A Preliminary Overview"
 authors: "Andrea Santamaria (Kiel University), Eleonora Selvi (Trier University)"
+poster: "/documents/workshop_10/posters/Santamaria_–_Selvi_Corpus_of_Inscriptions_in_the_Local_Language(s)_of_Thrace.pdf"
 ---
 
 ## Abstract

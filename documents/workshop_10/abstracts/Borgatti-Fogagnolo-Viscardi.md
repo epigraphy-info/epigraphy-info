@@ -3,6 +3,7 @@ layout: abstract
 title: "Religious epigraphy in the digital Lexicon <em>LARES</em>"
 subtitle: ""
 authors: "Caterina Borgatti (Università di Bologna), Marta Fogagnolo (Università di Bologna), Giuseppina Viscardi (Università di Bologna)"
+poster: "/documents/workshop_10/posters/Borgatti_LARES_Poster_PDF.pdf"
 ---
 
 ## Abstract
