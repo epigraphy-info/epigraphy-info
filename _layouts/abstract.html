@@ -97,10 +97,12 @@ layout: default
       {% endif %} {% if page.authors %}
       <p class="authors">{{ page.authors }}</p>
       {% endif %} {% if page.poster %}
-      <div class="poster-buttons">
-        <a href="{{ page.poster }}" target="_blank" rel="noopener">View</a>
-        <a href="{{ page.poster }}" download>Download</a>
-      </div>
+        <div class="poster-buttons-wrapper">
+          <div class="poster-buttons">
+            <a href="{{ page.poster | relative_url }}" target="_blank" rel="noopener">View</a>
+            <a href="{{ page.poster | relative_url }}" target="_blank" rel="noopener" download>Download</a>
+          </div>
+        </div>
       {% endif %}
     </header>
 
