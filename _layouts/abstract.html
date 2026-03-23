@@ -39,17 +39,29 @@ layout: default
         margin-bottom: 0.6rem;
       }
 
-      .abstract-page .poster-link {
-        margin: 1rem 0 1.2rem 0;
-        text-align: center;
+      .poster-buttons {
+        display: inline-flex;
+        justify-content: center;
+        margin: 0.9rem auto 1.2rem auto;
+        border: 1px solid #bbb;
+        border-radius: 6px;
+        overflow: hidden;
       }
 
-      .abstract-page .poster-link a {
-        display: inline-block;
+      .poster-buttons a {
         padding: 0.45rem 0.8rem;
-        border: 1px solid #999;
-        border-radius: 4px;
+        font-size: 0.9rem;
         text-decoration: none;
+        color: #333;
+        background: #f8f8f8;
+      }
+
+      .poster-buttons a + a {
+        border-left: 1px solid #bbb;
+      }
+
+      .poster-buttons a:hover {
+        background: #f0f0f0;
       }
     </style>
 
@@ -60,14 +72,11 @@ layout: default
       <p class="subtitle">{{ page.subtitle }}</p>
       {% endif %} {% if page.authors %}
       <p class="authors">{{ page.authors }}</p>
-      {% endif %} {% if page.poster %}
-      <p class="poster-link">
-        <a href="{{ page.poster }}" target="_blank" rel="noopener"
-          >View poster</a
-        >
-        &nbsp;|&nbsp;
-        <a href="{{ page.poster }}" download>Download poster</a>
-      </p>
+      {% if page.poster %}
+        <div class="poster-buttons">
+          <a href="{{ page.poster }}" target="_blank" rel="noopener">View poster</a>
+          <a href="{{ page.poster }}" download>Download poster</a>
+        </div>
       {% endif %}
     </header>
 
