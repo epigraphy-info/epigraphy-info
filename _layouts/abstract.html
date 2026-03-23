@@ -57,10 +57,31 @@ layout: default
         font-size: 0.95rem;
         color: #2f2f2f;
         background: #f7f7f7;
+        transition:
+          background 0.15s ease,
+          color 0.15s ease;
       }
 
       .poster-buttons a + a {
         border-left: 1px solid #b8b8b8;
+      }
+
+      .poster-buttons a:hover {
+        background: #ececec;
+      }
+
+      .poster-buttons a:active {
+        background: #e2e2e2;
+      }
+
+      .poster-buttons a:focus {
+        outline: none;
+        background: #ececec;
+      }
+
+      .poster-buttons a:focus-visible {
+        outline: 2px solid #888;
+        outline-offset: -2px;
       }
 
       .poster-buttons-wrapper {
