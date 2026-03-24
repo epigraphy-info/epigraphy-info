@@ -48,7 +48,7 @@ Further information regarding access to the sessions will be communicated to reg
 ## Shared Documents
 
 - **[Main collaborative document](https://docs.google.com/document/d/1iYHQBWjcLH7ZgHMUiqBOrjWyIFuty_-lEoVxJQUEU3A/edit?usp=sharing)**
-- **[Communictaion working group collaborative document](https://docs.google.com/document/d/16uybOhP1s7L2kPmTC-H0C1Ey2STqVsmM3_HDrUGyxLE/edit?usp=sharing)**
+- **[Communication working group collaborative document](https://docs.google.com/document/d/16uybOhP1s7L2kPmTC-H0C1Ey2STqVsmM3_HDrUGyxLE/edit?usp=sharing)**
 - **[Ontology and vocabularies collaborative document](https://docs.google.com/document/d/17HHOs8okaGPNwlQMCFtOcd5_xsa9COUQ92TybFVjUsE/edit?usp=sharing)**
 
 ---
