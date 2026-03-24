@@ -44,6 +44,7 @@ Separate registration forms are available for:
 
 Further information regarding access to the sessions will be communicated to registered participants in advance of the workshop.
 
+---
 
 ## Shared Documents
 
@@ -248,7 +249,7 @@ Further information regarding access to the sessions will be communicated to reg
   <tr class="session-paper">
     <td>10:25</td>
     <td>10:50</td>
-    <td>Mattians Scholler</td>
+    <td>Matthias Scholler</td>
     <td>
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Scholler.html"
