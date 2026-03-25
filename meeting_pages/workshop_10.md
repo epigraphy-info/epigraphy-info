@@ -268,7 +268,7 @@ Further information regarding access to the sessions will be communicated to reg
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Szabó.html"
       >
         ReMITHRA: Digital database of Mithraic monuments from the Danubian
-        provinces. Methodological tools and challenges <span class="stream-tag">streamed</span>
+        provinces. Methodological tools and challenges<span class="stream-tag">streamed</span>
       </a>
     </td>
   </tr>
@@ -311,7 +311,7 @@ Further information regarding access to the sessions will be communicated to reg
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Loro.html"
       >
-        Encoding Vase Inscriptions: Towards a Digital Corpus of Φωνούμενα <span class="stream-tag">streamed</span>
+        Encoding Vase Inscriptions: Towards a Digital Corpus of Φωνούμενα<span class="stream-tag">streamed</span>
       </a>
     </td>
   </tr>
@@ -474,7 +474,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Tamrazyan.html"
-        >Cultural Semantics of Sacred Writing: Integrating Descriptive Terminology into the Ukrainian SKOS for Religious Epigraphy <span class="stream-tag">streamed</span>
+        >Cultural Semantics of Sacred Writing: Integrating Descriptive Terminology into the Ukrainian SKOS for Religious Epigraphy<span class="stream-tag">streamed</span>
       </a>
     </td>
   </tr>
@@ -506,7 +506,7 @@ Further information regarding access to the sessions will be communicated to reg
       <b>Practical Session 1: </b
       ><a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Maniero_Azzolini-Ortimini.html"
-        >Recording Inscriptions in Wikidata and Wikibase <span class="stream-tag">streamed</span></a
+        >Recording Inscriptions in Wikidata and Wikibase<span class="stream-tag">streamed</span></a
       >
     </td>
   </tr>
@@ -619,7 +619,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Tamrazyan-Hovhannisyan-Harutyunyan.html"
-        >Aligning Armenian Epigraphic Conventions with the Leiden and EpiDoc Frameworks <span class="stream-tag">streamed</span></a
+        >Aligning Armenian Epigraphic Conventions with the Leiden and EpiDoc Frameworks<span class="stream-tag">streamed</span></a
       >
     </td>
   </tr>
@@ -655,7 +655,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>17:30</td>
     <td>Wolfgang Spickermann</td>
     <td>
-      <b>Keynote Lecture:</b> Perspectives on digital epigraphy: small inscriptions and technical visualization <span class="stream-tag">streamed</span>
+      <b>Keynote Lecture:</b> Perspectives on digital epigraphy: small inscriptions and technical visualization<span class="stream-tag">streamed</span>
     </td>
   </tr>
 
@@ -698,7 +698,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Bodnaruk.html"
-        >Epigraphic Networks of Office and Faith: Digital Perspectives on the Fourth-Century Palatine Elite <span class="stream-tag">streamed</span></a
+        >Epigraphic Networks of Office and Faith: Digital Perspectives on the Fourth-Century Palatine Elite<span class="stream-tag">streamed</span></a
       >
     </td>
   </tr>
@@ -723,7 +723,7 @@ Further information regarding access to the sessions will be communicated to reg
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Iliev-Simeonov.html"
       >
-        Creating a Digital Corpus of Old Church Slavonic Inscriptions: a Pilot Collection <span class="stream-tag">streamed</span></a
+        Creating a Digital Corpus of Old Church Slavonic Inscriptions: a Pilot Collection<span class="stream-tag">streamed</span></a
       >
     </td>
   </tr>
