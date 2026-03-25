@@ -515,7 +515,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>17:35</td>
     <td>18:35</td>
     <td></td>
-    <td>Working Groups Meetings <span class="stream-tag">remote attendance</span></td>
+    <td>Working Groups Meetings<span class="stream-tag">remote attendance</span></td>
   </tr>
 </table>
 
@@ -740,7 +740,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>12:30</td>
     <td></td>
     <td>
-      Community discussion and reports, decisions, Steering Committee election <span class="stream-tag">remote attendance</span>
+      Community discussion and reports, decisions, Steering Committee election<span class="stream-tag">remote attendance</span>
     </td>
   </tr>
 
