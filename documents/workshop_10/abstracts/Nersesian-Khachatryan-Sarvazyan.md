@@ -2,6 +2,7 @@
 layout: abstract
 title: "Advancing Armenian Inscription Recognition"
 authors: "Gevorg Nersesian (American University of Armenia), Suren Khachatryan (American University of Armenia), Narine Sarvazyan (American University of Armenia)"
+poster: "/documents/workshop_10/posters/Nersesian_AdvancingArmenianInscriptionRecognition.pdf"
 ---
 
 ## Abstract
