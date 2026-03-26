@@ -596,7 +596,7 @@ Further information regarding access to the sessions will be communicated to reg
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Sassmann.html"
       >
-        Buddhist Stone Sutras in China: a cross-media publishing epigraphy project and its quest for a digital legacy</a
+        Buddhist Stone Sutras in China: a cross-media publishing epigraphy project and its quest for a digital legacy<span class="stream-tag">streamed</span></a
       >
     </td>
   </tr>
@@ -607,7 +607,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>Lia Wei</td>
     <td>
       <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Wei.html">
-        Medieval Taoist cliff inscriptions and their modern reception: descriptive vocabularies for inscribed landscapes, (calli)graphic variation and rubbings</a
+        Medieval Taoist cliff inscriptions and their modern reception: descriptive vocabularies for inscribed landscapes, (calli)graphic variation and rubbings<span class="stream-tag">streamed</span></a
       >
     </td>
   </tr>
@@ -638,7 +638,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>
       <b>Practical Session 2:</b>
       <a href="{{ site.baseurl }}/documents/workshop_10/abstracts/Diez.html"
-        >Restoring readability. The optical analysis of inscriptions using Reflectance Transformation Imaging (RTI)</a
+        >Restoring readability. The optical analysis of inscriptions using Reflectance Transformation Imaging (RTI)<span class="stream-tag">streamed</span></a
       >
     </td>
   </tr>
@@ -710,7 +710,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Fitiskina.html"
-        >Old East Slavic epigraphy (11–15th centuries) digitally approached</a
+        >Old East Slavic epigraphy (11–15th centuries) digitally approached<span class="stream-tag">streamed</span></a
       >
     </td>
   </tr>
