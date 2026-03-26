@@ -241,7 +241,7 @@ Further information regarding access to the sessions will be communicated to reg
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Benefiel-Sprenkle-Tongen.html"
       >
-        Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project
+        Searching for the sacred among Pompeian graffiti: Building a tool for The Ancient Graffiti Project<span class="stream-tag">streamed</span>
       </a>
     </td>
   </tr>
@@ -254,7 +254,7 @@ Further information regarding access to the sessions will be communicated to reg
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Scholler.html"
       >
-        FERCAN, Patrimonium, and Celtic Divine Names in the Inscriptions of the Roman Province Germania Inferior and Superior
+        FERCAN, Patrimonium, and Celtic Divine Names in the Inscriptions of the Roman Province Germania Inferior and Superior<span class="stream-tag">streamed</span>
       </a>
     </td>
   </tr>
@@ -298,7 +298,7 @@ Further information regarding access to the sessions will be communicated to reg
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Humennyi.html"
       >
-        Imagining an Interactive Digital Dashboard for Roman Military Epigraphy of Roman Syria (1st–3rd c. CE)
+        Imagining an Interactive Digital Dashboard for Roman Military Epigraphy of Roman Syria (1st–3rd c. CE)<span class="stream-tag">streamed</span>
       </a>
     </td>
   </tr>
@@ -486,7 +486,7 @@ Further information regarding access to the sessions will be communicated to reg
     <td>
       <a
         href="{{ site.baseurl }}/documents/workshop_10/abstracts/Kubiak-Schneider.html"
-        >Religious Aramaic Epigraphy. Case of Dura-Europos</a
+        >Religious Aramaic Epigraphy. Case of Dura-Europos<span class="stream-tag">streamed</span></a
       >
     </td>
   </tr>
