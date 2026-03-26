@@ -30,7 +30,9 @@ The following list is based on the voluntary submission in the [Individual membe
 * Glavin Blasdel, University of Groningen (<a href="https://orcid.org/0009-0000-4780-5795" target="blank">ORCID ID</a>)
 * Gabriel Bodard, University of London (<a href="http://orcid.org/0000-0002-8566-6666" target="blank">ORCID ID</a>)
 * John Bodel, Brown University (<a href="https://orcid.org/0000000318206368" target="blank">ORCID ID</a>)
+* Mariana Bodnaruk, University of Warsaw
 * Jens Borchert-Pickenhan, Sächsische Akademie der Wissenschaften zu Leipzig
+* Caterina Borgatti, University of Turin (<a href="https://orcid.org/0009-0009-5985-0652" target="blank">ORCID ID</a>)
 * Eleni Bozia, University of Florida (<a href="https://orcid.org/0000-0002-6210-461X" target="blank">ORCID ID</a>)
 * Silvia Braito, Universitat de Barcelona (<a href="https://orcid.org/0000-0002-9311-2719" target="blank">ORCID ID</a>)
 * Annie Burman, Uppsala university / Istituto svedese di studi classici a Roma (<a href="https://orcid.org/0000-0003-2876-729X" target="blank">ORCID ID</a>)
@@ -98,6 +100,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Anna Clara Maniero Azzolini (<a href="https://orcid.org/0009-0002-0425-2339" target="blank">ORCID ID</a>)
 * Claudia Marchegiani, Sapienza - Università di Roma
 * Nenad Markovic (<a href="https://orcid.org/0000-0002-0505-2593" target="blank">ORCID ID</a>)
+* Davide Massimo Gent University (<a href="https://orcid.org/0000-0003-2267-0411" target="blank">ORCID ID</a>)
 * Florian Matei-Popescu, Vasile Pârvan Archaeological Institute, Bucharest (<a href="https://orcid.org/0000-0001-5360-042X" target="blank">ORCID ID</a>)
 * Kresimir Matijevic, Europa-Universität Flensburg
 * Guénette Maxime, Université de Montréal
@@ -134,6 +137,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Eleni Sfyridou, Ionian University (<a href="https://orcid.org/0000-0002-0940-3186" target="blank">ORCID ID</a>)
 * Nicolay Sharankov, University of Sofia (<a href="https://orcid.org/0000-0003-3085-2813" target="blank">ORCID ID</a>)
 * Joe Sheppard, Ashmolean Museum, University of Oxford (<a href="https://orcid.org/0009-0005-6250-3740" target="blank">ORCID ID</a>)
+* Kristiyan Simeonov, Sofia University "St. Kliment Ohridski" (<a href="https://orcid.org/0009-0007-3641-8432" target="blank">ORCID ID</a>)
 * Bartosz Smogur, University of Warsaw/EPHE (<a href="https://orcid.org/0000-0002-8380-6696" target="blank">ORCID ID</a>)
 * Laura Soffiantini, KU Leuven
 * Thea Sommershield (<a href="https://orcid.org/0000-0002-6965-8105" target="blank">ORCID ID</a>)
