@@ -6,6 +6,11 @@ permalink: /documents/
 
 ## Reports
 
+[Report from Epigraphy.info IX meeting in Aarhus 2025, published on Zenodo](https://zenodo.org/records/15705466)
+
+[Epigraphy.info in 2020-2023: Report on Epigraphy.info Workshops V-VII, on Zenodo](https://zenodo.org/records/11241585)
+
+
 [Report on the fourth Epigraphy.info Workshop Hamburg, February 19th - 21st February 2020 (long version)](https://archiv.ub.uni-heidelberg.de/volltextserver/28950/){:target="_blank" rel="noopener"}
 
 [Report on the fourth Epigraphy.info Workshop Hamburg, February 19th - 21st February 2020 (short version)]({{ site.baseurl }}{% link documents/Short_Report_Epigraphy_info_WorkshopIV.pdf %}){:target="_blank" rel="noopener"}
