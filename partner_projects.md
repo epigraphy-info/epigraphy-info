@@ -12,6 +12,11 @@ The following list is based on the voluntary submission in the [Project partners
 
 ---
 
+### <a href="https://altergraphy.hypotheses.org/" target="blank">ALTERGRAPHY
+When Writing Becomes Calligraphy: An Alternative History of Chinese Script Based on Medieval Inscribed Landscapes and their Modern Reception
+
+---
+
 ### <a href="https://www.atticinscriptions.com/" target="blank">Attic Inscriptions Online
 Inscriptions of ancient Athens and Attica in English translation
 
