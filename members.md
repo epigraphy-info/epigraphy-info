@@ -149,7 +149,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Hamest Tamrazyan, École Polytechnique Fédérale de Lausanne
 * Dilan Taştekin, İstanbul Üniversitesi (<a href="https://orcid.org/0000-0002-1033-9564" target="blank">ORCID ID</a>)
 * Tatiana Tommasi, University of Udine; Ca' Foscari University of Venice (<a href="https://orcid.org/0009-0000-2815-0113" target="blank">ORCID ID</a>)
-* Georgios Tsolakis, The University of Chicago (<a href="https://orcid.org/0000-0001-9555-4038" target="blank">ORCID ID</a>)
+* Georgios Tsolakis, Center for Hellenic Studies, Harvard University, and Institute for Historical Research, N.H.R.F. (<a href="https://orcid.org/0000-0001-9555-4038" target="blank">ORCID ID</a>)
 * Cinzia Tuena, Universität Basel (<a href="https://orcid.org/0009-0009-7338-4977" target="blank">ORCID ID</a>)
 * Tünde Vágási, Semmelweis University Budapest (<a href="https://orcid.org/0000-0003-2320-3225" target="blank">ORCID ID</a>)
 * Scott Vanderbilt, RIB Online (<a href="https://orcid.org/0000-0002-2612-2677" target="blank">ORCID ID</a>)

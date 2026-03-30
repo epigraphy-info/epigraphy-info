@@ -8,7 +8,7 @@ published: true
 ## The current [Steering committee]({{ site.baseurl }}{% link documents/steeringcommittee.pdf %}){:target="_blank" rel="noopener"}:
 
 
-* Georgios Tsolakis (<a href="https://orcid.org/0000-0001-9555-4038" target="blank">ORCID ID</a>), The University of Chicago, USA 
+* Georgios Tsolakis (<a href="https://orcid.org/0000-0001-9555-4038" target="blank">ORCID ID</a>), Center for Hellenic Studies, Harvard University, USA, and Institute for Historical Research, N.H.R.F., Greece
 * Rebecca Benefiel (<a href="https://orcid.org/0000-0002-3312-1517" target="blank">ORCID ID</a>), Washington and Lee University, USA
 * Andrea Santamaria (<a href="https://orcid.org/0000-0002-3049-9426" target="blank">ORCID ID</a>), Christian-Albrechts-Universität zu Kiel, DE 
 * Silvia Evangelisti, (<a href="https://orcid.org/0000-0002-7186-9518" target="blank">ORCID ID</a>), University of Foggia, IT
