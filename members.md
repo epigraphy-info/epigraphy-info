@@ -8,7 +8,7 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Individual membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: communication@epigraphy.info">communication@epigraphy.info</a> at any time.
 
-*Latest update: 2025-12-21*
+*Latest update: 2026-04-21*
 
 * Zahraa Al-Gburi, Mount Royal University 
 * Magdy Aly, Mansoura University (<a href="https://orcid.org/0000-0002-0937-6552" target="blank">ORCID ID</a>)
@@ -77,6 +77,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Tom Gheldof, KU Leuven’s Faculty of Arts (<a href="https://orcid.org/0000-0001-5223-6275" target="blank">ORCID ID</a>)
 * Kyriaki Giannikou, Universiteit Gent (<a href="https://orcid.org/0000-0002-5865-0810" target="blank">ORCID ID</a>)
 * Ilenia Gradante, University of Oxford (<a href="https://orcid.org/0000-0002-7176-2833" target="blank">ORCID ID</a>)
+* Michael Grasa, Emergent Ventures (<a href="https://orcid.org/0009-0003-2785-9683" target="blank">ORCID ID</a>)
 * Leonardo Gregoratti
 * Andreas Hartmann, Universität Augsburg (<a href="https://orcid.org/0000-0001-5465-5553" target="blank">ORCID ID</a>)
 * Petra Heřmánková, Aarhus University (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID</a>)
@@ -124,6 +125,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Matteo Pola, University of Zadar (<a href="https://orcid.org/0000-0003-1265-8400" target="blank">ORCID ID</a>)
 * Jonathan Prag, University of Oxford (<a href="https://orcid.org/0000-0003-3819-8537" target="blank">ORCID ID</a>)
 * Juan Pablo Prieto, Université Bordeaux Montaigne (<a href="https://orcid.org/0000-0002-9955-7743" target="blank">ORCID ID</a>)
+* Anja Ragolič, ZRC SAZU (<a href="https://orcid.org/0009-0007-8133-5222" target="blank">ORCID ID</a>)
 * Kaudagammana Rathanasara, Indian Institute of Technology (BHU), Varanasi  (<a href="https://orcid.org/0009-0004-5507-1399" target="blank">ORCID ID</a>)
 * Vincent Razanajao, Centre d'Études Alexandrines, CNRS UAR 3134, Alexandria, Egypt (<a href="https://orcid.org/0000-0002-6447-3427" target="blank">ORCID ID</a>)
 * Andrés Rea, Universiteit Gent (<a href="https://orcid.org/0009-0003-1660-6453" target="blank">ORCID ID</a>)
