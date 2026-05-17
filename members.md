@@ -8,7 +8,7 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Individual membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: communication@epigraphy.info">communication@epigraphy.info</a> at any time.
 
-*Latest update: 2026-04-21*
+*Latest update: 2026-05-15*
 
 * Zahraa Al-Gburi, Mount Royal University 
 * Magdy Aly, Mansoura University (<a href="https://orcid.org/0000-0002-0937-6552" target="blank">ORCID ID</a>)
