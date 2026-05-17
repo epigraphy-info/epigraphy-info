@@ -135,6 +135,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Emre Salman, İstanbul Üniversitesi
 * Nermine Sami, Ministry of Tourism and Antiquities - Egypt
 * Andrea Santamaria, Christian-Albrechts-Universität zu Kiel (<a href="https://orcid.org/0000-0002-3049-9426" target="blank">ORCID ID</a>)
+* Rita Sawaya, University of Toronto (<a href="https://orcid.org/0000-0009-0005-5147-2885" target="blank">ORCID ID</a>)
 * Eleonora Selvi, Università di Verona (<a href="https://orcid.org/0000-0001-7515-4598" target="blank">ORCID ID</a>)
 * Eleni Sfyridou, Ionian University (<a href="https://orcid.org/0000-0002-0940-3186" target="blank">ORCID ID</a>)
 * Nicolay Sharankov, University of Sofia (<a href="https://orcid.org/0000-0003-3085-2813" target="blank">ORCID ID</a>)
