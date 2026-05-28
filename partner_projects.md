@@ -8,7 +8,7 @@ This page contains an alphabetic list of **Epigraphy.info** project partners wit
 
 The following list is based on the voluntary submission in the [Project partnership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"}. If you wish your project to be removed from the list, you can do so by contacting <a href = "mailto: communication@epigraphy.info">communication@epigraphy.info</a> at any time.
 
-*Latest update: 2025-10-07*
+*Latest update: 2026-05-28*
 
 ---
 
@@ -196,6 +196,12 @@ Harnessing digital technologies to transform understanding of ogham
 
 ### <a href="http://patrimonium.huma-num.fr/" target="blank">PATRIMONIVM
 Geography and Economy of the Imperial Properties in the Roman World
+
+---
+
+###<a href="https://www.history.ox.ac.uk/patronage-and-power-in-the-pre-modern-mediterranean" target="blank">
+Patronage and Power in the Pre-Modern Mediterranean
+Monumental Donor Epigraphy on Mt Athos (10th-17th centuries)
 
 ---
 
