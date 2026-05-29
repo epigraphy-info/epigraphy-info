@@ -199,11 +199,6 @@ Geography and Economy of the Imperial Properties in the Roman World
 
 ---
 
-### <a href="https://www.history.ox.ac.uk/patronage-and-power-in-the-pre-modern-mediterranean" target="blank">Patronage and Power in the Pre-Modern Mediterranean
-Monumental Donor Epigraphy on Mt Athos (10th-17th centuries)
-
----
-
 ### <a href="http://petrae.huma-num.fr/fr/" target="blank">PETRAE
 Latin and Greek inscriptions (Institut Ausonius)
 
