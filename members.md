@@ -8,7 +8,7 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Individual membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: communication@epigraphy.info">communication@epigraphy.info</a> at any time.
 
-*Latest update: 2026-05-28*
+*Latest update: 2026-05-29*
 
 * Zahraa Al-Gburi, Mount Royal University 
 * Magdy Aly, Mansoura University (<a href="https://orcid.org/0000-0002-0937-6552" target="blank">ORCID ID</a>)
@@ -106,6 +106,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Florian Matei-Popescu, Vasile Pârvan Archaeological Institute, Bucharest (<a href="https://orcid.org/0000-0001-5360-042X" target="blank">ORCID ID</a>)
 * Kresimir Matijevic, Europa-Universität Flensburg
 * Guénette Maxime, Université de Montréal
+* Hallie Meredith, Washington State University (<a href="https://orcid.org/0000-0003-0175-9193" target="blank">ORCID ID</a>)
 * Valentina Mignosa, Ca' Foscari University of Venice (<a href="https://orcid.org/0000-0002-7122-2511" target="blank">ORCID ID</a>)
 * Emmanuelle Morlock, CNRS (<a href="https://orcid.org/0000-0002-1617-8554" target="blank">ORCID ID</a>)
 * Alex Mullen, University of Nottingham, LatinNow (<a href="https://orcid.org/0000-0002-9110-4678" target="blank">ORCID ID</a>)
