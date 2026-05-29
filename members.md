@@ -161,6 +161,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Julie Verlinden, UGent & KU Leuven
 * Antonello Vilella, University of Chieti-Pescara (<a href="https://orcid.org/0000-0001-5522-8000" target="blank">ORCID ID</a>)
 * Banban Wang, Ruprecht-Karls-Universität Heidelberg (<a href="https://orcid.org/0000-0002-0336-3080" target="blank">ORCID ID</a>)
+* Nathan Websdale, Oxford University
 * Lia Wei, Inalco (<a href="https://orcid.org/ 0000-0002-8503-1097" target="blank">ORCID ID</a>)
 * Nora White, Maynooth University (<a href="https://orcid.org/0000-0001-7957-651X" target="blank">ORCID ID</a>)
 * Hakan Yaman, Akdeniz University
