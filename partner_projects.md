@@ -8,12 +8,17 @@ This page contains an alphabetic list of **Epigraphy.info** project partners wit
 
 The following list is based on the voluntary submission in the [Project partnership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"}. If you wish your project to be removed from the list, you can do so by contacting <a href = "mailto: communication@epigraphy.info">communication@epigraphy.info</a> at any time.
 
-*Latest update: 2026-05-28*
+*Latest update: 2026-09-15*
 
 ---
 
 ### <a href="https://altergraphy.hypotheses.org/" target="blank">ALTERGRAPHY
 When Writing Becomes Calligraphy: An Alternative History of Chinese Script Based on Medieval Inscribed Landscapes and their Modern Reception
+
+---
+
+### <a href="https://armepic.com/" target="blank">ArmEpiC
+Digital ecosystem for Armenian epigraphy. A digital framework for reading, encoding, and preserving Armenian inscriptions — before the stones that carry them are lost.
 
 ---
 
