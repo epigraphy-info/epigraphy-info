@@ -8,7 +8,7 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Individual membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: communication@epigraphy.info">communication@epigraphy.info</a> at any time.
 
-*Latest update: 2026-09-04*
+*Latest update: 2026-09-17*
 
 * Gupta Akashi
 * Zahraa Al-Gburi, Mount Royal University 
@@ -82,6 +82,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Michael Grasa, Emergent Ventures (<a href="https://orcid.org/0009-0003-2785-9683" target="blank">ORCID ID</a>)
 * Leonardo Gregoratti
 * Andreas Hartmann, Universität Augsburg (<a href="https://orcid.org/0000-0001-5465-5553" target="blank">ORCID ID</a>)
+* Greta Hawes, Macquarie University (<a href="https://orcid.org/0000-0003-2699-9222" target="blank">ORCID ID</a>)
 * Petra Heřmánková, Aarhus University (<a href="https://orcid.org/0000-0002-6349-0540" target="blank">ORCID ID</a>)
 * Aaron Hershkowitz, The Institute for Advanced Study (<a href="https://orcid.org/0000-0002-9456-8574" target="blank">ORCID ID</a>)
 * Marietta Horster, Johannes Gutenberg-Universität Mainz (<a href="https://orcid.org/0000-0003-1434-224X" target="blank">ORCID ID<a>)
@@ -107,6 +108,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Florian Matei-Popescu, Vasile Pârvan Archaeological Institute, Bucharest (<a href="https://orcid.org/0000-0001-5360-042X" target="blank">ORCID ID</a>)
 * Kresimir Matijevic, Europa-Universität Flensburg
 * Guénette Maxime, Université de Montréal
+* Matteo Mazzocca, Università degli Studi di Milano (<a href="https://orcid.org/0009-0005 2773-1377" target="blank">ORCID ID</a>)
 * Hallie Meredith, Washington State University (<a href="https://orcid.org/0000-0003-0175-9193" target="blank">ORCID ID</a>)
 * Valentina Mignosa, Ca' Foscari University of Venice (<a href="https://orcid.org/0000-0002-7122-2511" target="blank">ORCID ID</a>)
 * Emmanuelle Morlock, CNRS (<a href="https://orcid.org/0000-0002-1617-8554" target="blank">ORCID ID</a>)
