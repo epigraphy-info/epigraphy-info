@@ -7,13 +7,11 @@ published: true
 
 ## The current [Steering committee]({{ site.baseurl }}{% link documents/steeringcommittee.pdf %}){:target="_blank" rel="noopener"}:
 
-
-* Georgios Tsolakis (<a href="https://orcid.org/0000-0001-9555-4038" target="blank">ORCID ID</a>), Center for Hellenic Studies, Harvard University, USA, and Institute for Historical Research, N.H.R.F., Greece
-* Rebecca Benefiel (<a href="https://orcid.org/0000-0002-3312-1517" target="blank">ORCID ID</a>), Washington and Lee University, USA
+* Annie Burman (<a href="https://orcid.org/0000-0003-2876-729X" target="blank">ORCID ID</a>), Uppsala University/Istituto di studi classici a Roma, SWE/IT
 * Andrea Santamaria (<a href="https://orcid.org/0000-0002-3049-9426" target="blank">ORCID ID</a>), Christian-Albrechts-Universität zu Kiel, DE 
 * Silvia Evangelisti, (<a href="https://orcid.org/0000-0002-7186-9518" target="blank">ORCID ID</a>), University of Foggia, IT
-* Annie Burman (<a href="https://orcid.org/0000-0003-2876-729X" target="blank">ORCID ID</a>), Uppsala University/Istituto di studi classici a Roma, SWE/IT
-
+* Anna Clara Maniero Azzolini (<a href="https://orcid.org/0009-0002-0425-2339" target="blank">ORCID ID</a>), University of London, School of Advanced Study, UK
+* Matthias Scholler, (<a href="https://orcid.org/0009-0000-2938-4202">ORCID ID</a>), Universität Graz, AT
 
 **Contact**: info@epigraphy.info
 
@@ -25,6 +23,7 @@ published: true
 
 * Andreu Pintado, Javier / University of Navarra, ES / 2020-2023
 * Bastero Acha, Marina  (<a href="https://orcid.org/0000-0003-2552-7055" target="blank">ORCID ID</a>), University of Warsaw, PL, 2024-2025
+* Rebecca Benefiel (<a href="https://orcid.org/0000-0002-3312-1517" target="blank">ORCID ID</a>), Washington and Lee University, USA, 2025-2026
 * Cenati, Chiara (<a href="https://orcid.org/0000-0003-4962-9611" target="blank">ORCID ID: 0000-0003-4962-9611</a>) / University of Vienna / 2019-2020
 * de la Escosura Balbas, M. Cristina (<a href="https://orcid.org/0000-0003-1769-657X" target="blank">ORCID ID: 0000-0003-1769-657X</a>) / University of Zaragoza / 2019-2020
 * Duce Pastor, Elena (<a href="https://orcid.org/0000-0003-0604-2300" target="blank">ORCID ID</a>), Universidad Autónoma de Madrid, ES., 2023-2025
@@ -44,6 +43,7 @@ published: true
 * Razanajao, Vincent / Bordeaux Montaigne, Patrimonium / 2019-2020
 * Weise, Franziska / Hamburg University / 2019-2020
 * Sommerschield, Thea / Oxford University, UK / 2020-2022
+* * Georgios Tsolakis (<a href="https://orcid.org/0000-0001-9555-4038" target="blank">ORCID ID</a>), Center for Hellenic Studies, Harvard University, USA, and Institute for Historical Research, N.H.R.F., Greece, 2025-2026
 
 
 
