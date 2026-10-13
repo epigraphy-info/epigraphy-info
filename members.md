@@ -101,7 +101,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Flavia Licciardello, Alma Mater Studiorum Università di Bologna (<a href="https://orcid.org/0000-0002-9133-9282" target="blank">ORCID ID</a>)
 * Anna Loro, Università Ca' Foscari Venezia, Università di Trieste
 * Meilin Lyu, University Athens
-* Anna Clara Maniero Azzolini (<a href="https://orcid.org/0009-0002-0425-2339" target="blank">ORCID ID</a>)
+* Anna Clara Maniero Azzolini, University of London, School of Advanced Study, (<a href="https://orcid.org/0009-0002-0425-2339" target="blank">ORCID ID</a>)
 * Claudia Marchegiani, Sapienza - Università di Roma
 * Nenad Markovic (<a href="https://orcid.org/0000-0002-0505-2593" target="blank">ORCID ID</a>)
 * Davide Massimo Gent University (<a href="https://orcid.org/0000-0003-2267-0411" target="blank">ORCID ID</a>)
