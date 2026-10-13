@@ -8,7 +8,7 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Individual membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: communication@epigraphy.info">communication@epigraphy.info</a> at any time.
 
-*Latest update: 2026-09-17*
+*Latest update: 2026-10-13*
 
 * Gupta Akashi
 * Zahraa Al-Gburi, Mount Royal University 
@@ -148,6 +148,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Nicolay Sharankov, University of Sofia (<a href="https://orcid.org/0000-0003-3085-2813" target="blank">ORCID ID</a>)
 * Joe Sheppard, Ashmolean Museum, University of Oxford (<a href="https://orcid.org/0009-0005-6250-3740" target="blank">ORCID ID</a>)
 * Kristiyan Simeonov, Sofia University "St. Kliment Ohridski" (<a href="https://orcid.org/0009-0007-3641-8432" target="blank">ORCID ID</a>)
+* Aleksandar Simić, Institute for Balkan Studies, Serbian Academy of Sciences and Arts (<a href="https://orcid.org/0000-0002-3267-4347">ORCID ID</a>)
 * Bartosz Smogur, University of Warsaw/EPHE (<a href="https://orcid.org/0000-0002-8380-6696" target="blank">ORCID ID</a>)
 * Laura Soffiantini, KU Leuven
 * Thea Sommershield (<a href="https://orcid.org/0000-0002-6965-8105" target="blank">ORCID ID</a>)
