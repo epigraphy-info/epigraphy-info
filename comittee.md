@@ -7,7 +7,7 @@ published: true
 
 ## The current [Steering committee]({{ site.baseurl }}{% link documents/steeringcommittee.pdf %}){:target="_blank" rel="noopener"}:
 
-* Annie Burman (<a href="https://orcid.org/0000-0003-2876-729X" target="blank">ORCID ID</a>), Uppsala University/Istituto di studi classici a Roma, SWE/IT
+* Annie Burman (<a href="https://orcid.org/0000-0003-2876-729X" target="blank">ORCID ID</a>), Istituto svedese di studi classici a Roma, SWE
 * Andrea Santamaria (<a href="https://orcid.org/0000-0002-3049-9426" target="blank">ORCID ID</a>), Christian-Albrechts-Universität zu Kiel, DE 
 * Silvia Evangelisti, (<a href="https://orcid.org/0000-0002-7186-9518" target="blank">ORCID ID</a>), University of Foggia, IT
 * Anna Clara Maniero Azzolini (<a href="https://orcid.org/0009-0002-0425-2339" target="blank">ORCID ID</a>), University of London, School of Advanced Study, UK
