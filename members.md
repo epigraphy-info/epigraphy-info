@@ -8,7 +8,7 @@ permalink: /members/
 
 The following list is based on the voluntary submission in the [Individual membership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"} and is updated several times a year. If you wish to be removed from the list, or revoke your membership, you can do so by contacting <a href = "mailto: communication@epigraphy.info">communication@epigraphy.info</a> at any time.
 
-*Latest update: 2026-10-13*
+*Latest update: 2026-11-11*
 
 * Gupta Akashi
 * Zahraa Al-Gburi, Mount Royal University 
@@ -157,6 +157,7 @@ The following list is based on the voluntary submission in the [Individual membe
 * Rikke Steenholt Olesen, Department of Nordic Studies and Linguistics, University of Copenhagen (<a href="https://orcid.org/0000-0002-5166-0290" target="blank">ORCID ID</a>)
 * Michele Stefanile, Scuola Superiore Meridionale (<a href="https://orcid.org/0000-0002-7404-5629" target="blank">ORCID ID</a>)
 * Silvia Stopponi, University of Groningen (<a href="https://orcid.org/0000-0002-3041-3477" target="blank">ORCID ID</a>)
+* Phillip Ströbel, Universität Zürich (<a href="https://orcid.org/0000-0003-2063-5495" target="blank">ORCID ID</a>)
 * Hamest Tamrazyan, École Polytechnique Fédérale de Lausanne
 * Dilan Taştekin, İstanbul Üniversitesi (<a href="https://orcid.org/0000-0002-1033-9564" target="blank">ORCID ID</a>)
 * Tatiana Tommasi, University of Udine; Ca' Foscari University of Venice (<a href="https://orcid.org/0009-0000-2815-0113" target="blank">ORCID ID</a>)
