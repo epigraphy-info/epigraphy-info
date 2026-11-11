@@ -274,4 +274,7 @@ Collection of epigraphic squeezes of the Laboratory of Greek Epigraphy of Ca' Fo
 
 ---
 
+### <a href="https://voxlapidum.hist.uzh.ch" target="blank"> Vox Lapidum
+Ein KI-gestützter Inschriften-Chatbot für Forschung, Bildung und Kulturvermittlung
 
+---
