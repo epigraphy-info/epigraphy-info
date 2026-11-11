@@ -8,7 +8,7 @@ This page contains an alphabetic list of **Epigraphy.info** project partners wit
 
 The following list is based on the voluntary submission in the [Project partnership form]({{ "join_us/" | relative_url}}){:target="_blank" rel="noopener"}. If you wish your project to be removed from the list, you can do so by contacting <a href = "mailto: communication@epigraphy.info">communication@epigraphy.info</a> at any time.
 
-*Latest update: 2026-09-15*
+*Latest update: 2026-11-11*
 
 ---
 
